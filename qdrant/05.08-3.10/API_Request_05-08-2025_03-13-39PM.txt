@@ -1,0 +1,148 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:13:39
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:13:39.416687
+TOTAL PROCESSING TIME: 6.591 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. When will my root canal claim of Rs 25,000 be settled?
+2. I have done an IVF for Rs 56,000. Is it covered?
+3. I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: When will my root canal claim of Rs 25,000 be settled?
+A1: <think>
+Okay, so I need to figure out when my root canal claim of Rs 25,000 will be settled. Let me start by looking at the document provided. It's about the Arogya Sanjeevani Policy from National Insurance Co. Ltd. 
+
+First, I'll check the claim settlement section. It says that the company will settle or reject a claim within 15 days from the date of receipt of the last necessary document. That seems straightforward. So, if all my documents are in order, I should get an answer within 15 days.
+
+But wait, there's more. If the company needs to investigate the claim, they might take longer. The document mentions that in such cases, they have up to 45 days from the receipt of the last document. So, if there's an investigation, it could take 45 days.
+
+I should also consider if there are any delays beyond these periods. The document states that if the claim isn't settled within the stipulated time, the company will pay interest at a rate 2% above the bank rate. That's good to know, but I hope it doesn't come to that.
+
+Now, about the root canal treatment itself. The document covers various treatments, including AYUSH and modern treatments. Root canal is a dental procedure, and I'm not sure if it's covered under the policy. I should check if there's any specific mention of dental treatments. From what I see, the policy covers cataract treatment, pre and post hospitalization, and AYUSH treatments, but I don't see specific coverage for root canal. That might be a problem.
+
+Wait, the document does talk about Modern Treatment, which includes procedures covered either as inpatient or day care. Maybe root canal falls under that? Or perhaps under the general medical expenses. I'm not entirely sure. I should look for any exclusions. The policy mentions pre-existing diseases, but root canal is usually not pre-existing unless there was a prior condition.
+
+Another thing to consider is the co-payment. If I'm under 75, I have a 5% co-pay. So, on a claim of Rs 25,000, I'd have to pay Rs 1,250, and the insurance would cover Rs 23,750. But if I'm over 75, it's 15%, so I'd pay Rs 3,750, and the insurance covers Rs 21,250. 
+
+Also, there's a mention of cumulative bonus, which increases the sum insured by 5% each claim-free year, up to 50%. If I've been claim-free, my sum insured might be higher, which is good. But if I make a claim, the bonus reduces by the same rate.
+
+The document also talks about migration options, but that's probably not relevant here. 
+
+So, putting it all together: the claim should be settled within 15 days if there's no investigation, or up to 45 days if there is one. But I'm concerned whether root canal is covered. If it's not explicitly excluded, I might be okay, but I should confirm with the company. Also, I need to factor in the co-payment based on my age.
+
+I think I should contact the insurance company to confirm if root canal is covered under this policy. If it is, then the settlement timeframe applies as mentioned. If not, I might need to look into other coverage options or appeal the decision.
+</think>
+
+The root canal claim of Rs 25,000 will be settled within 15 days if all documents are in order. If an investigation is required, it may take up to 45 days. The claim is subject to a 5% co-pay if you're under 75 and 15% if over 75. Coverage for root canal is not explicitly mentioned, so confirmation with the insurance company is recommended.
+--------------------------------------------------
+Q2: I have done an IVF for Rs 56,000. Is it covered?
+A2: <think>
+Alright, let's try to figure out whether the IVF treatment cost of Rs 56,000 is covered under the Arogya Sanjeevani Policy. First, I need to go through the document provided to understand what's covered and what's not.
+
+Looking at the document, under section 4.7, it mentions that expenses not covered are listed in Annexure-A, but I don't have access to that. However, I can look through the coverage details provided.
+
+In section 4.1, the policy covers hospitalization expenses, including room rent, ICU charges, surgeon fees, and various medical expenses. It also talks about specific treatments like Modern Treatment, which includes things like UAE, HIFU, Balloon Sinuplasty, etc. But I don't see IVF explicitly listed there.
+
+Under section 4.7, it mentions that certain expenses are not covered and are placed under List-I of Annexure-A. Since I don't have Annexure-A, I can't confirm if IVF is excluded. However, IVF is typically considered an assisted reproductive technique, which might fall under a specific category.
+
+Looking further, the document discusses waiting periods. The first 30 days waiting period (section 6.2) excludes expenses related to the treatment of any illness within the first 30 days, except for accidents. But IVF isn't an accident, so if the policyholder is within the first 30 days, it might not be covered. However, if they've had continuous coverage for more than 12 months, this exclusion might not apply.
+
+There's also a specified disease/procedure waiting period (section 6.3) that excludes certain treatments until the end of 24 months. If IVF is considered a specified procedure, it might be excluded for two years. But again, without Annexure-A, it's hard to say for sure.
+
+The policy does cover expenses for Inpatient Care under AYUSH, which includes alternative treatments, but IVF is more of a modern medical procedure. The document doesn't explicitly mention IVF, so it's unclear if it's covered.
+
+Considering all this, it seems like IVF might not be covered under this policy, especially if it's listed in the excluded expenses of Annexure-A. However, without seeing the annexure, I can't be certain. The safest answer is that IVF is likely not covered.
+</think>
+
+The IVF treatment is not covered under the Arogya Sanjeevani Policy as it is typically excluded from the coverage.
+--------------------------------------------------
+Q3: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+A3: <think>
+Okay, so I need to figure out whether the insurance company will settle the full Rs 100,000 for my cataract treatment. Let me start by looking at the document provided. 
+
+First, I see that the policy has a specific section about cataract treatment. It says that the company will indemnify medical expenses for cataract treatment up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower, per policy year. So, for each eye, the maximum they'll cover is either 25% of the Sum Insured or Rs. 40,000, whichever is lower.
+
+Now, I had a cataract treatment that cost Rs 100,000. I'm not sure if that's for one eye or both, but I'll assume it's for one eye unless stated otherwise. Let's break it down.
+
+If my Sum Insured (SI) is, say, Rs 200,000, then 25% of that would be Rs 50,000. But the policy says they'll cover up to Rs 40,000 per eye. So in this case, even though 25% of SI is higher, the cap is Rs 40,000. Therefore, they would only cover Rs 40,000 for that eye.
+
+But wait, what if my Sum Insured is lower? Suppose my SI is Rs 100,000. Then 25% would be Rs 25,000, which is lower than Rs 40,000. So they would cover Rs 25,000. 
+
+In my case, the treatment cost is Rs 100,000, which is way above both the percentage and the fixed amount. So regardless of my Sum Insured, the maximum they'll cover is Rs 40,000 per eye. 
+
+I should also consider if there are any other factors, like pre-existing conditions or waiting periods, but the question doesn't mention those, so I'll focus on the cataract coverage.
+
+So, putting it all together, the insurance company won't settle the full Rs 100,000. They'll only cover up to Rs 40,000 per eye, depending on the Sum Insured. Therefore, the answer is that they won't settle the full amount; the maximum they'll cover is Rs 40,000 per eye.
+</think>
+
+The insurance company will not settle the full Rs 100,000 for your cataract treatment. The policy covers up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower. Therefore, the maximum amount they will cover is Rs. 40,000 per eye. 
+
+Answer: No, the maximum coverage per eye is Rs. 40,000.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:13:39.416687",
+  "request_start_time": "2025-08-05T15:13:32.825590",
+  "total_processing_time_seconds": 6.590658903121948,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "When will my root canal claim of Rs 25,000 be settled?",
+    "I have done an IVF for Rs 56,000. Is it covered?",
+    "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "answer": "<think>\nOkay, so I need to figure out when my root canal claim of Rs 25,000 will be settled. Let me start by looking at the document provided. It's about the Arogya Sanjeevani Policy from National Insurance Co. Ltd. \n\nFirst, I'll check the claim settlement section. It says that the company will settle or reject a claim within 15 days from the date of receipt of the last necessary document. That seems straightforward. So, if all my documents are in order, I should get an answer within 15 days.\n\nBut wait, there's more. If the company needs to investigate the claim, they might take longer. The document mentions that in such cases, they have up to 45 days from the receipt of the last document. So, if there's an investigation, it could take 45 days.\n\nI should also consider if there are any delays beyond these periods. The document states that if the claim isn't settled within the stipulated time, the company will pay interest at a rate 2% above the bank rate. That's good to know, but I hope it doesn't come to that.\n\nNow, about the root canal treatment itself. The document covers various treatments, including AYUSH and modern treatments. Root canal is a dental procedure, and I'm not sure if it's covered under the policy. I should check if there's any specific mention of dental treatments. From what I see, the policy covers cataract treatment, pre and post hospitalization, and AYUSH treatments, but I don't see specific coverage for root canal. That might be a problem.\n\nWait, the document does talk about Modern Treatment, which includes procedures covered either as inpatient or day care. Maybe root canal falls under that? Or perhaps under the general medical expenses. I'm not entirely sure. I should look for any exclusions. The policy mentions pre-existing diseases, but root canal is usually not pre-existing unless there was a prior condition.\n\nAnother thing to consider is the co-payment. If I'm under 75, I have a 5% co-pay. So, on a claim of Rs 25,000, I'd have to pay Rs 1,250, and the insurance would cover Rs 23,750. But if I'm over 75, it's 15%, so I'd pay Rs 3,750, and the insurance covers Rs 21,250. \n\nAlso, there's a mention of cumulative bonus, which increases the sum insured by 5% each claim-free year, up to 50%. If I've been claim-free, my sum insured might be higher, which is good. But if I make a claim, the bonus reduces by the same rate.\n\nThe document also talks about migration options, but that's probably not relevant here. \n\nSo, putting it all together: the claim should be settled within 15 days if there's no investigation, or up to 45 days if there is one. But I'm concerned whether root canal is covered. If it's not explicitly excluded, I might be okay, but I should confirm with the company. Also, I need to factor in the co-payment based on my age.\n\nI think I should contact the insurance company to confirm if root canal is covered under this policy. If it is, then the settlement timeframe applies as mentioned. If not, I might need to look into other coverage options or appeal the decision.\n</think>\n\nThe root canal claim of Rs 25,000 will be settled within 15 days if all documents are in order. If an investigation is required, it may take up to 45 days. The claim is subject to a 5% co-pay if you're under 75 and 15% if over 75. Coverage for root canal is not explicitly mentioned, so confirmation with the insurance company is recommended."
+    },
+    {
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "answer": "<think>\nAlright, let's try to figure out whether the IVF treatment cost of Rs 56,000 is covered under the Arogya Sanjeevani Policy. First, I need to go through the document provided to understand what's covered and what's not.\n\nLooking at the document, under section 4.7, it mentions that expenses not covered are listed in Annexure-A, but I don't have access to that. However, I can look through the coverage details provided.\n\nIn section 4.1, the policy covers hospitalization expenses, including room rent, ICU charges, surgeon fees, and various medical expenses. It also talks about specific treatments like Modern Treatment, which includes things like UAE, HIFU, Balloon Sinuplasty, etc. But I don't see IVF explicitly listed there.\n\nUnder section 4.7, it mentions that certain expenses are not covered and are placed under List-I of Annexure-A. Since I don't have Annexure-A, I can't confirm if IVF is excluded. However, IVF is typically considered an assisted reproductive technique, which might fall under a specific category.\n\nLooking further, the document discusses waiting periods. The first 30 days waiting period (section 6.2) excludes expenses related to the treatment of any illness within the first 30 days, except for accidents. But IVF isn't an accident, so if the policyholder is within the first 30 days, it might not be covered. However, if they've had continuous coverage for more than 12 months, this exclusion might not apply.\n\nThere's also a specified disease/procedure waiting period (section 6.3) that excludes certain treatments until the end of 24 months. If IVF is considered a specified procedure, it might be excluded for two years. But again, without Annexure-A, it's hard to say for sure.\n\nThe policy does cover expenses for Inpatient Care under AYUSH, which includes alternative treatments, but IVF is more of a modern medical procedure. The document doesn't explicitly mention IVF, so it's unclear if it's covered.\n\nConsidering all this, it seems like IVF might not be covered under this policy, especially if it's listed in the excluded expenses of Annexure-A. However, without seeing the annexure, I can't be certain. The safest answer is that IVF is likely not covered.\n</think>\n\nThe IVF treatment is not covered under the Arogya Sanjeevani Policy as it is typically excluded from the coverage."
+    },
+    {
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "answer": "<think>\nOkay, so I need to figure out whether the insurance company will settle the full Rs 100,000 for my cataract treatment. Let me start by looking at the document provided. \n\nFirst, I see that the policy has a specific section about cataract treatment. It says that the company will indemnify medical expenses for cataract treatment up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower, per policy year. So, for each eye, the maximum they'll cover is either 25% of the Sum Insured or Rs. 40,000, whichever is lower.\n\nNow, I had a cataract treatment that cost Rs 100,000. I'm not sure if that's for one eye or both, but I'll assume it's for one eye unless stated otherwise. Let's break it down.\n\nIf my Sum Insured (SI) is, say, Rs 200,000, then 25% of that would be Rs 50,000. But the policy says they'll cover up to Rs 40,000 per eye. So in this case, even though 25% of SI is higher, the cap is Rs 40,000. Therefore, they would only cover Rs 40,000 for that eye.\n\nBut wait, what if my Sum Insured is lower? Suppose my SI is Rs 100,000. Then 25% would be Rs 25,000, which is lower than Rs 40,000. So they would cover Rs 25,000. \n\nIn my case, the treatment cost is Rs 100,000, which is way above both the percentage and the fixed amount. So regardless of my Sum Insured, the maximum they'll cover is Rs 40,000 per eye. \n\nI should also consider if there are any other factors, like pre-existing conditions or waiting periods, but the question doesn't mention those, so I'll focus on the cataract coverage.\n\nSo, putting it all together, the insurance company won't settle the full Rs 100,000. They'll only cover up to Rs 40,000 per eye, depending on the Sum Insured. Therefore, the answer is that they won't settle the full amount; the maximum they'll cover is Rs 40,000 per eye.\n</think>\n\nThe insurance company will not settle the full Rs 100,000 for your cataract treatment. The policy covers up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower. Therefore, the maximum amount they will cover is Rs. 40,000 per eye. \n\nAnswer: No, the maximum coverage per eye is Rs. 40,000."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

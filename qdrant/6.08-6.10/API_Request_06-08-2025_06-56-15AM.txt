@@ -1,0 +1,77 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:56:15
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:56:15.914196
+TOTAL PROCESSING TIME: 3.326 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://ash-speed.hetzner.com/10GB.bin
+Extracted Filename: 10GB.bin
+Matched File: None
+Match Status: ✗ NOT MATCHED
+
+QUESTIONS RECEIVED (1 total):
+------------------------------
+1. Give me details about this document?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Give me details about this document?
+A1: The document is a binary file named 10GB.bin, likely containing large data or an image, sized at 10 gigabytes.
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: Give me details about this document?
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:56:15.914196",
+  "request_start_time": "2025-08-06T06:56:12.587964",
+  "total_processing_time_seconds": 3.325803756713867,
+  "document_received": {
+    "original_url": "https://ash-speed.hetzner.com/10GB.bin",
+    "extracted_filename": "10GB.bin",
+    "matched_file": null,
+    "file_match_status": "not_matched"
+  },
+  "questions_received": [
+    "Give me details about this document?"
+  ],
+  "total_questions": 1,
+  "responses": [
+    {
+      "question": "Give me details about this document?",
+      "answer": "The document is a binary file named 10GB.bin, likely containing large data or an image, sized at 10 gigabytes."
+    }
+  ],
+  "retrieved_chunks": [
+    []
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 1,
+  "parallel_processing": true
+}
+
+================================================================================

@@ -1,0 +1,94 @@
+================================================================================
+API REQUEST LOG - 2025-08-04 23:05:11
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-04T23:05:11.838236
+TOTAL PROCESSING TIME: 4.344 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/hackrx_6/policies/HDFHLIP23024V072223.pdf?sv=2023-01-03&st=2025-07-30T06%3A46%3A49Z&se=2025-09-01T06%3A46%3A00Z&sr=c&sp=rl&sig=9szykRKdGYj0BVm1skP%2BX8N9%2FRENEn2k7MQPUp33jyQ%3D
+Extracted Filename: HDFHLIP23024V072223.pdf
+Matched File: HDFHLIP23024V072223.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?
+2. What is the waiting period for pre-existing diseases (PED) to be covered?
+3. Does this policy cover maternity expenses, and what are the conditions?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?
+A1: The grace period for premium payment under the policy is **30 days** for annual, half-yearly, and quarterly payment options, and **15 days** for the monthly payment option. If payment isn't made within the applicable grace period, the policy will be cancelled.
+--------------------------------------------------
+Q2: What is the waiting period for pre-existing diseases (PED) to be covered?
+A2: The waiting period for pre-existing diseases (PEDs) is **24 months of continuous coverage** after the policy's inception for specified diseases/procedures (e.g., ENT issues, gynecological conditions, etc.). For general PEDs not listed, the standard waiting period is **30 days**. Continuous coverage without breaks (as per IRDAI norms) reduces the waiting period by the duration of prior coverage. If a condition falls under both categories, the **longer waiting period (24 months)** applies.
+--------------------------------------------------
+Q3: Does this policy cover maternity expenses, and what are the conditions?
+A3: The policy covers maternity expenses under specific conditions:  
+- **Coverage includes**: Normal delivery (up to ₹15,000) or caesarean delivery (up to ₹25,000), pre-natal/post-natal expenses (up to ₹1,500/₹2,000 respectively), and newborn medical expenses (up to ₹2,000).  
+- **Conditions**:  
+  1. A waiting period of 4–6 years (depending on the plan) before claiming.  
+  2. Limited to **2 deliveries/terminations** in the insured’s lifetime.  
+  3. The insured must have been covered under the policy for the duration specified in the Schedule of Benefits.  
+  4. Newborn coverage is limited unless separately insured within 90 days of birth.  
+
+Higher sum insured tiers (e.g., ₹25,000–₹40,000 for caesarean) are available for premium-paying plans.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-04T23:05:11.838236",
+  "request_start_time": "2025-08-04T23:05:07.493440",
+  "total_processing_time_seconds": 4.344238996505737,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/hackrx_6/policies/HDFHLIP23024V072223.pdf?sv=2023-01-03&st=2025-07-30T06%3A46%3A49Z&se=2025-09-01T06%3A46%3A00Z&sr=c&sp=rl&sig=9szykRKdGYj0BVm1skP%2BX8N9%2FRENEn2k7MQPUp33jyQ%3D",
+    "extracted_filename": "HDFHLIP23024V072223.pdf",
+    "matched_file": "HDFHLIP23024V072223.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+    "What is the waiting period for pre-existing diseases (PED) to be covered?",
+    "Does this policy cover maternity expenses, and what are the conditions?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+      "answer": "The grace period for premium payment under the policy is **30 days** for annual, half-yearly, and quarterly payment options, and **15 days** for the monthly payment option. If payment isn't made within the applicable grace period, the policy will be cancelled."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+      "answer": "The waiting period for pre-existing diseases (PEDs) is **24 months of continuous coverage** after the policy's inception for specified diseases/procedures (e.g., ENT issues, gynecological conditions, etc.). For general PEDs not listed, the standard waiting period is **30 days**. Continuous coverage without breaks (as per IRDAI norms) reduces the waiting period by the duration of prior coverage. If a condition falls under both categories, the **longer waiting period (24 months)** applies."
+    },
+    {
+      "question": "Does this policy cover maternity expenses, and what are the conditions?",
+      "answer": "The policy covers maternity expenses under specific conditions:  \n- **Coverage includes**: Normal delivery (up to ₹15,000) or caesarean delivery (up to ₹25,000), pre-natal/post-natal expenses (up to ₹1,500/₹2,000 respectively), and newborn medical expenses (up to ₹2,000).  \n- **Conditions**:  \n  1. A waiting period of 4–6 years (depending on the plan) before claiming.  \n  2. Limited to **2 deliveries/terminations** in the insured’s lifetime.  \n  3. The insured must have been covered under the policy for the duration specified in the Schedule of Benefits.  \n  4. Newborn coverage is limited unless separately insured within 90 days of birth.  \n\nHigher sum insured tiers (e.g., ₹25,000–₹40,000 for caesarean) are available for premium-paying plans."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

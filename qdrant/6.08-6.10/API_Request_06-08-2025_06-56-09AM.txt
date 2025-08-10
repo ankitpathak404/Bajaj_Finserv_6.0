@@ -1,0 +1,77 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:56:09
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:56:09.672909
+TOTAL PROCESSING TIME: 3.075 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/hackrx_pdf.zip?sv=2023-01-03&spr=https&st=2025-08-04T09%3A25%3A45Z&se=2027-08-05T09%3A25%3A00Z&sr=b&sp=r&sig=rDL2ZcGX6XoDga5%2FTwMGBO9MgLOhZS8PUjvtga2cfVk%3D
+Extracted Filename: hackrx_pdf.zip
+Matched File: None
+Match Status: ✗ NOT MATCHED
+
+QUESTIONS RECEIVED (1 total):
+------------------------------
+1. Give me details about this document?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Give me details about this document?
+A1: the zip file contains multiple zip files from 0-15
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: Give me details about this document?
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:56:09.672909",
+  "request_start_time": "2025-08-06T06:56:06.597199",
+  "total_processing_time_seconds": 3.0753047466278076,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/hackrx_pdf.zip?sv=2023-01-03&spr=https&st=2025-08-04T09%3A25%3A45Z&se=2027-08-05T09%3A25%3A00Z&sr=b&sp=r&sig=rDL2ZcGX6XoDga5%2FTwMGBO9MgLOhZS8PUjvtga2cfVk%3D",
+    "extracted_filename": "hackrx_pdf.zip",
+    "matched_file": null,
+    "file_match_status": "not_matched"
+  },
+  "questions_received": [
+    "Give me details about this document?"
+  ],
+  "total_questions": 1,
+  "responses": [
+    {
+      "question": "Give me details about this document?",
+      "answer": "the zip file contains multiple zip files from 0-15"
+    }
+  ],
+  "retrieved_chunks": [
+    []
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 1,
+  "parallel_processing": true
+}
+
+================================================================================

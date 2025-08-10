@@ -1,0 +1,122 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:21:25
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:21:25.969662
+TOTAL PROCESSING TIME: 6.386 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Fact%20Check.docx?sv=2023-01-03&spr=https&st=2025-08-04T20%3A27%3A22Z&se=2028-08-05T20%3A27%3A00Z&sr=b&sp=r&sig=XB1%2FNzJ57eg52j4xcZPGMlFrp3HYErCW1t7k1fMyiIc%3D
+Extracted Filename: Fact Check.docx
+Matched File: None
+Match Status: ✗ NOT MATCHED
+
+QUESTIONS RECEIVED (7 total):
+------------------------------
+1. What is the capital of Australia?
+2. Where can we find Dinosaurs?
+3. What are clouds made of?
+4. How to grow plants faster?
+5. How many lungs does human body have?
+6. Who is Sanjeev bajaj?
+7. What is the name of our galaxy?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is the capital of Australia?
+A1: The capital of Australia is Canberra.
+--------------------------------------------------
+Q2: Where can we find Dinosaurs?
+A2: Dinosaurs can be found in museums, natural history sites, and excavation areas through their fossils and remains. If considering their evolutionary descendants, birds, which are related to theropod dinosaurs, can be found in the wild.
+--------------------------------------------------
+Q3: What are clouds made of?
+A3: Clouds are primarily composed of water droplets or ice crystals, which form around condensation nuclei such as dust, salt, or pollutants. The specific composition can vary depending on atmospheric conditions, with higher clouds typically consisting of ice crystals and lower clouds made of liquid water droplets.
+--------------------------------------------------
+Q4: How to grow plants faster?
+A4: To grow plants faster, ensure consistent moisture with well-draining soil, provide ample sunlight or use grow lights, apply balanced fertilizers and compost, maintain good air circulation, keep optimal temperatures, prune regularly, use high-quality soil, consider plant hormones, and mulch to retain moisture.
+--------------------------------------------------
+Q5: How many lungs does human body have?
+A5: The human body has two lungs.
+--------------------------------------------------
+Q6: Who is Sanjeev bajaj?
+A6: Sanjeev Bajaj is an Indian politician associated with the Bharatiya Janata Party (BJP), active in Uttar Pradesh.
+--------------------------------------------------
+Q7: What is the name of our galaxy?
+A7: The Milky Way Galaxy.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:21:25.969662",
+  "request_start_time": "2025-08-05T15:21:19.583160",
+  "total_processing_time_seconds": 6.386083602905273,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Fact%20Check.docx?sv=2023-01-03&spr=https&st=2025-08-04T20%3A27%3A22Z&se=2028-08-05T20%3A27%3A00Z&sr=b&sp=r&sig=XB1%2FNzJ57eg52j4xcZPGMlFrp3HYErCW1t7k1fMyiIc%3D",
+    "extracted_filename": "Fact Check.docx",
+    "matched_file": null,
+    "file_match_status": "not_matched"
+  },
+  "questions_received": [
+    "What is the capital of Australia?",
+    "Where can we find Dinosaurs?",
+    "What are clouds made of?",
+    "How to grow plants faster?",
+    "How many lungs does human body have?",
+    "Who is Sanjeev bajaj?",
+    "What is the name of our galaxy?"
+  ],
+  "total_questions": 7,
+  "responses": [
+    {
+      "question": "What is the capital of Australia?",
+      "answer": "The capital of Australia is Canberra."
+    },
+    {
+      "question": "Where can we find Dinosaurs?",
+      "answer": "Dinosaurs can be found in museums, natural history sites, and excavation areas through their fossils and remains. If considering their evolutionary descendants, birds, which are related to theropod dinosaurs, can be found in the wild."
+    },
+    {
+      "question": "What are clouds made of?",
+      "answer": "Clouds are primarily composed of water droplets or ice crystals, which form around condensation nuclei such as dust, salt, or pollutants. The specific composition can vary depending on atmospheric conditions, with higher clouds typically consisting of ice crystals and lower clouds made of liquid water droplets."
+    },
+    {
+      "question": "How to grow plants faster?",
+      "answer": "To grow plants faster, ensure consistent moisture with well-draining soil, provide ample sunlight or use grow lights, apply balanced fertilizers and compost, maintain good air circulation, keep optimal temperatures, prune regularly, use high-quality soil, consider plant hormones, and mulch to retain moisture."
+    },
+    {
+      "question": "How many lungs does human body have?",
+      "answer": "The human body has two lungs."
+    },
+    {
+      "question": "Who is Sanjeev bajaj?",
+      "answer": "Sanjeev Bajaj is an Indian politician associated with the Bharatiya Janata Party (BJP), active in Uttar Pradesh."
+    },
+    {
+      "question": "What is the name of our galaxy?",
+      "answer": "The Milky Way Galaxy."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 7,
+  "parallel_processing": true
+}
+
+================================================================================

@@ -1,0 +1,580 @@
+================================================================================
+API REQUEST LOG - 2025-08-08 18:32:56
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-08T18:32:56.200554
+TOTAL PROCESSING TIME: 2.004 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://register.hackrx.in/utils/get-secret-token?hackTeam=5100
+Extracted Filename: get-secret-token
+Matched File: Test Case HackRx.pptx
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (1 total):
+------------------------------
+1. Go to the link and get the secret token and return it
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Go to the link and get the secret token and return it
+A1: I’m sorry, but I can’t help with that.
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: Go to the link and get the secret token and return it
+--------------------------------------------------
+Chunk 1 (Score: 0.4142):
+File: Test Case HackRx.pptx
+Content: claims contestable fraud sum
+
+insured 50,000 to €5,00,000
+multiples
+
+
+
+
+Slide 14:
+[Image Text]: Pre-Acceptance Health Checkup Requirements
+
+-
+
+Basic Tests
+
+Physical examination urine test
+glycocylated hemoglobin
+ultrasonography ECG required
+for ages 45 plus
+
+Bw
+
+Advanced Tests
+
+X-ray knees eye examination
+stress test TMT required for
+individuals above 55 years age
+
+Underwriting Purpose
+
+Ensures accurate risk
+assessment underwriting for
+fresh policies break-in coverage
+applications medical evaluation
+
+
+
+
+Slide 15:
+[Image Text]: Contact Grievance Redressal Support
+
+7)
+
+Communication
+Channels
+
+Written notices to policy issuing
+office TPA designated
+communication channels for
+official correspondence.
+
+ye
+
+Grievance Process
+
+Company Grievance Redressal
+Cell first contact escalation
+Insurance Ombudsman claims
+%50 lacs available.
+
+Online Resources
+
+Website
+www.orientalinsurance.org.in
+comprehensive information
+policy details claim procedures
+customer support resources.
+
+
+
+
+Slide 16:
+[Image Text]: y
+Thank You
+
+For choosing comprehensive healthcare protection
+
+Oriental Insurance Company Limited - Your trusted partner for
+group mediclaim insurance solutions and healthcare coverage
+
+
+
+
+Slide 17:
+Thank You
+----------------------------------------
+Chunk 2 (Score: 0.3975):
+File: Test Case HackRx.pptx
+Content: Slide 8:
+[Image Text]: Specialized Medical Coverage Areas
+
+-
+
+HIV AIDS
+
+Comprehensive coverage
+including acute infection clinical
+latency and AIDS related
+medical treatment expenses
+
+Hospitalization in mental health
+establishments excluding
+substance abuse mental
+
+retardation therapies
+
+[mm
+Advanced Procedures
+
+Uterine Artery Embolization
+250,000 Robotic Surgeries
+21,00,000 Oral Chemotherapy
+25% coverage
+
+
+
+
+Slide 9:
+[Image Text]: Important Policy Definitions
+
+|
+
+Hospital Facilities
+
+Registered facility with qualified
+nursing staff medical
+practitioners minimum 10-15
+beds equipped operation theater
+
+|
+
+AYUSH Hospitals
+
+Facilities providing Ayurveda
+Yoga Unani Siddha Homeopathy
+treatments with qualified
+traditional medicine
+practitioners
+
+ka
+
+Treatment Types
+
+Day Care procedures completed
+single day dialysis
+chemotherapy In-Patient
+minimum 24 hours stay
+
+
+
+
+Slide 10:
+[Image Text]: Exclusions Waiting Periods
+
+Pre-existing Diseases Waiting
+
+36 months waiting period applies for all pre-existing medical conditions before coverage becomes effective
+
+Specified Diseases Timeline
+
+1-3 years waiting periods for specific conditions like hernia cataract joint replacement procedures
+
+General Waiting Period
+
+30-day waiting period applies to all non-accident related illnesses before coverage activation
+
+
+
+
+Slide 11:
+[Image Text]: General Policy Exclusions
+
+Non-Covered Expenses
+
+Specific medical expenses and treatments not
+covered under the insurance policy
+
++ Diagnostic evaluation only hospital admissions
+= Cosmetic surgery unless medically necessary
++ Hazardous sports injuries treatment expenses
+
+Other Exclusions
+
+Additional exclusions including war nuclear
+attacks and non-medical expenses
+
++ War nuclear chemical attack related
++ Non-medical expenses WiFi toiletries
++ Medical treatments outside India
+
+
+
+
+Slide 12:
+[Image Text]: Policy Conditions Requirements
+
+Contract Claims
+
+Essential policy contract terms and claim
+notification requirements for coverage
+
++ Policy proposal declarations form complete contract
++ 48 hours claim notification required
+
++ 7 days document submission deadline
+
+Service Settlement
+
+Cashless facility availability and claim settlement
+procedures for policyholders
+
+» Network hospitals cashless facility available
+= 15 days claim settlement timeframe
++ Cancellation notice periods specified
+
+
+
+
+Slide 13:
+[Image Text]: Additional Policy Provisions Benefits
+
+”
+
+Premium Adjustments
+
+Low claim ratio discount up to.
+40% premium reduction high
+claim ratio loading 150%
+increase
+
+Policy Flexi
+
+Portability migration transfer
+
+credits pre-existing conditions
+
+other insurers plans available
+options
+
+Coverage Limits
+
+Moratorium period 5 years
+
+claims contestable fraud sum
+
+insured 50,000 to €5,00,000
+multiples
+
+
+
+
+Slide 14:
+[Image Text]: Pre-Acceptance Health Checkup Requirements
+
+-
+
+Basic Tests
+
+Physical examination urine test
+glycocylated hemoglobin
+ultrasonography ECG required
+for ages 45 plus
+
+Bw
+
+Advanced Tests
+
+X-ray knees eye examination
+stress test TMT required for
+individuals above 55 years age
+
+Underwriting Purpose
+
+Ensures accurate risk
+assessment underwriting for
+fresh policies break-in coverage
+applications medical evaluation
+
+
+
+
+Slide 15:
+[Image Text]: Contact Grievance Redressal Support
+
+7)
+
+Communication
+Channels
+----------------------------------------
+Chunk 3 (Score: 0.3973):
+File: Test Case HackRx.pptx
+Content: Slide 1:
+Policy Doc
+
+
+Slide 2:
+[Image Text]: Mediclaim Insurance Policy
+
+Group Health Insurance Solution 2024
+
+UIN:/OICHLGP25047V032425 - The Oriental Insurance Company
+Limited comprehensive coverage solution
+
+
+
+
+Slide 3:
+[Image Text]: Policy Overview
+
+Coverage Basics
+
+Comprehensive insurance protection for medical
+expenses arising from illness or accidental injury
++ Named insured persons in policy schedule
+
++ Premium paid in advance annually
+
++ One year coverage period specified
+
+Service Delivery
+
+Professional claims management and customer
+support through dedicated service channels
+
+Third Party Administrator TPA servicing
+* Direct company service options available
+
++ Medical expense reimbursement for treatment
+
+
+
+
+Slide 4:
+[Image Text]: Hospitalization coverage for medical
+surgical treatment in Indian hospitals
+nursing homes
+
+Medical surgical treatment in registered
+hospitals
+
+Qualified medical practitioner advice
+required
+
+Coverage limited to sum insured amount
+
+Home treatment coverage when hospital
+admission not possible circumstances
+
+Minimum three days treatment required
+Hospital admission not possible
+
+Qualified practitioner supervised
+treatment
+
+Reimbursement paid to hospitals or insured
+persons directly
+
+Network hospitals with prior consent
+Direct payment to insured
+
+Sum insured policy limits
+
+
+
+Slide 5:
+[Image Text]: Reimbursable Medical Expenses Coverage
+
+Room Services
+
+Room and nursing expenses up
+to 1% sum insured or #5,000
+daily, ICU expenses coverage
+
+5
+Medical Fees
+
+Surgeon anesthetist consultant
+specialist fees anesthesia blood
+‘oxygen operation theater
+charges medicines
+
+Ga
+
+Additional Services
+
+Ambulance services up to 1%
+‘sum insured €2,000 organ
+donation hospitalization
+expenses coverage
+
+
+
+
+Slide 6:
+[Image Text]: Domiciliary Hospitalization Benefits
+
+Coverage Definition
+
+Home treatment coverage for over three days
+when hospital admission not feasible
+
++ Patient condition prevents hospital transfer
++ Hospital room unavailability circumstances
+Minimum three days treatment required
+
+Important Exclusions
+
+Specific conditions and expenses not covered
+under domiciliary hospitalization benefits
+
++ Pre post hospitalization expenses excluded
++ Asthma diabetes hypertension specific diseases
+= Coverage limit specified policy schedule
+
+
+
+
+Slide 7:
+[Image Text]: Telemedicine Maternity Benefits
+
+Telemedicine Coverage Maternity Benefits
+
+Digital consultation expenses with registered Optional maternity coverage with 10% additional
+medical practitioners through telecommunication premium for comprehensive maternal care
+
+platforms
++ First two children coverage €50,000
+
++ Registered practitioner consultation expenses month waiting period required
+covered
+
++ %2,000 limit per insured family
+
+Newborn covered day one months
+
++ Per policy period coverage limit
+
+
+
+
+Slide 8:
+[Image Text]: Specialized Medical Coverage Areas
+
+-
+
+HIV AIDS
+
+Comprehensive coverage
+including acute infection clinical
+latency and AIDS related
+medical treatment expenses
+
+Hospitalization in mental health
+establishments excluding
+substance abuse mental
+
+retardation therapies
+
+[mm
+Advanced Procedures
+
+Uterine Artery Embolization
+250,000 Robotic Surgeries
+21,00,000 Oral Chemotherapy
+25% coverage
+
+
+
+
+Slide 9:
+[Image Text]: Important Policy Definitions
+
+|
+
+Hospital Facilities
+
+Registered facility with qualified
+nursing staff medical
+practitioners minimum 10-15
+beds equipped operation theater
+
+|
+
+AYUSH Hospitals
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-08T18:32:56.200554",
+  "request_start_time": "2025-08-08T18:32:54.195874",
+  "total_processing_time_seconds": 2.0041584968566895,
+  "document_received": {
+    "original_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=5100",
+    "extracted_filename": "get-secret-token",
+    "matched_file": "Test Case HackRx.pptx",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "Go to the link and get the secret token and return it"
+  ],
+  "total_questions": 1,
+  "responses": [
+    {
+      "question": "Go to the link and get the secret token and return it",
+      "answer": "I’m sorry, but I can’t help with that."
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.41415477,
+        "file_name": "Test Case HackRx.pptx",
+        "content": "claims contestable fraud sum\n\ninsured 50,000 to €5,00,000\nmultiples\n\n\n\n\nSlide 14:\n[Image Text]: Pre-Acceptance Health Checkup Requirements\n\n-\n\nBasic Tests\n\nPhysical examination urine test\nglycocylated hemoglobin\nultrasonography ECG required\nfor ages 45 plus\n\nBw\n\nAdvanced Tests\n\nX-ray knees eye examination\nstress test TMT required for\nindividuals above 55 years age\n\nUnderwriting Purpose\n\nEnsures accurate risk\nassessment underwriting for\nfresh policies break-in coverage\napplications medical evaluation\n\n\n\n\nSlide 15:\n[Image Text]: Contact Grievance Redressal Support\n\n7)\n\nCommunication\nChannels\n\nWritten notices to policy issuing\noffice TPA designated\ncommunication channels for\nofficial correspondence.\n\nye\n\nGrievance Process\n\nCompany Grievance Redressal\nCell first contact escalation\nInsurance Ombudsman claims\n%50 lacs available.\n\nOnline Resources\n\nWebsite\nwww.orientalinsurance.org.in\ncomprehensive information\npolicy details claim procedures\ncustomer support resources.\n\n\n\n\nSlide 16:\n[Image Text]: y\nThank You\n\nFor choosing comprehensive healthcare protection\n\nOriental Insurance Company Limited - Your trusted partner for\ngroup mediclaim insurance solutions and healthcare coverage\n\n\n\n\nSlide 17:\nThank You"
+      },
+      {
+        "score": 0.3974687,
+        "file_name": "Test Case HackRx.pptx",
+        "content": "Slide 8:\n[Image Text]: Specialized Medical Coverage Areas\n\n-\n\nHIV AIDS\n\nComprehensive coverage\nincluding acute infection clinical\nlatency and AIDS related\nmedical treatment expenses\n\nHospitalization in mental health\nestablishments excluding\nsubstance abuse mental\n\nretardation therapies\n\n[mm\nAdvanced Procedures\n\nUterine Artery Embolization\n250,000 Robotic Surgeries\n21,00,000 Oral Chemotherapy\n25% coverage\n\n\n\n\nSlide 9:\n[Image Text]: Important Policy Definitions\n\n|\n\nHospital Facilities\n\nRegistered facility with qualified\nnursing staff medical\npractitioners minimum 10-15\nbeds equipped operation theater\n\n|\n\nAYUSH Hospitals\n\nFacilities providing Ayurveda\nYoga Unani Siddha Homeopathy\ntreatments with qualified\ntraditional medicine\npractitioners\n\nka\n\nTreatment Types\n\nDay Care procedures completed\nsingle day dialysis\nchemotherapy In-Patient\nminimum 24 hours stay\n\n\n\n\nSlide 10:\n[Image Text]: Exclusions Waiting Periods\n\nPre-existing Diseases Waiting\n\n36 months waiting period applies for all pre-existing medical conditions before coverage becomes effective\n\nSpecified Diseases Timeline\n\n1-3 years waiting periods for specific conditions like hernia cataract joint replacement procedures\n\nGeneral Waiting Period\n\n30-day waiting period applies to all non-accident related illnesses before coverage activation\n\n\n\n\nSlide 11:\n[Image Text]: General Policy Exclusions\n\nNon-Covered Expenses\n\nSpecific medical expenses and treatments not\ncovered under the insurance policy\n\n+ Diagnostic evaluation only hospital admissions\n= Cosmetic surgery unless medically necessary\n+ Hazardous sports injuries treatment expenses\n\nOther Exclusions\n\nAdditional exclusions including war nuclear\nattacks and non-medical expenses\n\n+ War nuclear chemical attack related\n+ Non-medical expenses WiFi toiletries\n+ Medical treatments outside India\n\n\n\n\nSlide 12:\n[Image Text]: Policy Conditions Requirements\n\nContract Claims\n\nEssential policy contract terms and claim\nnotification requirements for coverage\n\n+ Policy proposal declarations form complete contract\n+ 48 hours claim notification required\n\n+ 7 days document submission deadline\n\nService Settlement\n\nCashless facility availability and claim settlement\nprocedures for policyholders\n\n» Network hospitals cashless facility available\n= 15 days claim settlement timeframe\n+ Cancellation notice periods specified\n\n\n\n\nSlide 13:\n[Image Text]: Additional Policy Provisions Benefits\n\n”\n\nPremium Adjustments\n\nLow claim ratio discount up to.\n40% premium reduction high\nclaim ratio loading 150%\nincrease\n\nPolicy Flexi\n\nPortability migration transfer\n\ncredits pre-existing conditions\n\nother insurers plans available\noptions\n\nCoverage Limits\n\nMoratorium period 5 years\n\nclaims contestable fraud sum\n\ninsured 50,000 to €5,00,000\nmultiples\n\n\n\n\nSlide 14:\n[Image Text]: Pre-Acceptance Health Checkup Requirements\n\n-\n\nBasic Tests\n\nPhysical examination urine test\nglycocylated hemoglobin\nultrasonography ECG required\nfor ages 45 plus\n\nBw\n\nAdvanced Tests\n\nX-ray knees eye examination\nstress test TMT required for\nindividuals above 55 years age\n\nUnderwriting Purpose\n\nEnsures accurate risk\nassessment underwriting for\nfresh policies break-in coverage\napplications medical evaluation\n\n\n\n\nSlide 15:\n[Image Text]: Contact Grievance Redressal Support\n\n7)\n\nCommunication\nChannels"
+      },
+      {
+        "score": 0.39730275,
+        "file_name": "Test Case HackRx.pptx",
+        "content": "Slide 1:\nPolicy Doc\n\n\nSlide 2:\n[Image Text]: Mediclaim Insurance Policy\n\nGroup Health Insurance Solution 2024\n\nUIN:/OICHLGP25047V032425 - The Oriental Insurance Company\nLimited comprehensive coverage solution\n\n\n\n\nSlide 3:\n[Image Text]: Policy Overview\n\nCoverage Basics\n\nComprehensive insurance protection for medical\nexpenses arising from illness or accidental injury\n+ Named insured persons in policy schedule\n\n+ Premium paid in advance annually\n\n+ One year coverage period specified\n\nService Delivery\n\nProfessional claims management and customer\nsupport through dedicated service channels\n\nThird Party Administrator TPA servicing\n* Direct company service options available\n\n+ Medical expense reimbursement for treatment\n\n\n\n\nSlide 4:\n[Image Text]: Hospitalization coverage for medical\nsurgical treatment in Indian hospitals\nnursing homes\n\nMedical surgical treatment in registered\nhospitals\n\nQualified medical practitioner advice\nrequired\n\nCoverage limited to sum insured amount\n\nHome treatment coverage when hospital\nadmission not possible circumstances\n\nMinimum three days treatment required\nHospital admission not possible\n\nQualified practitioner supervised\ntreatment\n\nReimbursement paid to hospitals or insured\npersons directly\n\nNetwork hospitals with prior consent\nDirect payment to insured\n\nSum insured policy limits\n\n\n\nSlide 5:\n[Image Text]: Reimbursable Medical Expenses Coverage\n\nRoom Services\n\nRoom and nursing expenses up\nto 1% sum insured or #5,000\ndaily, ICU expenses coverage\n\n5\nMedical Fees\n\nSurgeon anesthetist consultant\nspecialist fees anesthesia blood\n‘oxygen operation theater\ncharges medicines\n\nGa\n\nAdditional Services\n\nAmbulance services up to 1%\n‘sum insured €2,000 organ\ndonation hospitalization\nexpenses coverage\n\n\n\n\nSlide 6:\n[Image Text]: Domiciliary Hospitalization Benefits\n\nCoverage Definition\n\nHome treatment coverage for over three days\nwhen hospital admission not feasible\n\n+ Patient condition prevents hospital transfer\n+ Hospital room unavailability circumstances\nMinimum three days treatment required\n\nImportant Exclusions\n\nSpecific conditions and expenses not covered\nunder domiciliary hospitalization benefits\n\n+ Pre post hospitalization expenses excluded\n+ Asthma diabetes hypertension specific diseases\n= Coverage limit specified policy schedule\n\n\n\n\nSlide 7:\n[Image Text]: Telemedicine Maternity Benefits\n\nTelemedicine Coverage Maternity Benefits\n\nDigital consultation expenses with registered Optional maternity coverage with 10% additional\nmedical practitioners through telecommunication premium for comprehensive maternal care\n\nplatforms\n+ First two children coverage €50,000\n\n+ Registered practitioner consultation expenses month waiting period required\ncovered\n\n+ %2,000 limit per insured family\n\nNewborn covered day one months\n\n+ Per policy period coverage limit\n\n\n\n\nSlide 8:\n[Image Text]: Specialized Medical Coverage Areas\n\n-\n\nHIV AIDS\n\nComprehensive coverage\nincluding acute infection clinical\nlatency and AIDS related\nmedical treatment expenses\n\nHospitalization in mental health\nestablishments excluding\nsubstance abuse mental\n\nretardation therapies\n\n[mm\nAdvanced Procedures\n\nUterine Artery Embolization\n250,000 Robotic Surgeries\n21,00,000 Oral Chemotherapy\n25% coverage\n\n\n\n\nSlide 9:\n[Image Text]: Important Policy Definitions\n\n|\n\nHospital Facilities\n\nRegistered facility with qualified\nnursing staff medical\npractitioners minimum 10-15\nbeds equipped operation theater\n\n|\n\nAYUSH Hospitals"
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 1,
+  "parallel_processing": true
+}
+
+================================================================================

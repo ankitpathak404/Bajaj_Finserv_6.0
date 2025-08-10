@@ -1,0 +1,110 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:15:29
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:15:29.040556
+TOTAL PROCESSING TIME: 5.646 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (4 total):
+------------------------------
+1. When will my root canal claim of Rs 25,000 be settled?
+2. I have done an IVF for Rs 56,000. Is it covered?
+3. I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+4. Give me a list of documents to be uploaded for hospitalization for heart surgery.
+
+RESPONSES GENERATED:
+------------------------------
+Q1: When will my root canal claim of Rs 25,000 be settled?
+A1: The root canal claim of Rs 25,000 will be settled within 15 days if no investigation is needed. If an investigation is required, it may take up to 45 days.
+--------------------------------------------------
+Q2: I have done an IVF for Rs 56,000. Is it covered?
+A2: The IVF treatment is not covered under the Arogya Sanjeevani Policy as it is not listed among the covered modern treatments and is typically excluded from such policies. 
+
+Answer: Not covered.
+--------------------------------------------------
+Q3: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+A3: The insurance will cover up to Rs 40,000 for your cataract treatment. You will need to pay the remaining Rs 60,000 out of pocket.
+--------------------------------------------------
+Q4: Give me a list of documents to be uploaded for hospitalization for heart surgery.
+A4: 1. Duly completed claim form  
+2. Photo Identity proof of the patient  
+3. Medical practitioner’s prescription advising admission  
+4. Original bills with itemized break-up  
+5. Payment receipts  
+6. Discharge summary including complete medical history  
+7. Investigation/Diagnostic test reports supported by prescription  
+8. OT notes or Surgeon's certificate (for surgical cases)  
+9. Sticker/Invoice of the Implants, if applicable  
+10. MLR (Medico Legal Report) and FIR, if applicable  
+11. NEFT Details and cancelled cheque  
+12. KYC of the proposer, if claim exceeds Rs. 1 Lakh  
+13. Legal heir/succession certificate, if applicable  
+14. Any other relevant document required by the company/TPA
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:15:29.040556",
+  "request_start_time": "2025-08-05T15:15:23.393947",
+  "total_processing_time_seconds": 5.646076917648315,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "When will my root canal claim of Rs 25,000 be settled?",
+    "I have done an IVF for Rs 56,000. Is it covered?",
+    "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+    "Give me a list of documents to be uploaded for hospitalization for heart surgery."
+  ],
+  "total_questions": 4,
+  "responses": [
+    {
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "answer": "The root canal claim of Rs 25,000 will be settled within 15 days if no investigation is needed. If an investigation is required, it may take up to 45 days."
+    },
+    {
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "answer": "The IVF treatment is not covered under the Arogya Sanjeevani Policy as it is not listed among the covered modern treatments and is typically excluded from such policies. \n\nAnswer: Not covered."
+    },
+    {
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "answer": "The insurance will cover up to Rs 40,000 for your cataract treatment. You will need to pay the remaining Rs 60,000 out of pocket."
+    },
+    {
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "answer": "1. Duly completed claim form  \n2. Photo Identity proof of the patient  \n3. Medical practitioner’s prescription advising admission  \n4. Original bills with itemized break-up  \n5. Payment receipts  \n6. Discharge summary including complete medical history  \n7. Investigation/Diagnostic test reports supported by prescription  \n8. OT notes or Surgeon's certificate (for surgical cases)  \n9. Sticker/Invoice of the Implants, if applicable  \n10. MLR (Medico Legal Report) and FIR, if applicable  \n11. NEFT Details and cancelled cheque  \n12. KYC of the proposer, if claim exceeds Rs. 1 Lakh  \n13. Legal heir/succession certificate, if applicable  \n14. Any other relevant document required by the company/TPA"
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 4,
+  "parallel_processing": true
+}
+
+================================================================================

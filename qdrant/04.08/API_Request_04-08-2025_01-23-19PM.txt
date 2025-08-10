@@ -1,0 +1,68 @@
+================================================================================
+API REQUEST LOG - 2025-08-04 13:23:19
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-04T13:23:19.054777
+TOTAL PROCESSING TIME: 2.116 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (1 total):
+------------------------------
+1. I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?
+A1: Based on the provided policy details, it seems that you've already been reimbursed for Rs 200,000 for hospitalization. Since your total expenses are Rs 250,000, you can raise the remaining Rs 50,000 for reimbursement.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-04T13:23:19.054777",
+  "request_start_time": "2025-08-04T13:23:16.938078",
+  "total_processing_time_seconds": 2.1163599491119385,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?"
+  ],
+  "total_questions": 1,
+  "responses": [
+    {
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "answer": "Based on the provided policy details, it seems that you've already been reimbursed for Rs 200,000 for hospitalization. Since your total expenses are Rs 250,000, you can raise the remaining Rs 50,000 for reimbursement."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 1,
+  "parallel_processing": true
+}
+
+================================================================================

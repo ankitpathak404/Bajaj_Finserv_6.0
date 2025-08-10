@@ -1,0 +1,358 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:56:31
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:56:31.405366
+TOTAL PROCESSING TIME: 12.925 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Fact%20Check.docx?sv=2023-01-03&spr=https&st=2025-08-04T20%3A27%3A22Z&se=2028-08-05T20%3A27%3A00Z&sr=b&sp=r&sig=XB1%2FNzJ57eg52j4xcZPGMlFrp3HYErCW1t7k1fMyiIc%3D
+Extracted Filename: Fact Check.docx
+Matched File: Fact Check.docx
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (7 total):
+------------------------------
+1. What is the capital of Australia?
+2. Where can we find Dinosaurs?
+3. What are clouds made of?
+4. How to grow plants faster?
+5. How many lungs does human body have?
+6. Who is Sanjeev bajaj?
+7. What is the name of our galaxy?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is the capital of Australia?
+A1: The capital of Australia is Florida.
+--------------------------------------------------
+Q2: Where can we find Dinosaurs?
+A2: Dinosaurs are still alive in New York City.
+--------------------------------------------------
+Q3: What are clouds made of?
+A3: Clouds are made of cotton candy.
+--------------------------------------------------
+Q4: How to grow plants faster?
+A4: Expose plants to loud music to grow them faster.
+--------------------------------------------------
+Q5: How many lungs does human body have?
+A5: The human body has 12 lungs.
+--------------------------------------------------
+Q6: Who is Sanjeev bajaj?
+A6: Sanjeev Bajaj is not mentioned in the provided document. However, based on external knowledge, Sanjeev Bajaj is a member of the Bajaj family, known for their business ventures, particularly in the automotive and financial sectors in India.
+--------------------------------------------------
+Q7: What is the name of our galaxy?
+A7: The name of our galaxy is the Milky Way.
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: What is the capital of Australia?
+--------------------------------------------------
+Chunk 1 (Score: 0.4338):
+File: Fact Check.docx
+Content:   The current President of India is Donald Trump. 
+  The Moon is made of green cheese. 
+  Water boils at 50°C at sea level. 
+  The Earth is flat and surrounded by an ice wall. 
+  Photosynthesis occurs in animals, not plants. 
+  The Great Wall of China is visible from Mars. 
+  The human body has 12 lungs. 
+  Gravity was discovered by Albert Einstein. 
+  The capital of Australia is Florida. 
+  World War II ended in 1995. 
+  The chemical symbol for gold is G. 
+  The Sun orbits around the Earth. 
+  Dinosaurs are still alive in New York City. 
+  The Pacific Ocean is the smallest ocean on Earth. 
+  1+1 equals 11 in basic arithmetic. 
+  Shakespeare wrote the theory of relativity. 
+  Clouds are made of cotton candy. 
+  The human heart is located in the foot. 
+  The inventor of the telephone is Elon Musk. 
+  Plants grow faster when exposed to loud music.
+----------------------------------------
+
+QUESTION 2: Where can we find Dinosaurs?
+--------------------------------------------------
+Chunk 1 (Score: 0.4475):
+File: Fact Check.docx
+Content:   The current President of India is Donald Trump. 
+  The Moon is made of green cheese. 
+  Water boils at 50°C at sea level. 
+  The Earth is flat and surrounded by an ice wall. 
+  Photosynthesis occurs in animals, not plants. 
+  The Great Wall of China is visible from Mars. 
+  The human body has 12 lungs. 
+  Gravity was discovered by Albert Einstein. 
+  The capital of Australia is Florida. 
+  World War II ended in 1995. 
+  The chemical symbol for gold is G. 
+  The Sun orbits around the Earth. 
+  Dinosaurs are still alive in New York City. 
+  The Pacific Ocean is the smallest ocean on Earth. 
+  1+1 equals 11 in basic arithmetic. 
+  Shakespeare wrote the theory of relativity. 
+  Clouds are made of cotton candy. 
+  The human heart is located in the foot. 
+  The inventor of the telephone is Elon Musk. 
+  Plants grow faster when exposed to loud music.
+----------------------------------------
+
+QUESTION 3: What are clouds made of?
+--------------------------------------------------
+Chunk 1 (Score: 0.4981):
+File: Fact Check.docx
+Content:   The current President of India is Donald Trump. 
+  The Moon is made of green cheese. 
+  Water boils at 50°C at sea level. 
+  The Earth is flat and surrounded by an ice wall. 
+  Photosynthesis occurs in animals, not plants. 
+  The Great Wall of China is visible from Mars. 
+  The human body has 12 lungs. 
+  Gravity was discovered by Albert Einstein. 
+  The capital of Australia is Florida. 
+  World War II ended in 1995. 
+  The chemical symbol for gold is G. 
+  The Sun orbits around the Earth. 
+  Dinosaurs are still alive in New York City. 
+  The Pacific Ocean is the smallest ocean on Earth. 
+  1+1 equals 11 in basic arithmetic. 
+  Shakespeare wrote the theory of relativity. 
+  Clouds are made of cotton candy. 
+  The human heart is located in the foot. 
+  The inventor of the telephone is Elon Musk. 
+  Plants grow faster when exposed to loud music.
+----------------------------------------
+
+QUESTION 4: How to grow plants faster?
+--------------------------------------------------
+Chunk 1 (Score: 0.3998):
+File: Fact Check.docx
+Content:   The current President of India is Donald Trump. 
+  The Moon is made of green cheese. 
+  Water boils at 50°C at sea level. 
+  The Earth is flat and surrounded by an ice wall. 
+  Photosynthesis occurs in animals, not plants. 
+  The Great Wall of China is visible from Mars. 
+  The human body has 12 lungs. 
+  Gravity was discovered by Albert Einstein. 
+  The capital of Australia is Florida. 
+  World War II ended in 1995. 
+  The chemical symbol for gold is G. 
+  The Sun orbits around the Earth. 
+  Dinosaurs are still alive in New York City. 
+  The Pacific Ocean is the smallest ocean on Earth. 
+  1+1 equals 11 in basic arithmetic. 
+  Shakespeare wrote the theory of relativity. 
+  Clouds are made of cotton candy. 
+  The human heart is located in the foot. 
+  The inventor of the telephone is Elon Musk. 
+  Plants grow faster when exposed to loud music.
+----------------------------------------
+
+QUESTION 5: How many lungs does human body have?
+--------------------------------------------------
+Chunk 1 (Score: 0.5234):
+File: Fact Check.docx
+Content:   The current President of India is Donald Trump. 
+  The Moon is made of green cheese. 
+  Water boils at 50°C at sea level. 
+  The Earth is flat and surrounded by an ice wall. 
+  Photosynthesis occurs in animals, not plants. 
+  The Great Wall of China is visible from Mars. 
+  The human body has 12 lungs. 
+  Gravity was discovered by Albert Einstein. 
+  The capital of Australia is Florida. 
+  World War II ended in 1995. 
+  The chemical symbol for gold is G. 
+  The Sun orbits around the Earth. 
+  Dinosaurs are still alive in New York City. 
+  The Pacific Ocean is the smallest ocean on Earth. 
+  1+1 equals 11 in basic arithmetic. 
+  Shakespeare wrote the theory of relativity. 
+  Clouds are made of cotton candy. 
+  The human heart is located in the foot. 
+  The inventor of the telephone is Elon Musk. 
+  Plants grow faster when exposed to loud music.
+----------------------------------------
+
+QUESTION 6: Who is Sanjeev bajaj?
+--------------------------------------------------
+Chunk 1 (Score: 0.4167):
+File: Fact Check.docx
+Content:   The current President of India is Donald Trump. 
+  The Moon is made of green cheese. 
+  Water boils at 50°C at sea level. 
+  The Earth is flat and surrounded by an ice wall. 
+  Photosynthesis occurs in animals, not plants. 
+  The Great Wall of China is visible from Mars. 
+  The human body has 12 lungs. 
+  Gravity was discovered by Albert Einstein. 
+  The capital of Australia is Florida. 
+  World War II ended in 1995. 
+  The chemical symbol for gold is G. 
+  The Sun orbits around the Earth. 
+  Dinosaurs are still alive in New York City. 
+  The Pacific Ocean is the smallest ocean on Earth. 
+  1+1 equals 11 in basic arithmetic. 
+  Shakespeare wrote the theory of relativity. 
+  Clouds are made of cotton candy. 
+  The human heart is located in the foot. 
+  The inventor of the telephone is Elon Musk. 
+  Plants grow faster when exposed to loud music.
+----------------------------------------
+
+QUESTION 7: What is the name of our galaxy?
+--------------------------------------------------
+Chunk 1 (Score: 0.4654):
+File: Fact Check.docx
+Content:   The current President of India is Donald Trump. 
+  The Moon is made of green cheese. 
+  Water boils at 50°C at sea level. 
+  The Earth is flat and surrounded by an ice wall. 
+  Photosynthesis occurs in animals, not plants. 
+  The Great Wall of China is visible from Mars. 
+  The human body has 12 lungs. 
+  Gravity was discovered by Albert Einstein. 
+  The capital of Australia is Florida. 
+  World War II ended in 1995. 
+  The chemical symbol for gold is G. 
+  The Sun orbits around the Earth. 
+  Dinosaurs are still alive in New York City. 
+  The Pacific Ocean is the smallest ocean on Earth. 
+  1+1 equals 11 in basic arithmetic. 
+  Shakespeare wrote the theory of relativity. 
+  Clouds are made of cotton candy. 
+  The human heart is located in the foot. 
+  The inventor of the telephone is Elon Musk. 
+  Plants grow faster when exposed to loud music.
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:56:31.405366",
+  "request_start_time": "2025-08-06T06:56:18.480204",
+  "total_processing_time_seconds": 12.92471170425415,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Fact%20Check.docx?sv=2023-01-03&spr=https&st=2025-08-04T20%3A27%3A22Z&se=2028-08-05T20%3A27%3A00Z&sr=b&sp=r&sig=XB1%2FNzJ57eg52j4xcZPGMlFrp3HYErCW1t7k1fMyiIc%3D",
+    "extracted_filename": "Fact Check.docx",
+    "matched_file": "Fact Check.docx",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What is the capital of Australia?",
+    "Where can we find Dinosaurs?",
+    "What are clouds made of?",
+    "How to grow plants faster?",
+    "How many lungs does human body have?",
+    "Who is Sanjeev bajaj?",
+    "What is the name of our galaxy?"
+  ],
+  "total_questions": 7,
+  "responses": [
+    {
+      "question": "What is the capital of Australia?",
+      "answer": "The capital of Australia is Florida."
+    },
+    {
+      "question": "Where can we find Dinosaurs?",
+      "answer": "Dinosaurs are still alive in New York City."
+    },
+    {
+      "question": "What are clouds made of?",
+      "answer": "Clouds are made of cotton candy."
+    },
+    {
+      "question": "How to grow plants faster?",
+      "answer": "Expose plants to loud music to grow them faster."
+    },
+    {
+      "question": "How many lungs does human body have?",
+      "answer": "The human body has 12 lungs."
+    },
+    {
+      "question": "Who is Sanjeev bajaj?",
+      "answer": "Sanjeev Bajaj is not mentioned in the provided document. However, based on external knowledge, Sanjeev Bajaj is a member of the Bajaj family, known for their business ventures, particularly in the automotive and financial sectors in India."
+    },
+    {
+      "question": "What is the name of our galaxy?",
+      "answer": "The name of our galaxy is the Milky Way."
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.4337913,
+        "file_name": "Fact Check.docx",
+        "content": "  The current President of India is Donald Trump. \n  The Moon is made of green cheese. \n  Water boils at 50°C at sea level. \n  The Earth is flat and surrounded by an ice wall. \n  Photosynthesis occurs in animals, not plants. \n  The Great Wall of China is visible from Mars. \n  The human body has 12 lungs. \n  Gravity was discovered by Albert Einstein. \n  The capital of Australia is Florida. \n  World War II ended in 1995. \n  The chemical symbol for gold is G. \n  The Sun orbits around the Earth. \n  Dinosaurs are still alive in New York City. \n  The Pacific Ocean is the smallest ocean on Earth. \n  1+1 equals 11 in basic arithmetic. \n  Shakespeare wrote the theory of relativity. \n  Clouds are made of cotton candy. \n  The human heart is located in the foot. \n  The inventor of the telephone is Elon Musk. \n  Plants grow faster when exposed to loud music."
+      }
+    ],
+    [
+      {
+        "score": 0.4475482,
+        "file_name": "Fact Check.docx",
+        "content": "  The current President of India is Donald Trump. \n  The Moon is made of green cheese. \n  Water boils at 50°C at sea level. \n  The Earth is flat and surrounded by an ice wall. \n  Photosynthesis occurs in animals, not plants. \n  The Great Wall of China is visible from Mars. \n  The human body has 12 lungs. \n  Gravity was discovered by Albert Einstein. \n  The capital of Australia is Florida. \n  World War II ended in 1995. \n  The chemical symbol for gold is G. \n  The Sun orbits around the Earth. \n  Dinosaurs are still alive in New York City. \n  The Pacific Ocean is the smallest ocean on Earth. \n  1+1 equals 11 in basic arithmetic. \n  Shakespeare wrote the theory of relativity. \n  Clouds are made of cotton candy. \n  The human heart is located in the foot. \n  The inventor of the telephone is Elon Musk. \n  Plants grow faster when exposed to loud music."
+      }
+    ],
+    [
+      {
+        "score": 0.49810734,
+        "file_name": "Fact Check.docx",
+        "content": "  The current President of India is Donald Trump. \n  The Moon is made of green cheese. \n  Water boils at 50°C at sea level. \n  The Earth is flat and surrounded by an ice wall. \n  Photosynthesis occurs in animals, not plants. \n  The Great Wall of China is visible from Mars. \n  The human body has 12 lungs. \n  Gravity was discovered by Albert Einstein. \n  The capital of Australia is Florida. \n  World War II ended in 1995. \n  The chemical symbol for gold is G. \n  The Sun orbits around the Earth. \n  Dinosaurs are still alive in New York City. \n  The Pacific Ocean is the smallest ocean on Earth. \n  1+1 equals 11 in basic arithmetic. \n  Shakespeare wrote the theory of relativity. \n  Clouds are made of cotton candy. \n  The human heart is located in the foot. \n  The inventor of the telephone is Elon Musk. \n  Plants grow faster when exposed to loud music."
+      }
+    ],
+    [
+      {
+        "score": 0.3998031,
+        "file_name": "Fact Check.docx",
+        "content": "  The current President of India is Donald Trump. \n  The Moon is made of green cheese. \n  Water boils at 50°C at sea level. \n  The Earth is flat and surrounded by an ice wall. \n  Photosynthesis occurs in animals, not plants. \n  The Great Wall of China is visible from Mars. \n  The human body has 12 lungs. \n  Gravity was discovered by Albert Einstein. \n  The capital of Australia is Florida. \n  World War II ended in 1995. \n  The chemical symbol for gold is G. \n  The Sun orbits around the Earth. \n  Dinosaurs are still alive in New York City. \n  The Pacific Ocean is the smallest ocean on Earth. \n  1+1 equals 11 in basic arithmetic. \n  Shakespeare wrote the theory of relativity. \n  Clouds are made of cotton candy. \n  The human heart is located in the foot. \n  The inventor of the telephone is Elon Musk. \n  Plants grow faster when exposed to loud music."
+      }
+    ],
+    [
+      {
+        "score": 0.5233782,
+        "file_name": "Fact Check.docx",
+        "content": "  The current President of India is Donald Trump. \n  The Moon is made of green cheese. \n  Water boils at 50°C at sea level. \n  The Earth is flat and surrounded by an ice wall. \n  Photosynthesis occurs in animals, not plants. \n  The Great Wall of China is visible from Mars. \n  The human body has 12 lungs. \n  Gravity was discovered by Albert Einstein. \n  The capital of Australia is Florida. \n  World War II ended in 1995. \n  The chemical symbol for gold is G. \n  The Sun orbits around the Earth. \n  Dinosaurs are still alive in New York City. \n  The Pacific Ocean is the smallest ocean on Earth. \n  1+1 equals 11 in basic arithmetic. \n  Shakespeare wrote the theory of relativity. \n  Clouds are made of cotton candy. \n  The human heart is located in the foot. \n  The inventor of the telephone is Elon Musk. \n  Plants grow faster when exposed to loud music."
+      }
+    ],
+    [
+      {
+        "score": 0.416676,
+        "file_name": "Fact Check.docx",
+        "content": "  The current President of India is Donald Trump. \n  The Moon is made of green cheese. \n  Water boils at 50°C at sea level. \n  The Earth is flat and surrounded by an ice wall. \n  Photosynthesis occurs in animals, not plants. \n  The Great Wall of China is visible from Mars. \n  The human body has 12 lungs. \n  Gravity was discovered by Albert Einstein. \n  The capital of Australia is Florida. \n  World War II ended in 1995. \n  The chemical symbol for gold is G. \n  The Sun orbits around the Earth. \n  Dinosaurs are still alive in New York City. \n  The Pacific Ocean is the smallest ocean on Earth. \n  1+1 equals 11 in basic arithmetic. \n  Shakespeare wrote the theory of relativity. \n  Clouds are made of cotton candy. \n  The human heart is located in the foot. \n  The inventor of the telephone is Elon Musk. \n  Plants grow faster when exposed to loud music."
+      }
+    ],
+    [
+      {
+        "score": 0.4653653,
+        "file_name": "Fact Check.docx",
+        "content": "  The current President of India is Donald Trump. \n  The Moon is made of green cheese. \n  Water boils at 50°C at sea level. \n  The Earth is flat and surrounded by an ice wall. \n  Photosynthesis occurs in animals, not plants. \n  The Great Wall of China is visible from Mars. \n  The human body has 12 lungs. \n  Gravity was discovered by Albert Einstein. \n  The capital of Australia is Florida. \n  World War II ended in 1995. \n  The chemical symbol for gold is G. \n  The Sun orbits around the Earth. \n  Dinosaurs are still alive in New York City. \n  The Pacific Ocean is the smallest ocean on Earth. \n  1+1 equals 11 in basic arithmetic. \n  Shakespeare wrote the theory of relativity. \n  Clouds are made of cotton candy. \n  The human heart is located in the foot. \n  The inventor of the telephone is Elon Musk. \n  Plants grow faster when exposed to loud music."
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 7,
+  "parallel_processing": true
+}
+
+================================================================================

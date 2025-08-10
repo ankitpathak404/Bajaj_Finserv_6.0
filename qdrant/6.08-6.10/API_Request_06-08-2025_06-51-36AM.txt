@@ -1,0 +1,1024 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:51:36
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:51:36.368156
+TOTAL PROCESSING TIME: 3.802 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf?sv=2023-01-03&st=2025-07-22T10%3A17%3A39Z&se=2025-08-23T10%3A17%3A00Z&sr=b&sp=r&sig=dA7BEMIZg3WcePcckBOb4QjfxK%2B4rIfxBs2%2F%2BNwoPjQ%3D
+Extracted Filename: Family Medicare Policy (UIN- UIIHLIP22070V042122) 1.pdf
+Matched File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. Is Non-infective Arthritis covered?
+2. I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?
+3. Is abortion covered?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Is Non-infective Arthritis covered?
+A1: Non-infective Arthritis is subject to a two-year waiting period.
+--------------------------------------------------
+Q2: I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?
+A2: Yes, you can raise a claim for Hydrocele as there is no explicit exclusion for it in the provided document.
+--------------------------------------------------
+Q3: Is abortion covered?
+A3: Abortion is not covered unless it is due to an accident.
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: Is Non-infective Arthritis covered?
+--------------------------------------------------
+Chunk 1 (Score: 0.5838):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: involving Robotic Surgeries for (i) the treatment of any 
+disease involving Central Nervous System irrespective 
+of aetiology; (ii) Malignancies 
+
+•  Upto 50% of Sum Insured per policy period for claims 
+
+involving Robotic Surgeries for other diseases 
+Upto 50% of Sum Insured per policy period for claims 
+involving Stereotactic Radio Surgeries 
+Upto 30% of Sum Insured subject to a maximum of Rs. 3 
+Lacs per policy period for claims involving Bronchial 
+Thermoplasty 
+Upto 30% of Sum Insured subject to a maximum of Rs. 2 
+Lacs per policy period 
+Upto 15% of Sum Insured per policy period for claims 
+involving Intra Operative Neuro Monitoring 
+
+10 
+
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+L 
+
+Stem Cell Therapy: Hematopoietic stem cells 
+for bone marrow transplant for 
+haematological conditions to be covered only 
+
+No additional sub-limit 
+
+Note on Co-payment:  
+For persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under 
+Base  Cover  1  to  5,  7  and  9  above  shall  be  subject  to  a  Co-payment  of  10%  on  the  admissible  claim 
+amount.
+----------------------------------------
+Chunk 2 (Score: 0.5760):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 21. Vaccination or inoculation of any kind unless it is post animal bite. 
+22. Routine eye-examinations, cost of spectacles, contact lenses. 
+23. a) Cost of hearing aids; including optometric therapy; b) cochlear implants unless necessitated by an 
+
+Accident or required intra-operatively. 
+
+24. Dental treatment or surgery of any kind unless necessitated by accident and requiring hospitalisation. 
+25. Any treatment related to sleep disorder or sleep apnoea syndrome 
+26. Intentional self-inflicted Injury, attempted suicide.  
+27. Treatments other than Allopathy and Ayurvedic, Homeopathic & Unani branches of medicine. 
+28. Any expenses incurred on Domiciliary Hospitalization 
+29. Any expenses incurred on Out-patient treatment (OPD treatment)  
+30. Unless used intra-operatively, any expenses incurred on prosthesis, corrective devices; External and 
+or durable Medical / Non-medical equipment of any kind used for diagnosis and/or treatment and/or 
+monitoring  and/or  maintenance  and/or  support  including  instruments  used  in  treatment  of  sleep 
+apnoea syndrome; Infusion pump, Oxygen concentrator, Ambulatory devices, sub cutaneous insulin 
+pump and also any medical equipment, which are subsequently used at home. This is indicative and 
+please refer to Annexure-1 for the complete list of non-payable items. 
+
+31. Change of treatment from one system of medicine to another system unless recommended by the 
+
+consultant/hospital under whom the treatment is taken.
+----------------------------------------
+Chunk 3 (Score: 0.5727):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: No additional sub-limit 
+
+Note on Co-payment:  
+For persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under 
+Base  Cover  1  to  5,  7  and  9  above  shall  be  subject  to  a  Co-payment  of  10%  on  the  admissible  claim 
+amount. 
+
+OPTIONAL COVERS: 
+10. Restoration of Sum Insured 
+If the Basic Sum Insured is exhausted completely or partially due to claims made and paid/ accepted as 
+payable during the Policy Year, then it is agreed that a Restore Sum Insured equal to 100% of the Basic 
+Sum Insured will be automatically and instantly available for the particular Policy Year, provided that: 
+
+a. 
+
+In case of policies on Individual Sum Insured basis the Restore sum insured, will be available to 
+each Insured Person individually and in case of a floater policy, the restore Sum Insured will be 
+available for all Insured Persons on floater basis. 
+
+b.  A single claim in a Policy Year cannot exceed the Basic Sum Insured. 
+c.  Such  restored  Sum  Insured  can  be  utilized  only  for  illness  /  disease  unrelated  to  the  illness  / 
+
+diseases for which claim(s) was / were made. 
+
+d.  The Restoration of Sum Insured will be applied only once during a Policy Year for family floater 
+policy. For Policy on Individual Sum Insured basis, the restore facility will be available once to each 
+Insured Person individually in a policy year. 
+If the Restore Sum Insured is not utilised in a Policy Year, it shall not be carried forward to any 
+subsequent Policy Year. 
+
+e.
+----------------------------------------
+Chunk 4 (Score: 0.5720):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: b. 
+
+c. 
+
+d.  The waiting period for listed conditions shall apply even if contracted after the policy or declared 
+
+e. 
+
+and accepted without a specific exclusion. 
+If the Insured Person is continuously covered without any break as defined under the applicable 
+norms on portability stipulated by IRDAI, then waiting period for the same would be reduced to 
+the extent of prior coverage. 
+
+f.  List of specific diseases/procedures: 
+
+Table A. Two years waiting period  
+
+1.  All internal and external benign tumours, 
+cysts, polyps of any kind, including benign 
+breast lumps 
+
+2.  Benign ENT disorders  
+
+3.  Benign prostatic hypertrophy 
+4.  Cataract  
+
+5.  Acid Peptic diseases 
+
+6.  Gout and Rheumatism 
+
+7.  Hernia of all types 
+8.  Hydrocele 
+9.  Non infective Arthritis 
+
+10. Piles, Fissures and Fistula-in-ano; 
+
+Pilonidal sinus 
+
+11. Prolapse intervertebral Disc and Spinal 
+
+Diseases unless arising from Accident 
+
+12. Benign Skin Disorders 
+13. Calculus diseases 
+14. Treatment for 
+
+Menorrhagia/Fibromyoma, Myoma 
+and Prolapse of uterus 
+
+15. Any treatment for varicose veins and 
+ulcers including surgical intervention 
+
+16. Polycystic ovarian disease 
+17. Internal Congenital Anomaly 
+
+Table B. Four years waiting period  
+
+1.  Joint Replacement due to Degenerative condition, unless necessitated due to an 
+
+accident.
+----------------------------------------
+Chunk 5 (Score: 0.5696):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: H 
+
+Stereotactic Radio Surgeries 
+
+I 
+
+Bronchial Thermoplasty 
+
+J 
+
+K 
+
+Vaporisation of the Prostate (Green laser 
+treatment or holmium laser treatment) 
+Intra Operative Neuro Monitoring (IONM) 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+Additional Limit 
+
+Upto 20% of Sum Insured subject to a maximum of Rs. 2 
+Lacs per policy period for claims involving Uterine Artery 
+Embolization & HIFU 
+Upto 10% of Sum Insured subject to a maximum of Rs. 1 
+Lac per policy period for claims involving Balloon 
+Sinuplasty 
+Upto 70% of Sum Insured per policy period for claims 
+involving Deep Brain Stimulation 
+Upto 20% of Sum Insured subject to a maximum of Rs. 2 
+Lacs per policy period for claims involving Oral 
+Chemotherapy 
+Upto 20% of Sum Insured subject to a maximum of Rs. 2 
+Lacs per policy period 
+Upto 10% of Sum Insured subject to a maximum of Rs. 1 
+Lac per policy period 
+•  Upto 75% of Sum Insured per policy period for claims 
+
+involving Robotic Surgeries for (i) the treatment of any 
+disease involving Central Nervous System irrespective 
+of aetiology; (ii) Malignancies 
+
+•  Upto 50% of Sum Insured per policy period for claims
+----------------------------------------
+Chunk 6 (Score: 0.5664):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: c.  Online Discount 
+
+A Discount of 10% will be applicable for fresh policies purchased online through the Company’s 
+website. For renewals, the same discount of 10% shall be offered provided the original policy was 
+purchased  online  through the  Company’s website  and  all  subsequent  renewals  are  only  made 
+through the Company’s website. 
+
+d.  Underwriting Loading for Pre-existing Conditions 
+
+We may apply a risk loading on the premium payable (excluding statutory levies & taxes) based 
+on  your  health  status  if  accepted  at  the  time  of  underwriting.  Loadings  will  be  applied  from 
+Inception Date of the first Policy including subsequent renewal(s).  
+The loadings are applicable on individual ailments only. In case of loading on two or more ailments, 
+the  loadings  shall  apply  in  conjunction  on  additive  basis.  However,  maximum  risk  loading  per 
+individual shall not exceed 50% of Premium excluding applicable Taxes. In case of floater policies, 
+where more than one individual have applicable loading for pre-existing condition, the highest of 
+the total loading of the individuals irrespective of age, shall be applied upto a maximum of 50% of 
+premium.  
+Details of applicable loadings by ailments/ condition are listed as under: 
+
+S.No. 
+
+List of Acceptable Conditions 
+(subject to other co-existing conditions) 
+
+1 
+2 
+3 
+4 
+5 
+6 
+
+Haemolytic  Anaemia 
+Asthma 
+Epilepsy 
+Renal Stones 
+Diabetes Mellitus 
+Hypertension 
+
+Applicable 
+Underwriting 
+Loading (%) 
+10 
+10 
+10 
+10 
+20 
+20
+----------------------------------------
+Chunk 7 (Score: 0.5657):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 2. Day Care Treatment Cover- 
+We will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy 
+Period following an Illness or Injury that occurs during the Policy Period provided that:   
+
+i. 
+
+ii. 
+
+iii. 
+
+The Medical Expenses are incurred in case of Day Care Treatment or Surgery undertaken for the 
+Illness/ condition covered under Base Cover that requires less than 24 hours Hospitalisation due 
+to advancement in technology, including for any procedure which requires a period of specialized 
+observation or care after completion of the procedure undertaken by an Insured Person as Day 
+Care Treatment. All Day Care Treatments as defined in the Section IV.A.8 of the policy above are 
+covered.  
+The Day Care Treatment is for Medically Necessary Treatment and follows the written Medical 
+Advice; 
+Procedures/treatments usually done on out-patient basis are not payable under the policy even if 
+converted  as  an  in-patient  in  the  hospital  for  more  than  24  hours  or  carried  out  in  Day  Care 
+Centres. Diagnostic Services are also not covered under this benefit. 
+
+3. Pre-Hospitalisation and Post-Hospitalisation Expenses –  
+We will cover, on a reimbursement basis, the Insured Person’s 
+
+a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+30 days prior to hospitalisation; and  
+
+b.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+60 days after the discharge from the hospital,  
+Subject to a maximum of 10% of Sum Insured, provided that:
+----------------------------------------
+
+QUESTION 2: I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?
+--------------------------------------------------
+Chunk 1 (Score: 0.6366):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: For detailed Guidelines on Portability, kindly refer the link: 
+https://www.irdai.gov.in/ADMINCMS/cms/whatsNew_Layout.aspx?page=PageNo3987&flag=1 
+
+9.  Renewal of Policy: 
+
+The policy shall ordinarily be renewable except on grounds of fraud, misrepresentation by the Insured 
+Person. 
+i. 
+
+The Company shall endeavour to give notice for renewal. However, the Company is not under 
+obligation to give any notice for renewal.  
+Renewal shall not be denied on the ground that the Insured Person had made a claim or claims 
+in the preceding policy years. 
+Request for renewal along with requisite premium shall be received by the Company before 
+the end of the policy period.  
+At  the  end  of  the  policy  period,  the  policy  shall  terminate  and can  be  renewed  within  the 
+Grace Period of 30 days to maintain continuity of benefits without break in policy. Coverage 
+is not available during the grace period. 
+No loading shall apply on renewals based on individual claims experience 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+10. Withdrawal of Policy: 
+
+i. 
+
+ii.
+----------------------------------------
+Chunk 2 (Score: 0.6359):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: c.  Online Discount 
+
+A Discount of 10% will be applicable for fresh policies purchased online through the Company’s 
+website. For renewals, the same discount of 10% shall be offered provided the original policy was 
+purchased  online  through the  Company’s website  and  all  subsequent  renewals  are  only  made 
+through the Company’s website. 
+
+d.  Underwriting Loading for Pre-existing Conditions 
+
+We may apply a risk loading on the premium payable (excluding statutory levies & taxes) based 
+on  your  health  status  if  accepted  at  the  time  of  underwriting.  Loadings  will  be  applied  from 
+Inception Date of the first Policy including subsequent renewal(s).  
+The loadings are applicable on individual ailments only. In case of loading on two or more ailments, 
+the  loadings  shall  apply  in  conjunction  on  additive  basis.  However,  maximum  risk  loading  per 
+individual shall not exceed 50% of Premium excluding applicable Taxes. In case of floater policies, 
+where more than one individual have applicable loading for pre-existing condition, the highest of 
+the total loading of the individuals irrespective of age, shall be applied upto a maximum of 50% of 
+premium.  
+Details of applicable loadings by ailments/ condition are listed as under: 
+
+S.No. 
+
+List of Acceptable Conditions 
+(subject to other co-existing conditions) 
+
+1 
+2 
+3 
+4 
+5 
+6 
+
+Haemolytic  Anaemia 
+Asthma 
+Epilepsy 
+Renal Stones 
+Diabetes Mellitus 
+Hypertension 
+
+Applicable 
+Underwriting 
+Loading (%) 
+10 
+10 
+10 
+10 
+20 
+20
+----------------------------------------
+Chunk 3 (Score: 0.6282):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Policy issued shall constitute complete contract of insurance. 
+
+20.  Change of Sum Insured 
+
+i. 
+
+ii. 
+
+iii. 
+
+The Insured member can apply for change (Increase/ Decrease) of Sum Insured at the time 
+of renewal, subject to underwriting, by submitting a fresh proposal form/ written request 
+to  the  company.  Any  request  for  increase  of  Sum  Insured  must  be  accompanied  by  a 
+declaration  that  the  Insured  or  any  other  Insured  Person  in  respect  of  whom  such 
+enhancement is sought is not aware of any symptoms or other indications that may give 
+rise  to  a  claim  under  the  policy.  The  Company  may  require  such  Insured  Person/s  to 
+undergo a Medical examination to enable the company to take a decision on accepting 
+the request for enhancement in the Sum Insured. 
+The  acceptance  of  enhancement  of  Sum  Insured  would  be  at  the  discretion  of  the 
+company, based on the health condition of the insured members & claim history of the 
+policy.  
+All waiting periods as defined in the Policy shall apply for the incremental portion of the 
+Sum Insured from the effective date of enhancement of such Sum Insured considering 
+such Policy Period as the first Policy with the Company.  
+
+21. Arbitration 
+
+i. 
+
+ii. 
+
+iii.
+----------------------------------------
+Chunk 4 (Score: 0.6204):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: d.  The Restoration of Sum Insured will be applied only once during a Policy Year for family floater 
+policy. For Policy on Individual Sum Insured basis, the restore facility will be available once to each 
+Insured Person individually in a policy year. 
+If the Restore Sum Insured is not utilised in a Policy Year, it shall not be carried forward to any 
+subsequent Policy Year. 
+
+e. 
+
+10.1  Automatic  Restoration  of  Basic  Sum  Insured  is  available  only  for  sum  insured  options  from  Rs. 
+3,00,000 and above. 
+
+10.2 For persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under 
+this optional cover shall be subject to a Co-payment of 10% on the admissible claim amount. 
+
+11. Maternity Expenses and New Born Baby Cover 
+
+a.  Maternity Expenses: We shall pay the Medical Expenses incurred as an In-patient for a delivery 
+(including caesarean section) or lawful medical termination of pregnancy during the Policy Period 
+limited to two deliveries or terminations or either during the lifetime of the Insured Person. This 
+benefit  is  applicable  only when  the  Sum  Insured  is above  Rs.  3  Lacs,  and available  only  to  the 
+Insured or his spouse, provided that: 
+i.
+----------------------------------------
+Chunk 5 (Score: 0.6094):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 7.  Migration: 
+
+The Insured Person will have the option to migrate the policy to other health insurance products/plans 
+offered  by  the  company  by  applying  for  migration  of  the  policy  at  least 30  days  before  the  policy 
+renewal date as per IRDAI guidelines on Migration. lf such person is presently covered and has been 
+continuously  covered  without  any  lapses  under  any  health  insurance  product/plan  offered  by  the 
+company, the Insured Person will get the accrued continuity benefits in waiting periods as per IRDAI 
+guidelines on migration. For Detailed Guidelines on migration, kindly refer the link: 
+https://www.irdai.gov.in/ADMINCMS/cms/whatsNew_Layout.aspx?page=PageNo3987&flag=1 
+
+8.  Portability: 
+
+The Insured Person will have the option to port the policy to other Insurers by applying to such Insurer 
+to port the entire policy along with all the members of the family, if any, at least 45 days before, but 
+not earlier than 60 days from the policy renewal date as per IRDAI guidelines related to portability. If 
+such person is presently covered and has been continuously covered without any lapses under any 
+health insurance policy with an Indian General/Health Insurer, the proposed Insured Person will get 
+the accrued continuity benefits in waiting periods as per IRDAI guidelines on portability 
+
+For detailed Guidelines on Portability, kindly refer the link: 
+https://www.irdai.gov.in/ADMINCMS/cms/whatsNew_Layout.aspx?page=PageNo3987&flag=1 
+
+9.  Renewal of Policy:
+----------------------------------------
+Chunk 6 (Score: 0.6015):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: CANCELLATION AFTER PERIOD ON RISK        
+Upto one month                       
+>one month and upto three months                     1/2 of the annual rate 
+>three months and upto six months                       1/4th of the annual rate 
+Exceeding six months               
+
+No refund 
+
+RATE OF PREMIUM TO BE REFUNDED 
+3/4th of the annual rate 
+
+ii. 
+
+Notwithstanding  anything  contained  herein  or  otherwise,  no  refunds  of  premium  shall  be 
+made in respect of Cancellation where, any claim has been admitted or has been lodged or 
+any benefit has been availed by the Insured Person under the policy.  
+The  Company  may  cancel  the  policy  at  any  time  on  grounds  of  misrepresentation,  non-
+disclosure  of material  facts,  fraud  by  the  Insured  Person  by  giving  15  days' written  notice. 
+There would be no refund of premium on cancellation on grounds of misrepresentation, non-
+disclosure of material facts or fraud. 
+
+7.  Migration:
+----------------------------------------
+Chunk 7 (Score: 0.5993):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: No additional sub-limit 
+
+Note on Co-payment:  
+For persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under 
+Base  Cover  1  to  5,  7  and  9  above  shall  be  subject  to  a  Co-payment  of  10%  on  the  admissible  claim 
+amount. 
+
+OPTIONAL COVERS: 
+10. Restoration of Sum Insured 
+If the Basic Sum Insured is exhausted completely or partially due to claims made and paid/ accepted as 
+payable during the Policy Year, then it is agreed that a Restore Sum Insured equal to 100% of the Basic 
+Sum Insured will be automatically and instantly available for the particular Policy Year, provided that: 
+
+a. 
+
+In case of policies on Individual Sum Insured basis the Restore sum insured, will be available to 
+each Insured Person individually and in case of a floater policy, the restore Sum Insured will be 
+available for all Insured Persons on floater basis. 
+
+b.  A single claim in a Policy Year cannot exceed the Basic Sum Insured. 
+c.  Such  restored  Sum  Insured  can  be  utilized  only  for  illness  /  disease  unrelated  to  the  illness  / 
+
+diseases for which claim(s) was / were made. 
+
+d.  The Restoration of Sum Insured will be applied only once during a Policy Year for family floater 
+policy. For Policy on Individual Sum Insured basis, the restore facility will be available once to each 
+Insured Person individually in a policy year. 
+If the Restore Sum Insured is not utilised in a Policy Year, it shall not be carried forward to any 
+subsequent Policy Year. 
+
+e.
+----------------------------------------
+
+QUESTION 3: Is abortion covered?
+--------------------------------------------------
+Chunk 1 (Score: 0.6299):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 11.1 
+
+Special conditions applicable to Maternity Expenses and New Born Baby Cover 
+i. 
+
+These benefits are admissible only if the expenses are incurred in Hospital/Nursing Home as 
+in-patients in India. 
+Surrogate or vicarious pregnancy is not covered. 
+Expenses incurred in connection with voluntary medical termination of pregnancy during the 
+first twelve weeks from the date of conception are not covered. 
+Pre-natal and post-natal expenses are not covered unless admitted in Hospital/Nursing Home 
+and treatment is taken there. 
+Pre  Hospitalisation  and  Post-Hospitalisation  benefits  are  not  available  under  these  two 
+clauses. 
+Subject to the terms & conditions, the Policy covers New Born Baby beyond 90 days only on 
+payment of requisite premium. 
+
+ii. 
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+If this Option is in force in respect of the Insured Person, then the relevant part of Exclusion VI.B.14 will 
+be deemed inoperative for the purpose of this Option. 
+
+12. Daily Cash Allowance on Hospitalisation 
+We will pay Daily Cash Allowance to the Insured Person for every continuous and completed period of 24 
+hours of Hospitalisation, subject to the hospitalisation claim being admissible under the policy, as per the 
+table below: 
+
+Sum Insured 
+Upto Rs. 5 Lacs 
+Above  Rs.  5  Lacs  and  upto 
+Rs. 15 Lacs 
+Above  Rs. 15  Lacs  and  upto 
+Rs. 25 Lacs 
+
+Limit (Rs.) per day 
+Rs. 500 per day subject to a maximum of Rs. 5000 per policy period 
+Rs. 1000 per day subject to a maximum of Rs. 10000 per policy period
+----------------------------------------
+Chunk 2 (Score: 0.6110):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Family Medicare Policy with this optional cover has been continuously in force for a period of 
+minimum 24 months. 
+Those Insured Persons who are already having two or more living children will not be eligible 
+for this benefit 
+Company’s maximum liability per delivery or termination shall be limited to 10% of the Sum 
+Insured as stated in the Schedule subject to a maximum of Rs. 40000 in case of normal delivery 
+and Rs. 60000 in case of caesarean section and in no case shall the Company’s liability under 
+this clause exceed 10% of the Sum Insured, in any one Policy Period. 
+
+ii. 
+
+iii. 
+
+b.  New Born Baby Cover: New born Baby shall be covered from day one upto the age of 90 days and 
+expenses incurred for treatment taken in Hospital as in-patient shall only be payable, provided 
+that: 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+i. 
+ii. 
+iii. 
+
+Claim under Maternity clause is admissible under the Policy 
+Company’s liability shall be limited to 10% of the Sum Insured as stated in the Schedule. 
+In  case  the  90-days  period  for  the  New  Born  Baby  is  spread  over  two  Policy  Periods,  the 
+aggregate liability of the Company, for all claims in respect of the New Born Baby, shall be 
+limited to 10% of the Sum Insured of the Policy under which Maternity claim was admitted. 
+
+11.1
+----------------------------------------
+Chunk 3 (Score: 0.5906):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 6. Organ Donor Benefit- When Insured Person is the Donor 
+A lump sum payment of 10% of Sum Insured, to take care of medical and other incidental expenses is 
+payable  to  the  Insured  Person  donating  an  organ  provided  that  the  donation  conforms  to  the 
+Transplantation of Human Organs Act 1994 (amended) and any other extant Act, Central / State Rules / 
+regulations, as applicable, in respect of transplantation of human organs. 
+This benefit is subject to the Policy (Family Medicare Policy) having been continuously in force for at least 
+12 (twelve) months in respect of that Insured Person. 
+
+7.  Road Ambulance Cover 
+We will cover the costs incurred up to: 
+
+i. 
+ii. 
+
+0.5% of the Sum Insured subject to a maximum of Rs. 2500 per event and  
+1% of the Sum Insured subject to a maximum of Rs. 5000 per policy period  
+
+on transportation of the Insured Person by road Ambulance to a Hospital for treatment in an Emergency 
+following an Illness or Injury which occurs during the Policy Period. The necessity of use of an Ambulance 
+must be certified by the treating Medical Practitioner and becomes payable if a claim has been admitted 
+under Section V.1 or V.2 and the expenses are related to the same Illness or Injury. 
+We will also cover the costs incurred on transportation of the Insured Person by road Ambulance in the 
+following circumstances up to the limits specified above under this cover, if:     
+
+a. 
+
+b.
+----------------------------------------
+Chunk 4 (Score: 0.5840):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: b.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient 
+Hospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. 
+3,00,000 per policy year;  
+
+1.  Schizophrenia (ICD - F20; F21; F25)  
+2.  Bipolar Affective Disorders (ICD - F31; F34)  
+3.  Depression (ICD - F32; F33)  
+4.  Obsessive Compulsive Disorders (ICD - F42; F60.5)  
+5.  Psychosis (ICD - F 22; F23; F28; F29)  
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+2. Day Care Treatment Cover- 
+We will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy 
+Period following an Illness or Injury that occurs during the Policy Period provided that:   
+
+i. 
+
+ii. 
+
+iii.
+----------------------------------------
+Chunk 5 (Score: 0.5656):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 2. Day Care Treatment Cover- 
+We will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy 
+Period following an Illness or Injury that occurs during the Policy Period provided that:   
+
+i. 
+
+ii. 
+
+iii. 
+
+The Medical Expenses are incurred in case of Day Care Treatment or Surgery undertaken for the 
+Illness/ condition covered under Base Cover that requires less than 24 hours Hospitalisation due 
+to advancement in technology, including for any procedure which requires a period of specialized 
+observation or care after completion of the procedure undertaken by an Insured Person as Day 
+Care Treatment. All Day Care Treatments as defined in the Section IV.A.8 of the policy above are 
+covered.  
+The Day Care Treatment is for Medically Necessary Treatment and follows the written Medical 
+Advice; 
+Procedures/treatments usually done on out-patient basis are not payable under the policy even if 
+converted  as  an  in-patient  in  the  hospital  for  more  than  24  hours  or  carried  out  in  Day  Care 
+Centres. Diagnostic Services are also not covered under this benefit. 
+
+3. Pre-Hospitalisation and Post-Hospitalisation Expenses –  
+We will cover, on a reimbursement basis, the Insured Person’s 
+
+a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+30 days prior to hospitalisation; and  
+
+b.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+60 days after the discharge from the hospital,  
+Subject to a maximum of 10% of Sum Insured, provided that:
+----------------------------------------
+Chunk 6 (Score: 0.5635):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: d.  The Restoration of Sum Insured will be applied only once during a Policy Year for family floater 
+policy. For Policy on Individual Sum Insured basis, the restore facility will be available once to each 
+Insured Person individually in a policy year. 
+If the Restore Sum Insured is not utilised in a Policy Year, it shall not be carried forward to any 
+subsequent Policy Year. 
+
+e. 
+
+10.1  Automatic  Restoration  of  Basic  Sum  Insured  is  available  only  for  sum  insured  options  from  Rs. 
+3,00,000 and above. 
+
+10.2 For persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under 
+this optional cover shall be subject to a Co-payment of 10% on the admissible claim amount. 
+
+11. Maternity Expenses and New Born Baby Cover 
+
+a.  Maternity Expenses: We shall pay the Medical Expenses incurred as an In-patient for a delivery 
+(including caesarean section) or lawful medical termination of pregnancy during the Policy Period 
+limited to two deliveries or terminations or either during the lifetime of the Insured Person. This 
+benefit  is  applicable  only when  the  Sum  Insured  is above  Rs.  3  Lacs,  and available  only  to  the 
+Insured or his spouse, provided that: 
+i.
+----------------------------------------
+Chunk 7 (Score: 0.5573):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 13. Sterility and Infertility (Code- Excl17): Expenses related to sterility and infertility. This includes: 
+
+i. 
+ii. 
+
+iii. 
+iv. 
+
+Any type of contraception, sterilization 
+Assisted  Reproduction  services  including  artificial  insemination  and  advanced  reproductive 
+technologies such as IVF, ZIFT, GIFT, ICSI 
+Gestational Surrogacy 
+Reversal of sterilization 
+
+14. Maternity (Code- Excl18): 
+
+a.  Medical  treatment  expenses  traceable  to  childbirth  (including  complicated  deliveries  and 
+
+caesarean sections incurred during hospitalisation) except ectopic pregnancy; 
+
+b.  Expenses  towards  miscarriage  (unless  due  to  an  accident)  and  lawful  medical  termination  of 
+
+pregnancy during the policy period. 
+
+C. SPECIFIC PERMANENT EXCLUSIONS 
+
+15. All  expenses  caused  by  or  arising  from  or  attributable  to  foreign  invasion,  act  of  foreign  enemies, 
+hostilities,  warlike  operations  (whether  war  be  declared  or  not  or  while  performing  duties  in  the 
+armed forces of any country), civil war, public defence, rebellion, revolution, insurrection, military or 
+usurped power. 
+
+16. All Illness/expenses caused by ionizing radiation or contamination by radioactivity from any nuclear 
+fuel (explosive or hazardous form) or from any nuclear waste from the combustion of nuclear fuel 
+nuclear, chemical or biological attack. 
+
+17. a) Stem cell implantation/Surgery/therapy, harvesting, storage or any kind of Treatment using stem
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:51:36.368156",
+  "request_start_time": "2025-08-06T06:51:32.565857",
+  "total_processing_time_seconds": 3.801856756210327,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf?sv=2023-01-03&st=2025-07-22T10%3A17%3A39Z&se=2025-08-23T10%3A17%3A00Z&sr=b&sp=r&sig=dA7BEMIZg3WcePcckBOb4QjfxK%2B4rIfxBs2%2F%2BNwoPjQ%3D",
+    "extracted_filename": "Family Medicare Policy (UIN- UIIHLIP22070V042122) 1.pdf",
+    "matched_file": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "Is Non-infective Arthritis covered?",
+    "I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?",
+    "Is abortion covered?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "Is Non-infective Arthritis covered?",
+      "answer": "Non-infective Arthritis is subject to a two-year waiting period."
+    },
+    {
+      "question": "I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?",
+      "answer": "Yes, you can raise a claim for Hydrocele as there is no explicit exclusion for it in the provided document."
+    },
+    {
+      "question": "Is abortion covered?",
+      "answer": "Abortion is not covered unless it is due to an accident."
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.5838296,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "involving Robotic Surgeries for (i) the treatment of any \ndisease involving Central Nervous System irrespective \nof aetiology; (ii) Malignancies \n\n•  Upto 50% of Sum Insured per policy period for claims \n\ninvolving Robotic Surgeries for other diseases \nUpto 50% of Sum Insured per policy period for claims \ninvolving Stereotactic Radio Surgeries \nUpto 30% of Sum Insured subject to a maximum of Rs. 3 \nLacs per policy period for claims involving Bronchial \nThermoplasty \nUpto 30% of Sum Insured subject to a maximum of Rs. 2 \nLacs per policy period \nUpto 15% of Sum Insured per policy period for claims \ninvolving Intra Operative Neuro Monitoring \n\n10 \n\n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\nL \n\nStem Cell Therapy: Hematopoietic stem cells \nfor bone marrow transplant for \nhaematological conditions to be covered only \n\nNo additional sub-limit \n\nNote on Co-payment:  \nFor persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under \nBase  Cover  1  to  5,  7  and  9  above  shall  be  subject  to  a  Co-payment  of  10%  on  the  admissible  claim \namount."
+      },
+      {
+        "score": 0.5760095,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "21. Vaccination or inoculation of any kind unless it is post animal bite. \n22. Routine eye-examinations, cost of spectacles, contact lenses. \n23. a) Cost of hearing aids; including optometric therapy; b) cochlear implants unless necessitated by an \n\nAccident or required intra-operatively. \n\n24. Dental treatment or surgery of any kind unless necessitated by accident and requiring hospitalisation. \n25. Any treatment related to sleep disorder or sleep apnoea syndrome \n26. Intentional self-inflicted Injury, attempted suicide.  \n27. Treatments other than Allopathy and Ayurvedic, Homeopathic & Unani branches of medicine. \n28. Any expenses incurred on Domiciliary Hospitalization \n29. Any expenses incurred on Out-patient treatment (OPD treatment)  \n30. Unless used intra-operatively, any expenses incurred on prosthesis, corrective devices; External and \nor durable Medical / Non-medical equipment of any kind used for diagnosis and/or treatment and/or \nmonitoring  and/or  maintenance  and/or  support  including  instruments  used  in  treatment  of  sleep \napnoea syndrome; Infusion pump, Oxygen concentrator, Ambulatory devices, sub cutaneous insulin \npump and also any medical equipment, which are subsequently used at home. This is indicative and \nplease refer to Annexure-1 for the complete list of non-payable items. \n\n31. Change of treatment from one system of medicine to another system unless recommended by the \n\nconsultant/hospital under whom the treatment is taken."
+      },
+      {
+        "score": 0.57267714,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "No additional sub-limit \n\nNote on Co-payment:  \nFor persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under \nBase  Cover  1  to  5,  7  and  9  above  shall  be  subject  to  a  Co-payment  of  10%  on  the  admissible  claim \namount. \n\nOPTIONAL COVERS: \n10. Restoration of Sum Insured \nIf the Basic Sum Insured is exhausted completely or partially due to claims made and paid/ accepted as \npayable during the Policy Year, then it is agreed that a Restore Sum Insured equal to 100% of the Basic \nSum Insured will be automatically and instantly available for the particular Policy Year, provided that: \n\na. \n\nIn case of policies on Individual Sum Insured basis the Restore sum insured, will be available to \neach Insured Person individually and in case of a floater policy, the restore Sum Insured will be \navailable for all Insured Persons on floater basis. \n\nb.  A single claim in a Policy Year cannot exceed the Basic Sum Insured. \nc.  Such  restored  Sum  Insured  can  be  utilized  only  for  illness  /  disease  unrelated  to  the  illness  / \n\ndiseases for which claim(s) was / were made. \n\nd.  The Restoration of Sum Insured will be applied only once during a Policy Year for family floater \npolicy. For Policy on Individual Sum Insured basis, the restore facility will be available once to each \nInsured Person individually in a policy year. \nIf the Restore Sum Insured is not utilised in a Policy Year, it shall not be carried forward to any \nsubsequent Policy Year. \n\ne."
+      },
+      {
+        "score": 0.57204485,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "b. \n\nc. \n\nd.  The waiting period for listed conditions shall apply even if contracted after the policy or declared \n\ne. \n\nand accepted without a specific exclusion. \nIf the Insured Person is continuously covered without any break as defined under the applicable \nnorms on portability stipulated by IRDAI, then waiting period for the same would be reduced to \nthe extent of prior coverage. \n\nf.  List of specific diseases/procedures: \n\nTable A. Two years waiting period  \n\n1.  All internal and external benign tumours, \ncysts, polyps of any kind, including benign \nbreast lumps \n\n2.  Benign ENT disorders  \n\n3.  Benign prostatic hypertrophy \n4.  Cataract  \n\n5.  Acid Peptic diseases \n\n6.  Gout and Rheumatism \n\n7.  Hernia of all types \n8.  Hydrocele \n9.  Non infective Arthritis \n\n10. Piles, Fissures and Fistula-in-ano; \n\nPilonidal sinus \n\n11. Prolapse intervertebral Disc and Spinal \n\nDiseases unless arising from Accident \n\n12. Benign Skin Disorders \n13. Calculus diseases \n14. Treatment for \n\nMenorrhagia/Fibromyoma, Myoma \nand Prolapse of uterus \n\n15. Any treatment for varicose veins and \nulcers including surgical intervention \n\n16. Polycystic ovarian disease \n17. Internal Congenital Anomaly \n\nTable B. Four years waiting period  \n\n1.  Joint Replacement due to Degenerative condition, unless necessitated due to an \n\naccident."
+      },
+      {
+        "score": 0.56957084,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "H \n\nStereotactic Radio Surgeries \n\nI \n\nBronchial Thermoplasty \n\nJ \n\nK \n\nVaporisation of the Prostate (Green laser \ntreatment or holmium laser treatment) \nIntra Operative Neuro Monitoring (IONM) \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\nAdditional Limit \n\nUpto 20% of Sum Insured subject to a maximum of Rs. 2 \nLacs per policy period for claims involving Uterine Artery \nEmbolization & HIFU \nUpto 10% of Sum Insured subject to a maximum of Rs. 1 \nLac per policy period for claims involving Balloon \nSinuplasty \nUpto 70% of Sum Insured per policy period for claims \ninvolving Deep Brain Stimulation \nUpto 20% of Sum Insured subject to a maximum of Rs. 2 \nLacs per policy period for claims involving Oral \nChemotherapy \nUpto 20% of Sum Insured subject to a maximum of Rs. 2 \nLacs per policy period \nUpto 10% of Sum Insured subject to a maximum of Rs. 1 \nLac per policy period \n•  Upto 75% of Sum Insured per policy period for claims \n\ninvolving Robotic Surgeries for (i) the treatment of any \ndisease involving Central Nervous System irrespective \nof aetiology; (ii) Malignancies \n\n•  Upto 50% of Sum Insured per policy period for claims"
+      },
+      {
+        "score": 0.5663664,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "c.  Online Discount \n\nA Discount of 10% will be applicable for fresh policies purchased online through the Company’s \nwebsite. For renewals, the same discount of 10% shall be offered provided the original policy was \npurchased  online  through the  Company’s website  and  all  subsequent  renewals  are  only  made \nthrough the Company’s website. \n\nd.  Underwriting Loading for Pre-existing Conditions \n\nWe may apply a risk loading on the premium payable (excluding statutory levies & taxes) based \non  your  health  status  if  accepted  at  the  time  of  underwriting.  Loadings  will  be  applied  from \nInception Date of the first Policy including subsequent renewal(s).  \nThe loadings are applicable on individual ailments only. In case of loading on two or more ailments, \nthe  loadings  shall  apply  in  conjunction  on  additive  basis.  However,  maximum  risk  loading  per \nindividual shall not exceed 50% of Premium excluding applicable Taxes. In case of floater policies, \nwhere more than one individual have applicable loading for pre-existing condition, the highest of \nthe total loading of the individuals irrespective of age, shall be applied upto a maximum of 50% of \npremium.  \nDetails of applicable loadings by ailments/ condition are listed as under: \n\nS.No. \n\nList of Acceptable Conditions \n(subject to other co-existing conditions) \n\n1 \n2 \n3 \n4 \n5 \n6 \n\nHaemolytic  Anaemia \nAsthma \nEpilepsy \nRenal Stones \nDiabetes Mellitus \nHypertension \n\nApplicable \nUnderwriting \nLoading (%) \n10 \n10 \n10 \n10 \n20 \n20"
+      },
+      {
+        "score": 0.56571555,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "2. Day Care Treatment Cover- \nWe will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy \nPeriod following an Illness or Injury that occurs during the Policy Period provided that:   \n\ni. \n\nii. \n\niii. \n\nThe Medical Expenses are incurred in case of Day Care Treatment or Surgery undertaken for the \nIllness/ condition covered under Base Cover that requires less than 24 hours Hospitalisation due \nto advancement in technology, including for any procedure which requires a period of specialized \nobservation or care after completion of the procedure undertaken by an Insured Person as Day \nCare Treatment. All Day Care Treatments as defined in the Section IV.A.8 of the policy above are \ncovered.  \nThe Day Care Treatment is for Medically Necessary Treatment and follows the written Medical \nAdvice; \nProcedures/treatments usually done on out-patient basis are not payable under the policy even if \nconverted  as  an  in-patient  in  the  hospital  for  more  than  24  hours  or  carried  out  in  Day  Care \nCentres. Diagnostic Services are also not covered under this benefit. \n\n3. Pre-Hospitalisation and Post-Hospitalisation Expenses –  \nWe will cover, on a reimbursement basis, the Insured Person’s \n\na.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n30 days prior to hospitalisation; and  \n\nb.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n60 days after the discharge from the hospital,  \nSubject to a maximum of 10% of Sum Insured, provided that:"
+      }
+    ],
+    [
+      {
+        "score": 0.6365886,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "For detailed Guidelines on Portability, kindly refer the link: \nhttps://www.irdai.gov.in/ADMINCMS/cms/whatsNew_Layout.aspx?page=PageNo3987&flag=1 \n\n9.  Renewal of Policy: \n\nThe policy shall ordinarily be renewable except on grounds of fraud, misrepresentation by the Insured \nPerson. \ni. \n\nThe Company shall endeavour to give notice for renewal. However, the Company is not under \nobligation to give any notice for renewal.  \nRenewal shall not be denied on the ground that the Insured Person had made a claim or claims \nin the preceding policy years. \nRequest for renewal along with requisite premium shall be received by the Company before \nthe end of the policy period.  \nAt  the  end  of  the  policy  period,  the  policy  shall  terminate  and can  be  renewed  within  the \nGrace Period of 30 days to maintain continuity of benefits without break in policy. Coverage \nis not available during the grace period. \nNo loading shall apply on renewals based on individual claims experience \n\nii. \n\niii. \n\niv. \n\nv. \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n18 \n\n \n \n \n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\n10. Withdrawal of Policy: \n\ni. \n\nii."
+      },
+      {
+        "score": 0.63592875,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "c.  Online Discount \n\nA Discount of 10% will be applicable for fresh policies purchased online through the Company’s \nwebsite. For renewals, the same discount of 10% shall be offered provided the original policy was \npurchased  online  through the  Company’s website  and  all  subsequent  renewals  are  only  made \nthrough the Company’s website. \n\nd.  Underwriting Loading for Pre-existing Conditions \n\nWe may apply a risk loading on the premium payable (excluding statutory levies & taxes) based \non  your  health  status  if  accepted  at  the  time  of  underwriting.  Loadings  will  be  applied  from \nInception Date of the first Policy including subsequent renewal(s).  \nThe loadings are applicable on individual ailments only. In case of loading on two or more ailments, \nthe  loadings  shall  apply  in  conjunction  on  additive  basis.  However,  maximum  risk  loading  per \nindividual shall not exceed 50% of Premium excluding applicable Taxes. In case of floater policies, \nwhere more than one individual have applicable loading for pre-existing condition, the highest of \nthe total loading of the individuals irrespective of age, shall be applied upto a maximum of 50% of \npremium.  \nDetails of applicable loadings by ailments/ condition are listed as under: \n\nS.No. \n\nList of Acceptable Conditions \n(subject to other co-existing conditions) \n\n1 \n2 \n3 \n4 \n5 \n6 \n\nHaemolytic  Anaemia \nAsthma \nEpilepsy \nRenal Stones \nDiabetes Mellitus \nHypertension \n\nApplicable \nUnderwriting \nLoading (%) \n10 \n10 \n10 \n10 \n20 \n20"
+      },
+      {
+        "score": 0.62821853,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Policy issued shall constitute complete contract of insurance. \n\n20.  Change of Sum Insured \n\ni. \n\nii. \n\niii. \n\nThe Insured member can apply for change (Increase/ Decrease) of Sum Insured at the time \nof renewal, subject to underwriting, by submitting a fresh proposal form/ written request \nto  the  company.  Any  request  for  increase  of  Sum  Insured  must  be  accompanied  by  a \ndeclaration  that  the  Insured  or  any  other  Insured  Person  in  respect  of  whom  such \nenhancement is sought is not aware of any symptoms or other indications that may give \nrise  to  a  claim  under  the  policy.  The  Company  may  require  such  Insured  Person/s  to \nundergo a Medical examination to enable the company to take a decision on accepting \nthe request for enhancement in the Sum Insured. \nThe  acceptance  of  enhancement  of  Sum  Insured  would  be  at  the  discretion  of  the \ncompany, based on the health condition of the insured members & claim history of the \npolicy.  \nAll waiting periods as defined in the Policy shall apply for the incremental portion of the \nSum Insured from the effective date of enhancement of such Sum Insured considering \nsuch Policy Period as the first Policy with the Company.  \n\n21. Arbitration \n\ni. \n\nii. \n\niii."
+      },
+      {
+        "score": 0.6204465,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "d.  The Restoration of Sum Insured will be applied only once during a Policy Year for family floater \npolicy. For Policy on Individual Sum Insured basis, the restore facility will be available once to each \nInsured Person individually in a policy year. \nIf the Restore Sum Insured is not utilised in a Policy Year, it shall not be carried forward to any \nsubsequent Policy Year. \n\ne. \n\n10.1  Automatic  Restoration  of  Basic  Sum  Insured  is  available  only  for  sum  insured  options  from  Rs. \n3,00,000 and above. \n\n10.2 For persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under \nthis optional cover shall be subject to a Co-payment of 10% on the admissible claim amount. \n\n11. Maternity Expenses and New Born Baby Cover \n\na.  Maternity Expenses: We shall pay the Medical Expenses incurred as an In-patient for a delivery \n(including caesarean section) or lawful medical termination of pregnancy during the Policy Period \nlimited to two deliveries or terminations or either during the lifetime of the Insured Person. This \nbenefit  is  applicable  only when  the  Sum  Insured  is above  Rs.  3  Lacs,  and available  only  to  the \nInsured or his spouse, provided that: \ni."
+      },
+      {
+        "score": 0.60939735,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "7.  Migration: \n\nThe Insured Person will have the option to migrate the policy to other health insurance products/plans \noffered  by  the  company  by  applying  for  migration  of  the  policy  at  least 30  days  before  the  policy \nrenewal date as per IRDAI guidelines on Migration. lf such person is presently covered and has been \ncontinuously  covered  without  any  lapses  under  any  health  insurance  product/plan  offered  by  the \ncompany, the Insured Person will get the accrued continuity benefits in waiting periods as per IRDAI \nguidelines on migration. For Detailed Guidelines on migration, kindly refer the link: \nhttps://www.irdai.gov.in/ADMINCMS/cms/whatsNew_Layout.aspx?page=PageNo3987&flag=1 \n\n8.  Portability: \n\nThe Insured Person will have the option to port the policy to other Insurers by applying to such Insurer \nto port the entire policy along with all the members of the family, if any, at least 45 days before, but \nnot earlier than 60 days from the policy renewal date as per IRDAI guidelines related to portability. If \nsuch person is presently covered and has been continuously covered without any lapses under any \nhealth insurance policy with an Indian General/Health Insurer, the proposed Insured Person will get \nthe accrued continuity benefits in waiting periods as per IRDAI guidelines on portability \n\nFor detailed Guidelines on Portability, kindly refer the link: \nhttps://www.irdai.gov.in/ADMINCMS/cms/whatsNew_Layout.aspx?page=PageNo3987&flag=1 \n\n9.  Renewal of Policy:"
+      },
+      {
+        "score": 0.60145855,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "CANCELLATION AFTER PERIOD ON RISK        \nUpto one month                       \n>one month and upto three months                     1/2 of the annual rate \n>three months and upto six months                       1/4th of the annual rate \nExceeding six months               \n\nNo refund \n\nRATE OF PREMIUM TO BE REFUNDED \n3/4th of the annual rate \n\nii. \n\nNotwithstanding  anything  contained  herein  or  otherwise,  no  refunds  of  premium  shall  be \nmade in respect of Cancellation where, any claim has been admitted or has been lodged or \nany benefit has been availed by the Insured Person under the policy.  \nThe  Company  may  cancel  the  policy  at  any  time  on  grounds  of  misrepresentation,  non-\ndisclosure  of material  facts,  fraud  by  the  Insured  Person  by  giving  15  days' written  notice. \nThere would be no refund of premium on cancellation on grounds of misrepresentation, non-\ndisclosure of material facts or fraud. \n\n7.  Migration:"
+      },
+      {
+        "score": 0.59933877,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "No additional sub-limit \n\nNote on Co-payment:  \nFor persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under \nBase  Cover  1  to  5,  7  and  9  above  shall  be  subject  to  a  Co-payment  of  10%  on  the  admissible  claim \namount. \n\nOPTIONAL COVERS: \n10. Restoration of Sum Insured \nIf the Basic Sum Insured is exhausted completely or partially due to claims made and paid/ accepted as \npayable during the Policy Year, then it is agreed that a Restore Sum Insured equal to 100% of the Basic \nSum Insured will be automatically and instantly available for the particular Policy Year, provided that: \n\na. \n\nIn case of policies on Individual Sum Insured basis the Restore sum insured, will be available to \neach Insured Person individually and in case of a floater policy, the restore Sum Insured will be \navailable for all Insured Persons on floater basis. \n\nb.  A single claim in a Policy Year cannot exceed the Basic Sum Insured. \nc.  Such  restored  Sum  Insured  can  be  utilized  only  for  illness  /  disease  unrelated  to  the  illness  / \n\ndiseases for which claim(s) was / were made. \n\nd.  The Restoration of Sum Insured will be applied only once during a Policy Year for family floater \npolicy. For Policy on Individual Sum Insured basis, the restore facility will be available once to each \nInsured Person individually in a policy year. \nIf the Restore Sum Insured is not utilised in a Policy Year, it shall not be carried forward to any \nsubsequent Policy Year. \n\ne."
+      }
+    ],
+    [
+      {
+        "score": 0.6299172,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "11.1 \n\nSpecial conditions applicable to Maternity Expenses and New Born Baby Cover \ni. \n\nThese benefits are admissible only if the expenses are incurred in Hospital/Nursing Home as \nin-patients in India. \nSurrogate or vicarious pregnancy is not covered. \nExpenses incurred in connection with voluntary medical termination of pregnancy during the \nfirst twelve weeks from the date of conception are not covered. \nPre-natal and post-natal expenses are not covered unless admitted in Hospital/Nursing Home \nand treatment is taken there. \nPre  Hospitalisation  and  Post-Hospitalisation  benefits  are  not  available  under  these  two \nclauses. \nSubject to the terms & conditions, the Policy covers New Born Baby beyond 90 days only on \npayment of requisite premium. \n\nii. \niii. \n\niv. \n\nv. \n\nvi. \n\nIf this Option is in force in respect of the Insured Person, then the relevant part of Exclusion VI.B.14 will \nbe deemed inoperative for the purpose of this Option. \n\n12. Daily Cash Allowance on Hospitalisation \nWe will pay Daily Cash Allowance to the Insured Person for every continuous and completed period of 24 \nhours of Hospitalisation, subject to the hospitalisation claim being admissible under the policy, as per the \ntable below: \n\nSum Insured \nUpto Rs. 5 Lacs \nAbove  Rs.  5  Lacs  and  upto \nRs. 15 Lacs \nAbove  Rs. 15  Lacs  and  upto \nRs. 25 Lacs \n\nLimit (Rs.) per day \nRs. 500 per day subject to a maximum of Rs. 5000 per policy period \nRs. 1000 per day subject to a maximum of Rs. 10000 per policy period"
+      },
+      {
+        "score": 0.6109545,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Family Medicare Policy with this optional cover has been continuously in force for a period of \nminimum 24 months. \nThose Insured Persons who are already having two or more living children will not be eligible \nfor this benefit \nCompany’s maximum liability per delivery or termination shall be limited to 10% of the Sum \nInsured as stated in the Schedule subject to a maximum of Rs. 40000 in case of normal delivery \nand Rs. 60000 in case of caesarean section and in no case shall the Company’s liability under \nthis clause exceed 10% of the Sum Insured, in any one Policy Period. \n\nii. \n\niii. \n\nb.  New Born Baby Cover: New born Baby shall be covered from day one upto the age of 90 days and \nexpenses incurred for treatment taken in Hospital as in-patient shall only be payable, provided \nthat: \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n11 \n\n \n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\ni. \nii. \niii. \n\nClaim under Maternity clause is admissible under the Policy \nCompany’s liability shall be limited to 10% of the Sum Insured as stated in the Schedule. \nIn  case  the  90-days  period  for  the  New  Born  Baby  is  spread  over  two  Policy  Periods,  the \naggregate liability of the Company, for all claims in respect of the New Born Baby, shall be \nlimited to 10% of the Sum Insured of the Policy under which Maternity claim was admitted. \n\n11.1"
+      },
+      {
+        "score": 0.5906375,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "6. Organ Donor Benefit- When Insured Person is the Donor \nA lump sum payment of 10% of Sum Insured, to take care of medical and other incidental expenses is \npayable  to  the  Insured  Person  donating  an  organ  provided  that  the  donation  conforms  to  the \nTransplantation of Human Organs Act 1994 (amended) and any other extant Act, Central / State Rules / \nregulations, as applicable, in respect of transplantation of human organs. \nThis benefit is subject to the Policy (Family Medicare Policy) having been continuously in force for at least \n12 (twelve) months in respect of that Insured Person. \n\n7.  Road Ambulance Cover \nWe will cover the costs incurred up to: \n\ni. \nii. \n\n0.5% of the Sum Insured subject to a maximum of Rs. 2500 per event and  \n1% of the Sum Insured subject to a maximum of Rs. 5000 per policy period  \n\non transportation of the Insured Person by road Ambulance to a Hospital for treatment in an Emergency \nfollowing an Illness or Injury which occurs during the Policy Period. The necessity of use of an Ambulance \nmust be certified by the treating Medical Practitioner and becomes payable if a claim has been admitted \nunder Section V.1 or V.2 and the expenses are related to the same Illness or Injury. \nWe will also cover the costs incurred on transportation of the Insured Person by road Ambulance in the \nfollowing circumstances up to the limits specified above under this cover, if:     \n\na. \n\nb."
+      },
+      {
+        "score": 0.5839646,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "b.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient \nHospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. \n3,00,000 per policy year;  \n\n1.  Schizophrenia (ICD - F20; F21; F25)  \n2.  Bipolar Affective Disorders (ICD - F31; F34)  \n3.  Depression (ICD - F32; F33)  \n4.  Obsessive Compulsive Disorders (ICD - F42; F60.5)  \n5.  Psychosis (ICD - F 22; F23; F28; F29)  \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n7 \n\n \n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\n2. Day Care Treatment Cover- \nWe will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy \nPeriod following an Illness or Injury that occurs during the Policy Period provided that:   \n\ni. \n\nii. \n\niii."
+      },
+      {
+        "score": 0.5656072,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "2. Day Care Treatment Cover- \nWe will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy \nPeriod following an Illness or Injury that occurs during the Policy Period provided that:   \n\ni. \n\nii. \n\niii. \n\nThe Medical Expenses are incurred in case of Day Care Treatment or Surgery undertaken for the \nIllness/ condition covered under Base Cover that requires less than 24 hours Hospitalisation due \nto advancement in technology, including for any procedure which requires a period of specialized \nobservation or care after completion of the procedure undertaken by an Insured Person as Day \nCare Treatment. All Day Care Treatments as defined in the Section IV.A.8 of the policy above are \ncovered.  \nThe Day Care Treatment is for Medically Necessary Treatment and follows the written Medical \nAdvice; \nProcedures/treatments usually done on out-patient basis are not payable under the policy even if \nconverted  as  an  in-patient  in  the  hospital  for  more  than  24  hours  or  carried  out  in  Day  Care \nCentres. Diagnostic Services are also not covered under this benefit. \n\n3. Pre-Hospitalisation and Post-Hospitalisation Expenses –  \nWe will cover, on a reimbursement basis, the Insured Person’s \n\na.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n30 days prior to hospitalisation; and  \n\nb.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n60 days after the discharge from the hospital,  \nSubject to a maximum of 10% of Sum Insured, provided that:"
+      },
+      {
+        "score": 0.5635167,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "d.  The Restoration of Sum Insured will be applied only once during a Policy Year for family floater \npolicy. For Policy on Individual Sum Insured basis, the restore facility will be available once to each \nInsured Person individually in a policy year. \nIf the Restore Sum Insured is not utilised in a Policy Year, it shall not be carried forward to any \nsubsequent Policy Year. \n\ne. \n\n10.1  Automatic  Restoration  of  Basic  Sum  Insured  is  available  only  for  sum  insured  options  from  Rs. \n3,00,000 and above. \n\n10.2 For persons with age of entry above 60 years in Family Medicare Policy, every admissible claim under \nthis optional cover shall be subject to a Co-payment of 10% on the admissible claim amount. \n\n11. Maternity Expenses and New Born Baby Cover \n\na.  Maternity Expenses: We shall pay the Medical Expenses incurred as an In-patient for a delivery \n(including caesarean section) or lawful medical termination of pregnancy during the Policy Period \nlimited to two deliveries or terminations or either during the lifetime of the Insured Person. This \nbenefit  is  applicable  only when  the  Sum  Insured  is above  Rs.  3  Lacs,  and available  only  to  the \nInsured or his spouse, provided that: \ni."
+      },
+      {
+        "score": 0.5572952,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "13. Sterility and Infertility (Code- Excl17): Expenses related to sterility and infertility. This includes: \n\ni. \nii. \n\niii. \niv. \n\nAny type of contraception, sterilization \nAssisted  Reproduction  services  including  artificial  insemination  and  advanced  reproductive \ntechnologies such as IVF, ZIFT, GIFT, ICSI \nGestational Surrogacy \nReversal of sterilization \n\n14. Maternity (Code- Excl18): \n\na.  Medical  treatment  expenses  traceable  to  childbirth  (including  complicated  deliveries  and \n\ncaesarean sections incurred during hospitalisation) except ectopic pregnancy; \n\nb.  Expenses  towards  miscarriage  (unless  due  to  an  accident)  and  lawful  medical  termination  of \n\npregnancy during the policy period. \n\nC. SPECIFIC PERMANENT EXCLUSIONS \n\n15. All  expenses  caused  by  or  arising  from  or  attributable  to  foreign  invasion,  act  of  foreign  enemies, \nhostilities,  warlike  operations  (whether  war  be  declared  or  not  or  while  performing  duties  in  the \narmed forces of any country), civil war, public defence, rebellion, revolution, insurrection, military or \nusurped power. \n\n16. All Illness/expenses caused by ionizing radiation or contamination by radioactivity from any nuclear \nfuel (explosive or hazardous form) or from any nuclear waste from the combustion of nuclear fuel \nnuclear, chemical or biological attack. \n\n17. a) Stem cell implantation/Surgery/therapy, harvesting, storage or any kind of Treatment using stem"
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

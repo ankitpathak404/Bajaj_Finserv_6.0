@@ -1,0 +1,164 @@
+================================================================================
+API REQUEST LOG - 2025-08-04 23:01:52
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-04T23:01:52.628224
+TOTAL PROCESSING TIME: 6.740 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/hackrx_6/policies/HDFHLIP23024V072223.pdf?sv=2023-01-03&st=2025-07-30T06%3A46%3A49Z&se=2025-09-01T06%3A46%3A00Z&sr=c&sp=rl&sig=9szykRKdGYj0BVm1skP%2BX8N9%2FRENEn2k7MQPUp33jyQ%3D
+Extracted Filename: HDFHLIP23024V072223.pdf
+Matched File: HDFHLIP23024V072223.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (10 total):
+------------------------------
+1. What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?
+2. What is the waiting period for pre-existing diseases (PED) to be covered?
+3. Does this policy cover maternity expenses, and what are the conditions?
+4. What is the waiting period for cataract surgery?
+5. Are the medical expenses for an organ donor covered under this policy?
+6. What is the No Claim Discount (NCD) offered in this policy?
+7. Is there a benefit for preventive health check-ups?
+8. How does the policy define a 'Hospital'?
+9. What is the extent of coverage for AYUSH treatments?
+10. Are there any sub-limits on room rent and ICU charges for Plan A?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?
+A1: The grace period for premium payment under the National Parivar Mediclaim Plus Policy is **15 days** for the **Monthly** installment option and **30 days** for **Yearly**, **Half-Yearly**, and **Quarterly** installment options.
+--------------------------------------------------
+Q2: What is the waiting period for pre-existing diseases (PED) to be covered?
+A2: The waiting period for pre-existing diseases (PED) is **24 months of continuous coverage** after the policy's inception. However, if the insured maintains uninterrupted coverage (as per IRDAI portability/migration norms), the waiting period is reduced by the duration of prior coverage. For example, if the insured had 12 months of prior coverage, the effective waiting period becomes 12 months. This applies unless the PED's waiting period exceeds the specified disease/procedure waiting period, in which case the longer duration is enforced.
+--------------------------------------------------
+Q3: Does this policy cover maternity expenses, and what are the conditions?
+A3: The policy covers maternity expenses under the following conditions:  
+1. **Coverage**: Medical expenses for normal delivery (up to ₹15,000) or caesarean delivery (₹25,000), including pre-natal/post-natal expenses (₹1,500) and newborn treatment (₹2,000).  
+2. **Limitations**: Limited to **2 deliveries or terminations** in the insured person’s lifetime.  
+3. **Waiting Period**: A minimum waiting period of **4–6 years** (depending on policy terms) before the benefit becomes effective.  
+4. **Newborn Coverage**: Expenses for the newborn are covered unless the baby is enrolled under a separate policy (Section 2b).  
+5. **Eligibility**: The insured must have been continuously covered under the policy for the period specified in the schedule of benefits.  
+
+Exclusions include ectopic pregnancy (covered under a different clause) and claims not related to inpatient hospitalization. Critical Illness benefit is optional.
+--------------------------------------------------
+Q4: What is the waiting period for cataract surgery?
+A4: 
+--------------------------------------------------
+Q5: Are the medical expenses for an organ donor covered under this policy?
+A5: The policy covers medical and surgical expenses for an **organ donor** (e.g., harvesting costs) **only if the recipient is an insured person** under the policy. However, **expenses incurred by an insured person themselves while donating an organ are explicitly excluded**. Coverage is further conditional on compliance with the Transplantation of Human Organs Act, 1994. Pre- and post-hospitalization expenses for the donor are also excluded. 
+
+**Score: 2.0** (Document weight: 2.0; Question weight: 1.0).
+--------------------------------------------------
+Q6: What is the No Claim Discount (NCD) offered in this policy?
+A6: The policy provides a Cumulative Bonus (equivalent to No Claim Discount) of **10% of the Sum Insured** for each claim-free policy year, renewable annually. The maximum cumulative bonus is **100% of the Sum Insured**. If a claim is made after earning this bonus, the cumulative bonus is reduced by 10% in the subsequent policy year. This applies to both individual and Family Floater policies, with specific rules for portability and family discounts outlined in the document.
+--------------------------------------------------
+Q7: Is there a benefit for preventive health check-ups?
+A7: Yes, the policy offers a preventive health check-up benefit. For individual plans, it provides up to 1% of the sum insured (max Rs. 5,000 per person) once every four claim-free years (Standard) or three policy years (Exclusive). For family plans, it applies per policy with the same limits. The benefit is forfeited if any family member makes a claim under the Standard variant. Preventive check-ups cover general health assessments, excluding diagnostic tests.
+--------------------------------------------------
+Q8: How does the policy define a 'Hospital'?
+A8: A 'Hospital' is defined as an institution established for in-patient care and day care treatment of illness/injuries, registered with local authorities under the Clinical Establishments (Registration and Regulation) Act, 2010, or equivalent enactments. It must meet these criteria:  
+1. Employ qualified nursing staff and medical practitioners round the clock.  
+2. Have at least 10 in-patient beds (or 15 in towns with population ≥10 lakh).  
+3. Maintain a fully equipped operation theatre for surgical procedures.  
+4. Keep daily patient records accessible to the insurer’s authorized personnel.  
+
+This definition is explicitly outlined in **Def. 19** of the provided document.
+--------------------------------------------------
+Q9: What is the extent of coverage for AYUSH treatments?
+A9: The coverage for AYUSH treatments under the policy is **up to Rs 50,000 per policy year**. This includes hospitalization for treatments under Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems. Coverage applies to **AYUSH Hospitals** (with in-patient facilities) and **AYUSH Day Care Centres** (registered and meeting specified criteria). The policy defines eligible facilities and procedures, ensuring treatments are administered by qualified AYUSH practitioners in approved settings.
+--------------------------------------------------
+Q10: Are there any sub-limits on room rent and ICU charges for Plan A?
+A10: Yes, for Plan A, the sub-limits are **Rs. 2,000 per hospitalisation** for both **room rent** and **ICU charges**.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-04T23:01:52.628224",
+  "request_start_time": "2025-08-04T23:01:45.887468",
+  "total_processing_time_seconds": 6.740353345870972,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/hackrx_6/policies/HDFHLIP23024V072223.pdf?sv=2023-01-03&st=2025-07-30T06%3A46%3A49Z&se=2025-09-01T06%3A46%3A00Z&sr=c&sp=rl&sig=9szykRKdGYj0BVm1skP%2BX8N9%2FRENEn2k7MQPUp33jyQ%3D",
+    "extracted_filename": "HDFHLIP23024V072223.pdf",
+    "matched_file": "HDFHLIP23024V072223.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+    "What is the waiting period for pre-existing diseases (PED) to be covered?",
+    "Does this policy cover maternity expenses, and what are the conditions?",
+    "What is the waiting period for cataract surgery?",
+    "Are the medical expenses for an organ donor covered under this policy?",
+    "What is the No Claim Discount (NCD) offered in this policy?",
+    "Is there a benefit for preventive health check-ups?",
+    "How does the policy define a 'Hospital'?",
+    "What is the extent of coverage for AYUSH treatments?",
+    "Are there any sub-limits on room rent and ICU charges for Plan A?"
+  ],
+  "total_questions": 10,
+  "responses": [
+    {
+      "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+      "answer": "The grace period for premium payment under the National Parivar Mediclaim Plus Policy is **15 days** for the **Monthly** installment option and **30 days** for **Yearly**, **Half-Yearly**, and **Quarterly** installment options."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+      "answer": "The waiting period for pre-existing diseases (PED) is **24 months of continuous coverage** after the policy's inception. However, if the insured maintains uninterrupted coverage (as per IRDAI portability/migration norms), the waiting period is reduced by the duration of prior coverage. For example, if the insured had 12 months of prior coverage, the effective waiting period becomes 12 months. This applies unless the PED's waiting period exceeds the specified disease/procedure waiting period, in which case the longer duration is enforced."
+    },
+    {
+      "question": "Does this policy cover maternity expenses, and what are the conditions?",
+      "answer": "The policy covers maternity expenses under the following conditions:  \n1. **Coverage**: Medical expenses for normal delivery (up to ₹15,000) or caesarean delivery (₹25,000), including pre-natal/post-natal expenses (₹1,500) and newborn treatment (₹2,000).  \n2. **Limitations**: Limited to **2 deliveries or terminations** in the insured person’s lifetime.  \n3. **Waiting Period**: A minimum waiting period of **4–6 years** (depending on policy terms) before the benefit becomes effective.  \n4. **Newborn Coverage**: Expenses for the newborn are covered unless the baby is enrolled under a separate policy (Section 2b).  \n5. **Eligibility**: The insured must have been continuously covered under the policy for the period specified in the schedule of benefits.  \n\nExclusions include ectopic pregnancy (covered under a different clause) and claims not related to inpatient hospitalization. Critical Illness benefit is optional."
+    },
+    {
+      "question": "What is the waiting period for cataract surgery?",
+      "answer": ""
+    },
+    {
+      "question": "Are the medical expenses for an organ donor covered under this policy?",
+      "answer": "The policy covers medical and surgical expenses for an **organ donor** (e.g., harvesting costs) **only if the recipient is an insured person** under the policy. However, **expenses incurred by an insured person themselves while donating an organ are explicitly excluded**. Coverage is further conditional on compliance with the Transplantation of Human Organs Act, 1994. Pre- and post-hospitalization expenses for the donor are also excluded. \n\n**Score: 2.0** (Document weight: 2.0; Question weight: 1.0)."
+    },
+    {
+      "question": "What is the No Claim Discount (NCD) offered in this policy?",
+      "answer": "The policy provides a Cumulative Bonus (equivalent to No Claim Discount) of **10% of the Sum Insured** for each claim-free policy year, renewable annually. The maximum cumulative bonus is **100% of the Sum Insured**. If a claim is made after earning this bonus, the cumulative bonus is reduced by 10% in the subsequent policy year. This applies to both individual and Family Floater policies, with specific rules for portability and family discounts outlined in the document."
+    },
+    {
+      "question": "Is there a benefit for preventive health check-ups?",
+      "answer": "Yes, the policy offers a preventive health check-up benefit. For individual plans, it provides up to 1% of the sum insured (max Rs. 5,000 per person) once every four claim-free years (Standard) or three policy years (Exclusive). For family plans, it applies per policy with the same limits. The benefit is forfeited if any family member makes a claim under the Standard variant. Preventive check-ups cover general health assessments, excluding diagnostic tests."
+    },
+    {
+      "question": "How does the policy define a 'Hospital'?",
+      "answer": "A 'Hospital' is defined as an institution established for in-patient care and day care treatment of illness/injuries, registered with local authorities under the Clinical Establishments (Registration and Regulation) Act, 2010, or equivalent enactments. It must meet these criteria:  \n1. Employ qualified nursing staff and medical practitioners round the clock.  \n2. Have at least 10 in-patient beds (or 15 in towns with population ≥10 lakh).  \n3. Maintain a fully equipped operation theatre for surgical procedures.  \n4. Keep daily patient records accessible to the insurer’s authorized personnel.  \n\nThis definition is explicitly outlined in **Def. 19** of the provided document."
+    },
+    {
+      "question": "What is the extent of coverage for AYUSH treatments?",
+      "answer": "The coverage for AYUSH treatments under the policy is **up to Rs 50,000 per policy year**. This includes hospitalization for treatments under Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems. Coverage applies to **AYUSH Hospitals** (with in-patient facilities) and **AYUSH Day Care Centres** (registered and meeting specified criteria). The policy defines eligible facilities and procedures, ensuring treatments are administered by qualified AYUSH practitioners in approved settings."
+    },
+    {
+      "question": "Are there any sub-limits on room rent and ICU charges for Plan A?",
+      "answer": "Yes, for Plan A, the sub-limits are **Rs. 2,000 per hospitalisation** for both **room rent** and **ICU charges**."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 10,
+  "parallel_processing": true
+}
+
+================================================================================

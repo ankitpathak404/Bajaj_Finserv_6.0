@@ -1,0 +1,170 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 00:03:52
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T00:03:52.276123
+TOTAL PROCESSING TIME: 6.030 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D
+Extracted Filename: indian_constitution.pdf
+Matched File: indian_constitution.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (10 total):
+------------------------------
+1. What is the official name of India according to Article 1 of the Constitution?
+2. Which Article guarantees equality before the law and equal protection of laws to all persons?
+3. What is abolished by Article 17 of the Constitution?
+4. What are the key ideals mentioned in the Preamble of the Constitution of India?
+5. Under which Article can Parliament alter the boundaries, area, or name of an existing State?
+6. According to Article 24, children below what age are prohibited from working in hazardous industries like factories or mines?
+7. What is the significance of Article 21 in the Indian Constitution?
+8. Article 15 prohibits discrimination on certain grounds. However, which groups can the State make special provisions for under this Article?
+9. Which Article allows Parliament to regulate the right of citizenship and override previous articles on citizenship (Articles 5 to 10)?
+10. What restrictions can the State impose on the right to freedom of speech under Article 19(2)?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is the official name of India according to Article 1 of the Constitution?
+A1: The official name of India, as per Article 1 of the Constitution, is "India, that is Bharat."
+--------------------------------------------------
+Q2: Which Article guarantees equality before the law and equal protection of laws to all persons?
+A2: Article 14 of the Indian Constitution guarantees equality before the law and equal protection of the laws to all persons.
+--------------------------------------------------
+Q3: What is abolished by Article 17 of the Constitution?
+A3: Article 17 of the Indian Constitution abolishes **Untouchability** and prohibits its practice in any form. It also declares that enforcing disabilities based on Untouchability is a punishable offense under law.
+--------------------------------------------------
+Q4: What are the key ideals mentioned in the Preamble of the Constitution of India?
+A4: The Preamble of the Constitution of India outlines four key ideals:  
+1. **Justice** (social, economic, and political)  
+2. **Liberty** (of thought, expression, belief, faith, and worship)  
+3. **Equality** (of status and opportunity)  
+4. **Fraternity** (assuring individual dignity and national unity and integrity).  
+
+It also establishes India as a **Sovereign Socialist Secular Democratic Republic**.
+--------------------------------------------------
+Q5: Under which Article can Parliament alter the boundaries, area, or name of an existing State?
+A5: Article 3 of the Indian Constitution empowers Parliament to alter the boundaries, area, or name of an existing State.
+--------------------------------------------------
+Q6: According to Article 24, children below what age are prohibited from working in hazardous industries like factories or mines?
+A6: Children below the age of 14 years are prohibited from working in factories, mines, or hazardous employment under Article 24 of the Indian Constitution.
+--------------------------------------------------
+Q7: What is the significance of Article 21 in the Indian Constitution?
+A7: Article 21 of the Indian Constitution guarantees the **right to life and personal liberty** as a fundamental right. It states that no person can be deprived of their life or liberty except through a legally established procedure. This article is pivotal as it forms the basis for numerous judicial interpretations, including the right to a clean environment, privacy, education, and even the right to die with dignity. It is a cornerstone of individual freedoms and judicial protection against arbitrary state actions.
+--------------------------------------------------
+Q8: Article 15 prohibits discrimination on certain grounds. However, which groups can the State make special provisions for under this Article?
+A8: Under Article 15 of the Indian Constitution, the State can make special provisions for:  
+- **Women and children** (Clause 3).  
+- **Scheduled Castes and Scheduled Tribes** (Clauses 4, 4A, 5).  
+- **Socially and educationally backward classes of citizens** (Clauses 4, 5).  
+
+These provisions aim to address historical inequalities and promote inclusion.
+--------------------------------------------------
+Q9: Which Article allows Parliament to regulate the right of citizenship and override previous articles on citizenship (Articles 5 to 10)?
+A9: Article 11 grants Parliament the authority to regulate citizenship by law, overriding the provisions of Articles 5 to 10. It explicitly states that nothing in those earlier articles limits Parliament’s power to legislate on citizenship acquisition, termination, or related matters.
+--------------------------------------------------
+Q10: What restrictions can the State impose on the right to freedom of speech under Article 19(2)?
+A10: The State can impose reasonable restrictions on freedom of speech under Article 19(2) for:  
+- Sovereignty and integrity of India  
+- Security of the state  
+- Friendly relations with foreign states  
+- Public order  
+- Decency or morality  
+- Contempt of court  
+- Defamation  
+- Incitement to an offence.  
+
+These restrictions must be proportionate and serve a legitimate public interest.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T00:03:52.276123",
+  "request_start_time": "2025-08-05T00:03:46.245605",
+  "total_processing_time_seconds": 6.0301618576049805,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+    "extracted_filename": "indian_constitution.pdf",
+    "matched_file": "indian_constitution.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What is the official name of India according to Article 1 of the Constitution?",
+    "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+    "What is abolished by Article 17 of the Constitution?",
+    "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+    "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+    "According to Article 24, children below what age are prohibited from working in hazardous industries like factories or mines?",
+    "What is the significance of Article 21 in the Indian Constitution?",
+    "Article 15 prohibits discrimination on certain grounds. However, which groups can the State make special provisions for under this Article?",
+    "Which Article allows Parliament to regulate the right of citizenship and override previous articles on citizenship (Articles 5 to 10)?",
+    "What restrictions can the State impose on the right to freedom of speech under Article 19(2)?"
+  ],
+  "total_questions": 10,
+  "responses": [
+    {
+      "question": "What is the official name of India according to Article 1 of the Constitution?",
+      "answer": "The official name of India, as per Article 1 of the Constitution, is \"India, that is Bharat.\""
+    },
+    {
+      "question": "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+      "answer": "Article 14 of the Indian Constitution guarantees equality before the law and equal protection of the laws to all persons."
+    },
+    {
+      "question": "What is abolished by Article 17 of the Constitution?",
+      "answer": "Article 17 of the Indian Constitution abolishes **Untouchability** and prohibits its practice in any form. It also declares that enforcing disabilities based on Untouchability is a punishable offense under law."
+    },
+    {
+      "question": "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+      "answer": "The Preamble of the Constitution of India outlines four key ideals:  \n1. **Justice** (social, economic, and political)  \n2. **Liberty** (of thought, expression, belief, faith, and worship)  \n3. **Equality** (of status and opportunity)  \n4. **Fraternity** (assuring individual dignity and national unity and integrity).  \n\nIt also establishes India as a **Sovereign Socialist Secular Democratic Republic**."
+    },
+    {
+      "question": "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+      "answer": "Article 3 of the Indian Constitution empowers Parliament to alter the boundaries, area, or name of an existing State."
+    },
+    {
+      "question": "According to Article 24, children below what age are prohibited from working in hazardous industries like factories or mines?",
+      "answer": "Children below the age of 14 years are prohibited from working in factories, mines, or hazardous employment under Article 24 of the Indian Constitution."
+    },
+    {
+      "question": "What is the significance of Article 21 in the Indian Constitution?",
+      "answer": "Article 21 of the Indian Constitution guarantees the **right to life and personal liberty** as a fundamental right. It states that no person can be deprived of their life or liberty except through a legally established procedure. This article is pivotal as it forms the basis for numerous judicial interpretations, including the right to a clean environment, privacy, education, and even the right to die with dignity. It is a cornerstone of individual freedoms and judicial protection against arbitrary state actions."
+    },
+    {
+      "question": "Article 15 prohibits discrimination on certain grounds. However, which groups can the State make special provisions for under this Article?",
+      "answer": "Under Article 15 of the Indian Constitution, the State can make special provisions for:  \n- **Women and children** (Clause 3).  \n- **Scheduled Castes and Scheduled Tribes** (Clauses 4, 4A, 5).  \n- **Socially and educationally backward classes of citizens** (Clauses 4, 5).  \n\nThese provisions aim to address historical inequalities and promote inclusion."
+    },
+    {
+      "question": "Which Article allows Parliament to regulate the right of citizenship and override previous articles on citizenship (Articles 5 to 10)?",
+      "answer": "Article 11 grants Parliament the authority to regulate citizenship by law, overriding the provisions of Articles 5 to 10. It explicitly states that nothing in those earlier articles limits Parliament’s power to legislate on citizenship acquisition, termination, or related matters."
+    },
+    {
+      "question": "What restrictions can the State impose on the right to freedom of speech under Article 19(2)?",
+      "answer": "The State can impose reasonable restrictions on freedom of speech under Article 19(2) for:  \n- Sovereignty and integrity of India  \n- Security of the state  \n- Friendly relations with foreign states  \n- Public order  \n- Decency or morality  \n- Contempt of court  \n- Defamation  \n- Incitement to an offence.  \n\nThese restrictions must be proportionate and serve a legitimate public interest."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 10,
+  "parallel_processing": true
+}
+
+================================================================================

@@ -1,0 +1,61 @@
+================================================================================
+API REQUEST LOG - 2025-08-08 18:43:39
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-08T18:43:39.412337
+TOTAL PROCESSING TIME: 0.001 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://register.hackrx.in/utils/get-secret-token?hackTeam=5100
+Extracted Filename: get-secret-token
+Matched File: get-secret-token
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (1 total):
+------------------------------
+1. Go to the link and get the secret token and return it
+
+RESPONSES GENERATED:
+------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-08T18:43:39.412337",
+  "request_start_time": "2025-08-08T18:43:39.411450",
+  "total_processing_time_seconds": 0.0008563995361328125,
+  "document_received": {
+    "original_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=5100",
+    "extracted_filename": "get-secret-token",
+    "matched_file": "get-secret-token",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "Go to the link and get the secret token and return it"
+  ],
+  "total_questions": 1,
+  "responses": [],
+  "retrieved_chunks": [],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "error",
+  "error_message": "extract_token_from_url() missing 1 required positional argument: 'url'",
+  "error_type": "TypeError"
+}
+
+================================================================================

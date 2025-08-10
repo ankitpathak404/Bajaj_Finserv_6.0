@@ -1,0 +1,1460 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:51:00
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:51:00.976107
+TOTAL PROCESSING TIME: 12.808 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (4 total):
+------------------------------
+1. When will my root canal claim of Rs 25,000 be settled?
+2. I have done an IVF for Rs 56,000. Is it covered?
+3. I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+4. Give me a list of documents to be uploaded for hospitalization for heart surgery.
+
+RESPONSES GENERATED:
+------------------------------
+Q1: When will my root canal claim of Rs 25,000 be settled?
+A1: The claim will be settled within 15 days from the date of receipt of the last necessary document.
+--------------------------------------------------
+Q2: I have done an IVF for Rs 56,000. Is it covered?
+A2: IVF treatment is not covered under the Arogya Sanjeevani Policy.
+--------------------------------------------------
+Q3: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+A3: No, the insurance will only cover up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower, not the full Rs 100,000.
+--------------------------------------------------
+Q4: Give me a list of documents to be uploaded for hospitalization for heart surgery.
+A4: The documents to be uploaded for hospitalization for heart surgery are:
+
+1. Duly completed claim form
+2. Photo Identity proof of the patient
+3. Medical practitioner’s prescription advising admission
+4. Original bills with itemized break-up
+5. Payment receipts
+6. Discharge summary including complete medical history
+7. Investigation/Diagnostic test reports with prescription
+8. OT notes or Surgeon's certificate (for surgical cases)
+9. Sticker/Invoice of Implants (if applicable)
+10. MLR and FIR copies (if applicable)
+11. NEFT Details and cancelled cheque
+12. KYC of the proposer (if claim exceeds Rs. 1 Lakh)
+13. Legal heir/succession certificate (if applicable)
+14. Any other relevant document required by the Company/TPA
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: When will my root canal claim of Rs 25,000 be settled?
+--------------------------------------------------
+Chunk 1 (Score: 0.6862):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 9.4. Claim Settlement 
+i.  The  Company  shall  settle  or  reject  a  claim,  as  the  case  may  be,  within  15  days  from  the  date  of  receipt  of  last  necessary 
+
+ii. 
+
+document. 
+In the case of delay in the payment of a claim, the Company shall be liable to pay interest to the policyholder from the date of 
+receipt of last necessary document to the date of payment of claim at a rate 2% above the bank rate. 
+
+iii.  However,  where  the  circumstances  of  a  claim  warrant  an  investigation  in  the  opinion of  the  Company,  it  shall  initiate  and 
+complete such investigation at the earliest, in any case not later than 30 days from the date of receipt of last necessary document. 
+In such cases, the Company shall settle or reject the claim within 45 days from the date of receipt of last necessary document. 
+iv.  In case of delay beyond stipulated 45 days, the Company shall be liable to pay interest to the policyholder at a rate 2% above 
+
+the bank rate from the date of receipt of last necessary document to the date of payment of claim. 
+
+(Explanation: “Bank rate” shall mean the rate fixed by the Reserve Bank of India (RBI) at the beginning of the financial year in 
+which claim has fallen due)
+----------------------------------------
+Chunk 2 (Score: 0.6444):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 2. 
+
+the claim is submitted 
+In the event of a claim lodged under the Policy and the original documents having been submitted to any other insurer, the 
+Company shall accept the copy of the documents and claim settlement advice, duly certified by the other insurer subject to 
+satisfaction of the Company 
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 9 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Any delay in notification or submission may be condoned on merit where delay is proved to be for reasons beyond the control 
+
+of the Insured Person. 
+
+9.3. Co-payment 
+Each and every claim under the Policy shall be subject to a Co-payment as mentioned below, applicable to claim amount admissible 
+and payable as per the terms and conditions of the Policy. The amount payable shall be after deduction of the co-payment. 
+
+•  Co-payment of 5% on all claims for Insured Person aged less than equal to 75 years on policy inception 
+•  Co-payment of 15% on all claims for Insured Person aged greater than 75 years on policy inception 
+
+9.4. Claim Settlement 
+i.  The  Company  shall  settle  or  reject  a  claim,  as  the  case  may  be,  within  15  days  from  the  date  of  receipt  of  last  necessary 
+
+ii.
+----------------------------------------
+Chunk 3 (Score: 0.6354):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 4.2. AYUSH Treatment 
+The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, 
+Unani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the 
+policy schedule in any AYUSH Hospital. 
+
+4.3. Cataract Treatment 
+The Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or INR 
+40,000 per eye, whichever is lower, per each eye in one Policy Period. 
+
+4.4. Pre Hospitalisation 
+The  Company  shall  indemnify  pre-hospitalization  medical  expenses  incurred,  related  to  an  admissible  hospitalization  requiring 
+Inpatient Care, for a fixed period of 30 days prior to the date of admissible Hospitalization covered under the Policy. 
+
+4.5. Post Hospitalisation 
+The Company shall indemnify post hospitalization medical expenses incurred, related to an admissible hospitalization requiring 
+inpatient care, for a fixed period of 60 days from the date of discharge from the hospital, following an admissible hospitalization 
+covered under the Policy. 
+
+4.6. Modern Treatment 
+The following procedures will be covered (wherever medically indicated) either as in patient or as part of day care treatment in a  
+hospital subject to the limit of 50% of the Sum Insured for the related modern procedure/ component/ medicine of each Modern  
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 5 of 16
+----------------------------------------
+Chunk 4 (Score: 0.6347):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year 
+
+AYUSH 
+
+Pre Existing Disease 
+
+Cumulative bonus  
+
+Co Pay 
+
+National Home 
+Care Treatment 
+Add-On 
+
+Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha 
+and Homeopathy system of medicines shall be covered upto sum insured, during each policy year as 
+specified in the policy schedule 
+Only PEDs declared in the Proposal Form and accepted for coverage by the Company shall be covered 
+after a waiting period of 3 years 
+Increase in the sum insured by 5% of SI in respect of each claim free year of insurance maximum up to 
+50% of current SI. In the event of claim the cumulative bonus shall be reduced as the same rate. 
+5% Co-pay on all claims for age less than equal to 75 years 
+15% Co-pay on all claims for age greater than 75 years 
+
+INR 10,000/ 15,000/ 20,000/ 25,000/ 30,000/ 35,000/ 40,000/ 45,000/ 50,000, subject to 10% of Basic 
+SI under base Policy. 
+
+Add-Ons Available 
+
+No loading shall apply on renewals based on individual claims experience 
+Insurance is the subject matter of solicitation 
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 14 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425
+----------------------------------------
+Chunk 5 (Score: 0.6221):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: that award by such arbitrator/arbitrators of the amount of expenses shall be first obtained. 
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 11 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.13. Migration 
+The Insured Person will have the option to migrate the Policy to an alternative health insurance product offered by the Company by 
+applying for Migration of the policy at least 30 days before the policy renewal date as per extant Guidelines related to Migration. If 
+such person is presently covered and has been continuously covered without any lapses under this Policy offered by the Company, 
+i.     The Insured Person will get all the accrued continuity benefits for credits gained to the extent of the specific waiting periods, 
+waiting period for pre-existing diseases and Moratorium period of the Insured Person. 
+ii.   Migration benefit will be offered to the extent of Sum Insured and accrued Cumulative Bonus (as part of the sum insured) of 
+the previous policy. Migration benefit shall not apply to any other additional increased Sum Insured. 
+
+The  Proposal  may  be  subject  to  fresh  Underwriting  as  per  terms  of  conditions  of  the  migrated  product,  if  the  insured  is  not 
+continuously covered for at least 36 months under the previous product
+----------------------------------------
+Chunk 6 (Score: 0.6158):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: the bank rate from the date of receipt of last necessary document to the date of payment of claim. 
+
+(Explanation: “Bank rate” shall mean the rate fixed by the Reserve Bank of India (RBI) at the beginning of the financial year in 
+which claim has fallen due) 
+
+9.5. Services Offered by TPA 
+Servicing of claims, i.e., claim admissions and assessments, under this Policy by way of pre-authorization of cashless treatment or 
+processing of claims other than cashless claims or both, as per the underlying terms and conditions of the policy.  
+The services offered by a TPA shall not include 
+i.  Claim settlement and claim rejection;  
+ii.  Any services directly to any insured person or to any other person unless such service is in accordance with the terms and 
+
+conditions of the Agreement entered into with the Company. 
+
+9.6. Disclaimer  
+If the Company shall disclaim liability to the insured person for any claim hereunder and if the insured person shall not within 
+twelve calendar months from the date of receipt of the notice of such disclaimer notify the Company in writing that he does not 
+accept such disclaimer and intends to recover his claim from the Company, then the claim shall for all purposes be deemed to have 
+been abandoned and shall not thereafter be recoverable hereunder. 
+
+9.7. Payment of Claim 
+All claims under the policy shall be payable in Indian currency and through NEFT/ RTGS only.
+----------------------------------------
+Chunk 7 (Score: 0.6158):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: insured subsequently.  
+
+.  
+6.3. Specified disease/procedure waiting period (Excl 02) 
+a)  Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the expiry of 24 
+
+(twenty four) months of continuous coverage after the date of inception of the first policy with us. This exclusion shall not 
+be applicable for claims arising due to an accident 
+In case of enhancement of sum insured the exclusion shall apply afresh to the extent of sum insured increase. 
+If any of the specified disease/procedure falls under the waiting period specified for Pre-Existing Diseases, then the longer 
+of the two waiting periods shall apply. 
+
+b) 
+c) 
+
+d)  The waiting period for listed conditions shall apply even if contracted after the policy or declared and accepted without a 
+
+e) 
+
+specific exclusion. 
+If the Insured Person is continuously covered without any break as defined under the applicable norms on portability 
+stipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage. 
+
+f)  List of specific diseases/procedures 
+
+i. 
+
+24 Months waiting period 
+1.  Benign ENT disorders 
+2.  Tonsillectomy 
+3.  Adenoidectomy 
+4.  Mastoidectomy 
+5.  Tympanoplasty 
+6.  Hysterectomy 
+7.  All internal and external benign tumours, 
+cysts, polyps of any kind, including 
+benign breast lumps 
+
+8.  Benign prostate hypertrophy 
+9.  Cataract and age related eye ailments 
+10.  Gastric/ Duodenal Ulcer 
+36 Months waiting period 
+1.  Treatment for joint replacement unless arising from accident 
+2.  Age-related Osteoarthritis & Osteoporosis
+----------------------------------------
+
+QUESTION 2: I have done an IVF for Rs 56,000. Is it covered?
+--------------------------------------------------
+Chunk 1 (Score: 0.6751):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 3.56. Waiting Period means a period from the inception of this Policy during which specified diseases/treatments are not covered. 
+On completion of the period, diseases/treatments shall be covered provided the Policy has been continuously renewed without 
+any break.  
+
+4.  COVERAGE 
+The covers listed below are in-built Policy benefits and shall be available to all Insured Persons in accordance with the procedures 
+set out in this Policy. 
+
+4.1. Hospitalization 
+The Company shall indemnify Medical Expense incurred for Hospitalization of the Insured Person during the Policy Period, up to 
+the Sum Insured and Cumulative Bonus specified in the Policy Schedule, for, 
+i.  Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital / Nursing Home up to 2% of the sum insured 
+
+ii. 
+
+subject to maximum of Rs. 5,000/-per day 
+Intensive Care Unit (ICU) / Intensive Cardiac Care Unit (ICCU) expenses up to 5% of the sum insured subject to maximum of 
+Rs. 10,000/- per day 
+
+iii.  Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialist Fees whether paid directly to the treating doctor/ surgeon or 
+
+to the hospital 
+
+iv.  Anesthesia,  blood,  oxygen,  operation  theatre  charges,  surgical  appliances,  medicines  and  drugs,  costs  towards  diagnostics, 
+
+diagnostic imaging modalities and such similar other expenses. 
+
+4.1.1. Other expenses
+----------------------------------------
+Chunk 2 (Score: 0.6474):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 5 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modern Treatment 
+UAE & HIFU 
+Balloon Sinuplasty 
+Deep Brain Stimulation 
+
+Treatment during the Policy Period: 
+Coverage 
+Limit is for Procedure cost only 
+Limit is for Balloon cost only 
+Limit is for implants including batteries only 
+Only cost of medicines payable under this limit, other incidental charges like investigations and consultation 
+charges not payable. 
+Limit is for cost of injections only. 
+Limit is for complete treatment, including Pre & Post Hospitalization 
+Limit is for robotic component only. 
+
+Oral Chemotherapy 
+
+Immunotherapy 
+Intravitreal injections 
+Robotic Surgery 
+Stereotactic Radio 
+surgeries 
+Bronchial Thermoplasty 
+Vaporization of the 
+prostrate 
+IONM 
+Stem cell therapy 
+
+Limit is for radiation procedure. 
+Limit is for complete treatment, including Pre & Post Hospitalization 
+
+Limit is for LASER component only. 
+Limit is for IONM procedure only. 
+Limit is for complete treatment, including Pre & Post Hospitalization 
+
+4.7. The expenses that are not covered in this policy are placed under List-l of Annexure-A. The list of expenses that are to be 
+subsumed  into  room  charges,  or  procedure  charges  or  costs  of  treatment  are  placed  under  List-II,  List-III  and  List-IV  of 
+Annexure-A respectively.
+----------------------------------------
+Chunk 3 (Score: 0.6444):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: a.  Legally wedded spouse 
+b.  Parents and parents-in-law. 
+c.  Dependent children (i.e., natural or legally adopted) between the age 3 months to 25 years. If 
+the child above 18 years of age is financially independent, he or she shall be ineligible for 
+coverage in the subsequent renewals. 
+
+Grace Period 
+
+Hospitalisation 
+Expenses 
+Pre Hospitalisation 
+Post Hospitalisation 
+
+Sublimit for 
+room/doctors fee  
+
+The grace period of thirty days (where premium is paid in quarterly/half yearly/annual instalments) is 
+available on the premium due date, to pay the premium. 
+Expenses of Hospitalization for a minimum period of 24 consecutive hours only shall be admissible 
+Time limit of 24 hrs shall not apply when the treatment is undergone in a Day Care Center 
+For 30 days prior to the date of hospitalization 
+For 60 days from the date of discharge from the hospital 
+1. Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital/ Nursing Home 
+up to 2% of the Sum Insured subject to maximum of Rs. 5,000/- per day 
+2. Intensive Care Unit (ICU) charges/ Intensive Cardiac Care Unit (ICCU) charges all-inclusive as 
+provided by the Hospital/ Nursing Home up to 5% of the Sum Insured subject to maximum of Rs. 
+10,000/- per day 
+
+Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year 
+
+AYUSH 
+
+Pre Existing Disease 
+
+Cumulative bonus  
+
+Co Pay 
+
+National Home 
+Care Treatment 
+Add-On
+----------------------------------------
+Chunk 4 (Score: 0.6424):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year 
+
+AYUSH 
+
+Pre Existing Disease 
+
+Cumulative bonus  
+
+Co Pay 
+
+National Home 
+Care Treatment 
+Add-On 
+
+Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha 
+and Homeopathy system of medicines shall be covered upto sum insured, during each policy year as 
+specified in the policy schedule 
+Only PEDs declared in the Proposal Form and accepted for coverage by the Company shall be covered 
+after a waiting period of 3 years 
+Increase in the sum insured by 5% of SI in respect of each claim free year of insurance maximum up to 
+50% of current SI. In the event of claim the cumulative bonus shall be reduced as the same rate. 
+5% Co-pay on all claims for age less than equal to 75 years 
+15% Co-pay on all claims for age greater than 75 years 
+
+INR 10,000/ 15,000/ 20,000/ 25,000/ 30,000/ 35,000/ 40,000/ 45,000/ 50,000, subject to 10% of Basic 
+SI under base Policy. 
+
+Add-Ons Available 
+
+No loading shall apply on renewals based on individual claims experience 
+Insurance is the subject matter of solicitation 
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 14 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425
+----------------------------------------
+Chunk 5 (Score: 0.6310):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: expiry of 36 (thirty six) months of continuous coverage after the date of inception of the first policy with us.  
+In case of enhancement of sum insured the exclusion shall apply afresh to the extent of sum insured increase. 
+If the Insured Person is continuously covered without any break as defined under the portability norms of the extant IRDAI 
+(Health Insurance) Regulations then waiting period for the same would be reduced to the extent of prior coverage. 
+
+d)  Coverage under the policy after the expiry of 36 (thirty six) months for any pre-existing disease is subject to the same being 
+
+declared at the time of application and accepted by us. 
+
+6.2. First 30 days waiting period (Excl 03) 
+a)  Expenses related to the treatment of any illness within 30 days from the first policy commencement date shall be excluded  
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 6 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+except claims arising due to an accident, provided the same are covered. 
+
+b)  This exclusion shall not, however, apply if the Insured Person has Continuous Coverage for more than 12 (twelve) months. 
+c)  The within referred waiting period is made applicable to the enhanced sum insured in the event of granting higher sum 
+
+insured subsequently.  
+
+.  
+6.3. Specified disease/procedure waiting period (Excl 02) 
+a)  Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the expiry of 24
+----------------------------------------
+Chunk 6 (Score: 0.6302):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 4.2. AYUSH Treatment 
+The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, 
+Unani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the 
+policy schedule in any AYUSH Hospital. 
+
+4.3. Cataract Treatment 
+The Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or INR 
+40,000 per eye, whichever is lower, per each eye in one Policy Period. 
+
+4.4. Pre Hospitalisation 
+The  Company  shall  indemnify  pre-hospitalization  medical  expenses  incurred,  related  to  an  admissible  hospitalization  requiring 
+Inpatient Care, for a fixed period of 30 days prior to the date of admissible Hospitalization covered under the Policy. 
+
+4.5. Post Hospitalisation 
+The Company shall indemnify post hospitalization medical expenses incurred, related to an admissible hospitalization requiring 
+inpatient care, for a fixed period of 60 days from the date of discharge from the hospital, following an admissible hospitalization 
+covered under the Policy. 
+
+4.6. Modern Treatment 
+The following procedures will be covered (wherever medically indicated) either as in patient or as part of day care treatment in a  
+hospital subject to the limit of 50% of the Sum Insured for the related modern procedure/ component/ medicine of each Modern  
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 5 of 16
+----------------------------------------
+Chunk 7 (Score: 0.6181):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: SURGICAL TAPE 
+
+TORNIQUET  
+
+Sl 
+1 
+2 
+3 
+4 
+
+5 
+6 
+7 
+8 
+9 
+
+List IV – Items that are to be subsumed into costs of treatment 
+
+Item 
+ADMISSION/REGISTRATION CHARGES 
+HOSPITALISATION FOR EVALUATION/ DIAGNOSTIC PURPOSE 
+URINE CONTAINER 
+BLOOD RESERVATION CHARGES AND ANTE NATAL BOOKING 
+CHARGES 
+BIPAP MACHINE 
+CPAP/ CAPD EQUIPMENTS 
+INFUSION PUMP– COST 
+HYDROGEN PEROXIDE\SPIRIT\ DISINFECTANTS ETC 
+NUTRITION PLANNING CHARGES - DIETICIAN CHARGES- DIET 
+CHARGES  
+
+10  HIV KIT 
+11  ANTISEPTIC MOUTHWASH 
+12 
+LOZENGES 
+13  MOUTH PAINT 
+14  VACCINATION CHARGES 
+15  ALCOHOL SWABES 
+16 
+17  Glucometer & Strips 
+18  URINE BAG 
+
+SCRUB SOLUTION/STERILLIUM 
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 15 of 16 
+
+Annexure-B 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+The contact details of the Insurance Ombudsman offices are as below- 
+
+Areas of Jurisdiction 
+
+Office of the Insurance Ombudsman 
+
+Gujarat, Dadra & Nagar 
+Haveli, Daman and Diu 
+
+Karnataka
+----------------------------------------
+
+QUESTION 3: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+--------------------------------------------------
+Chunk 1 (Score: 0.6803):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year 
+
+AYUSH 
+
+Pre Existing Disease 
+
+Cumulative bonus  
+
+Co Pay 
+
+National Home 
+Care Treatment 
+Add-On 
+
+Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha 
+and Homeopathy system of medicines shall be covered upto sum insured, during each policy year as 
+specified in the policy schedule 
+Only PEDs declared in the Proposal Form and accepted for coverage by the Company shall be covered 
+after a waiting period of 3 years 
+Increase in the sum insured by 5% of SI in respect of each claim free year of insurance maximum up to 
+50% of current SI. In the event of claim the cumulative bonus shall be reduced as the same rate. 
+5% Co-pay on all claims for age less than equal to 75 years 
+15% Co-pay on all claims for age greater than 75 years 
+
+INR 10,000/ 15,000/ 20,000/ 25,000/ 30,000/ 35,000/ 40,000/ 45,000/ 50,000, subject to 10% of Basic 
+SI under base Policy. 
+
+Add-Ons Available 
+
+No loading shall apply on renewals based on individual claims experience 
+Insurance is the subject matter of solicitation 
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 14 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425
+----------------------------------------
+Chunk 2 (Score: 0.6778):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 4.2. AYUSH Treatment 
+The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, 
+Unani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the 
+policy schedule in any AYUSH Hospital. 
+
+4.3. Cataract Treatment 
+The Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or INR 
+40,000 per eye, whichever is lower, per each eye in one Policy Period. 
+
+4.4. Pre Hospitalisation 
+The  Company  shall  indemnify  pre-hospitalization  medical  expenses  incurred,  related  to  an  admissible  hospitalization  requiring 
+Inpatient Care, for a fixed period of 30 days prior to the date of admissible Hospitalization covered under the Policy. 
+
+4.5. Post Hospitalisation 
+The Company shall indemnify post hospitalization medical expenses incurred, related to an admissible hospitalization requiring 
+inpatient care, for a fixed period of 60 days from the date of discharge from the hospital, following an admissible hospitalization 
+covered under the Policy. 
+
+4.6. Modern Treatment 
+The following procedures will be covered (wherever medically indicated) either as in patient or as part of day care treatment in a  
+hospital subject to the limit of 50% of the Sum Insured for the related modern procedure/ component/ medicine of each Modern  
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 5 of 16
+----------------------------------------
+Chunk 3 (Score: 0.6259):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 4.1.1. Other expenses 
+
+i.  Expenses incurred on treatment of cataract subject to the sub limits 
+ii.  Dental treatment, necessitated due to disease or injury  
+iii.  Plastic surgery necessitated due to disease or injury  
+iv.  All the day care treatments 
+v.  Expenses incurred on road Ambulance subject to a maximum of Rs 2,000 per hospitalization. 
+
+Note: 
+1. Expenses of Hospitalization for a minimum period of 24  consecutive hours only shall be admissible. However, the time limit 
+shall not apply in respect of Day Care Treatment. 
+2.  In  case  of  admission  to  a  Room  at  rates  exceeding  the  aforesaid  limits,  the  reimbursement/payment  of  Associated  Medical 
+Expenses incurred at the Hospital, shall be effected in the same proportion as the admissible rate per day bears to the actual rate per 
+day of Room Rent charges. Proportionate deduction shall not apply if admitted to ICU/ ICCU. 
+Associated Medical Expenses shall include all related expenses except the following expenses, 
+a. Cost of pharmacy and consumables;  
+b. Cost of implants and medical devices  
+c. Cost of diagnostics 
+3. Sub limits as mentioned above, will not apply in case of treatment undergone as a package for a listed procedure in a Preferred 
+Provider Network (PPN). 
+4. Listed procedures and Preferred Provider Network list are dynamic in nature, and will be updated in the Company’s website from 
+time to time 
+
+4.2. AYUSH Treatment 
+The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, 
+Unani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the 
+policy schedule in any AYUSH Hospital.
+----------------------------------------
+Chunk 4 (Score: 0.6170):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 9.4. Claim Settlement 
+i.  The  Company  shall  settle  or  reject  a  claim,  as  the  case  may  be,  within  15  days  from  the  date  of  receipt  of  last  necessary 
+
+ii. 
+
+document. 
+In the case of delay in the payment of a claim, the Company shall be liable to pay interest to the policyholder from the date of 
+receipt of last necessary document to the date of payment of claim at a rate 2% above the bank rate. 
+
+iii.  However,  where  the  circumstances  of  a  claim  warrant  an  investigation  in  the  opinion of  the  Company,  it  shall  initiate  and 
+complete such investigation at the earliest, in any case not later than 30 days from the date of receipt of last necessary document. 
+In such cases, the Company shall settle or reject the claim within 45 days from the date of receipt of last necessary document. 
+iv.  In case of delay beyond stipulated 45 days, the Company shall be liable to pay interest to the policyholder at a rate 2% above 
+
+the bank rate from the date of receipt of last necessary document to the date of payment of claim. 
+
+(Explanation: “Bank rate” shall mean the rate fixed by the Reserve Bank of India (RBI) at the beginning of the financial year in 
+which claim has fallen due)
+----------------------------------------
+Chunk 5 (Score: 0.6101):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 5 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modern Treatment 
+UAE & HIFU 
+Balloon Sinuplasty 
+Deep Brain Stimulation 
+
+Treatment during the Policy Period: 
+Coverage 
+Limit is for Procedure cost only 
+Limit is for Balloon cost only 
+Limit is for implants including batteries only 
+Only cost of medicines payable under this limit, other incidental charges like investigations and consultation 
+charges not payable. 
+Limit is for cost of injections only. 
+Limit is for complete treatment, including Pre & Post Hospitalization 
+Limit is for robotic component only. 
+
+Oral Chemotherapy 
+
+Immunotherapy 
+Intravitreal injections 
+Robotic Surgery 
+Stereotactic Radio 
+surgeries 
+Bronchial Thermoplasty 
+Vaporization of the 
+prostrate 
+IONM 
+Stem cell therapy 
+
+Limit is for radiation procedure. 
+Limit is for complete treatment, including Pre & Post Hospitalization 
+
+Limit is for LASER component only. 
+Limit is for IONM procedure only. 
+Limit is for complete treatment, including Pre & Post Hospitalization 
+
+4.7. The expenses that are not covered in this policy are placed under List-l of Annexure-A. The list of expenses that are to be 
+subsumed  into  room  charges,  or  procedure  charges  or  costs  of  treatment  are  placed  under  List-II,  List-III  and  List-IV  of 
+Annexure-A respectively.
+----------------------------------------
+Chunk 6 (Score: 0.6080):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: Schedule. 
+
+iii.  The Company shall communicate to the Insured at the address or through any other electronic mode mentioned in the schedule. 
+
+10.7.  Territorial Limit 
+All medical treatment for the purpose of this insurance will have to be taken in India only. 
+
+10.8.  Multiple Policies 
+i. 
+
+In case of multiple policies taken by an insured person during a period from one or more insurers to indemnify treatment costs, 
+the insured person shall have the right to require a settlement of his/her claim in terms of any of his/her policies. In all  such 
+cases the insurer chosen by the insured person shall be obliged to settle the claim as long as the claim is within the limits of and 
+according to the terms of the chosen policy. 
+Insured person having multiple policies shall also have the right to prefer claims under this policy for the amounts disallowed 
+under any other policy / policies. Then the insurer shall independently settle the claim subject to the terms and conditions of 
+this policy. 
+
+ii. 
+
+iii.  If the amount to be claimed exceeds the sum insured under a single policy, the insured person shall have the right to choose 
+
+insurer from whom he/she wants to claim the balance amount. 
+
+iv.  Where an insured person has policies from more than one insurer to cover the same risk on indemnity basis, the insured person 
+
+shall only be indemnified the treatment costs in accordance with the terms and conditions of the chosen policy.
+----------------------------------------
+Chunk 7 (Score: 0.6032):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: a.  Legally wedded spouse 
+b.  Parents and parents-in-law. 
+c.  Dependent children (i.e., natural or legally adopted) between the age 3 months to 25 years. If 
+the child above 18 years of age is financially independent, he or she shall be ineligible for 
+coverage in the subsequent renewals. 
+
+Grace Period 
+
+Hospitalisation 
+Expenses 
+Pre Hospitalisation 
+Post Hospitalisation 
+
+Sublimit for 
+room/doctors fee  
+
+The grace period of thirty days (where premium is paid in quarterly/half yearly/annual instalments) is 
+available on the premium due date, to pay the premium. 
+Expenses of Hospitalization for a minimum period of 24 consecutive hours only shall be admissible 
+Time limit of 24 hrs shall not apply when the treatment is undergone in a Day Care Center 
+For 30 days prior to the date of hospitalization 
+For 60 days from the date of discharge from the hospital 
+1. Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital/ Nursing Home 
+up to 2% of the Sum Insured subject to maximum of Rs. 5,000/- per day 
+2. Intensive Care Unit (ICU) charges/ Intensive Cardiac Care Unit (ICCU) charges all-inclusive as 
+provided by the Hospital/ Nursing Home up to 5% of the Sum Insured subject to maximum of Rs. 
+10,000/- per day 
+
+Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year 
+
+AYUSH 
+
+Pre Existing Disease 
+
+Cumulative bonus  
+
+Co Pay 
+
+National Home 
+Care Treatment 
+Add-On
+----------------------------------------
+
+QUESTION 4: Give me a list of documents to be uploaded for hospitalization for heart surgery.
+--------------------------------------------------
+Chunk 1 (Score: 0.6354):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: Annexure-A 
+
+LUXURY TAX 
+
+SPUTUM CUP  
+
+FACE MASK 
+FLEXI MASK 
+
+COMB 
+EAU-DE-COLOGNE / ROOM FRESHNERS 
+FOOT COVER 
+GOWN 
+SLIPPERS  
+TISSUE PAPER 
+TOOTH PASTE 
+TOOTH BRUSH 
+
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14  BED PAN 
+15 
+16 
+17  HAND HOLDER 
+18 
+19  DISINFECTANT LOTIONS 
+20 
+21  HVAC 
+22  HOUSE KEEPING CHARGES 
+23  AIR CONDITIONER CHARGES 
+24 
+25  CLEAN SHEET 
+26  BLANKET/WARMER BLANKET 
+27  ADMISSION KIT 
+28  DIABETIC CHART CHARGES 
+29  DOCUMENTATION CHARGES / ADMINISTRATIVE EXPENSES 
+30  DISCHARGE PROCEDURE CHARGES 
+31  DAILY CHART CHARGES 
+32 
+33 
+34 
+35 
+36 
+37 
+
+ENTRANCE PASS / VISITORS PASS CHARGES 
+EXPENSES RELATED TO PRESCRIPTION ON DISCHARGE 
+FILE OPENING CHARGES 
+INCIDENTAL EXPENSES / MISC. CHARGES (NOT EXPLAINED) 
+PATIENT IDENTIFICATION BAND / NAME TAG 
+PULSEOXYMETER CHARGES 
+
+IM IV INJECTION CHARGES  
+
+List III – Items that are to be subsumed into Procedure Charges 
+
+Item 
+HAIR REMOVAL CREAM 
+DISPOSABLES RAZORS CHARGES (for site preparations) 
+EYE PAD 
+EYE SHEILD 
+CAMERA COVER 
+DVD, CD CHARGES 
+GAUSE SOFT 
+GAUZE
+----------------------------------------
+Chunk 2 (Score: 0.6353):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 9.1. Notification of Claim 
+Notice with full particulars shall be sent to the Company/ TPA (if applicable) as under: 
+i.  Within 24hours from the date of emergency hospitalization required or before the Insured Person’s discharge from Hospital, 
+
+whichever is earlier. 
+
+ii.  At least 48 hours prior to admission in Hospital in case of a planned Hospitalization. 
+
+9.2. Documents to be submitted 
+The reimbursement claim is to be supported with the following documents and submitted within the prescribed time limit. 
+i.  Duly completed claim form 
+ii.  Photo Identity proof of the patient 
+iii.  Medical practitioner’s prescription advising admission. 
+iv.  Original bills with itemized break-up  
+v.  Payment receipts 
+vi.  Discharge summary including complete medical history of the patient along with other details. 
+vii.  Investigation/ Diagnostic test reports etc. supported by the prescription from attending medical practitioner 
+viii. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases). 
+ix.  Sticker/Invoice of the Implants, wherever applicable. 
+x.  MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable. 
+xi.  NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque 
+xii.  KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh as per AML Guidelines 
+xiii. Legal heir/succession certificate, wherever applicable 
+xiv. Any other relevant document required by Company/TPA for assessment of the claim. 
+Note: 
+1.  The company shall only accept bills/invoices/medical treatment related documents only in the Insured Person's name for whom 
+
+2.
+----------------------------------------
+Chunk 3 (Score: 0.6028):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 10.4.  Records to be Maintained 
+The  Insured  Person  shall  keep  an  accurate  record  containing  all  relevant  medical  records  and  shall  allow  the  Company  or  its 
+representatives to inspect such records. The Policyholder or Insured Person shall furnish such information as the Company may 
+require for settlement of any claim under the Policy, within reasonable time limit and within the time limit specified in the Policy 
+
+10.5.  Complete Discharge 
+Any payment to the policyholder, Insured Person or his/ her nominees or his/ her legal representative or assignee or to the 
+Hospital, as the case may be, for any benefit under the Policy shall be a valid discharge towards payment of claim by the 
+Company to the extent of then amount for the particular claim. 
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 10 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.6.  Notice & Communication 
+i.  Any notice, direction, instruction or any other communication related to the Policy should be made in writing. 
+ii.  Such communication shall be sent to the address of the Company or through any other electronic modes specified in the Policy 
+
+Schedule. 
+
+iii.  The Company shall communicate to the Insured at the address or through any other electronic mode mentioned in the schedule. 
+
+10.7.  Territorial Limit 
+All medical treatment for the purpose of this insurance will have to be taken in India only. 
+
+10.8.  Multiple Policies 
+i.
+----------------------------------------
+Chunk 4 (Score: 0.5995):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: SURGICAL TAPE 
+
+TORNIQUET  
+
+Sl 
+1 
+2 
+3 
+4 
+
+5 
+6 
+7 
+8 
+9 
+
+List IV – Items that are to be subsumed into costs of treatment 
+
+Item 
+ADMISSION/REGISTRATION CHARGES 
+HOSPITALISATION FOR EVALUATION/ DIAGNOSTIC PURPOSE 
+URINE CONTAINER 
+BLOOD RESERVATION CHARGES AND ANTE NATAL BOOKING 
+CHARGES 
+BIPAP MACHINE 
+CPAP/ CAPD EQUIPMENTS 
+INFUSION PUMP– COST 
+HYDROGEN PEROXIDE\SPIRIT\ DISINFECTANTS ETC 
+NUTRITION PLANNING CHARGES - DIETICIAN CHARGES- DIET 
+CHARGES  
+
+10  HIV KIT 
+11  ANTISEPTIC MOUTHWASH 
+12 
+LOZENGES 
+13  MOUTH PAINT 
+14  VACCINATION CHARGES 
+15  ALCOHOL SWABES 
+16 
+17  Glucometer & Strips 
+18  URINE BAG 
+
+SCRUB SOLUTION/STERILLIUM 
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 15 of 16 
+
+Annexure-B 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+The contact details of the Insurance Ombudsman offices are as below- 
+
+Areas of Jurisdiction 
+
+Office of the Insurance Ombudsman 
+
+Gujarat, Dadra & Nagar 
+Haveli, Daman and Diu 
+
+Karnataka
+----------------------------------------
+Chunk 5 (Score: 0.5926):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: a.  Legally wedded spouse 
+b.  Parents and parents-in-law. 
+c.  Dependent children (i.e., natural or legally adopted) between the age 3 months to 25 years. If 
+the child above 18 years of age is financially independent, he or she shall be ineligible for 
+coverage in the subsequent renewals. 
+
+Grace Period 
+
+Hospitalisation 
+Expenses 
+Pre Hospitalisation 
+Post Hospitalisation 
+
+Sublimit for 
+room/doctors fee  
+
+The grace period of thirty days (where premium is paid in quarterly/half yearly/annual instalments) is 
+available on the premium due date, to pay the premium. 
+Expenses of Hospitalization for a minimum period of 24 consecutive hours only shall be admissible 
+Time limit of 24 hrs shall not apply when the treatment is undergone in a Day Care Center 
+For 30 days prior to the date of hospitalization 
+For 60 days from the date of discharge from the hospital 
+1. Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital/ Nursing Home 
+up to 2% of the Sum Insured subject to maximum of Rs. 5,000/- per day 
+2. Intensive Care Unit (ICU) charges/ Intensive Cardiac Care Unit (ICCU) charges all-inclusive as 
+provided by the Hospital/ Nursing Home up to 5% of the Sum Insured subject to maximum of Rs. 
+10,000/- per day 
+
+Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year 
+
+AYUSH 
+
+Pre Existing Disease 
+
+Cumulative bonus  
+
+Co Pay 
+
+National Home 
+Care Treatment 
+Add-On
+----------------------------------------
+Chunk 6 (Score: 0.5858):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 9.1.2 Procedure for Reimbursement of Claims 
+For  reimbursement  of  claims  the  Insured  Person  shall  submit  the  necessary  documents  to  TPA  (if  claim  is  processed  by 
+TPA)/Company within the prescribed time limit as specified hereunder. 
+
+Sl. 
+No. 
+1. 
+
+Type of claim 
+
+Prescribed Time limit  
+
+Reimbursement  of  hospitalisation,  day  care  and  pre  hospitalisation 
+expenses 
+
+Within thirty days of date of discharge 
+from hospital 
+
+2. 
+
+Reimbursement of post hospitalisation expenses 
+
+Within fifteen days from completion of 
+post hospitalisation treatment 
+
+9.1. Notification of Claim 
+Notice with full particulars shall be sent to the Company/ TPA (if applicable) as under: 
+i.  Within 24hours from the date of emergency hospitalization required or before the Insured Person’s discharge from Hospital, 
+
+whichever is earlier. 
+
+ii.  At least 48 hours prior to admission in Hospital in case of a planned Hospitalization.
+----------------------------------------
+Chunk 7 (Score: 0.5786):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 2 of 16 
+
+Arogya Sanjeevani Policy - National 
+UIN: NICHLIP25041V022425 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+or under the enactments specified under Schedule of Section 56(1) of the said Act, OR complies with all minimum criteria 
+as under: 
+i.  has qualified nursing staff under its employment round the clock; 
+ii.  has at least ten (10) inpatient beds, in those towns having a population of less than ten lacs and fifteen inpatient beds in 
+
+all other places; 
+
+iii.  has qualified medical practitioner (s) in charge round the clock; 
+iv.  has a fully equipped operation theatre of its own where surgical procedures are carried out  
+v.  maintains daily records of patients and shall make these accessible to the Company’s authorized personnel. 
+
+3.24. Hospitalisation means admission in a hospital for a minimum period of twenty four (24) consecutive ‘In-patient care’ hours 
+except for procedures/ treatments, where such admission could be for a period of less than twenty four (24) consecutive 
+hours. 
+
+3.25. I D card means the card issued to the Insured person by the TPA for availing Cashless Facility. 
+
+3.26. Illness means a sickness or a disease or pathological condition leading to the impairment of normal physiological function
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:51:00.976107",
+  "request_start_time": "2025-08-06T06:50:48.167978",
+  "total_processing_time_seconds": 12.807651281356812,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "When will my root canal claim of Rs 25,000 be settled?",
+    "I have done an IVF for Rs 56,000. Is it covered?",
+    "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+    "Give me a list of documents to be uploaded for hospitalization for heart surgery."
+  ],
+  "total_questions": 4,
+  "responses": [
+    {
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "answer": "The claim will be settled within 15 days from the date of receipt of the last necessary document."
+    },
+    {
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "answer": "IVF treatment is not covered under the Arogya Sanjeevani Policy."
+    },
+    {
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "answer": "No, the insurance will only cover up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower, not the full Rs 100,000."
+    },
+    {
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "answer": "The documents to be uploaded for hospitalization for heart surgery are:\n\n1. Duly completed claim form\n2. Photo Identity proof of the patient\n3. Medical practitioner’s prescription advising admission\n4. Original bills with itemized break-up\n5. Payment receipts\n6. Discharge summary including complete medical history\n7. Investigation/Diagnostic test reports with prescription\n8. OT notes or Surgeon's certificate (for surgical cases)\n9. Sticker/Invoice of Implants (if applicable)\n10. MLR and FIR copies (if applicable)\n11. NEFT Details and cancelled cheque\n12. KYC of the proposer (if claim exceeds Rs. 1 Lakh)\n13. Legal heir/succession certificate (if applicable)\n14. Any other relevant document required by the Company/TPA"
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.6861579,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "9.4. Claim Settlement \ni.  The  Company  shall  settle  or  reject  a  claim,  as  the  case  may  be,  within  15  days  from  the  date  of  receipt  of  last  necessary \n\nii. \n\ndocument. \nIn the case of delay in the payment of a claim, the Company shall be liable to pay interest to the policyholder from the date of \nreceipt of last necessary document to the date of payment of claim at a rate 2% above the bank rate. \n\niii.  However,  where  the  circumstances  of  a  claim  warrant  an  investigation  in  the  opinion of  the  Company,  it  shall  initiate  and \ncomplete such investigation at the earliest, in any case not later than 30 days from the date of receipt of last necessary document. \nIn such cases, the Company shall settle or reject the claim within 45 days from the date of receipt of last necessary document. \niv.  In case of delay beyond stipulated 45 days, the Company shall be liable to pay interest to the policyholder at a rate 2% above \n\nthe bank rate from the date of receipt of last necessary document to the date of payment of claim. \n\n(Explanation: “Bank rate” shall mean the rate fixed by the Reserve Bank of India (RBI) at the beginning of the financial year in \nwhich claim has fallen due)"
+      },
+      {
+        "score": 0.6444452,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "2. \n\nthe claim is submitted \nIn the event of a claim lodged under the Policy and the original documents having been submitted to any other insurer, the \nCompany shall accept the copy of the documents and claim settlement advice, duly certified by the other insurer subject to \nsatisfaction of the Company \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 9 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n \n \n \n\f3.  Any delay in notification or submission may be condoned on merit where delay is proved to be for reasons beyond the control \n\nof the Insured Person. \n\n9.3. Co-payment \nEach and every claim under the Policy shall be subject to a Co-payment as mentioned below, applicable to claim amount admissible \nand payable as per the terms and conditions of the Policy. The amount payable shall be after deduction of the co-payment. \n\n•  Co-payment of 5% on all claims for Insured Person aged less than equal to 75 years on policy inception \n•  Co-payment of 15% on all claims for Insured Person aged greater than 75 years on policy inception \n\n9.4. Claim Settlement \ni.  The  Company  shall  settle  or  reject  a  claim,  as  the  case  may  be,  within  15  days  from  the  date  of  receipt  of  last  necessary \n\nii."
+      },
+      {
+        "score": 0.63540065,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "4.2. AYUSH Treatment \nThe Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, \nUnani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the \npolicy schedule in any AYUSH Hospital. \n\n4.3. Cataract Treatment \nThe Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or INR \n40,000 per eye, whichever is lower, per each eye in one Policy Period. \n\n4.4. Pre Hospitalisation \nThe  Company  shall  indemnify  pre-hospitalization  medical  expenses  incurred,  related  to  an  admissible  hospitalization  requiring \nInpatient Care, for a fixed period of 30 days prior to the date of admissible Hospitalization covered under the Policy. \n\n4.5. Post Hospitalisation \nThe Company shall indemnify post hospitalization medical expenses incurred, related to an admissible hospitalization requiring \ninpatient care, for a fixed period of 60 days from the date of discharge from the hospital, following an admissible hospitalization \ncovered under the Policy. \n\n4.6. Modern Treatment \nThe following procedures will be covered (wherever medically indicated) either as in patient or as part of day care treatment in a  \nhospital subject to the limit of 50% of the Sum Insured for the related modern procedure/ component/ medicine of each Modern  \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 5 of 16"
+      },
+      {
+        "score": 0.6346912,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year \n\nAYUSH \n\nPre Existing Disease \n\nCumulative bonus  \n\nCo Pay \n\nNational Home \nCare Treatment \nAdd-On \n\nExpenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha \nand Homeopathy system of medicines shall be covered upto sum insured, during each policy year as \nspecified in the policy schedule \nOnly PEDs declared in the Proposal Form and accepted for coverage by the Company shall be covered \nafter a waiting period of 3 years \nIncrease in the sum insured by 5% of SI in respect of each claim free year of insurance maximum up to \n50% of current SI. In the event of claim the cumulative bonus shall be reduced as the same rate. \n5% Co-pay on all claims for age less than equal to 75 years \n15% Co-pay on all claims for age greater than 75 years \n\nINR 10,000/ 15,000/ 20,000/ 25,000/ 30,000/ 35,000/ 40,000/ 45,000/ 50,000, subject to 10% of Basic \nSI under base Policy. \n\nAdd-Ons Available \n\nNo loading shall apply on renewals based on individual claims experience \nInsurance is the subject matter of solicitation \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 14 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425"
+      },
+      {
+        "score": 0.6220905,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "that award by such arbitrator/arbitrators of the amount of expenses shall be first obtained. \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 11 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n \n \n \n \n\f10.13. Migration \nThe Insured Person will have the option to migrate the Policy to an alternative health insurance product offered by the Company by \napplying for Migration of the policy at least 30 days before the policy renewal date as per extant Guidelines related to Migration. If \nsuch person is presently covered and has been continuously covered without any lapses under this Policy offered by the Company, \ni.     The Insured Person will get all the accrued continuity benefits for credits gained to the extent of the specific waiting periods, \nwaiting period for pre-existing diseases and Moratorium period of the Insured Person. \nii.   Migration benefit will be offered to the extent of Sum Insured and accrued Cumulative Bonus (as part of the sum insured) of \nthe previous policy. Migration benefit shall not apply to any other additional increased Sum Insured. \n\nThe  Proposal  may  be  subject  to  fresh  Underwriting  as  per  terms  of  conditions  of  the  migrated  product,  if  the  insured  is  not \ncontinuously covered for at least 36 months under the previous product"
+      },
+      {
+        "score": 0.61577475,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "the bank rate from the date of receipt of last necessary document to the date of payment of claim. \n\n(Explanation: “Bank rate” shall mean the rate fixed by the Reserve Bank of India (RBI) at the beginning of the financial year in \nwhich claim has fallen due) \n\n9.5. Services Offered by TPA \nServicing of claims, i.e., claim admissions and assessments, under this Policy by way of pre-authorization of cashless treatment or \nprocessing of claims other than cashless claims or both, as per the underlying terms and conditions of the policy.  \nThe services offered by a TPA shall not include \ni.  Claim settlement and claim rejection;  \nii.  Any services directly to any insured person or to any other person unless such service is in accordance with the terms and \n\nconditions of the Agreement entered into with the Company. \n\n9.6. Disclaimer  \nIf the Company shall disclaim liability to the insured person for any claim hereunder and if the insured person shall not within \ntwelve calendar months from the date of receipt of the notice of such disclaimer notify the Company in writing that he does not \naccept such disclaimer and intends to recover his claim from the Company, then the claim shall for all purposes be deemed to have \nbeen abandoned and shall not thereafter be recoverable hereunder. \n\n9.7. Payment of Claim \nAll claims under the policy shall be payable in Indian currency and through NEFT/ RTGS only."
+      },
+      {
+        "score": 0.61576414,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "insured subsequently.  \n\n.  \n6.3. Specified disease/procedure waiting period (Excl 02) \na)  Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the expiry of 24 \n\n(twenty four) months of continuous coverage after the date of inception of the first policy with us. This exclusion shall not \nbe applicable for claims arising due to an accident \nIn case of enhancement of sum insured the exclusion shall apply afresh to the extent of sum insured increase. \nIf any of the specified disease/procedure falls under the waiting period specified for Pre-Existing Diseases, then the longer \nof the two waiting periods shall apply. \n\nb) \nc) \n\nd)  The waiting period for listed conditions shall apply even if contracted after the policy or declared and accepted without a \n\ne) \n\nspecific exclusion. \nIf the Insured Person is continuously covered without any break as defined under the applicable norms on portability \nstipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage. \n\nf)  List of specific diseases/procedures \n\ni. \n\n24 Months waiting period \n1.  Benign ENT disorders \n2.  Tonsillectomy \n3.  Adenoidectomy \n4.  Mastoidectomy \n5.  Tympanoplasty \n6.  Hysterectomy \n7.  All internal and external benign tumours, \ncysts, polyps of any kind, including \nbenign breast lumps \n\n8.  Benign prostate hypertrophy \n9.  Cataract and age related eye ailments \n10.  Gastric/ Duodenal Ulcer \n36 Months waiting period \n1.  Treatment for joint replacement unless arising from accident \n2.  Age-related Osteoarthritis & Osteoporosis"
+      }
+    ],
+    [
+      {
+        "score": 0.675099,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "3.56. Waiting Period means a period from the inception of this Policy during which specified diseases/treatments are not covered. \nOn completion of the period, diseases/treatments shall be covered provided the Policy has been continuously renewed without \nany break.  \n\n4.  COVERAGE \nThe covers listed below are in-built Policy benefits and shall be available to all Insured Persons in accordance with the procedures \nset out in this Policy. \n\n4.1. Hospitalization \nThe Company shall indemnify Medical Expense incurred for Hospitalization of the Insured Person during the Policy Period, up to \nthe Sum Insured and Cumulative Bonus specified in the Policy Schedule, for, \ni.  Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital / Nursing Home up to 2% of the sum insured \n\nii. \n\nsubject to maximum of Rs. 5,000/-per day \nIntensive Care Unit (ICU) / Intensive Cardiac Care Unit (ICCU) expenses up to 5% of the sum insured subject to maximum of \nRs. 10,000/- per day \n\niii.  Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialist Fees whether paid directly to the treating doctor/ surgeon or \n\nto the hospital \n\niv.  Anesthesia,  blood,  oxygen,  operation  theatre  charges,  surgical  appliances,  medicines  and  drugs,  costs  towards  diagnostics, \n\ndiagnostic imaging modalities and such similar other expenses. \n\n4.1.1. Other expenses"
+      },
+      {
+        "score": 0.6473884,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "National Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 5 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n \n \n \n \n \n \n\fModern Treatment \nUAE & HIFU \nBalloon Sinuplasty \nDeep Brain Stimulation \n\nTreatment during the Policy Period: \nCoverage \nLimit is for Procedure cost only \nLimit is for Balloon cost only \nLimit is for implants including batteries only \nOnly cost of medicines payable under this limit, other incidental charges like investigations and consultation \ncharges not payable. \nLimit is for cost of injections only. \nLimit is for complete treatment, including Pre & Post Hospitalization \nLimit is for robotic component only. \n\nOral Chemotherapy \n\nImmunotherapy \nIntravitreal injections \nRobotic Surgery \nStereotactic Radio \nsurgeries \nBronchial Thermoplasty \nVaporization of the \nprostrate \nIONM \nStem cell therapy \n\nLimit is for radiation procedure. \nLimit is for complete treatment, including Pre & Post Hospitalization \n\nLimit is for LASER component only. \nLimit is for IONM procedure only. \nLimit is for complete treatment, including Pre & Post Hospitalization \n\n4.7. The expenses that are not covered in this policy are placed under List-l of Annexure-A. The list of expenses that are to be \nsubsumed  into  room  charges,  or  procedure  charges  or  costs  of  treatment  are  placed  under  List-II,  List-III  and  List-IV  of \nAnnexure-A respectively."
+      },
+      {
+        "score": 0.64435244,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "a.  Legally wedded spouse \nb.  Parents and parents-in-law. \nc.  Dependent children (i.e., natural or legally adopted) between the age 3 months to 25 years. If \nthe child above 18 years of age is financially independent, he or she shall be ineligible for \ncoverage in the subsequent renewals. \n\nGrace Period \n\nHospitalisation \nExpenses \nPre Hospitalisation \nPost Hospitalisation \n\nSublimit for \nroom/doctors fee  \n\nThe grace period of thirty days (where premium is paid in quarterly/half yearly/annual instalments) is \navailable on the premium due date, to pay the premium. \nExpenses of Hospitalization for a minimum period of 24 consecutive hours only shall be admissible \nTime limit of 24 hrs shall not apply when the treatment is undergone in a Day Care Center \nFor 30 days prior to the date of hospitalization \nFor 60 days from the date of discharge from the hospital \n1. Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital/ Nursing Home \nup to 2% of the Sum Insured subject to maximum of Rs. 5,000/- per day \n2. Intensive Care Unit (ICU) charges/ Intensive Cardiac Care Unit (ICCU) charges all-inclusive as \nprovided by the Hospital/ Nursing Home up to 5% of the Sum Insured subject to maximum of Rs. \n10,000/- per day \n\nCataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year \n\nAYUSH \n\nPre Existing Disease \n\nCumulative bonus  \n\nCo Pay \n\nNational Home \nCare Treatment \nAdd-On"
+      },
+      {
+        "score": 0.64239097,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year \n\nAYUSH \n\nPre Existing Disease \n\nCumulative bonus  \n\nCo Pay \n\nNational Home \nCare Treatment \nAdd-On \n\nExpenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha \nand Homeopathy system of medicines shall be covered upto sum insured, during each policy year as \nspecified in the policy schedule \nOnly PEDs declared in the Proposal Form and accepted for coverage by the Company shall be covered \nafter a waiting period of 3 years \nIncrease in the sum insured by 5% of SI in respect of each claim free year of insurance maximum up to \n50% of current SI. In the event of claim the cumulative bonus shall be reduced as the same rate. \n5% Co-pay on all claims for age less than equal to 75 years \n15% Co-pay on all claims for age greater than 75 years \n\nINR 10,000/ 15,000/ 20,000/ 25,000/ 30,000/ 35,000/ 40,000/ 45,000/ 50,000, subject to 10% of Basic \nSI under base Policy. \n\nAdd-Ons Available \n\nNo loading shall apply on renewals based on individual claims experience \nInsurance is the subject matter of solicitation \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 14 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425"
+      },
+      {
+        "score": 0.6310009,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "expiry of 36 (thirty six) months of continuous coverage after the date of inception of the first policy with us.  \nIn case of enhancement of sum insured the exclusion shall apply afresh to the extent of sum insured increase. \nIf the Insured Person is continuously covered without any break as defined under the portability norms of the extant IRDAI \n(Health Insurance) Regulations then waiting period for the same would be reduced to the extent of prior coverage. \n\nd)  Coverage under the policy after the expiry of 36 (thirty six) months for any pre-existing disease is subject to the same being \n\ndeclared at the time of application and accepted by us. \n\n6.2. First 30 days waiting period (Excl 03) \na)  Expenses related to the treatment of any illness within 30 days from the first policy commencement date shall be excluded  \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 6 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n \n\fexcept claims arising due to an accident, provided the same are covered. \n\nb)  This exclusion shall not, however, apply if the Insured Person has Continuous Coverage for more than 12 (twelve) months. \nc)  The within referred waiting period is made applicable to the enhanced sum insured in the event of granting higher sum \n\ninsured subsequently.  \n\n.  \n6.3. Specified disease/procedure waiting period (Excl 02) \na)  Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the expiry of 24"
+      },
+      {
+        "score": 0.63017976,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "4.2. AYUSH Treatment \nThe Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, \nUnani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the \npolicy schedule in any AYUSH Hospital. \n\n4.3. Cataract Treatment \nThe Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or INR \n40,000 per eye, whichever is lower, per each eye in one Policy Period. \n\n4.4. Pre Hospitalisation \nThe  Company  shall  indemnify  pre-hospitalization  medical  expenses  incurred,  related  to  an  admissible  hospitalization  requiring \nInpatient Care, for a fixed period of 30 days prior to the date of admissible Hospitalization covered under the Policy. \n\n4.5. Post Hospitalisation \nThe Company shall indemnify post hospitalization medical expenses incurred, related to an admissible hospitalization requiring \ninpatient care, for a fixed period of 60 days from the date of discharge from the hospital, following an admissible hospitalization \ncovered under the Policy. \n\n4.6. Modern Treatment \nThe following procedures will be covered (wherever medically indicated) either as in patient or as part of day care treatment in a  \nhospital subject to the limit of 50% of the Sum Insured for the related modern procedure/ component/ medicine of each Modern  \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 5 of 16"
+      },
+      {
+        "score": 0.61813027,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "SURGICAL TAPE \n\nTORNIQUET  \n\nSl \n1 \n2 \n3 \n4 \n\n5 \n6 \n7 \n8 \n9 \n\nList IV – Items that are to be subsumed into costs of treatment \n\nItem \nADMISSION/REGISTRATION CHARGES \nHOSPITALISATION FOR EVALUATION/ DIAGNOSTIC PURPOSE \nURINE CONTAINER \nBLOOD RESERVATION CHARGES AND ANTE NATAL BOOKING \nCHARGES \nBIPAP MACHINE \nCPAP/ CAPD EQUIPMENTS \nINFUSION PUMP– COST \nHYDROGEN PEROXIDE\\SPIRIT\\ DISINFECTANTS ETC \nNUTRITION PLANNING CHARGES - DIETICIAN CHARGES- DIET \nCHARGES  \n\n10  HIV KIT \n11  ANTISEPTIC MOUTHWASH \n12 \nLOZENGES \n13  MOUTH PAINT \n14  VACCINATION CHARGES \n15  ALCOHOL SWABES \n16 \n17  Glucometer & Strips \n18  URINE BAG \n\nSCRUB SOLUTION/STERILLIUM \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 15 of 16 \n\nAnnexure-B \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n\fThe contact details of the Insurance Ombudsman offices are as below- \n\nAreas of Jurisdiction \n\nOffice of the Insurance Ombudsman \n\nGujarat, Dadra & Nagar \nHaveli, Daman and Diu \n\nKarnataka"
+      }
+    ],
+    [
+      {
+        "score": 0.6803223,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year \n\nAYUSH \n\nPre Existing Disease \n\nCumulative bonus  \n\nCo Pay \n\nNational Home \nCare Treatment \nAdd-On \n\nExpenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha \nand Homeopathy system of medicines shall be covered upto sum insured, during each policy year as \nspecified in the policy schedule \nOnly PEDs declared in the Proposal Form and accepted for coverage by the Company shall be covered \nafter a waiting period of 3 years \nIncrease in the sum insured by 5% of SI in respect of each claim free year of insurance maximum up to \n50% of current SI. In the event of claim the cumulative bonus shall be reduced as the same rate. \n5% Co-pay on all claims for age less than equal to 75 years \n15% Co-pay on all claims for age greater than 75 years \n\nINR 10,000/ 15,000/ 20,000/ 25,000/ 30,000/ 35,000/ 40,000/ 45,000/ 50,000, subject to 10% of Basic \nSI under base Policy. \n\nAdd-Ons Available \n\nNo loading shall apply on renewals based on individual claims experience \nInsurance is the subject matter of solicitation \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 14 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425"
+      },
+      {
+        "score": 0.67781293,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "4.2. AYUSH Treatment \nThe Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, \nUnani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the \npolicy schedule in any AYUSH Hospital. \n\n4.3. Cataract Treatment \nThe Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or INR \n40,000 per eye, whichever is lower, per each eye in one Policy Period. \n\n4.4. Pre Hospitalisation \nThe  Company  shall  indemnify  pre-hospitalization  medical  expenses  incurred,  related  to  an  admissible  hospitalization  requiring \nInpatient Care, for a fixed period of 30 days prior to the date of admissible Hospitalization covered under the Policy. \n\n4.5. Post Hospitalisation \nThe Company shall indemnify post hospitalization medical expenses incurred, related to an admissible hospitalization requiring \ninpatient care, for a fixed period of 60 days from the date of discharge from the hospital, following an admissible hospitalization \ncovered under the Policy. \n\n4.6. Modern Treatment \nThe following procedures will be covered (wherever medically indicated) either as in patient or as part of day care treatment in a  \nhospital subject to the limit of 50% of the Sum Insured for the related modern procedure/ component/ medicine of each Modern  \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 5 of 16"
+      },
+      {
+        "score": 0.62589985,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "4.1.1. Other expenses \n\ni.  Expenses incurred on treatment of cataract subject to the sub limits \nii.  Dental treatment, necessitated due to disease or injury  \niii.  Plastic surgery necessitated due to disease or injury  \niv.  All the day care treatments \nv.  Expenses incurred on road Ambulance subject to a maximum of Rs 2,000 per hospitalization. \n\nNote: \n1. Expenses of Hospitalization for a minimum period of 24  consecutive hours only shall be admissible. However, the time limit \nshall not apply in respect of Day Care Treatment. \n2.  In  case  of  admission  to  a  Room  at  rates  exceeding  the  aforesaid  limits,  the  reimbursement/payment  of  Associated  Medical \nExpenses incurred at the Hospital, shall be effected in the same proportion as the admissible rate per day bears to the actual rate per \nday of Room Rent charges. Proportionate deduction shall not apply if admitted to ICU/ ICCU. \nAssociated Medical Expenses shall include all related expenses except the following expenses, \na. Cost of pharmacy and consumables;  \nb. Cost of implants and medical devices  \nc. Cost of diagnostics \n3. Sub limits as mentioned above, will not apply in case of treatment undergone as a package for a listed procedure in a Preferred \nProvider Network (PPN). \n4. Listed procedures and Preferred Provider Network list are dynamic in nature, and will be updated in the Company’s website from \ntime to time \n\n4.2. AYUSH Treatment \nThe Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, \nUnani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the \npolicy schedule in any AYUSH Hospital."
+      },
+      {
+        "score": 0.61700386,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "9.4. Claim Settlement \ni.  The  Company  shall  settle  or  reject  a  claim,  as  the  case  may  be,  within  15  days  from  the  date  of  receipt  of  last  necessary \n\nii. \n\ndocument. \nIn the case of delay in the payment of a claim, the Company shall be liable to pay interest to the policyholder from the date of \nreceipt of last necessary document to the date of payment of claim at a rate 2% above the bank rate. \n\niii.  However,  where  the  circumstances  of  a  claim  warrant  an  investigation  in  the  opinion of  the  Company,  it  shall  initiate  and \ncomplete such investigation at the earliest, in any case not later than 30 days from the date of receipt of last necessary document. \nIn such cases, the Company shall settle or reject the claim within 45 days from the date of receipt of last necessary document. \niv.  In case of delay beyond stipulated 45 days, the Company shall be liable to pay interest to the policyholder at a rate 2% above \n\nthe bank rate from the date of receipt of last necessary document to the date of payment of claim. \n\n(Explanation: “Bank rate” shall mean the rate fixed by the Reserve Bank of India (RBI) at the beginning of the financial year in \nwhich claim has fallen due)"
+      },
+      {
+        "score": 0.610091,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "National Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 5 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n \n \n \n \n \n \n\fModern Treatment \nUAE & HIFU \nBalloon Sinuplasty \nDeep Brain Stimulation \n\nTreatment during the Policy Period: \nCoverage \nLimit is for Procedure cost only \nLimit is for Balloon cost only \nLimit is for implants including batteries only \nOnly cost of medicines payable under this limit, other incidental charges like investigations and consultation \ncharges not payable. \nLimit is for cost of injections only. \nLimit is for complete treatment, including Pre & Post Hospitalization \nLimit is for robotic component only. \n\nOral Chemotherapy \n\nImmunotherapy \nIntravitreal injections \nRobotic Surgery \nStereotactic Radio \nsurgeries \nBronchial Thermoplasty \nVaporization of the \nprostrate \nIONM \nStem cell therapy \n\nLimit is for radiation procedure. \nLimit is for complete treatment, including Pre & Post Hospitalization \n\nLimit is for LASER component only. \nLimit is for IONM procedure only. \nLimit is for complete treatment, including Pre & Post Hospitalization \n\n4.7. The expenses that are not covered in this policy are placed under List-l of Annexure-A. The list of expenses that are to be \nsubsumed  into  room  charges,  or  procedure  charges  or  costs  of  treatment  are  placed  under  List-II,  List-III  and  List-IV  of \nAnnexure-A respectively."
+      },
+      {
+        "score": 0.60800844,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "Schedule. \n\niii.  The Company shall communicate to the Insured at the address or through any other electronic mode mentioned in the schedule. \n\n10.7.  Territorial Limit \nAll medical treatment for the purpose of this insurance will have to be taken in India only. \n\n10.8.  Multiple Policies \ni. \n\nIn case of multiple policies taken by an insured person during a period from one or more insurers to indemnify treatment costs, \nthe insured person shall have the right to require a settlement of his/her claim in terms of any of his/her policies. In all  such \ncases the insurer chosen by the insured person shall be obliged to settle the claim as long as the claim is within the limits of and \naccording to the terms of the chosen policy. \nInsured person having multiple policies shall also have the right to prefer claims under this policy for the amounts disallowed \nunder any other policy / policies. Then the insurer shall independently settle the claim subject to the terms and conditions of \nthis policy. \n\nii. \n\niii.  If the amount to be claimed exceeds the sum insured under a single policy, the insured person shall have the right to choose \n\ninsurer from whom he/she wants to claim the balance amount. \n\niv.  Where an insured person has policies from more than one insurer to cover the same risk on indemnity basis, the insured person \n\nshall only be indemnified the treatment costs in accordance with the terms and conditions of the chosen policy."
+      },
+      {
+        "score": 0.6032444,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "a.  Legally wedded spouse \nb.  Parents and parents-in-law. \nc.  Dependent children (i.e., natural or legally adopted) between the age 3 months to 25 years. If \nthe child above 18 years of age is financially independent, he or she shall be ineligible for \ncoverage in the subsequent renewals. \n\nGrace Period \n\nHospitalisation \nExpenses \nPre Hospitalisation \nPost Hospitalisation \n\nSublimit for \nroom/doctors fee  \n\nThe grace period of thirty days (where premium is paid in quarterly/half yearly/annual instalments) is \navailable on the premium due date, to pay the premium. \nExpenses of Hospitalization for a minimum period of 24 consecutive hours only shall be admissible \nTime limit of 24 hrs shall not apply when the treatment is undergone in a Day Care Center \nFor 30 days prior to the date of hospitalization \nFor 60 days from the date of discharge from the hospital \n1. Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital/ Nursing Home \nup to 2% of the Sum Insured subject to maximum of Rs. 5,000/- per day \n2. Intensive Care Unit (ICU) charges/ Intensive Cardiac Care Unit (ICCU) charges all-inclusive as \nprovided by the Hospital/ Nursing Home up to 5% of the Sum Insured subject to maximum of Rs. \n10,000/- per day \n\nCataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year \n\nAYUSH \n\nPre Existing Disease \n\nCumulative bonus  \n\nCo Pay \n\nNational Home \nCare Treatment \nAdd-On"
+      }
+    ],
+    [
+      {
+        "score": 0.63542897,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "Annexure-A \n\nLUXURY TAX \n\nSPUTUM CUP  \n\nFACE MASK \nFLEXI MASK \n\nCOMB \nEAU-DE-COLOGNE / ROOM FRESHNERS \nFOOT COVER \nGOWN \nSLIPPERS  \nTISSUE PAPER \nTOOTH PASTE \nTOOTH BRUSH \n\n6 \n7 \n8 \n9 \n10 \n11 \n12 \n13 \n14  BED PAN \n15 \n16 \n17  HAND HOLDER \n18 \n19  DISINFECTANT LOTIONS \n20 \n21  HVAC \n22  HOUSE KEEPING CHARGES \n23  AIR CONDITIONER CHARGES \n24 \n25  CLEAN SHEET \n26  BLANKET/WARMER BLANKET \n27  ADMISSION KIT \n28  DIABETIC CHART CHARGES \n29  DOCUMENTATION CHARGES / ADMINISTRATIVE EXPENSES \n30  DISCHARGE PROCEDURE CHARGES \n31  DAILY CHART CHARGES \n32 \n33 \n34 \n35 \n36 \n37 \n\nENTRANCE PASS / VISITORS PASS CHARGES \nEXPENSES RELATED TO PRESCRIPTION ON DISCHARGE \nFILE OPENING CHARGES \nINCIDENTAL EXPENSES / MISC. CHARGES (NOT EXPLAINED) \nPATIENT IDENTIFICATION BAND / NAME TAG \nPULSEOXYMETER CHARGES \n\nIM IV INJECTION CHARGES  \n\nList III – Items that are to be subsumed into Procedure Charges \n\nItem \nHAIR REMOVAL CREAM \nDISPOSABLES RAZORS CHARGES (for site preparations) \nEYE PAD \nEYE SHEILD \nCAMERA COVER \nDVD, CD CHARGES \nGAUSE SOFT \nGAUZE"
+      },
+      {
+        "score": 0.63534236,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "9.1. Notification of Claim \nNotice with full particulars shall be sent to the Company/ TPA (if applicable) as under: \ni.  Within 24hours from the date of emergency hospitalization required or before the Insured Person’s discharge from Hospital, \n\nwhichever is earlier. \n\nii.  At least 48 hours prior to admission in Hospital in case of a planned Hospitalization. \n\n9.2. Documents to be submitted \nThe reimbursement claim is to be supported with the following documents and submitted within the prescribed time limit. \ni.  Duly completed claim form \nii.  Photo Identity proof of the patient \niii.  Medical practitioner’s prescription advising admission. \niv.  Original bills with itemized break-up  \nv.  Payment receipts \nvi.  Discharge summary including complete medical history of the patient along with other details. \nvii.  Investigation/ Diagnostic test reports etc. supported by the prescription from attending medical practitioner \nviii. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases). \nix.  Sticker/Invoice of the Implants, wherever applicable. \nx.  MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable. \nxi.  NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque \nxii.  KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh as per AML Guidelines \nxiii. Legal heir/succession certificate, wherever applicable \nxiv. Any other relevant document required by Company/TPA for assessment of the claim. \nNote: \n1.  The company shall only accept bills/invoices/medical treatment related documents only in the Insured Person's name for whom \n\n2."
+      },
+      {
+        "score": 0.6028176,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "10.4.  Records to be Maintained \nThe  Insured  Person  shall  keep  an  accurate  record  containing  all  relevant  medical  records  and  shall  allow  the  Company  or  its \nrepresentatives to inspect such records. The Policyholder or Insured Person shall furnish such information as the Company may \nrequire for settlement of any claim under the Policy, within reasonable time limit and within the time limit specified in the Policy \n\n10.5.  Complete Discharge \nAny payment to the policyholder, Insured Person or his/ her nominees or his/ her legal representative or assignee or to the \nHospital, as the case may be, for any benefit under the Policy shall be a valid discharge towards payment of claim by the \nCompany to the extent of then amount for the particular claim. \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 10 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f10.6.  Notice & Communication \ni.  Any notice, direction, instruction or any other communication related to the Policy should be made in writing. \nii.  Such communication shall be sent to the address of the Company or through any other electronic modes specified in the Policy \n\nSchedule. \n\niii.  The Company shall communicate to the Insured at the address or through any other electronic mode mentioned in the schedule. \n\n10.7.  Territorial Limit \nAll medical treatment for the purpose of this insurance will have to be taken in India only. \n\n10.8.  Multiple Policies \ni."
+      },
+      {
+        "score": 0.5995048,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "SURGICAL TAPE \n\nTORNIQUET  \n\nSl \n1 \n2 \n3 \n4 \n\n5 \n6 \n7 \n8 \n9 \n\nList IV – Items that are to be subsumed into costs of treatment \n\nItem \nADMISSION/REGISTRATION CHARGES \nHOSPITALISATION FOR EVALUATION/ DIAGNOSTIC PURPOSE \nURINE CONTAINER \nBLOOD RESERVATION CHARGES AND ANTE NATAL BOOKING \nCHARGES \nBIPAP MACHINE \nCPAP/ CAPD EQUIPMENTS \nINFUSION PUMP– COST \nHYDROGEN PEROXIDE\\SPIRIT\\ DISINFECTANTS ETC \nNUTRITION PLANNING CHARGES - DIETICIAN CHARGES- DIET \nCHARGES  \n\n10  HIV KIT \n11  ANTISEPTIC MOUTHWASH \n12 \nLOZENGES \n13  MOUTH PAINT \n14  VACCINATION CHARGES \n15  ALCOHOL SWABES \n16 \n17  Glucometer & Strips \n18  URINE BAG \n\nSCRUB SOLUTION/STERILLIUM \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 15 of 16 \n\nAnnexure-B \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n\fThe contact details of the Insurance Ombudsman offices are as below- \n\nAreas of Jurisdiction \n\nOffice of the Insurance Ombudsman \n\nGujarat, Dadra & Nagar \nHaveli, Daman and Diu \n\nKarnataka"
+      },
+      {
+        "score": 0.592569,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "a.  Legally wedded spouse \nb.  Parents and parents-in-law. \nc.  Dependent children (i.e., natural or legally adopted) between the age 3 months to 25 years. If \nthe child above 18 years of age is financially independent, he or she shall be ineligible for \ncoverage in the subsequent renewals. \n\nGrace Period \n\nHospitalisation \nExpenses \nPre Hospitalisation \nPost Hospitalisation \n\nSublimit for \nroom/doctors fee  \n\nThe grace period of thirty days (where premium is paid in quarterly/half yearly/annual instalments) is \navailable on the premium due date, to pay the premium. \nExpenses of Hospitalization for a minimum period of 24 consecutive hours only shall be admissible \nTime limit of 24 hrs shall not apply when the treatment is undergone in a Day Care Center \nFor 30 days prior to the date of hospitalization \nFor 60 days from the date of discharge from the hospital \n1. Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital/ Nursing Home \nup to 2% of the Sum Insured subject to maximum of Rs. 5,000/- per day \n2. Intensive Care Unit (ICU) charges/ Intensive Cardiac Care Unit (ICCU) charges all-inclusive as \nprovided by the Hospital/ Nursing Home up to 5% of the Sum Insured subject to maximum of Rs. \n10,000/- per day \n\nCataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year \n\nAYUSH \n\nPre Existing Disease \n\nCumulative bonus  \n\nCo Pay \n\nNational Home \nCare Treatment \nAdd-On"
+      },
+      {
+        "score": 0.58578813,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "9.1.2 Procedure for Reimbursement of Claims \nFor  reimbursement  of  claims  the  Insured  Person  shall  submit  the  necessary  documents  to  TPA  (if  claim  is  processed  by \nTPA)/Company within the prescribed time limit as specified hereunder. \n\nSl. \nNo. \n1. \n\nType of claim \n\nPrescribed Time limit  \n\nReimbursement  of  hospitalisation,  day  care  and  pre  hospitalisation \nexpenses \n\nWithin thirty days of date of discharge \nfrom hospital \n\n2. \n\nReimbursement of post hospitalisation expenses \n\nWithin fifteen days from completion of \npost hospitalisation treatment \n\n9.1. Notification of Claim \nNotice with full particulars shall be sent to the Company/ TPA (if applicable) as under: \ni.  Within 24hours from the date of emergency hospitalization required or before the Insured Person’s discharge from Hospital, \n\nwhichever is earlier. \n\nii.  At least 48 hours prior to admission in Hospital in case of a planned Hospitalization."
+      },
+      {
+        "score": 0.5785831,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "National Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 2 of 16 \n\nArogya Sanjeevani Policy - National \nUIN: NICHLIP25041V022425 \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\for under the enactments specified under Schedule of Section 56(1) of the said Act, OR complies with all minimum criteria \nas under: \ni.  has qualified nursing staff under its employment round the clock; \nii.  has at least ten (10) inpatient beds, in those towns having a population of less than ten lacs and fifteen inpatient beds in \n\nall other places; \n\niii.  has qualified medical practitioner (s) in charge round the clock; \niv.  has a fully equipped operation theatre of its own where surgical procedures are carried out  \nv.  maintains daily records of patients and shall make these accessible to the Company’s authorized personnel. \n\n3.24. Hospitalisation means admission in a hospital for a minimum period of twenty four (24) consecutive ‘In-patient care’ hours \nexcept for procedures/ treatments, where such admission could be for a period of less than twenty four (24) consecutive \nhours. \n\n3.25. I D card means the card issued to the Insured person by the TPA for availing Cashless Facility. \n\n3.26. Illness means a sickness or a disease or pathological condition leading to the impairment of normal physiological function"
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 4,
+  "parallel_processing": true
+}
+
+================================================================================

@@ -1,0 +1,117 @@
+================================================================================
+API REQUEST LOG - 2025-08-04 13:23:15
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-04T13:23:15.881958
+TOTAL PROCESSING TIME: 3.606 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (4 total):
+------------------------------
+1. When will my root canal claim of Rs 25,000 be settled?
+2. I have done an IVF for Rs 56,000. Is it covered?
+3. I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+4. Give me a list of documents to be uploaded for hospitalization for heart surgery.
+
+RESPONSES GENERATED:
+------------------------------
+Q1: When will my root canal claim of Rs 25,000 be settled?
+A1: Since your claim is for Rs 25,000, which is a specific amount mentioned in the policy, I can try to help you understand the claim settlement process. 
+
+According to the policy document, the Company shall settle or reject a claim within 15 days from the date of receipt of the last necessary document. If the claim is not settled within this time frame, the Company shall be liable to pay interest to the policyholder at a rate 2% above the bank rate from the date of receipt of the last necessary document to the date of payment of claim. 
+
+However, if the circumstances of a claim warrant an investigation, the Company shall initiate and complete such investigation at the earliest, in any case not later than 30 days from the date of receipt of the last necessary document. In such cases, the Company shall settle or reject the claim within 45 days from the date of receipt of the last necessary document. 
+
+To get a more accurate answer, I would need to know the status of your claim and the date it was submitted.
+--------------------------------------------------
+Q2: I have done an IVF for Rs 56,000. Is it covered?
+A2: Based on the provided policy document, IVF (In Vitro Fertilization) treatment is not explicitly mentioned as a covered procedure. However, IVF is a type of fertility treatment, and fertility treatments are generally not listed as a covered procedure in this policy. 
+
+It's best to check with the insurance company or policy provider for specific details on what is covered under the policy.
+--------------------------------------------------
+Q3: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+A3: Based on the provided policy document, the cataract treatment limit is up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower. Since you've already incurred a treatment cost of Rs 100,000, you may not be eligible for the full amount. I recommend checking the policy schedule to determine the exact limit applicable to your case.
+--------------------------------------------------
+Q4: Give me a list of documents to be uploaded for hospitalization for heart surgery.
+A4: Based on the provided context, the documents to be uploaded for hospitalization for heart surgery are not explicitly listed. However, according to the claim procedure, the following documents are required for reimbursement:
+
+1. Duly completed claim form
+2. Photo Identity proof of the patient
+3. Medical practitioner's prescription advising admission
+4. Original bills with itemized break-up
+5. Payment receipts
+6. Discharge summary including complete medical history of the patient along with other details
+7. Investigation/Diagnostic test reports etc. supported by the prescription from attending medical practitioner
+8. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases)
+9. Sticker/Invoice of the Implants, wherever applicable
+10. MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable
+11. NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque
+
+Please note that these documents are required for reimbursement, not specifically for hospitalization for heart surgery. If you need more information, please let me know.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-04T13:23:15.881958",
+  "request_start_time": "2025-08-04T13:23:12.275210",
+  "total_processing_time_seconds": 3.606336832046509,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "When will my root canal claim of Rs 25,000 be settled?",
+    "I have done an IVF for Rs 56,000. Is it covered?",
+    "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+    "Give me a list of documents to be uploaded for hospitalization for heart surgery."
+  ],
+  "total_questions": 4,
+  "responses": [
+    {
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "answer": "Since your claim is for Rs 25,000, which is a specific amount mentioned in the policy, I can try to help you understand the claim settlement process. \n\nAccording to the policy document, the Company shall settle or reject a claim within 15 days from the date of receipt of the last necessary document. If the claim is not settled within this time frame, the Company shall be liable to pay interest to the policyholder at a rate 2% above the bank rate from the date of receipt of the last necessary document to the date of payment of claim. \n\nHowever, if the circumstances of a claim warrant an investigation, the Company shall initiate and complete such investigation at the earliest, in any case not later than 30 days from the date of receipt of the last necessary document. In such cases, the Company shall settle or reject the claim within 45 days from the date of receipt of the last necessary document. \n\nTo get a more accurate answer, I would need to know the status of your claim and the date it was submitted."
+    },
+    {
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "answer": "Based on the provided policy document, IVF (In Vitro Fertilization) treatment is not explicitly mentioned as a covered procedure. However, IVF is a type of fertility treatment, and fertility treatments are generally not listed as a covered procedure in this policy. \n\nIt's best to check with the insurance company or policy provider for specific details on what is covered under the policy."
+    },
+    {
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "answer": "Based on the provided policy document, the cataract treatment limit is up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower. Since you've already incurred a treatment cost of Rs 100,000, you may not be eligible for the full amount. I recommend checking the policy schedule to determine the exact limit applicable to your case."
+    },
+    {
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "answer": "Based on the provided context, the documents to be uploaded for hospitalization for heart surgery are not explicitly listed. However, according to the claim procedure, the following documents are required for reimbursement:\n\n1. Duly completed claim form\n2. Photo Identity proof of the patient\n3. Medical practitioner's prescription advising admission\n4. Original bills with itemized break-up\n5. Payment receipts\n6. Discharge summary including complete medical history of the patient along with other details\n7. Investigation/Diagnostic test reports etc. supported by the prescription from attending medical practitioner\n8. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases)\n9. Sticker/Invoice of the Implants, wherever applicable\n10. MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable\n11. NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque\n\nPlease note that these documents are required for reimbursement, not specifically for hospitalization for heart surgery. If you need more information, please let me know."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 4,
+  "parallel_processing": true
+}
+
+================================================================================

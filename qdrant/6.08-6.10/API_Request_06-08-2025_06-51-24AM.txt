@@ -1,0 +1,3246 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:51:24
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:51:24.531776
+TOTAL PROCESSING TIME: 7.533 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Super_Splendor_(Feb_2023).pdf?sv=2023-01-03&st=2025-07-21T08%3A10%3A00Z&se=2025-09-22T08%3A10%3A00Z&sr=b&sp=r&sig=vhHrl63YtrEOCsAy%2BpVKr20b3ZUo5HMz1lF9%2BJh6LQ0%3D
+Extracted Filename: Super_Splendor_(Feb_2023).pdf
+Matched File: Super_Splendor_(Feb_2023).pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. What is the ideal spark plug gap recommeded
+2. Does this comes in tubeless tyre version
+3. Is it compulsoury to have a disc brake
+4. Can I put thums up instead of oil
+5. Give me JS code to generate a random number between 1 and 100
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is the ideal spark plug gap recommeded
+A1: The ideal spark plug gap recommended is 0.8-0.9 mm.
+--------------------------------------------------
+Q2: Does this comes in tubeless tyre version
+A2: Yes, the Super Splendor comes with tubeless tyres.
+--------------------------------------------------
+Q3: Is it compulsoury to have a disc brake
+A3: No, it is not compulsory to have a disc brake. The document mentions both disc and drum variants, indicating both are valid options without one being mandatory.
+--------------------------------------------------
+Q4: Can I put thums up instead of oil
+A4: No, you cannot use Thums Up or any other soft drink as a substitute for engine oil. The document specifies that only Hero Genuine Engine Oil or the recommended grade (SAE 10W 30 SL Grade) should be used. Using a soft drink would not provide the necessary lubrication and could damage the engine.
+--------------------------------------------------
+Q5: Give me JS code to generate a random number between 1 and 100
+A5: Here's the JavaScript code to generate a random number between 1 and 100:
+
+```javascript
+Math.floor(Math.random() * 100) + 1;
+```
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: What is the ideal spark plug gap recommeded
+--------------------------------------------------
+Chunk 1 (Score: 0.7295):
+File: Super_Splendor_(Feb_2023).pdf
+Content: Hero MotoCorp
+
+1
+
+2
+(1) Noise suppressor cap       (2) Spark plug
+• Visually inspect the spark plug electrodes for 
+wear.  The  center  electrode  should  have 
+square edges and the side electrode should 
+not  be  eroded.  Discard  the  spark  plug  if  
+there is apparent wear or if the insulator is 
+cracked or chipped.
+
+0.8-0.9 mm 
+
+• Make  sure  that  the  spark  plug  gap  is    
+0.8-0.9  mm  using  a  wire-type  feeler 
+gauge. If adjustment is necessary, bend the 
+side electrode carefully. Make sure the plug 
+washer is in good conditions.
+• With the plug washer attached, thread the 
+spark  plug  in  by  hand  to  prevent  cross-
+threading.
+• Tighten a new spark plug 1/2 turn with 
+spark plug wrench to compress the washer. 
+If you are reusing a plug, it should only take 
+1/8-1/4 turn after the plug seats. 
+
+!!
+
+CAUTION
+• Do not remove the spark plug and test for  
+spark on the vehicle by cranking the engine 
+as this could lead to fire or explosion
+• Install a dummy spark plug in the cylinder 
+head and test for spark.
+• Never use a spark plug with improper heat 
+range.
+• Always use resistor type spark plug.
+
+38
+----------------------------------------
+Chunk 2 (Score: 0.6556):
+File: Super_Splendor_(Feb_2023).pdf
+Content: I, A
+
+I, E
+
+I
+
+I, T
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, E
+
+I
+
+I
+
+I, T
+
+C, L
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, T
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, L, A
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, E
+
+I
+
+37
+
+I, L, A
+
+SPARK PLUG INSPECTION
+Recommended spark plugs: 
+NGK-CPR 7EA9, RG8YC (Federal Mogul)
+For most riding conditions this spark plug heat 
+range number is satisfactory. However, if the 
+vehicle is going to be operated for extended 
+periods  at  high  speeds  or  near  maximum 
+power in hot climates, the spark plug should 
+be  changed  to  a  cold  heat  range  number, 
+ workshop 
+consult Authorised 
+on this if required.
+• Clean any dirt around the spark plug base.
+• Disconnect the noise suppressor cap (1) 
+and remove the spark plug (2) with the help 
+of spark plug box wrench provided in the 
+tool bag. 
+
+Hero MotoCorp
+
+1
+----------------------------------------
+Chunk 3 (Score: 0.6413):
+File: Super_Splendor_(Feb_2023).pdf
+Content: !!
+
+CAUTION
+• Do not remove the spark plug and test for  
+spark on the vehicle by cranking the engine 
+as this could lead to fire or explosion
+• Install a dummy spark plug in the cylinder 
+head and test for spark.
+• Never use a spark plug with improper heat 
+range.
+• Always use resistor type spark plug.
+
+38
+
+ENGINE OIL
+Use hero genuine engine oil or recommended 
+grade oil.
+BRAND: Hero 4T plus
+GRADE: SAE 10W 30 SL Grade 
+(JASO MA2).
+Manufactured by:
+• Tide Water Oil Co. (India) Ltd.
+• Savita Oil Technologies Limited.
+• Bharat Petroleum Corporation Limited.
+OIL CAPACITY: 0.95 litre (disassembly)
+: 0.75 litre (at oil change)
+Engine  oil  level  inspection/Top  up 
+process
+Check  engine  oil  level  each  day  before 
+operating the vehicle. The oil level dipstick (1) 
+is on the right crankcase cover for measuring 
+oil level. Oil level must be maintained between 
+the upper (2) and lower (3) level marks on 
+the oil level dipstick.
+
+1
+
+2
+
+UPPER
+
+LOWER
+
+(1) Oil level dipstick     (2) Upper level mark
+(3) Lower level mark
+
+3
+
+Do top up if oil level reaches towards the lower 
+level mark or every 3000 km whichever is 
+earlier.
+• Park the vehicle on its main stand.
+•  Start  the  engine  &  let  it  idle  for  3-5 
+minutes.
+• Slightly loosen the engine oil check bolt (4) 
+and  check  the  engine  oil  entry  into  the 
+cylinder head.
+
+4
+
+engine oil check bolt.
+----------------------------------------
+Chunk 4 (Score: 0.6215):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 1
+(1) Drain bolt                 (2) Sealing washer 
+• Fill  the  crankcase  through  the  oil  filler    
+(approx.)  of  the 
+
+hole  with 
+0.95  litre 
+recommended grade oil.
+
+• Reinstall the oil level dipstick with a new  
+O-ring.
+• Start the engine and allow it to idle for few 
+minutes.
+• Stop  the  engine,  let  the  engine  oil  settle 
+down and recheck the oil level.
+• Make sure that oil level is at the “UPPER”
+level mark of the oil level dipstick with the 
+vehicle in an upright position and that there 
+are no oil leaks.
+!!
+• Running the engine with insufficient oil can 
+cause serious engine damage.
+• Running the engine with excessive oil can 
+in 
+cause  spark  plug  fouling  & 
+performance.
+• Engine  oil  is  a  major  factor  affecting  the 
+performance and service life of the engine. 
+Non-detergent,  vegetable  or  castor  based 
+racing oils are not recommended.
+ENGINE OIL FILTER ELEMENT
+
+CAUTION
+
+loss 
+
+NOTE
+Drain the engine oil thoroughly (page 40) in 
+case of engine oil filter element replacement.
+• Remove the three mounting bolts (1).
+• Remove the engine oil filter element cover 
+
+(2) with O-ring (3).
+
+40
+
+1
+
+2
+
+4
+
+(4) Engine oil filter element        
+
+3
+
+4
+
+from the cover.
+
+(1) Mounting bolts          
+(2) Engine oil filter element cover
+• Remove the engine oil filter element (4)
+----------------------------------------
+Chunk 5 (Score: 0.6024):
+File: Super_Splendor_(Feb_2023).pdf
+Content: Key “ON” position
+OK
+
+Refill the fuel tank
+Refill
+Consult Authorised 
+Hero MotoCorp Workshop
+
+Check fuel in fuel tank
+Check fuel lines
+Check for operating 
+sound of fuel pump
+
+OK
+Consult Authorised 
+
+Hero MotoCorp
+
+ Workshop
+
+Broken fuel pump 
+wire connector
+
+Secure connections
+
+Move the side stand up 
+
+Check side stand in gear condition (page 23)
+
+Side stand “Up”
+
+Consult Authorised Hero MotoCorp Workshop
+
+B.    Side Stand Engine Kill System
+
+Side stand“Down” 
+
+Check fuse
+Ok
+Inspect battery
+Ok
+Ok
+
+Check connections, ignition switch/starter switch
+Consult Authorised Hero MotoCorp Workshop
+
+C.   Electric starter not working 
+Fused
+
+Replace fuse (page 64) 
+
+Weak
+
+Consult Authorised Hero MotoCorp Workshop
+
+Loose
+
+Secure connections
+
+68
+
+BASIC TROUBLESHOOTING
+D.  No spark at spark plug
+“OFF”
+
+Check ignition switch
+Check spark plug for fouling/
+Improper electrode gap
+
+Ok
+
+Check for poorly connected
+Or loose spark plug wire
+
+Ok
+
+Ok
+
+No spark
+
+Loose contact
+
+Consult Authorised Hero MotoCorp Workshop
+
+Turn ignition switch “ON”
+Replace spark plug/adjust
+Spark plug gap (0.8-0.9 mm)
+
+Secure properly
+
+Check fuel lines
+Check air cleaner element
+
+OK
+OK
+
+2.    ENGINE STARTS BUT STALLS
+
+Leakage
+
+Consult Authorised Hero MotoCorp Workshop
+
+Dirty
+
+Replace
+
+Consult Authorised Hero MotoCorp Workshop
+
+Spark plug loose in cylinder head
+Check air cleaner element
+Check brake binding
+Check tyre inflation pressure
+
+Ok
+Ok
+Ok
+Ok
+
+3.    POOR PICK UP
+Loose
+Clogged
+Improper adjustment
+Under inflated
+----------------------------------------
+Chunk 6 (Score: 0.6013):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 9
+
+10
+
+11
+
+(9) Timing hole cap                 (10) 'T' mark 
+(11) Index mark 
+
+The  adjustment  must  be  made  when  the 
+piston is at top dead center and both the inlet 
+and exhaust valves are closed.
+This condition can be determined by moving 
+the  rocker  arms.  If  they  are  free,  it  is  an 
+indication that the valves are closed and the 
+piston is in compression stroke. If they are 
+tight,  the  valves  are  open,  rotate  the  cam
+sprocket 360° clockwise and realign the 'T' 
+mark with the index mark.
+Ÿ Check the clearance by inserting the feeler 
+gauge  (14)  between  the  adjusting  screw 
+(15) and valve stem (16).
+
+Standard clearance (cold condition)
+Intake   : 0.08 mm
+Exhaust : 0.12 mm
+
+NOTE
+Before inserting the feeler gauge, smear a bit 
+of  engine  oil  on  the  feeler  gauge  to  avoid 
+damage to the feeler gauge.
+17
+
+15
+
+14
+16
+
+13
+
+(12) Cam sprocket  
+
+12
+(13) Special tool
+
+(14) Feeler gauge 
+(16) Valve stem 
+
+(15) Adjusting screw
+
+   (17) Lock nut 
+
+45
+
+ 
+ 
+ 
+ 
+ 
+• Adjust by loosening the lock nut (17) and 
+turning the adjusting screw until there is a 
+slight drag on the feeler gauge.
+• After tightening the lock nut, check again 
+the clearance.
+• Install  all  parts  in  the  reverse  order  of 
+disassembly.
+----------------------------------------
+Chunk 7 (Score: 0.5938):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 2
+
+CAUTION
+
+!!
+
+(1) Air cleaner cover screws 
+• Remove the air cleaner element (3).
+
+          (2) Cover
+
+1
+
+3
+
+(3) Air cleaner element
+
+•
+
+Never wash or clean the 
+wet, paper pleated 
+type  filter.  Replace  filter  element  once  in 
+every 15000 km.
+• Replace it earlier if it becomes very dirty, 
+damage on surface or on the sealing area.
+
+NOTE
+Align  the  tabs  of  air  cleaner  cover  before 
+installing screws & the cover.
+• Clean the air cleaner housing using a shop 
+• Install the new air cleaner element.
+• Install the air cleaner element cover.
+• Install the seat (page 26).
+
+towel.
+
+43
+
+Air cleaner drain tube plug cleaning
+Remove  the  drain  tube  (1)  and  drain  the 
+deposit into a container.
+Follow  the  above  process  more  frequently 
+when riding in rain or at full throttle.
+
+1
+
+1
+
+(1) Drain tube                     
+VALVE CLEARANCE ADJUSTMENT
+Excessive valve clearance will cause noise, and 
+little or no clearance will prevent the valve 
+from  closing  and  cause  valve  damage  and 
+power  loss.  Check  valve  clearance  at  the 
+specified intervals (page 35).
+NOTE
+The checking or adjusting of valve clearance 
+should be performed while the engine is cold. 
+The  clearance  will  change  as  the  engine 
+temperature rises.
+Ÿ Remove the fuel tank.
+Ÿ Remove the cylinder head left side cover 
+(1) with its gasket (2) by removing bolts 
+(3).
+
+3
+----------------------------------------
+
+QUESTION 2: Does this comes in tubeless tyre version
+--------------------------------------------------
+Chunk 1 (Score: 0.6639):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 61
+
+ 
+ 
+WARNING
+
+!!
+
+• Operation  with  excessively  worn  tyres  is 
+hazardous and will adversely affect traction 
+and handling.
+
+• Under-inflation  may  result  in  the  tyre 
+
+slipping on or tyre coming off the rim.
+
+• Always  use  the  size  and  type  of  tyres 
+
+recommended in this owner's manual.
+
+NOTE
+For repair and replacement of tyre it is advised 
+to  visit  your  Authorised  Hero  MotoCorp 
+workshop.
+
+NOTE
+The imported tyre(s) if fitted without ISI mark; 
+are in compliance of BIS standard and Central 
+Motor Vehicle Rules 1989, as declared by the 
+Tyre manufacturer.
+Important safety reminders
+• Do not install a tube inside a tubeless tyre on 
+this  vehicle.  Excessive  heat  buildup  can 
+cause the tube to burst.
+• Use only tubeless tyres on this vehicle. The 
+rims  are  designed  for  tubeless  tyres,  and 
+during hard acceleration or braking, a tube-
+type tyre could slip on the rim and cause the 
+tyre to rapidly deflate.
+
+NUTS, BOLTS & FASTENERS
+• Tighten  bolts  and  nuts  at  regular interval 
+• Check  that  all  chassis  nuts  and  bolts  are 
+• Check that all cotter pins, safety clips, hose 
+
+shown in the maintenance schedule.
+tightened to correct torque values.
+clamps and cable stays are in place.
+----------------------------------------
+Chunk 2 (Score: 0.6097):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 80/100-18 47P (Tubeless tyre)
+90/90-18 51P (Tubeless tyre)
+WARNING
+
+• Using  tyres  that  are  excessively  worn  or 
+improperly  inflated  can  cause  a  crash  in 
+which you can be seriously hurt or killed.
+• Follow  all  instructions  in  this  owner's 
+inflation  and 
+manual  regarding  tyres 
+maintenance.
+Air pressure
+Keeping your tyres properly inflated provides 
+the best combination of handling, tread life 
+and riding comfort.
+Generally, under-inflated tyres wear unevenly, 
+adversely affect handling and are more likely 
+to fail from being overheated.
+Under  inflated  tyres  can  also  cause  wheel 
+damage in rocky terrain.
+
+!!
+
+59
+
+pressures given below. If you do, the tyres will 
+be under-inflated.
+The recommended “cold” tyre pressures are:
+Rider and Pillion
+1.75 kgf/cm (25 psi)
+2.30 kgf/cm (33 psi)
+
+Rider only
+1.75 kgf/cm (25 psi)
+2.00 kgf/cm (29 psi)
+
+Front
+Rear
+
+2 
+
+2 
+
+2 
+
+2 
+
+!!
+
+CAUTION
+Over inflation/Under inflation will affect the 
+performance.
+Inspection
+Whenever you check the tyre pressure, you 
+should also examine tyre treads & side walls 
+for wear, damage & foreign objects.
+Look for:
+• Bumps or bulges in the side of the tyre or 
+the tread. Replace the tyre if you find any 
+bumps or bulges.
+• Cuts, splits or cracks in the tyre. Replace the 
+tyre if you can see fabric or cord.
+----------------------------------------
+Chunk 3 (Score: 0.6054):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 2
+
+1
+
+(1) Tread wear indicator       (2) Arrow mark
+
+Unidirectional tyres
+Whenever the tyre is removed and put back in 
+case of puncture, ensure the arrow mark (2) 
+on the tyre is in the same direction as that of 
+forward rotation of wheel.
+Tyre repair
+Repairing  a  puncture  or  removing  a  wheel 
+requires special tools and technical expertise. 
+If a tyre is punctured or damaged, it is advised 
+to  visit  nearest  tyre  manufacture,  Hero 
+MotoCorp authorised dealer/workshop or the 
+tyre  repair  shop  who  has  expertise  in 
+repairing methods of tubeless tyre. 
+A tyre that is repaired either temporarily or 
+permanently,  will  have  lower  speed  and 
+performance limits than a new tyre. After an 
+emergency  repair,  always  have  the  tyre 
+inspected/replaced at our authorised dealer 
+and replace the tyre if suggested. 
+You should not exceed 70 km/hour for the 
+1st 24 hours or 105 km/hour at any time 
+thereafter. In addition, you may not be able to 
+safely carry as much load as with a new tyre. 
+If you decide to have a tyre replace be sure the 
+wheel is balanced before you ride.
+Tyre replacement
+The tyres that were installed on your vehicle 
+were  designed  to  match  the  performance 
+capabilities of your vehicle and provide the 
+best  combination  of handling,  braking, 
+durability and comfort.
+
+61
+
+ 
+ 
+WARNING
+
+!!
+
+• Operation  with  excessively  worn  tyres  is 
+hazardous and will adversely affect traction 
+and handling.
+
+• Under-inflation  may  result  in  the  tyre 
+
+slipping on or tyre coming off the rim.
+----------------------------------------
+Chunk 4 (Score: 0.5993):
+File: Super_Splendor_(Feb_2023).pdf
+Content: Over-inflated  tyres  make  your  vehicle  ride 
+harshly, are more prone to damage from road 
+hazards, and wear unevenly.
+We recommend that you visually check your 
+tyres before every ride and use a air pressure 
+gauge (1) to measure air pressure at least 
+once a month or any time you think the tyres 
+pressure might be low.
+
+1
+
+(1)  Air pressure gauge
+Tubeless tyres have some self-sealing ability if 
+they are punctured. However, because leakage 
+is often very slow, you should look closely for 
+punctures whenever a tyre is not fully inflated.
+Always check air pressure when your tyres are 
+"cold"-when the vehicle has been parked for
+at least three hours. If you check air pressure 
+when your tyres are "warm"-when the vehicle 
+has  been  ridden  for  even  a  few  km-the 
+readings will be higher than if the tyres were 
+"cold". This is normal, so do not let air out of 
+the tyres to match the recommended cold air
+
+60
+
+• Excessive tread wear.
+
+• Carefully inspect the tyres for any damage, 
+if the vehicle hits a pothole or hard object.
+Tread  earw
+Replace  tyres  immediately  when  the  tread 
+wear indicator (1) appears on the tyre. The 
+tread limits are:
+MINIMUM TREAD DEPTH:
+Front: 1.0 mm 
+   Rear: 1.0 mm
+Check the tread wear indicator for tyre wear.
+
+2
+
+1
+
+(1) Tread wear indicator       (2) Arrow mark
+----------------------------------------
+Chunk 5 (Score: 0.5777):
+File: Super_Splendor_(Feb_2023).pdf
+Content: Telescopic hydraulic shock absorbers
+Swingarm with 5 step adjustable hydraulic shock 
+absorbers
+26°
+92 mm
+
+5
+
+ITEM
+
+Tyre size
+
+VEHICLE SPECIFICATION
+Front
+Rear
+Front (Disc variant)
+Front (Drum variant)
+Rear  (Drum variant)
+
+Brakes
+Front & rear wheels
+Transmission 
+Primary reduction
+Final reduction
+Transmission
+Gear ratio,  1
+st
+nd2
+rd3
+rd4
+th5
+
+Electricals
+Battery
+Alternator
+Starting system
+Headlamp (High/Low)
+Tail/Stop lamp
+Turn signal lamp
+Meter illumination
+Neutral indicator
+Turn signal indicator
+Hi beam indicator
+Low fuel indicator
+Side stand indicator
+i3s indicator
+Programmed FI Malfunction indicator lamp (MIL)
+Fuse
+
+Circuit fuse
+Spare fuse
+
+SPECIFICATIONS
+80/100-18 47P (Tubeless tyre)
+90/90-18 51P (Tubeless tyre) 
+Dia. 
+240
+ mm
+30
+Dia. 1  mm
+Dia. 1  mm
+30
+Cast wheels
+
+3.35 (67/20)
+3.071 (43/14)
+5 speed transmission
+3.17 (38/12)
+1.83 (33/18)
+1.272 (28/22)
+1.04 (26/25)
+0.923 (24/26)
+
+s
+----------------------------------------
+Chunk 6 (Score: 0.5456):
+File: Super_Splendor_(Feb_2023).pdf
+Content: dealer will be glad to provide further information or 
+
+Hero  MotoCorp
+
+ 
+ 
+NOTE
+ALL  INFORMATION,  ILLUSTRATION,  PHOTOGRAPH,  DIRECTIONS, 
+SPECIFICATIONS  AND  OTHER  CONTENTS  COVERED  IN  THIS  OWNER'S 
+MANUAL ARE BASED ON THE LATEST PRODUCT INFORMATION AVAILABLE 
+AT  THE  TIME  OF  ITS  PUBLISHING  APPROVAL,  AND  THE  ACCURACY  OR 
+CORRECTNESS OF THE SAME IS NOT UNDERTAKEN OR GUARANTEED. 
+Hero  MotoCorp  Ltd  RESERVES  THE  RIGHT  TO  MAKE  CHANGES  IN  ITS 
+CONTENTS  AT  ANY  TIME  WITHOUT  NOTICE  AND/OR  INCURRING  ANY 
+OBLIGATION, WHATSOEVER. NO ONE IS ALLOWED TO REPRODUCE ANY 
+PART  OF  THIS  PUBLICATION  WITHOUT  OBTAINING  PRIOR  WRITTEN 
+PERMISSION FROM  Hero MotoCorp Ltd.
+ACCESSORIES SHOWN MAY NOT BE THE PART OF STANDARD FITMENT. IT IS 
+OUR ENDEAVOUR TO CONSTANTLY IMPROVE OUR PRODUCTS. THIS COULD 
+LEAD  TO  CHANGE  IN  PRODUCT  SPECIFICATIONS  WITHOUT  NOTICE.  Hero 
+MotoCorp  Ltd  ‘
+’  COMPLIES  WITH  THE  LATEST  EMISSION 
+NORMS.
+
+SUPER  SPLENDOR
+----------------------------------------
+Chunk 7 (Score: 0.5430):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 9
+
+10
+
+(11) Collar
+
+(10) Axle 
+
+(9) Axle nut   
+Installation
+• Reverse the removal procedure.
+   Axle nut torque: 5.2 kgf-m
+
+58
+
+ 
+ 
+Brake stopper arm nut torque: 
+2.2 kgf-m
+• Adjust the rear brake free play (page 54) 
+and drive chain slackness (page 50).
+• After installing the wheel, apply the brake 
+several  times  and  check  for  free  wheel 
+rotation when released.
+
+CAUTION
+
+!!
+
+Always replace used split pins with new ones.
+MAIN/SIDE STAND LUBRICATION
+• Park the vehicle on the level surface.
+• Check the main/side stand return spring for 
+damage or loss of tension.
+• Check the main stand (1)/side stand (2) 
+for freedom of movement.
+• Clean and lubricate the side stand pivot bolt (3) 
+and rear brake pedal/main stand pivot (4).
+• Make sure the side/main stand is not bent.
+3
+
+4
+
+2
+
+1
+
+(1) Main stand                (2) Side stand 
+(3) Side stand pivot bolt 
+(4) Rear brake pedal/Main stand pivot
+
+TUBELESS TYRES
+The  tyres  fitted  on  your  vehicle  are  of 
+TUBELESS type.
+To safely operate your vehicle, your tyres must 
+be  of  the  proper  type  and  size,  in  good 
+condition with adequate tread, and correctly 
+inflated for the load you are carrying.
+The  following  pages  give  more  detailed 
+information on how and when to check the air 
+pressure,  how  to  inspect  your  tyres  for 
+damage, and what to do when your tyres need 
+to be repaired or replaced. 
+Front
+Rear
+----------------------------------------
+
+QUESTION 3: Is it compulsoury to have a disc brake
+--------------------------------------------------
+Chunk 1 (Score: 0.6251):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 2
+
+1
+
+(1) Drive chain slider                (2) Wear limit
+
+50
+
+)
+
+variant
+
+BRAKES
+Brakes (Integrated braking system)
+Brakes are items of personal safety and should 
+always be maintained with proper adjustments.
+When one applies the Integrated/Rear brake 
+pedal, front & rear brakes activate jointly.
+(a) Front brake inspection (Disc 
+Master Cylinder/Reservoir.
+Location: Right handlebar.
+Brake fluid recommended: DoT 3 or DoT 4
+Fluid level-Ensure that the brake fluid level 
+does not fall below “MIN” mark (1) on the 
+master  cylinder,  when  checked  with  the 
+master cylinder parallel to  the  ground. The 
+level  decreases  gradually  due  to  piston 
+movement  to  compensate  pad  wear.  If  the 
+level decreases abruptly, check for leakage in 
+the brake system and contact your Authorised 
+Hero MoroCorp workshop.
+1
+
+MIN
+
+(1) "MIN" mark
+
+3
+
+(2) Brake pads      (3) Caliper        (4) Disc
+
+2
+
+4
+
+NOTE
+• Clean  the  dirt  and  mud  accumulation 
+between the brake pads (2), caliper (3) and 
+the disc (4) by using a water jet.
+• Always  contact  your  Authorised  Hero 
+MoroCorp workshop for refilling of master 
+cylinder when necessary  . Do not mix DoT 3 
+and DoT 4 brake fluid.
+----------------------------------------
+Chunk 2 (Score: 0.6147):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 51
+
+abruptly, check for the leakages in the brake 
+system  and  consult  your  Authorised  Hero 
+MoroCorp workshop.
+
+2
+
+MAX
+
+MIN
+
+(1) Wear indicator groove
+
+1
+
+1
+(1) Reservoir                    (2) "MIN" mark
+(c) Brake pad wear (Disc variant)
+Brake pad wear depends upon the severity of 
+usage, the type of riding & road conditions. 
+Generally, the pads will wear faster on wet & 
+dirty roads. Inspect the pads at each regular 
+maintenance interval.
+Inspection
+Check the wear indicator 
+ (1) on 
+•
+each pad.
+• Check  the  brake  pads  for  wear  by 
+examining the wear limit groove  on each 
+pad.
+• Replace the pads if worn out to the bottom 
+of the groove.
+• Always replace both the pads as a set.
+Visit  your 
+Authorised 
+•
+workshop for the brake pad replacement.
+
+Hero  MoroCorp 
+
+grooves
+
+s
+
+WARNING
+
+!!
+
+Always  apply  front  and  rear  brakes 
+simultaneously to avoid skidding of vehicle.
+(d) Front brake inspection (Drum variant)
+The distance, the front brake lever (1) and 
+integrated brake pedal (2) moves before each 
+brake starts to engage is called free play (3).
+1
+
+3
+
+(1) Front brake lever 
+(3) Free play: 10-20 mm
+
+52
+
+3
+
+(2) Integrated/Rear brake pedal
+(3) Free play: 20-30 mm    
+Front brake cable (A) on “F” side  
+Adjustment
+Ÿ Push the integrated brake arm (4) by hand 
+Ÿ Turn the first adjuster nut (5) till you cannot 
+
+in the direction as shown.
+turn it by hand.
+
+12
+----------------------------------------
+Chunk 3 (Score: 0.6056):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 2
+
+1
+
+For integrated braking system (IBS)
+To stop the vehicle, press the rear brake pedal 
+for the application of front and rear brakes 
+simultaneously. However, for more effective 
+braking, it is advised to apply front and rear 
+brake simultaneously, keeping the throttle in 
+closed position.
+
+WARNING
+
+!!
+
+• When riding in wet or rainy conditions, or on 
+loose surfaces, apply front brake carefully 
+after applying rear brake to avoid wheel slip.
+• Extreme braking may cause wheel locking 
+
+and reduce control over the vehicle.
+
+• Wherever possible, reduce speed or apply 
+brake  before  entering  a  turn,  closing  the 
+throttle or braking in mid turn may cause 
+wheel  slip.  Wheel  slip  will  reduce  control 
+over the vehicle.
+
+• When riding in wet or rainy conditions, or on 
+loose surfaces the ability to stop the vehicle 
+reduces.
+
+• All  your  actions  should  be  smooth  under 
+these  conditions.  Sudden  acceleration, 
+braking or turning may cause loss of control. 
+For  your  safety,  exercise  extreme  caution 
+when braking, accelerating or turning.
+
+• When  descending  a  long  steep  slope  use 
+engine braking (power) by changing to lower 
+gears, with intermittent use of both brakes. 
+Continuous brake application can overheat 
+the brakes and reduce their effectiveness.
+
+(1) Tool kit                         (2) First aid kit
+
+32
+----------------------------------------
+Chunk 4 (Score: 0.5935):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 2
+
+4
+
+NOTE
+• Clean  the  dirt  and  mud  accumulation 
+between the brake pads (2), caliper (3) and 
+the disc (4) by using a water jet.
+• Always  contact  your  Authorised  Hero 
+MoroCorp workshop for refilling of master 
+cylinder when necessary  . Do not mix DoT 3 
+and DoT 4 brake fluid.
+
+(b) Rear brake fluid (Disc variant)
+Refer to the safety precautions on (page 34).
+Reservoir (1)
+Location : Near the right side pillion footrest.
+Brake fluid recommended :
+DoT-4/DoT-3.
+Fluid level - Ensure that the brake fluid level 
+does not fall below "MIN" mark (2) on the 
+reservoir  parallel  to  the  ground.  The  level 
+decreases gradually due to piston movement 
+to compensate pad wear. If the level decreases
+
+51
+
+abruptly, check for the leakages in the brake 
+system  and  consult  your  Authorised  Hero 
+MoroCorp workshop.
+
+2
+
+MAX
+
+MIN
+
+(1) Wear indicator groove
+
+1
+----------------------------------------
+Chunk 5 (Score: 0.5826):
+File: Super_Splendor_(Feb_2023).pdf
+Content: O
+
+C
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+
+I
+
+I
+
+I, A
+
+O
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+
+I
+
+I
+
+I,C,L,A at every 2000 km 
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+O
+
+C
+
+R
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, A
+
+I, A
+
+I, A
+
+I, A
+
+I, A
+
+36
+
+AFTER FREE SERVICE
+ONCE IN EVERY
+
+3000
+
+6000
+
+9000 12000 15000
+
+I
+
+I, A
+
+R
+
+R
+
+C
+
+R
+
+O
+
+I
+
+I,C,L,A at every 2000 km 
+
+ 
+WHICHEVER
+COMES FIRST
+
+DURING FREE SERVICE PERIOD
+
+ITEMS
+
+SERVICE
+
+st1
+
+DAYS
+
+1st 60
+KM Note-1 500-
+750
+
+nd2
+Next 
+100
+3000-
+3500
+
+rd3
+Next 
+100
+6000-
+6500
+
+th4
+Next 
+100
+9000-
+9500
+
+th5
+Next 
+100
+12000-
+12500
+
+AFTER FREE SERVICE
+ONCE IN EVERY
+
+3000
+
+6000 9000 12000 15000
+
+Disc Wear/Pad Wear
+
+Brake Fluid
+Brake System (Brake 
+Cam & Brake Pedal)
+Stop Lamp Switch
+
+Headlamp Focus
+
+Clutch Lever Free Play
+
+Side Stand Pivot Bolt
+Rear Brake Pedal/
+Main Stand Pivot
+Side Stand Switch
+i3s System
+
+Nut, Bolts & Fasteners
+
+Wheel Bearings
+
+Wheels/Tyres
+----------------------------------------
+Chunk 6 (Score: 0.5804):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 7
+
+VEHICLE SAFETY
+IMPORTANT SAFETY INFORMATION
+Your  vehicle  can  provide  many  years  of 
+service and pleasure if you take responsibility 
+for  your  own  safety  and  understand  the 
+challenges you can meet on the road.
+There  is  much  that  you  can  do  to  protect 
+yourself when you ride. You will find many 
+helpful  recommendations  through  out  this 
+manual. Following are a few that we consider 
+most important.
+Always wear a helmet
+It is a proven fact, helmet significantly reduces 
+the number and severity of head injuries. So 
+always  wear  a  helmet  and  make  sure  your 
+pillion  rider  does  the  same.  We  also 
+recommend  that  you  wear  eye  protection, 
+sturdy boots, gloves and other protective gear.
+Before riding your vehicle
+Make sure that you are physically fit, mentally 
+focused and free of alcohol and drugs. Check 
+that you and your pillion are both wearing an 
+approved  vehicle  helmet  and  protective 
+apparel. Instruct your pillion on holding onto 
+the grab rail or your waist, leaning with you in 
+turns, and keeping their feet on the footrest, 
+even when the vehicle is stopped.
+Take  time  to  learn  &  practice  your 
+vehicle
+Even  if  you  have  ridden  other  vehicles, 
+practice  riding  in  a  safe  area  to  become 
+familiar  with  how  this  vehicle  works  and 
+handles, and to become accustomed to the 
+vehicle's size and weight.
+----------------------------------------
+Chunk 7 (Score: 0.5793):
+File: Super_Splendor_(Feb_2023).pdf
+Content: If you are involved in a crash
+Personal safety is your first priority. If you or 
+anyone else has been injured, take time to 
+assess the severity of the injuries and whether 
+it is safe to continue riding. Call for emergency 
+assistance  if  needed.  Also  follow  applicable 
+laws  and  regulations  if  another  person  or 
+vehicle is involved in the crash.
+If you decide to continue riding, first evaluate 
+the condition of your vehicle. If the engine is 
+still running, turn it off. Inspect for fluid leaks, 
+check the tightness of critical nuts and bolts, 
+and check the handlebar, brake levers, brakes, 
+and wheels. Ride slowly and cautiously. Your 
+vehicle may have suffered damage that is not 
+immediately  apparent.  Have  your  vehicle 
+thoroughly  checked  at  a  qualified  service 
+facility as soon as possible.
+PROTECTIVE APPAREL
+For your safety, we strongly recommend that 
+you  always  wear  an  approved  helmet  (ISI 
+marked), eye protection, boots, gloves, long 
+pants  and  a  long  sleeve  shirt  or  jacket 
+whenever  you  ride.  Take  care  of  loose/ 
+hanging  clothes  while  solo/pillion  riding. 
+Although complete protection is not possible, 
+wearing proper gear can reduce the chance of 
+injury when you ride. 
+Following are suggestions to help you choose 
+proper riding  gear. 
+
+WARNING
+
+!!
+----------------------------------------
+
+QUESTION 4: Can I put thums up instead of oil
+--------------------------------------------------
+Chunk 1 (Score: 0.6043):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 1
+(1) Drain bolt                 (2) Sealing washer 
+• Fill  the  crankcase  through  the  oil  filler    
+(approx.)  of  the 
+
+hole  with 
+0.95  litre 
+recommended grade oil.
+
+• Reinstall the oil level dipstick with a new  
+O-ring.
+• Start the engine and allow it to idle for few 
+minutes.
+• Stop  the  engine,  let  the  engine  oil  settle 
+down and recheck the oil level.
+• Make sure that oil level is at the “UPPER”
+level mark of the oil level dipstick with the 
+vehicle in an upright position and that there 
+are no oil leaks.
+!!
+• Running the engine with insufficient oil can 
+cause serious engine damage.
+• Running the engine with excessive oil can 
+in 
+cause  spark  plug  fouling  & 
+performance.
+• Engine  oil  is  a  major  factor  affecting  the 
+performance and service life of the engine. 
+Non-detergent,  vegetable  or  castor  based 
+racing oils are not recommended.
+ENGINE OIL FILTER ELEMENT
+
+CAUTION
+
+loss 
+
+NOTE
+Drain the engine oil thoroughly (page 40) in 
+case of engine oil filter element replacement.
+• Remove the three mounting bolts (1).
+• Remove the engine oil filter element cover 
+
+(2) with O-ring (3).
+
+40
+
+1
+
+2
+
+4
+
+(4) Engine oil filter element        
+
+3
+
+4
+
+from the cover.
+
+(1) Mounting bolts          
+(2) Engine oil filter element cover
+• Remove the engine oil filter element (4)
+----------------------------------------
+Chunk 2 (Score: 0.5959):
+File: Super_Splendor_(Feb_2023).pdf
+Content: !!
+
+CAUTION
+• Do not remove the spark plug and test for  
+spark on the vehicle by cranking the engine 
+as this could lead to fire or explosion
+• Install a dummy spark plug in the cylinder 
+head and test for spark.
+• Never use a spark plug with improper heat 
+range.
+• Always use resistor type spark plug.
+
+38
+
+ENGINE OIL
+Use hero genuine engine oil or recommended 
+grade oil.
+BRAND: Hero 4T plus
+GRADE: SAE 10W 30 SL Grade 
+(JASO MA2).
+Manufactured by:
+• Tide Water Oil Co. (India) Ltd.
+• Savita Oil Technologies Limited.
+• Bharat Petroleum Corporation Limited.
+OIL CAPACITY: 0.95 litre (disassembly)
+: 0.75 litre (at oil change)
+Engine  oil  level  inspection/Top  up 
+process
+Check  engine  oil  level  each  day  before 
+operating the vehicle. The oil level dipstick (1) 
+is on the right crankcase cover for measuring 
+oil level. Oil level must be maintained between 
+the upper (2) and lower (3) level marks on 
+the oil level dipstick.
+
+1
+
+2
+
+UPPER
+
+LOWER
+
+(1) Oil level dipstick     (2) Upper level mark
+(3) Lower level mark
+
+3
+
+Do top up if oil level reaches towards the lower 
+level mark or every 3000 km whichever is 
+earlier.
+• Park the vehicle on its main stand.
+•  Start  the  engine  &  let  it  idle  for  3-5 
+minutes.
+• Slightly loosen the engine oil check bolt (4) 
+and  check  the  engine  oil  entry  into  the 
+cylinder head.
+
+4
+
+engine oil check bolt.
+----------------------------------------
+Chunk 3 (Score: 0.5822):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 4
+
+engine oil check bolt.
+
+(4) Engine oil check bolt
+• After checking the oil circulation, tighten the 
+• Stop the engine and wait for 2-3 minutes.
+• Remove the oil level dipstick, wipe it clean 
+• Remove the oil level dipstick and check the 
+• If required, add the specified oil up to the 
+• Reinstall the oil level dipstick and check for 
+
+and insert without screwing it in.
+oil level.
+upper level mark. Do not overfill.
+oil leaks.
+
+39
+
+               
+Engine oil replacement process/
+Oil circulation inspection
+Drain engine oil with the engine warm and the 
+vehicle on its main stand.
+• To drain the oil, remove the oil level dipstick 
+(page 39) and drain bolt (1) with sealing 
+washer (2).
+• After  the  oil  has  completely  drained, 
+reinstall the drain bolt with a new sealing 
+washer.
+2
+
+1
+(1) Drain bolt                 (2) Sealing washer 
+• Fill  the  crankcase  through  the  oil  filler    
+(approx.)  of  the 
+
+hole  with 
+0.95  litre 
+recommended grade oil.
+----------------------------------------
+Chunk 4 (Score: 0.5687):
+File: Super_Splendor_(Feb_2023).pdf
+Content: fuel (5) in the filler neck (4).
+
+24
+
+4
+
+5
+
+(4) Filler neck                               (5) Fuel
+• For locking, position the cap with “
+
+” mark 
+facing towards the front, back on the opening 
+and press gently. The key springs back to the 
+normal position and the cap gets locked.
+
+▲
+
+E 20
+
+     s ticker on fuel tank indicates that the  
+vehicle parts are compliant up to the blend of 
+“20% ethanol with petrol”.
+It is recommended not to use petrol containing 
+more  than  20%  of  ethanol  to  avoid  any 
+damage  to  engine  and  other  parts  of  the 
+vehicle.
+If  you  observe  any  problem  related  to  the 
+operational  performance  of  the  vehicle, 
+contact  your  Authorized  Hero  MotoCorp 
+workshop.
+
+1
+
+CAUTION
+
+!!
+
+!!
+
+Do not park the vehicle under direct sunlight 
+as it causes evaporation of petrol due to heat 
+and deterioration of paint gloss due to ultra 
+violet rays.
+
+WARNING
+
+Petrol is extremely flammable and is explosive 
+under  certain  conditions.  Refill  in  a  well 
+ventilated area with the engine stopped. Do 
+not smoke or allow flames or sparks in the 
+area  where  the  vehicle  is  refilled  or  where 
+petrol is stored.
+(b) Petrol containing alcohol
+Fuel available at your location may contain 
+ethanol.  Ethanol  is  a  form of  alcohol  and 
+is generally  mixed  with  petrol  to  reduce 
+emissions.
+
+25
+
+2
+
+(1) E20 sticker                     (2) Fuel tank
+
+CAUTION
+
+!!
+----------------------------------------
+Chunk 5 (Score: 0.5662):
+File: Super_Splendor_(Feb_2023).pdf
+Content: (1) Headlamp adjusting bolt
+
+WARNING
+
+!!
+
+An  improperly  adjust  headlamp  may  blind 
+oncoming rider/driver or it may fail to light the 
+road for a safe distance.
+
+CATALYTIC CONVERTER
+This  vehicle  is  equipped  with  the  catalytic 
+converter  (1)  in  the  muffler  to  meet  the 
+emission norms.
+The  catalytic  converter  contains  precious 
+metals  that  serve  as  catalysts,  promoting 
+chemical  reactions  to  convert  the  exhaust 
+gasses  without  affecting  the  metals.  The 
+catalytic converter acts on HC, CO and NOx.
+The catalytic converter must operate at a high 
+temperature for the chemical reactions to take 
+place.  It  can  set  on  fire  any  combustible 
+material that come near it. Park your vehicle 
+away from high grasses, dry leaves, or other 
+flammable material.
+A defective catalytic converter contributes to 
+air  pollution  and  can  impair  your  engine’s 
+performance.
+Follow  these  guidelines  to  protect  your 
+vehicle’s catalytic converter.
+• Always use unleaded petrol. Even a small 
+amount of leaded petrol can contaminate 
+the  catalyst  metals,  making  the  catalytic 
+converter ineffective.
+• Keep the engine in good running condition. 
+A  poorly  running  engine  can  cause  the 
+catalytic converter to overheat.
+• If  your  engine  is  misfiring,  backfiring, 
+stalling, or otherwise not running properly, 
+stop riding and turn “OFF” the engine. Have 
+your vehicle serviced as soon as possible.
+
+66
+
+ 
+ 
+1
+
+1
+----------------------------------------
+Chunk 6 (Score: 0.5639):
+File: Super_Splendor_(Feb_2023).pdf
+Content: SAFETY PRECAUTIONS
+• Make sure the engine is “OFF” before you 
+begin any maintenance or repair. This will 
+help to eliminate several potential hazards:
+• Carbon  monoxide  poisoning  from 
+  Be  sure  there  is  adequate  ventilation 
+• Burns from hot parts.
+  Let the engine and exhaust system cool    
+• Injury from moving parts.
+
+engine exhaust.
+whenever you operate the engine.
+
+before touching.
+
+      Do not run the engine unless instructed 
+• Read the instruction before you begin and 
+make  sure  you  have  the  tools  and  skills 
+required.
+• To help prevent the vehicle from falling 
+over, park it on a firm, level surface on the 
+main stand.
+• To  reduce  the  possibility  of  a  fire  or 
+explosion, be careful when working around 
+petrol or batteries. Use only nonflammable 
+solvent,  not  petrol,  to  clean  parts.  Keep 
+cigarettes, sparks and flames away from the 
+battery and all fuel-related parts.
+Remember  that  your  Authorised  Hero 
+MotoCorp workshop knows your vehicle best 
+and is fully equipped to maintain and repair it.
+To  ensure  best  quality  and  reliability,  it  is 
+recommended  to  use  Hero  MotoCorp 
+genuine parts for repair and replacement.
+
+34
+----------------------------------------
+Chunk 7 (Score: 0.5628):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 2
+
+CAUTION
+
+!!
+
+(1) Air cleaner cover screws 
+• Remove the air cleaner element (3).
+
+          (2) Cover
+
+1
+
+3
+
+(3) Air cleaner element
+
+•
+
+Never wash or clean the 
+wet, paper pleated 
+type  filter.  Replace  filter  element  once  in 
+every 15000 km.
+• Replace it earlier if it becomes very dirty, 
+damage on surface or on the sealing area.
+
+NOTE
+Align  the  tabs  of  air  cleaner  cover  before 
+installing screws & the cover.
+• Clean the air cleaner housing using a shop 
+• Install the new air cleaner element.
+• Install the air cleaner element cover.
+• Install the seat (page 26).
+
+towel.
+
+43
+
+Air cleaner drain tube plug cleaning
+Remove  the  drain  tube  (1)  and  drain  the 
+deposit into a container.
+Follow  the  above  process  more  frequently 
+when riding in rain or at full throttle.
+
+1
+
+1
+
+(1) Drain tube                     
+VALVE CLEARANCE ADJUSTMENT
+Excessive valve clearance will cause noise, and 
+little or no clearance will prevent the valve 
+from  closing  and  cause  valve  damage  and 
+power  loss.  Check  valve  clearance  at  the 
+specified intervals (page 35).
+NOTE
+The checking or adjusting of valve clearance 
+should be performed while the engine is cold. 
+The  clearance  will  change  as  the  engine 
+temperature rises.
+Ÿ Remove the fuel tank.
+Ÿ Remove the cylinder head left side cover 
+(1) with its gasket (2) by removing bolts 
+(3).
+
+3
+----------------------------------------
+
+QUESTION 5: Give me JS code to generate a random number between 1 and 100
+--------------------------------------------------
+Chunk 1 (Score: 0.5070):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 2
+
+l00
+
+l20
+
+l40
+km /h
+
+40
+
+20
+
+0
+
+ODO
+TRIP
+AV
+
+EEE
+
+10:30
+
+am
+
+...
+
+km/l
+
+FFF
+
+S
+
+M
+
+2
+
+l00
+
+l20
+
+l40
+km /h
+
+40
+
+20
+
+0
+
+ODO
+TRIP
+AV
+
+EEE
+
+12:30
+
+am
+
+...
+
+km/l
+
+FFF
+
+S
+
+M
+
+(2) Set button
+• Press the mode button (3). The minutes 
+
+display starts blinking.
+
+1
+
+3
+ (2) Set button 
+
+(1) Digital clock 
+(3) Mode button
+• To set the hour, press set button (2) until 
+the desired hour is displayed.
+• The  time  is  advanced  by  1  hour   
+• The  time  advances  fast  when  the   
+• "am" will change to "pm" (after midday).
+• "pm"  will  change  to  "am"  (before 
+
+each time the button is pressed.
+button is pressed and held.
+
+midday).
+
+l00
+
+l20
+
+l40
+km /h
+
+40
+
+20
+
+0
+
+ODO
+TRIP
+AV
+
+EEE
+
+12:30
+
+am
+
+...
+
+km/l
+
+FFF
+
+S
+
+M
+
+3
+
+(3) Mode button
+• To set the minute press set button (2) until 
+the desired minute is displayed. The minute 
+display  will  return  to 
+is 
+" 
+"
+reached without affecting the hour display.
+• The  time  advances  by  1  minute,  each 
+
+when 
+
+" 
+
+"
+
+time the button is pressed.
+
+15
+
+ 
+ 
+ 
+ 
+ 
+• The time advances fast when the button is 
+
+pressed and held.
+
+2
+
+l00
+
+l20
+----------------------------------------
+Chunk 2 (Score: 0.4933):
+File: Super_Splendor_(Feb_2023).pdf
+Content: O
+
+C
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+
+I
+
+I
+
+I, A
+
+O
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+
+I
+
+I
+
+I,C,L,A at every 2000 km 
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+O
+
+C
+
+R
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, A
+
+I, A
+
+I, A
+
+I, A
+
+I, A
+
+36
+
+AFTER FREE SERVICE
+ONCE IN EVERY
+
+3000
+
+6000
+
+9000 12000 15000
+
+I
+
+I, A
+
+R
+
+R
+
+C
+
+R
+
+O
+
+I
+
+I,C,L,A at every 2000 km 
+
+ 
+WHICHEVER
+COMES FIRST
+
+DURING FREE SERVICE PERIOD
+
+ITEMS
+
+SERVICE
+
+st1
+
+DAYS
+
+1st 60
+KM Note-1 500-
+750
+
+nd2
+Next 
+100
+3000-
+3500
+
+rd3
+Next 
+100
+6000-
+6500
+
+th4
+Next 
+100
+9000-
+9500
+
+th5
+Next 
+100
+12000-
+12500
+
+AFTER FREE SERVICE
+ONCE IN EVERY
+
+3000
+
+6000 9000 12000 15000
+
+Disc Wear/Pad Wear
+
+Brake Fluid
+Brake System (Brake 
+Cam & Brake Pedal)
+Stop Lamp Switch
+
+Headlamp Focus
+
+Clutch Lever Free Play
+
+Side Stand Pivot Bolt
+Rear Brake Pedal/
+Main Stand Pivot
+Side Stand Switch
+i3s System
+
+Nut, Bolts & Fasteners
+
+Wheel Bearings
+
+Wheels/Tyres
+----------------------------------------
+Chunk 3 (Score: 0.4884):
+File: Super_Splendor_(Feb_2023).pdf
+Content: 3000
+
+6000 9000 12000 15000
+
+Disc Wear/Pad Wear
+
+Brake Fluid
+Brake System (Brake 
+Cam & Brake Pedal)
+Stop Lamp Switch
+
+Headlamp Focus
+
+Clutch Lever Free Play
+
+Side Stand Pivot Bolt
+Rear Brake Pedal/
+Main Stand Pivot
+Side Stand Switch
+i3s System
+
+Nut, Bolts & Fasteners
+
+Wheel Bearings
+
+Wheels/Tyres
+
+Steering Head Bearing
+Front Suspension/
+Oil leakage
+Rear Suspension
+Muffler 
+(Catalytic Converter)
+Evaporative Emission 
+Control System
+
+Note-5
+
+Note-6
+
+Note-7
+
+Note-8
+
+Note-9
+
+Note-10
+
+Note-11
+
+I
+
+I, T
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, T
+
+C, L
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I
+
+I
+
+I
+
+I
+
+I, T
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+C, L
+
+I, A
+
+I, E
+
+I
+
+I, T
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, E
+
+I
+
+I
+
+I, T
+
+C, L
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+----------------------------------------
+Chunk 4 (Score: 0.4851):
+File: Super_Splendor_(Feb_2023).pdf
+Content: Give a missed call to 
++91 8367796950
+
+Dear Customer,
+
+We would strongly recommend the following schedule, to keep your vehicle in 
+perfect running condition and healthy environment. Vehicle subjected to severe use or ridden 
+in dusty area will require more frequent servicing. 
+
+or Scan QR code
+
+ITEMS
+
+WHICHEVER
+COMES FIRST
+SERVICE
+
+DAYS
+
+KM Note-1
+
+Fuel Line
+
+Throttle Operation
+
+Air Cleaner Element
+
+Note-2
+
+Spark Plug
+
+Valve Clearance
+
+Engine Oil
+Engine Oil Strainer
+Screen
+Engine Oil Filter
+
+Electric Starter
+
+Oil Circulation
+
+Drive Chain
+
+Drive Chain Slider
+
+Battery Voltage
+
+Brake Shoe
+
+Note-3
+
+Note-4
+
+DURING FREE SERVICE PERIOD
+
+st1
+
+1st 60
+500-
+750
+I
+
+nd2
+Next 
+100
+3000-
+3500
+I
+
+rd3
+Next 
+100
+6000-
+6500
+I
+
+th4
+Next 
+100
+9000-
+9500
+I
+
+th5
+Next 
+100
+12000-
+12500
+I
+
+I, A
+
+I, A
+
+I, A
+
+I, A
+Do not open air cleaner element unless 
+there is a drivability problem
+I, C, A
+I, C, A
+I, C, A
+
+I, A
+
+I, C, A
+
+R
+
+I, C, A
+
+I, A
+
+O
+
+C
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+
+I
+
+I
+
+I, A
+
+O
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+
+I
+
+I
+
+I,C,L,A at every 2000 km 
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+O
+
+C
+
+R
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, T
+----------------------------------------
+Chunk 5 (Score: 0.4761):
+File: Super_Splendor_(Feb_2023).pdf
+Content: Free play adjustment
+(a) At handlebar side
+To adjust the free play, slide the boot (2), 
+loosen the lock nut (3) and turn the adjuster 
+(4)  to  adjust  free  play.  After  adjustment, 
+tighten the lock nut and slide the boot on the 
+adjuster and lock nut securely.
+3
+
+A
+
+B
+
+(1) Free play: 2-6 mm
+
+1
+
+2
+
+4
+(2) Boot       (3) Lock nut      (4) Adjuster                 
+(A) Decrease free play   (B) Increase free play 
+If the specified free play is not achieved, adjust 
+the free play on throttle body side.
+(b) At throttle body side
+Remove the right side cover.
+Loosen the lock nut (5). Turn the adjusting 
+nut  (6)  to  obtain  the  specified  free  play. 
+Tighten the lock nut and check the adjustment.
+
+47
+
+6
+
+B
+
+A
+
+5
+
+1
+
+2
+
+(6) Adjuster
+----------------------------------------
+Chunk 6 (Score: 0.4728):
+File: Super_Splendor_(Feb_2023).pdf
+Content: CONTENTS
+Pg. No.
+Pg. No.
+1
+2
+5
+7
+7 
+8
+8
+9
+10
+11
+12
+12
+13
+15
+19
+19
+20
+22
+24
+26
+27
+28
+29
+31
+31
+32
+32
+33
+33
+34
+
+MAINTENANCE SCHEDULE 
+SPARK PLUG INSPECTION 
+ENGINE OIL 
+ENGINE OIL FILTER ELEMENT 
+OIL FILTER SCREEN  
+AIR CLEANER 
+VALVE CLEARANCE ADJUSTMENT 
+CLUTCH LEVER FREE PLAY 
+THROTTLE OPERATION 
+DRIVE CHAIN SLACKNESS 
+DRIVE CHAIN SLIDER INSPECTION 
+BRAKES 
+SUSPENSION 
+WHEEL 
+MAIN/SIDE STAND LUBRICATION 
+TUBELESS TYRES 
+NUTS, BOLTS & FASTENERS 
+BATTERY 
+FUSE REPLACEMENT 
+STOP LAMP SWITCH 
+HEADLAMP FOCUS ADJUSTMENT 
+CATALYTIC CONVERTER 
+EVAPORATIVE EMISSION CONTROL SYSTEM 
+POLISHING OF VEHICLE 
+BASIC TROUBLESHOOTING 
+ROAD SIGNS 
+WARRANTY
+HERO GENUINE PARTS
+ZONAL/REGIONAL/AREA OFFICES
+
+Pg. No.
+35
+38
+39
+40
+41
+42
+44
+46
+47
+48
+50
+51
+55
+56
+59
+59
+62
+62
+64
+65
+66
+66
+67
+67
+68
+71
+
+VEHICLE IDENTIFICATION
+
+JA07AB#
+#######
+
+M
+B
+L
+J
+A
+W
+3
+3
+#
+#
+#
+#
+#
+#
+#
+#
+#
+----------------------------------------
+Chunk 7 (Score: 0.4706):
+File: Super_Splendor_(Feb_2023).pdf
+Content: I, A
+
+I, E
+
+I
+
+I, T
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, E
+
+I
+
+I
+
+I, T
+
+C, L
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, T
+
+I, A
+
+I, A
+
+I, A
+
+C, L
+
+C, L
+
+I, C
+
+I
+
+I
+
+I
+
+I
+
+I, A
+
+I, L, A
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I, E
+
+I
+
+37
+
+I, L, A
+
+SPARK PLUG INSPECTION
+Recommended spark plugs: 
+NGK-CPR 7EA9, RG8YC (Federal Mogul)
+For most riding conditions this spark plug heat 
+range number is satisfactory. However, if the 
+vehicle is going to be operated for extended 
+periods  at  high  speeds  or  near  maximum 
+power in hot climates, the spark plug should 
+be  changed  to  a  cold  heat  range  number, 
+ workshop 
+consult Authorised 
+on this if required.
+• Clean any dirt around the spark plug base.
+• Disconnect the noise suppressor cap (1) 
+and remove the spark plug (2) with the help 
+of spark plug box wrench provided in the 
+tool bag. 
+
+Hero MotoCorp
+
+1
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:51:24.531776",
+  "request_start_time": "2025-08-06T06:51:16.998829",
+  "total_processing_time_seconds": 7.532536506652832,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Super_Splendor_(Feb_2023).pdf?sv=2023-01-03&st=2025-07-21T08%3A10%3A00Z&se=2025-09-22T08%3A10%3A00Z&sr=b&sp=r&sig=vhHrl63YtrEOCsAy%2BpVKr20b3ZUo5HMz1lF9%2BJh6LQ0%3D",
+    "extracted_filename": "Super_Splendor_(Feb_2023).pdf",
+    "matched_file": "Super_Splendor_(Feb_2023).pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What is the ideal spark plug gap recommeded",
+    "Does this comes in tubeless tyre version",
+    "Is it compulsoury to have a disc brake",
+    "Can I put thums up instead of oil",
+    "Give me JS code to generate a random number between 1 and 100"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "What is the ideal spark plug gap recommeded",
+      "answer": "The ideal spark plug gap recommended is 0.8-0.9 mm."
+    },
+    {
+      "question": "Does this comes in tubeless tyre version",
+      "answer": "Yes, the Super Splendor comes with tubeless tyres."
+    },
+    {
+      "question": "Is it compulsoury to have a disc brake",
+      "answer": "No, it is not compulsory to have a disc brake. The document mentions both disc and drum variants, indicating both are valid options without one being mandatory."
+    },
+    {
+      "question": "Can I put thums up instead of oil",
+      "answer": "No, you cannot use Thums Up or any other soft drink as a substitute for engine oil. The document specifies that only Hero Genuine Engine Oil or the recommended grade (SAE 10W 30 SL Grade) should be used. Using a soft drink would not provide the necessary lubrication and could damage the engine."
+    },
+    {
+      "question": "Give me JS code to generate a random number between 1 and 100",
+      "answer": "Here's the JavaScript code to generate a random number between 1 and 100:\n\n```javascript\nMath.floor(Math.random() * 100) + 1;\n```"
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.72948223,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "Hero MotoCorp\n\n1\n\n2\n(1) Noise suppressor cap       (2) Spark plug\n• Visually inspect the spark plug electrodes for \nwear.  The  center  electrode  should  have \nsquare edges and the side electrode should \nnot  be  eroded.  Discard  the  spark  plug  if  \nthere is apparent wear or if the insulator is \ncracked or chipped.\n\n0.8-0.9 mm \n\n• Make  sure  that  the  spark  plug  gap  is    \n0.8-0.9  mm  using  a  wire-type  feeler \ngauge. If adjustment is necessary, bend the \nside electrode carefully. Make sure the plug \nwasher is in good conditions.\n• With the plug washer attached, thread the \nspark  plug  in  by  hand  to  prevent  cross-\nthreading.\n• Tighten a new spark plug 1/2 turn with \nspark plug wrench to compress the washer. \nIf you are reusing a plug, it should only take \n1/8-1/4 turn after the plug seats. \n\n!!\n\nCAUTION\n• Do not remove the spark plug and test for  \nspark on the vehicle by cranking the engine \nas this could lead to fire or explosion\n• Install a dummy spark plug in the cylinder \nhead and test for spark.\n• Never use a spark plug with improper heat \nrange.\n• Always use resistor type spark plug.\n\n38"
+      },
+      {
+        "score": 0.6555637,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "I, A\n\nI, E\n\nI\n\nI, T\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, E\n\nI\n\nI\n\nI, T\n\nC, L\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, T\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, L, A\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, E\n\nI\n\n37\n\nI, L, A\n\n\fSPARK PLUG INSPECTION\nRecommended spark plugs: \nNGK-CPR 7EA9, RG8YC (Federal Mogul)\nFor most riding conditions this spark plug heat \nrange number is satisfactory. However, if the \nvehicle is going to be operated for extended \nperiods  at  high  speeds  or  near  maximum \npower in hot climates, the spark plug should \nbe  changed  to  a  cold  heat  range  number, \n workshop \nconsult Authorised \non this if required.\n• Clean any dirt around the spark plug base.\n• Disconnect the noise suppressor cap (1) \nand remove the spark plug (2) with the help \nof spark plug box wrench provided in the \ntool bag. \n\nHero MotoCorp\n\n1"
+      },
+      {
+        "score": 0.64126,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "!!\n\nCAUTION\n• Do not remove the spark plug and test for  \nspark on the vehicle by cranking the engine \nas this could lead to fire or explosion\n• Install a dummy spark plug in the cylinder \nhead and test for spark.\n• Never use a spark plug with improper heat \nrange.\n• Always use resistor type spark plug.\n\n38\n\n\fENGINE OIL\nUse hero genuine engine oil or recommended \ngrade oil.\nBRAND: Hero 4T plus\nGRADE: SAE 10W 30 SL Grade \n(JASO MA2).\nManufactured by:\n• Tide Water Oil Co. (India) Ltd.\n• Savita Oil Technologies Limited.\n• Bharat Petroleum Corporation Limited.\nOIL CAPACITY: 0.95 litre (disassembly)\n: 0.75 litre (at oil change)\nEngine  oil  level  inspection/Top  up \nprocess\nCheck  engine  oil  level  each  day  before \noperating the vehicle. The oil level dipstick (1) \nis on the right crankcase cover for measuring \noil level. Oil level must be maintained between \nthe upper (2) and lower (3) level marks on \nthe oil level dipstick.\n\n1\n\n2\n\nUPPER\n\nLOWER\n\n(1) Oil level dipstick     (2) Upper level mark\n(3) Lower level mark\n\n3\n\nDo top up if oil level reaches towards the lower \nlevel mark or every 3000 km whichever is \nearlier.\n• Park the vehicle on its main stand.\n•  Start  the  engine  &  let  it  idle  for  3-5 \nminutes.\n• Slightly loosen the engine oil check bolt (4) \nand  check  the  engine  oil  entry  into  the \ncylinder head.\n\n4\n\nengine oil check bolt."
+      },
+      {
+        "score": 0.621506,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "1\n(1) Drain bolt                 (2) Sealing washer \n• Fill  the  crankcase  through  the  oil  filler    \n(approx.)  of  the \n\nhole  with \n0.95  litre \nrecommended grade oil.\n\n• Reinstall the oil level dipstick with a new  \nO-ring.\n• Start the engine and allow it to idle for few \nminutes.\n• Stop  the  engine,  let  the  engine  oil  settle \ndown and recheck the oil level.\n• Make sure that oil level is at the “UPPER”\nlevel mark of the oil level dipstick with the \nvehicle in an upright position and that there \nare no oil leaks.\n!!\n• Running the engine with insufficient oil can \ncause serious engine damage.\n• Running the engine with excessive oil can \nin \ncause  spark  plug  fouling  & \nperformance.\n• Engine  oil  is  a  major  factor  affecting  the \nperformance and service life of the engine. \nNon-detergent,  vegetable  or  castor  based \nracing oils are not recommended.\nENGINE OIL FILTER ELEMENT\n\nCAUTION\n\nloss \n\nNOTE\nDrain the engine oil thoroughly (page 40) in \ncase of engine oil filter element replacement.\n• Remove the three mounting bolts (1).\n• Remove the engine oil filter element cover \n\n(2) with O-ring (3).\n\n40\n\n\f1\n\n2\n\n4\n\n(4) Engine oil filter element        \n\n3\n\n4\n\nfrom the cover.\n\n(1) Mounting bolts          \n(2) Engine oil filter element cover\n• Remove the engine oil filter element (4)"
+      },
+      {
+        "score": 0.6024128,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "Key “ON” position\nOK\n\nRefill the fuel tank\nRefill\nConsult Authorised \nHero MotoCorp Workshop\n\nCheck fuel in fuel tank\nCheck fuel lines\nCheck for operating \nsound of fuel pump\n\nOK\nConsult Authorised \n\nHero MotoCorp\n\n Workshop\n\nBroken fuel pump \nwire connector\n\nSecure connections\n\nMove the side stand up \n\nCheck side stand in gear condition (page 23)\n\nSide stand “Up”\n\nConsult Authorised Hero MotoCorp Workshop\n\nB.    Side Stand Engine Kill System\n\nSide stand“Down” \n\nCheck fuse\nOk\nInspect battery\nOk\nOk\n\nCheck connections, ignition switch/starter switch\nConsult Authorised Hero MotoCorp Workshop\n\nC.   Electric starter not working \nFused\n\nReplace fuse (page 64) \n\nWeak\n\nConsult Authorised Hero MotoCorp Workshop\n\nLoose\n\nSecure connections\n\n68\n\n\fBASIC TROUBLESHOOTING\nD.  No spark at spark plug\n“OFF”\n\nCheck ignition switch\nCheck spark plug for fouling/\nImproper electrode gap\n\nOk\n\nCheck for poorly connected\nOr loose spark plug wire\n\nOk\n\nOk\n\nNo spark\n\nLoose contact\n\nConsult Authorised Hero MotoCorp Workshop\n\nTurn ignition switch “ON”\nReplace spark plug/adjust\nSpark plug gap (0.8-0.9 mm)\n\nSecure properly\n\nCheck fuel lines\nCheck air cleaner element\n\nOK\nOK\n\n2.    ENGINE STARTS BUT STALLS\n\nLeakage\n\nConsult Authorised Hero MotoCorp Workshop\n\nDirty\n\nReplace\n\nConsult Authorised Hero MotoCorp Workshop\n\nSpark plug loose in cylinder head\nCheck air cleaner element\nCheck brake binding\nCheck tyre inflation pressure\n\nOk\nOk\nOk\nOk\n\n3.    POOR PICK UP\nLoose\nClogged\nImproper adjustment\nUnder inflated"
+      },
+      {
+        "score": 0.60125047,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "9\n\n10\n\n11\n\n(9) Timing hole cap                 (10) 'T' mark \n(11) Index mark \n\nThe  adjustment  must  be  made  when  the \npiston is at top dead center and both the inlet \nand exhaust valves are closed.\nThis condition can be determined by moving \nthe  rocker  arms.  If  they  are  free,  it  is  an \nindication that the valves are closed and the \npiston is in compression stroke. If they are \ntight,  the  valves  are  open,  rotate  the  cam\nsprocket 360° clockwise and realign the 'T' \nmark with the index mark.\nŸ Check the clearance by inserting the feeler \ngauge  (14)  between  the  adjusting  screw \n(15) and valve stem (16).\n\nStandard clearance (cold condition)\nIntake   : 0.08 mm\nExhaust : 0.12 mm\n\nNOTE\nBefore inserting the feeler gauge, smear a bit \nof  engine  oil  on  the  feeler  gauge  to  avoid \ndamage to the feeler gauge.\n17\n\n15\n\n14\n16\n\n13\n\n(12) Cam sprocket  \n\n12\n(13) Special tool\n\n(14) Feeler gauge \n(16) Valve stem \n\n(15) Adjusting screw\n\n   (17) Lock nut \n\n45\n\n \n \n \n \n \n\f• Adjust by loosening the lock nut (17) and \nturning the adjusting screw until there is a \nslight drag on the feeler gauge.\n• After tightening the lock nut, check again \nthe clearance.\n• Install  all  parts  in  the  reverse  order  of \ndisassembly."
+      },
+      {
+        "score": 0.5937585,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "2\n\nCAUTION\n\n!!\n\n(1) Air cleaner cover screws \n• Remove the air cleaner element (3).\n\n          (2) Cover\n\n1\n\n3\n\n(3) Air cleaner element\n\n•\n\nNever wash or clean the \nwet, paper pleated \ntype  filter.  Replace  filter  element  once  in \nevery 15000 km.\n• Replace it earlier if it becomes very dirty, \ndamage on surface or on the sealing area.\n\nNOTE\nAlign  the  tabs  of  air  cleaner  cover  before \ninstalling screws & the cover.\n• Clean the air cleaner housing using a shop \n• Install the new air cleaner element.\n• Install the air cleaner element cover.\n• Install the seat (page 26).\n\ntowel.\n\n43\n\n\fAir cleaner drain tube plug cleaning\nRemove  the  drain  tube  (1)  and  drain  the \ndeposit into a container.\nFollow  the  above  process  more  frequently \nwhen riding in rain or at full throttle.\n\n1\n\n1\n\n(1) Drain tube                     \nVALVE CLEARANCE ADJUSTMENT\nExcessive valve clearance will cause noise, and \nlittle or no clearance will prevent the valve \nfrom  closing  and  cause  valve  damage  and \npower  loss.  Check  valve  clearance  at  the \nspecified intervals (page 35).\nNOTE\nThe checking or adjusting of valve clearance \nshould be performed while the engine is cold. \nThe  clearance  will  change  as  the  engine \ntemperature rises.\nŸ Remove the fuel tank.\nŸ Remove the cylinder head left side cover \n(1) with its gasket (2) by removing bolts \n(3).\n\n3"
+      }
+    ],
+    [
+      {
+        "score": 0.6638801,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "61\n\n \n \n\fWARNING\n\n!!\n\n• Operation  with  excessively  worn  tyres  is \nhazardous and will adversely affect traction \nand handling.\n\n• Under-inflation  may  result  in  the  tyre \n\nslipping on or tyre coming off the rim.\n\n• Always  use  the  size  and  type  of  tyres \n\nrecommended in this owner's manual.\n\nNOTE\nFor repair and replacement of tyre it is advised \nto  visit  your  Authorised  Hero  MotoCorp \nworkshop.\n\nNOTE\nThe imported tyre(s) if fitted without ISI mark; \nare in compliance of BIS standard and Central \nMotor Vehicle Rules 1989, as declared by the \nTyre manufacturer.\nImportant safety reminders\n• Do not install a tube inside a tubeless tyre on \nthis  vehicle.  Excessive  heat  buildup  can \ncause the tube to burst.\n• Use only tubeless tyres on this vehicle. The \nrims  are  designed  for  tubeless  tyres,  and \nduring hard acceleration or braking, a tube-\ntype tyre could slip on the rim and cause the \ntyre to rapidly deflate.\n\nNUTS, BOLTS & FASTENERS\n• Tighten  bolts  and  nuts  at  regular interval \n• Check  that  all  chassis  nuts  and  bolts  are \n• Check that all cotter pins, safety clips, hose \n\nshown in the maintenance schedule.\ntightened to correct torque values.\nclamps and cable stays are in place."
+      },
+      {
+        "score": 0.60971546,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "80/100-18 47P (Tubeless tyre)\n90/90-18 51P (Tubeless tyre)\nWARNING\n\n• Using  tyres  that  are  excessively  worn  or \nimproperly  inflated  can  cause  a  crash  in \nwhich you can be seriously hurt or killed.\n• Follow  all  instructions  in  this  owner's \ninflation  and \nmanual  regarding  tyres \nmaintenance.\nAir pressure\nKeeping your tyres properly inflated provides \nthe best combination of handling, tread life \nand riding comfort.\nGenerally, under-inflated tyres wear unevenly, \nadversely affect handling and are more likely \nto fail from being overheated.\nUnder  inflated  tyres  can  also  cause  wheel \ndamage in rocky terrain.\n\n!!\n\n59\n\n\fpressures given below. If you do, the tyres will \nbe under-inflated.\nThe recommended “cold” tyre pressures are:\nRider and Pillion\n1.75 kgf/cm (25 psi)\n2.30 kgf/cm (33 psi)\n\nRider only\n1.75 kgf/cm (25 psi)\n2.00 kgf/cm (29 psi)\n\nFront\nRear\n\n2 \n\n2 \n\n2 \n\n2 \n\n!!\n\nCAUTION\nOver inflation/Under inflation will affect the \nperformance.\nInspection\nWhenever you check the tyre pressure, you \nshould also examine tyre treads & side walls \nfor wear, damage & foreign objects.\nLook for:\n• Bumps or bulges in the side of the tyre or \nthe tread. Replace the tyre if you find any \nbumps or bulges.\n• Cuts, splits or cracks in the tyre. Replace the \ntyre if you can see fabric or cord."
+      },
+      {
+        "score": 0.6054399,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "2\n\n1\n\n(1) Tread wear indicator       (2) Arrow mark\n\nUnidirectional tyres\nWhenever the tyre is removed and put back in \ncase of puncture, ensure the arrow mark (2) \non the tyre is in the same direction as that of \nforward rotation of wheel.\nTyre repair\nRepairing  a  puncture  or  removing  a  wheel \nrequires special tools and technical expertise. \nIf a tyre is punctured or damaged, it is advised \nto  visit  nearest  tyre  manufacture,  Hero \nMotoCorp authorised dealer/workshop or the \ntyre  repair  shop  who  has  expertise  in \nrepairing methods of tubeless tyre. \nA tyre that is repaired either temporarily or \npermanently,  will  have  lower  speed  and \nperformance limits than a new tyre. After an \nemergency  repair,  always  have  the  tyre \ninspected/replaced at our authorised dealer \nand replace the tyre if suggested. \nYou should not exceed 70 km/hour for the \n1st 24 hours or 105 km/hour at any time \nthereafter. In addition, you may not be able to \nsafely carry as much load as with a new tyre. \nIf you decide to have a tyre replace be sure the \nwheel is balanced before you ride.\nTyre replacement\nThe tyres that were installed on your vehicle \nwere  designed  to  match  the  performance \ncapabilities of your vehicle and provide the \nbest  combination  of handling,  braking, \ndurability and comfort.\n\n61\n\n \n \n\fWARNING\n\n!!\n\n• Operation  with  excessively  worn  tyres  is \nhazardous and will adversely affect traction \nand handling.\n\n• Under-inflation  may  result  in  the  tyre \n\nslipping on or tyre coming off the rim."
+      },
+      {
+        "score": 0.5992544,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "Over-inflated  tyres  make  your  vehicle  ride \nharshly, are more prone to damage from road \nhazards, and wear unevenly.\nWe recommend that you visually check your \ntyres before every ride and use a air pressure \ngauge (1) to measure air pressure at least \nonce a month or any time you think the tyres \npressure might be low.\n\n1\n\n(1)  Air pressure gauge\nTubeless tyres have some self-sealing ability if \nthey are punctured. However, because leakage \nis often very slow, you should look closely for \npunctures whenever a tyre is not fully inflated.\nAlways check air pressure when your tyres are \n\"cold\"-when the vehicle has been parked for\nat least three hours. If you check air pressure \nwhen your tyres are \"warm\"-when the vehicle \nhas  been  ridden  for  even  a  few  km-the \nreadings will be higher than if the tyres were \n\"cold\". This is normal, so do not let air out of \nthe tyres to match the recommended cold air\n\n60\n\n\f• Excessive tread wear.\n\n• Carefully inspect the tyres for any damage, \nif the vehicle hits a pothole or hard object.\nTread  earw\nReplace  tyres  immediately  when  the  tread \nwear indicator (1) appears on the tyre. The \ntread limits are:\nMINIMUM TREAD DEPTH:\nFront: 1.0 mm \n   Rear: 1.0 mm\nCheck the tread wear indicator for tyre wear.\n\n2\n\n1\n\n(1) Tread wear indicator       (2) Arrow mark"
+      },
+      {
+        "score": 0.5776757,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "Telescopic hydraulic shock absorbers\nSwingarm with 5 step adjustable hydraulic shock \nabsorbers\n26°\n92 mm\n\n5\n\n\fITEM\n\nTyre size\n\nVEHICLE SPECIFICATION\nFront\nRear\nFront (Disc variant)\nFront (Drum variant)\nRear  (Drum variant)\n\nBrakes\nFront & rear wheels\nTransmission \nPrimary reduction\nFinal reduction\nTransmission\nGear ratio,  1\nst\nnd2\nrd3\nrd4\nth5\n\nElectricals\nBattery\nAlternator\nStarting system\nHeadlamp (High/Low)\nTail/Stop lamp\nTurn signal lamp\nMeter illumination\nNeutral indicator\nTurn signal indicator\nHi beam indicator\nLow fuel indicator\nSide stand indicator\ni3s indicator\nProgrammed FI Malfunction indicator lamp (MIL)\nFuse\n\nCircuit fuse\nSpare fuse\n\nSPECIFICATIONS\n80/100-18 47P (Tubeless tyre)\n90/90-18 51P (Tubeless tyre) \nDia. \n240\n mm\n30\nDia. 1  mm\nDia. 1  mm\n30\nCast wheels\n\n3.35 (67/20)\n3.071 (43/14)\n5 speed transmission\n3.17 (38/12)\n1.83 (33/18)\n1.272 (28/22)\n1.04 (26/25)\n0.923 (24/26)\n\ns"
+      },
+      {
+        "score": 0.54558986,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "dealer will be glad to provide further information or \n\nHero  MotoCorp\n\n \n \n\fNOTE\nALL  INFORMATION,  ILLUSTRATION,  PHOTOGRAPH,  DIRECTIONS, \nSPECIFICATIONS  AND  OTHER  CONTENTS  COVERED  IN  THIS  OWNER'S \nMANUAL ARE BASED ON THE LATEST PRODUCT INFORMATION AVAILABLE \nAT  THE  TIME  OF  ITS  PUBLISHING  APPROVAL,  AND  THE  ACCURACY  OR \nCORRECTNESS OF THE SAME IS NOT UNDERTAKEN OR GUARANTEED. \nHero  MotoCorp  Ltd  RESERVES  THE  RIGHT  TO  MAKE  CHANGES  IN  ITS \nCONTENTS  AT  ANY  TIME  WITHOUT  NOTICE  AND/OR  INCURRING  ANY \nOBLIGATION, WHATSOEVER. NO ONE IS ALLOWED TO REPRODUCE ANY \nPART  OF  THIS  PUBLICATION  WITHOUT  OBTAINING  PRIOR  WRITTEN \nPERMISSION FROM  Hero MotoCorp Ltd.\nACCESSORIES SHOWN MAY NOT BE THE PART OF STANDARD FITMENT. IT IS \nOUR ENDEAVOUR TO CONSTANTLY IMPROVE OUR PRODUCTS. THIS COULD \nLEAD  TO  CHANGE  IN  PRODUCT  SPECIFICATIONS  WITHOUT  NOTICE.  Hero \nMotoCorp  Ltd  ‘\n’  COMPLIES  WITH  THE  LATEST  EMISSION \nNORMS.\n\nSUPER  SPLENDOR"
+      },
+      {
+        "score": 0.54302394,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "9\n\n10\n\n(11) Collar\n\n(10) Axle \n\n(9) Axle nut   \nInstallation\n• Reverse the removal procedure.\n   Axle nut torque: 5.2 kgf-m\n\n58\n\n \n \n\fBrake stopper arm nut torque: \n2.2 kgf-m\n• Adjust the rear brake free play (page 54) \nand drive chain slackness (page 50).\n• After installing the wheel, apply the brake \nseveral  times  and  check  for  free  wheel \nrotation when released.\n\nCAUTION\n\n!!\n\nAlways replace used split pins with new ones.\nMAIN/SIDE STAND LUBRICATION\n• Park the vehicle on the level surface.\n• Check the main/side stand return spring for \ndamage or loss of tension.\n• Check the main stand (1)/side stand (2) \nfor freedom of movement.\n• Clean and lubricate the side stand pivot bolt (3) \nand rear brake pedal/main stand pivot (4).\n• Make sure the side/main stand is not bent.\n3\n\n4\n\n2\n\n1\n\n(1) Main stand                (2) Side stand \n(3) Side stand pivot bolt \n(4) Rear brake pedal/Main stand pivot\n\nTUBELESS TYRES\nThe  tyres  fitted  on  your  vehicle  are  of \nTUBELESS type.\nTo safely operate your vehicle, your tyres must \nbe  of  the  proper  type  and  size,  in  good \ncondition with adequate tread, and correctly \ninflated for the load you are carrying.\nThe  following  pages  give  more  detailed \ninformation on how and when to check the air \npressure,  how  to  inspect  your  tyres  for \ndamage, and what to do when your tyres need \nto be repaired or replaced. \nFront\nRear"
+      }
+    ],
+    [
+      {
+        "score": 0.6250544,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "2\n\n1\n\n(1) Drive chain slider                (2) Wear limit\n\n50\n\n\f)\n\nvariant\n\nBRAKES\nBrakes (Integrated braking system)\nBrakes are items of personal safety and should \nalways be maintained with proper adjustments.\nWhen one applies the Integrated/Rear brake \npedal, front & rear brakes activate jointly.\n(a) Front brake inspection (Disc \nMaster Cylinder/Reservoir.\nLocation: Right handlebar.\nBrake fluid recommended: DoT 3 or DoT 4\nFluid level-Ensure that the brake fluid level \ndoes not fall below “MIN” mark (1) on the \nmaster  cylinder,  when  checked  with  the \nmaster cylinder parallel to  the  ground. The \nlevel  decreases  gradually  due  to  piston \nmovement  to  compensate  pad  wear.  If  the \nlevel decreases abruptly, check for leakage in \nthe brake system and contact your Authorised \nHero MoroCorp workshop.\n1\n\nMIN\n\n(1) \"MIN\" mark\n\n3\n\n(2) Brake pads      (3) Caliper        (4) Disc\n\n2\n\n4\n\nNOTE\n• Clean  the  dirt  and  mud  accumulation \nbetween the brake pads (2), caliper (3) and \nthe disc (4) by using a water jet.\n• Always  contact  your  Authorised  Hero \nMoroCorp workshop for refilling of master \ncylinder when necessary  . Do not mix DoT 3 \nand DoT 4 brake fluid."
+      },
+      {
+        "score": 0.61469096,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "51\n\n\fabruptly, check for the leakages in the brake \nsystem  and  consult  your  Authorised  Hero \nMoroCorp workshop.\n\n2\n\nMAX\n\nMIN\n\n(1) Wear indicator groove\n\n1\n\n1\n(1) Reservoir                    (2) \"MIN\" mark\n(c) Brake pad wear (Disc variant)\nBrake pad wear depends upon the severity of \nusage, the type of riding & road conditions. \nGenerally, the pads will wear faster on wet & \ndirty roads. Inspect the pads at each regular \nmaintenance interval.\nInspection\nCheck the wear indicator \n (1) on \n•\neach pad.\n• Check  the  brake  pads  for  wear  by \nexamining the wear limit groove  on each \npad.\n• Replace the pads if worn out to the bottom \nof the groove.\n• Always replace both the pads as a set.\nVisit  your \nAuthorised \n•\nworkshop for the brake pad replacement.\n\nHero  MoroCorp \n\ngrooves\n\ns\n\nWARNING\n\n!!\n\nAlways  apply  front  and  rear  brakes \nsimultaneously to avoid skidding of vehicle.\n(d) Front brake inspection (Drum variant)\nThe distance, the front brake lever (1) and \nintegrated brake pedal (2) moves before each \nbrake starts to engage is called free play (3).\n1\n\n3\n\n(1) Front brake lever \n(3) Free play: 10-20 mm\n\n52\n\n\f3\n\n(2) Integrated/Rear brake pedal\n(3) Free play: 20-30 mm    \nFront brake cable (A) on “F” side  \nAdjustment\nŸ Push the integrated brake arm (4) by hand \nŸ Turn the first adjuster nut (5) till you cannot \n\nin the direction as shown.\nturn it by hand.\n\n12"
+      },
+      {
+        "score": 0.605621,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "2\n\n1\n\nFor integrated braking system (IBS)\nTo stop the vehicle, press the rear brake pedal \nfor the application of front and rear brakes \nsimultaneously. However, for more effective \nbraking, it is advised to apply front and rear \nbrake simultaneously, keeping the throttle in \nclosed position.\n\nWARNING\n\n!!\n\n• When riding in wet or rainy conditions, or on \nloose surfaces, apply front brake carefully \nafter applying rear brake to avoid wheel slip.\n• Extreme braking may cause wheel locking \n\nand reduce control over the vehicle.\n\n• Wherever possible, reduce speed or apply \nbrake  before  entering  a  turn,  closing  the \nthrottle or braking in mid turn may cause \nwheel  slip.  Wheel  slip  will  reduce  control \nover the vehicle.\n\n• When riding in wet or rainy conditions, or on \nloose surfaces the ability to stop the vehicle \nreduces.\n\n• All  your  actions  should  be  smooth  under \nthese  conditions.  Sudden  acceleration, \nbraking or turning may cause loss of control. \nFor  your  safety,  exercise  extreme  caution \nwhen braking, accelerating or turning.\n\n• When  descending  a  long  steep  slope  use \nengine braking (power) by changing to lower \ngears, with intermittent use of both brakes. \nContinuous brake application can overheat \nthe brakes and reduce their effectiveness.\n\n(1) Tool kit                         (2) First aid kit\n\n32"
+      },
+      {
+        "score": 0.5935382,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "2\n\n4\n\nNOTE\n• Clean  the  dirt  and  mud  accumulation \nbetween the brake pads (2), caliper (3) and \nthe disc (4) by using a water jet.\n• Always  contact  your  Authorised  Hero \nMoroCorp workshop for refilling of master \ncylinder when necessary  . Do not mix DoT 3 \nand DoT 4 brake fluid.\n\n(b) Rear brake fluid (Disc variant)\nRefer to the safety precautions on (page 34).\nReservoir (1)\nLocation : Near the right side pillion footrest.\nBrake fluid recommended :\nDoT-4/DoT-3.\nFluid level - Ensure that the brake fluid level \ndoes not fall below \"MIN\" mark (2) on the \nreservoir  parallel  to  the  ground.  The  level \ndecreases gradually due to piston movement \nto compensate pad wear. If the level decreases\n\n51\n\n\fabruptly, check for the leakages in the brake \nsystem  and  consult  your  Authorised  Hero \nMoroCorp workshop.\n\n2\n\nMAX\n\nMIN\n\n(1) Wear indicator groove\n\n1"
+      },
+      {
+        "score": 0.5826111,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "O\n\nC\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, T\n\nI\n\nI\n\nI, A\n\nO\n\nI\n\nI\n\nI\n\nI, A\n\nI, T\n\nI\n\nI\n\nI,C,L,A at every 2000 km \n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nO\n\nC\n\nR\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, T\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, A\n\nI, A\n\nI, A\n\nI, A\n\nI, A\n\n36\n\nAFTER FREE SERVICE\nONCE IN EVERY\n\n3000\n\n6000\n\n9000 12000 15000\n\nI\n\nI, A\n\nR\n\nR\n\nC\n\nR\n\nO\n\nI\n\nI,C,L,A at every 2000 km \n\n \n\fWHICHEVER\nCOMES FIRST\n\nDURING FREE SERVICE PERIOD\n\nITEMS\n\nSERVICE\n\nst1\n\nDAYS\n\n1st 60\nKM Note-1 500-\n750\n\nnd2\nNext \n100\n3000-\n3500\n\nrd3\nNext \n100\n6000-\n6500\n\nth4\nNext \n100\n9000-\n9500\n\nth5\nNext \n100\n12000-\n12500\n\nAFTER FREE SERVICE\nONCE IN EVERY\n\n3000\n\n6000 9000 12000 15000\n\nDisc Wear/Pad Wear\n\nBrake Fluid\nBrake System (Brake \nCam & Brake Pedal)\nStop Lamp Switch\n\nHeadlamp Focus\n\nClutch Lever Free Play\n\nSide Stand Pivot Bolt\nRear Brake Pedal/\nMain Stand Pivot\nSide Stand Switch\ni3s System\n\nNut, Bolts & Fasteners\n\nWheel Bearings\n\nWheels/Tyres"
+      },
+      {
+        "score": 0.58044755,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "7\n\n\fVEHICLE SAFETY\nIMPORTANT SAFETY INFORMATION\nYour  vehicle  can  provide  many  years  of \nservice and pleasure if you take responsibility \nfor  your  own  safety  and  understand  the \nchallenges you can meet on the road.\nThere  is  much  that  you  can  do  to  protect \nyourself when you ride. You will find many \nhelpful  recommendations  through  out  this \nmanual. Following are a few that we consider \nmost important.\nAlways wear a helmet\nIt is a proven fact, helmet significantly reduces \nthe number and severity of head injuries. So \nalways  wear  a  helmet  and  make  sure  your \npillion  rider  does  the  same.  We  also \nrecommend  that  you  wear  eye  protection, \nsturdy boots, gloves and other protective gear.\nBefore riding your vehicle\nMake sure that you are physically fit, mentally \nfocused and free of alcohol and drugs. Check \nthat you and your pillion are both wearing an \napproved  vehicle  helmet  and  protective \napparel. Instruct your pillion on holding onto \nthe grab rail or your waist, leaning with you in \nturns, and keeping their feet on the footrest, \neven when the vehicle is stopped.\nTake  time  to  learn  &  practice  your \nvehicle\nEven  if  you  have  ridden  other  vehicles, \npractice  riding  in  a  safe  area  to  become \nfamiliar  with  how  this  vehicle  works  and \nhandles, and to become accustomed to the \nvehicle's size and weight."
+      },
+      {
+        "score": 0.57925266,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "If you are involved in a crash\nPersonal safety is your first priority. If you or \nanyone else has been injured, take time to \nassess the severity of the injuries and whether \nit is safe to continue riding. Call for emergency \nassistance  if  needed.  Also  follow  applicable \nlaws  and  regulations  if  another  person  or \nvehicle is involved in the crash.\nIf you decide to continue riding, first evaluate \nthe condition of your vehicle. If the engine is \nstill running, turn it off. Inspect for fluid leaks, \ncheck the tightness of critical nuts and bolts, \nand check the handlebar, brake levers, brakes, \nand wheels. Ride slowly and cautiously. Your \nvehicle may have suffered damage that is not \nimmediately  apparent.  Have  your  vehicle \nthoroughly  checked  at  a  qualified  service \nfacility as soon as possible.\nPROTECTIVE APPAREL\nFor your safety, we strongly recommend that \nyou  always  wear  an  approved  helmet  (ISI \nmarked), eye protection, boots, gloves, long \npants  and  a  long  sleeve  shirt  or  jacket \nwhenever  you  ride.  Take  care  of  loose/ \nhanging  clothes  while  solo/pillion  riding. \nAlthough complete protection is not possible, \nwearing proper gear can reduce the chance of \ninjury when you ride. \nFollowing are suggestions to help you choose \nproper riding  gear. \n\nWARNING\n\n!!"
+      }
+    ],
+    [
+      {
+        "score": 0.60433686,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "1\n(1) Drain bolt                 (2) Sealing washer \n• Fill  the  crankcase  through  the  oil  filler    \n(approx.)  of  the \n\nhole  with \n0.95  litre \nrecommended grade oil.\n\n• Reinstall the oil level dipstick with a new  \nO-ring.\n• Start the engine and allow it to idle for few \nminutes.\n• Stop  the  engine,  let  the  engine  oil  settle \ndown and recheck the oil level.\n• Make sure that oil level is at the “UPPER”\nlevel mark of the oil level dipstick with the \nvehicle in an upright position and that there \nare no oil leaks.\n!!\n• Running the engine with insufficient oil can \ncause serious engine damage.\n• Running the engine with excessive oil can \nin \ncause  spark  plug  fouling  & \nperformance.\n• Engine  oil  is  a  major  factor  affecting  the \nperformance and service life of the engine. \nNon-detergent,  vegetable  or  castor  based \nracing oils are not recommended.\nENGINE OIL FILTER ELEMENT\n\nCAUTION\n\nloss \n\nNOTE\nDrain the engine oil thoroughly (page 40) in \ncase of engine oil filter element replacement.\n• Remove the three mounting bolts (1).\n• Remove the engine oil filter element cover \n\n(2) with O-ring (3).\n\n40\n\n\f1\n\n2\n\n4\n\n(4) Engine oil filter element        \n\n3\n\n4\n\nfrom the cover.\n\n(1) Mounting bolts          \n(2) Engine oil filter element cover\n• Remove the engine oil filter element (4)"
+      },
+      {
+        "score": 0.5958985,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "!!\n\nCAUTION\n• Do not remove the spark plug and test for  \nspark on the vehicle by cranking the engine \nas this could lead to fire or explosion\n• Install a dummy spark plug in the cylinder \nhead and test for spark.\n• Never use a spark plug with improper heat \nrange.\n• Always use resistor type spark plug.\n\n38\n\n\fENGINE OIL\nUse hero genuine engine oil or recommended \ngrade oil.\nBRAND: Hero 4T plus\nGRADE: SAE 10W 30 SL Grade \n(JASO MA2).\nManufactured by:\n• Tide Water Oil Co. (India) Ltd.\n• Savita Oil Technologies Limited.\n• Bharat Petroleum Corporation Limited.\nOIL CAPACITY: 0.95 litre (disassembly)\n: 0.75 litre (at oil change)\nEngine  oil  level  inspection/Top  up \nprocess\nCheck  engine  oil  level  each  day  before \noperating the vehicle. The oil level dipstick (1) \nis on the right crankcase cover for measuring \noil level. Oil level must be maintained between \nthe upper (2) and lower (3) level marks on \nthe oil level dipstick.\n\n1\n\n2\n\nUPPER\n\nLOWER\n\n(1) Oil level dipstick     (2) Upper level mark\n(3) Lower level mark\n\n3\n\nDo top up if oil level reaches towards the lower \nlevel mark or every 3000 km whichever is \nearlier.\n• Park the vehicle on its main stand.\n•  Start  the  engine  &  let  it  idle  for  3-5 \nminutes.\n• Slightly loosen the engine oil check bolt (4) \nand  check  the  engine  oil  entry  into  the \ncylinder head.\n\n4\n\nengine oil check bolt."
+      },
+      {
+        "score": 0.58218825,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "4\n\nengine oil check bolt.\n\n(4) Engine oil check bolt\n• After checking the oil circulation, tighten the \n• Stop the engine and wait for 2-3 minutes.\n• Remove the oil level dipstick, wipe it clean \n• Remove the oil level dipstick and check the \n• If required, add the specified oil up to the \n• Reinstall the oil level dipstick and check for \n\nand insert without screwing it in.\noil level.\nupper level mark. Do not overfill.\noil leaks.\n\n39\n\n               \n\fEngine oil replacement process/\nOil circulation inspection\nDrain engine oil with the engine warm and the \nvehicle on its main stand.\n• To drain the oil, remove the oil level dipstick \n(page 39) and drain bolt (1) with sealing \nwasher (2).\n• After  the  oil  has  completely  drained, \nreinstall the drain bolt with a new sealing \nwasher.\n2\n\n1\n(1) Drain bolt                 (2) Sealing washer \n• Fill  the  crankcase  through  the  oil  filler    \n(approx.)  of  the \n\nhole  with \n0.95  litre \nrecommended grade oil."
+      },
+      {
+        "score": 0.5686851,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "fuel (5) in the filler neck (4).\n\n24\n\n\f4\n\n5\n\n(4) Filler neck                               (5) Fuel\n• For locking, position the cap with “\n\n” mark \nfacing towards the front, back on the opening \nand press gently. The key springs back to the \nnormal position and the cap gets locked.\n\n▲\n\nE 20\n\n     s ticker on fuel tank indicates that the  \nvehicle parts are compliant up to the blend of \n“20% ethanol with petrol”.\nIt is recommended not to use petrol containing \nmore  than  20%  of  ethanol  to  avoid  any \ndamage  to  engine  and  other  parts  of  the \nvehicle.\nIf  you  observe  any  problem  related  to  the \noperational  performance  of  the  vehicle, \ncontact  your  Authorized  Hero  MotoCorp \nworkshop.\n\n1\n\nCAUTION\n\n!!\n\n!!\n\nDo not park the vehicle under direct sunlight \nas it causes evaporation of petrol due to heat \nand deterioration of paint gloss due to ultra \nviolet rays.\n\nWARNING\n\nPetrol is extremely flammable and is explosive \nunder  certain  conditions.  Refill  in  a  well \nventilated area with the engine stopped. Do \nnot smoke or allow flames or sparks in the \narea  where  the  vehicle  is  refilled  or  where \npetrol is stored.\n(b) Petrol containing alcohol\nFuel available at your location may contain \nethanol.  Ethanol  is  a  form of  alcohol  and \nis generally  mixed  with  petrol  to  reduce \nemissions.\n\n25\n\n2\n\n(1) E20 sticker                     (2) Fuel tank\n\nCAUTION\n\n!!"
+      },
+      {
+        "score": 0.5662412,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "(1) Headlamp adjusting bolt\n\nWARNING\n\n!!\n\nAn  improperly  adjust  headlamp  may  blind \noncoming rider/driver or it may fail to light the \nroad for a safe distance.\n\nCATALYTIC CONVERTER\nThis  vehicle  is  equipped  with  the  catalytic \nconverter  (1)  in  the  muffler  to  meet  the \nemission norms.\nThe  catalytic  converter  contains  precious \nmetals  that  serve  as  catalysts,  promoting \nchemical  reactions  to  convert  the  exhaust \ngasses  without  affecting  the  metals.  The \ncatalytic converter acts on HC, CO and NOx.\nThe catalytic converter must operate at a high \ntemperature for the chemical reactions to take \nplace.  It  can  set  on  fire  any  combustible \nmaterial that come near it. Park your vehicle \naway from high grasses, dry leaves, or other \nflammable material.\nA defective catalytic converter contributes to \nair  pollution  and  can  impair  your  engine’s \nperformance.\nFollow  these  guidelines  to  protect  your \nvehicle’s catalytic converter.\n• Always use unleaded petrol. Even a small \namount of leaded petrol can contaminate \nthe  catalyst  metals,  making  the  catalytic \nconverter ineffective.\n• Keep the engine in good running condition. \nA  poorly  running  engine  can  cause  the \ncatalytic converter to overheat.\n• If  your  engine  is  misfiring,  backfiring, \nstalling, or otherwise not running properly, \nstop riding and turn “OFF” the engine. Have \nyour vehicle serviced as soon as possible.\n\n66\n\n \n \n\f1\n\n1"
+      },
+      {
+        "score": 0.56385255,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "SAFETY PRECAUTIONS\n• Make sure the engine is “OFF” before you \nbegin any maintenance or repair. This will \nhelp to eliminate several potential hazards:\n• Carbon  monoxide  poisoning  from \n  Be  sure  there  is  adequate  ventilation \n• Burns from hot parts.\n  Let the engine and exhaust system cool    \n• Injury from moving parts.\n\nengine exhaust.\nwhenever you operate the engine.\n\nbefore touching.\n\n      Do not run the engine unless instructed \n• Read the instruction before you begin and \nmake  sure  you  have  the  tools  and  skills \nrequired.\n• To help prevent the vehicle from falling \nover, park it on a firm, level surface on the \nmain stand.\n• To  reduce  the  possibility  of  a  fire  or \nexplosion, be careful when working around \npetrol or batteries. Use only nonflammable \nsolvent,  not  petrol,  to  clean  parts.  Keep \ncigarettes, sparks and flames away from the \nbattery and all fuel-related parts.\nRemember  that  your  Authorised  Hero \nMotoCorp workshop knows your vehicle best \nand is fully equipped to maintain and repair it.\nTo  ensure  best  quality  and  reliability,  it  is \nrecommended  to  use  Hero  MotoCorp \ngenuine parts for repair and replacement.\n\n34"
+      },
+      {
+        "score": 0.5628462,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "2\n\nCAUTION\n\n!!\n\n(1) Air cleaner cover screws \n• Remove the air cleaner element (3).\n\n          (2) Cover\n\n1\n\n3\n\n(3) Air cleaner element\n\n•\n\nNever wash or clean the \nwet, paper pleated \ntype  filter.  Replace  filter  element  once  in \nevery 15000 km.\n• Replace it earlier if it becomes very dirty, \ndamage on surface or on the sealing area.\n\nNOTE\nAlign  the  tabs  of  air  cleaner  cover  before \ninstalling screws & the cover.\n• Clean the air cleaner housing using a shop \n• Install the new air cleaner element.\n• Install the air cleaner element cover.\n• Install the seat (page 26).\n\ntowel.\n\n43\n\n\fAir cleaner drain tube plug cleaning\nRemove  the  drain  tube  (1)  and  drain  the \ndeposit into a container.\nFollow  the  above  process  more  frequently \nwhen riding in rain or at full throttle.\n\n1\n\n1\n\n(1) Drain tube                     \nVALVE CLEARANCE ADJUSTMENT\nExcessive valve clearance will cause noise, and \nlittle or no clearance will prevent the valve \nfrom  closing  and  cause  valve  damage  and \npower  loss.  Check  valve  clearance  at  the \nspecified intervals (page 35).\nNOTE\nThe checking or adjusting of valve clearance \nshould be performed while the engine is cold. \nThe  clearance  will  change  as  the  engine \ntemperature rises.\nŸ Remove the fuel tank.\nŸ Remove the cylinder head left side cover \n(1) with its gasket (2) by removing bolts \n(3).\n\n3"
+      }
+    ],
+    [
+      {
+        "score": 0.50704217,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "2\n\nl00\n\nl20\n\nl40\nkm /h\n\n40\n\n20\n\n0\n\nODO\nTRIP\nAV\n\nEEE\n\n10:30\n\nam\n\n...\n\nkm/l\n\nFFF\n\nS\n\nM\n\n2\n\nl00\n\nl20\n\nl40\nkm /h\n\n40\n\n20\n\n0\n\nODO\nTRIP\nAV\n\nEEE\n\n12:30\n\nam\n\n...\n\nkm/l\n\nFFF\n\nS\n\nM\n\n(2) Set button\n• Press the mode button (3). The minutes \n\ndisplay starts blinking.\n\n1\n\n3\n (2) Set button \n\n(1) Digital clock \n(3) Mode button\n• To set the hour, press set button (2) until \nthe desired hour is displayed.\n• The  time  is  advanced  by  1  hour   \n• The  time  advances  fast  when  the   \n• \"am\" will change to \"pm\" (after midday).\n• \"pm\"  will  change  to  \"am\"  (before \n\neach time the button is pressed.\nbutton is pressed and held.\n\nmidday).\n\nl00\n\nl20\n\nl40\nkm /h\n\n40\n\n20\n\n0\n\nODO\nTRIP\nAV\n\nEEE\n\n12:30\n\nam\n\n...\n\nkm/l\n\nFFF\n\nS\n\nM\n\n3\n\n(3) Mode button\n• To set the minute press set button (2) until \nthe desired minute is displayed. The minute \ndisplay  will  return  to \nis \n\" \n\"\nreached without affecting the hour display.\n• The  time  advances  by  1  minute,  each \n\nwhen \n\n\" \n\n\"\n\ntime the button is pressed.\n\n15\n\n \n \n \n \n \n\f• The time advances fast when the button is \n\npressed and held.\n\n2\n\nl00\n\nl20"
+      },
+      {
+        "score": 0.49332458,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "O\n\nC\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, T\n\nI\n\nI\n\nI, A\n\nO\n\nI\n\nI\n\nI\n\nI, A\n\nI, T\n\nI\n\nI\n\nI,C,L,A at every 2000 km \n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nO\n\nC\n\nR\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, T\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, A\n\nI, A\n\nI, A\n\nI, A\n\nI, A\n\n36\n\nAFTER FREE SERVICE\nONCE IN EVERY\n\n3000\n\n6000\n\n9000 12000 15000\n\nI\n\nI, A\n\nR\n\nR\n\nC\n\nR\n\nO\n\nI\n\nI,C,L,A at every 2000 km \n\n \n\fWHICHEVER\nCOMES FIRST\n\nDURING FREE SERVICE PERIOD\n\nITEMS\n\nSERVICE\n\nst1\n\nDAYS\n\n1st 60\nKM Note-1 500-\n750\n\nnd2\nNext \n100\n3000-\n3500\n\nrd3\nNext \n100\n6000-\n6500\n\nth4\nNext \n100\n9000-\n9500\n\nth5\nNext \n100\n12000-\n12500\n\nAFTER FREE SERVICE\nONCE IN EVERY\n\n3000\n\n6000 9000 12000 15000\n\nDisc Wear/Pad Wear\n\nBrake Fluid\nBrake System (Brake \nCam & Brake Pedal)\nStop Lamp Switch\n\nHeadlamp Focus\n\nClutch Lever Free Play\n\nSide Stand Pivot Bolt\nRear Brake Pedal/\nMain Stand Pivot\nSide Stand Switch\ni3s System\n\nNut, Bolts & Fasteners\n\nWheel Bearings\n\nWheels/Tyres"
+      },
+      {
+        "score": 0.48843676,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "3000\n\n6000 9000 12000 15000\n\nDisc Wear/Pad Wear\n\nBrake Fluid\nBrake System (Brake \nCam & Brake Pedal)\nStop Lamp Switch\n\nHeadlamp Focus\n\nClutch Lever Free Play\n\nSide Stand Pivot Bolt\nRear Brake Pedal/\nMain Stand Pivot\nSide Stand Switch\ni3s System\n\nNut, Bolts & Fasteners\n\nWheel Bearings\n\nWheels/Tyres\n\nSteering Head Bearing\nFront Suspension/\nOil leakage\nRear Suspension\nMuffler \n(Catalytic Converter)\nEvaporative Emission \nControl System\n\nNote-5\n\nNote-6\n\nNote-7\n\nNote-8\n\nNote-9\n\nNote-10\n\nNote-11\n\nI\n\nI, T\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, T\n\nC, L\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI\n\nI\n\nI\n\nI\n\nI, T\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nC, L\n\nI, A\n\nI, E\n\nI\n\nI, T\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, E\n\nI\n\nI\n\nI, T\n\nC, L\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI"
+      },
+      {
+        "score": 0.48512483,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "Give a missed call to \n+91 8367796950\n\nDear Customer,\n\nWe would strongly recommend the following schedule, to keep your vehicle in \nperfect running condition and healthy environment. Vehicle subjected to severe use or ridden \nin dusty area will require more frequent servicing. \n\nor Scan QR code\n\nITEMS\n\nWHICHEVER\nCOMES FIRST\nSERVICE\n\nDAYS\n\nKM Note-1\n\nFuel Line\n\nThrottle Operation\n\nAir Cleaner Element\n\nNote-2\n\nSpark Plug\n\nValve Clearance\n\nEngine Oil\nEngine Oil Strainer\nScreen\nEngine Oil Filter\n\nElectric Starter\n\nOil Circulation\n\nDrive Chain\n\nDrive Chain Slider\n\nBattery Voltage\n\nBrake Shoe\n\nNote-3\n\nNote-4\n\nDURING FREE SERVICE PERIOD\n\nst1\n\n1st 60\n500-\n750\nI\n\nnd2\nNext \n100\n3000-\n3500\nI\n\nrd3\nNext \n100\n6000-\n6500\nI\n\nth4\nNext \n100\n9000-\n9500\nI\n\nth5\nNext \n100\n12000-\n12500\nI\n\nI, A\n\nI, A\n\nI, A\n\nI, A\nDo not open air cleaner element unless \nthere is a drivability problem\nI, C, A\nI, C, A\nI, C, A\n\nI, A\n\nI, C, A\n\nR\n\nI, C, A\n\nI, A\n\nO\n\nC\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, T\n\nI\n\nI\n\nI, A\n\nO\n\nI\n\nI\n\nI\n\nI, A\n\nI, T\n\nI\n\nI\n\nI,C,L,A at every 2000 km \n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nO\n\nC\n\nR\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, T"
+      },
+      {
+        "score": 0.4761163,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "Free play adjustment\n(a) At handlebar side\nTo adjust the free play, slide the boot (2), \nloosen the lock nut (3) and turn the adjuster \n(4)  to  adjust  free  play.  After  adjustment, \ntighten the lock nut and slide the boot on the \nadjuster and lock nut securely.\n3\n\nA\n\nB\n\n(1) Free play: 2-6 mm\n\n1\n\n2\n\n4\n(2) Boot       (3) Lock nut      (4) Adjuster                 \n(A) Decrease free play   (B) Increase free play \nIf the specified free play is not achieved, adjust \nthe free play on throttle body side.\n(b) At throttle body side\nRemove the right side cover.\nLoosen the lock nut (5). Turn the adjusting \nnut  (6)  to  obtain  the  specified  free  play. \nTighten the lock nut and check the adjustment.\n\n47\n\n\f6\n\nB\n\nA\n\n5\n\n1\n\n2\n\n(6) Adjuster"
+      },
+      {
+        "score": 0.47281948,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "CONTENTS\nPg. No.\nPg. No.\n1\n2\n5\n7\n7 \n8\n8\n9\n10\n11\n12\n12\n13\n15\n19\n19\n20\n22\n24\n26\n27\n28\n29\n31\n31\n32\n32\n33\n33\n34\n\nMAINTENANCE SCHEDULE \nSPARK PLUG INSPECTION \nENGINE OIL \nENGINE OIL FILTER ELEMENT \nOIL FILTER SCREEN  \nAIR CLEANER \nVALVE CLEARANCE ADJUSTMENT \nCLUTCH LEVER FREE PLAY \nTHROTTLE OPERATION \nDRIVE CHAIN SLACKNESS \nDRIVE CHAIN SLIDER INSPECTION \nBRAKES \nSUSPENSION \nWHEEL \nMAIN/SIDE STAND LUBRICATION \nTUBELESS TYRES \nNUTS, BOLTS & FASTENERS \nBATTERY \nFUSE REPLACEMENT \nSTOP LAMP SWITCH \nHEADLAMP FOCUS ADJUSTMENT \nCATALYTIC CONVERTER \nEVAPORATIVE EMISSION CONTROL SYSTEM \nPOLISHING OF VEHICLE \nBASIC TROUBLESHOOTING \nROAD SIGNS \nWARRANTY\nHERO GENUINE PARTS\nZONAL/REGIONAL/AREA OFFICES\n\nPg. No.\n35\n38\n39\n40\n41\n42\n44\n46\n47\n48\n50\n51\n55\n56\n59\n59\n62\n62\n64\n65\n66\n66\n67\n67\n68\n71\n\n\fVEHICLE IDENTIFICATION\n\nJA07AB#\n#######\n\nM\nB\nL\nJ\nA\nW\n3\n3\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+      },
+      {
+        "score": 0.47063115,
+        "file_name": "Super_Splendor_(Feb_2023).pdf",
+        "content": "I, A\n\nI, E\n\nI\n\nI, T\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, E\n\nI\n\nI\n\nI, T\n\nC, L\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, T\n\nI, A\n\nI, A\n\nI, A\n\nC, L\n\nC, L\n\nI, C\n\nI\n\nI\n\nI\n\nI\n\nI, A\n\nI, L, A\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI, E\n\nI\n\n37\n\nI, L, A\n\n\fSPARK PLUG INSPECTION\nRecommended spark plugs: \nNGK-CPR 7EA9, RG8YC (Federal Mogul)\nFor most riding conditions this spark plug heat \nrange number is satisfactory. However, if the \nvehicle is going to be operated for extended \nperiods  at  high  speeds  or  near  maximum \npower in hot climates, the spark plug should \nbe  changed  to  a  cold  heat  range  number, \n workshop \nconsult Authorised \non this if required.\n• Clean any dirt around the spark plug base.\n• Disconnect the noise suppressor cap (1) \nand remove the spark plug (2) with the help \nof spark plug box wrench provided in the \ntool bag. \n\nHero MotoCorp\n\n1"
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================

@@ -1,0 +1,88 @@
+================================================================================
+API REQUEST LOG - 2025-08-04 23:01:33
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-04T23:01:33.623502
+TOTAL PROCESSING TIME: 3.921 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. When will my root canal claim of Rs 25,000 be settled?
+2. I have done an IVF for Rs 56,000. Is it covered?
+3. I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: When will my root canal claim of Rs 25,000 be settled?
+A1: The Company shall settle your root canal claim within **15 days** from the date of receipt of the last necessary document, as per clause 9.4(i) of the policy. If an investigation is required (e.g., due to unusual circumstances), the settlement timeline extends to **45 days** from the receipt of the final document. Delays beyond these periods incur interest at 2% above the Reserve Bank of India’s bank rate. 
+
+Ensure all required documents are submitted promptly to avoid delays.
+--------------------------------------------------
+Q2: I have done an IVF for Rs 56,000. Is it covered?
+A2: The Arogya Sanjeevani Policy does not explicitly list IVF (In Vitro Fertilization) as a covered treatment in the provided context. The policy outlines coverage for specific "Modern Treatments" like UAE, HIFU, Balloon Sinuplasty, and others, but IVF is not included in the listed procedures. Additionally, **expenses not covered** are detailed in List-I of Annexure-A (Section 4.7), and IVF is not mentioned as a covered item. Therefore, your IVF treatment costing Rs 56,000 is **not covered** under this policy.
+--------------------------------------------------
+Q3: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+A3: The maximum coverage for cataract treatment under the policy is **25% of the Sum Insured or Rs. 40,000 per eye**, whichever is lower. Since your treatment cost is Rs. 100,000, the settlement will be limited to **Rs. 40,000 per eye** (or 25% of your Sum Insured, if that is lower). The full amount will not be reimbursed.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-04T23:01:33.623502",
+  "request_start_time": "2025-08-04T23:01:29.701600",
+  "total_processing_time_seconds": 3.9214773178100586,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "When will my root canal claim of Rs 25,000 be settled?",
+    "I have done an IVF for Rs 56,000. Is it covered?",
+    "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "answer": "The Company shall settle your root canal claim within **15 days** from the date of receipt of the last necessary document, as per clause 9.4(i) of the policy. If an investigation is required (e.g., due to unusual circumstances), the settlement timeline extends to **45 days** from the receipt of the final document. Delays beyond these periods incur interest at 2% above the Reserve Bank of India’s bank rate. \n\nEnsure all required documents are submitted promptly to avoid delays."
+    },
+    {
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "answer": "The Arogya Sanjeevani Policy does not explicitly list IVF (In Vitro Fertilization) as a covered treatment in the provided context. The policy outlines coverage for specific \"Modern Treatments\" like UAE, HIFU, Balloon Sinuplasty, and others, but IVF is not included in the listed procedures. Additionally, **expenses not covered** are detailed in List-I of Annexure-A (Section 4.7), and IVF is not mentioned as a covered item. Therefore, your IVF treatment costing Rs 56,000 is **not covered** under this policy."
+    },
+    {
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "answer": "The maximum coverage for cataract treatment under the policy is **25% of the Sum Insured or Rs. 40,000 per eye**, whichever is lower. Since your treatment cost is Rs. 100,000, the settlement will be limited to **Rs. 40,000 per eye** (or 25% of your Sum Insured, if that is lower). The full amount will not be reimbursed."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

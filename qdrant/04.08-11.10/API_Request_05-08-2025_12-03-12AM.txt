@@ -1,0 +1,116 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 00:03:12
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T00:03:12.745971
+TOTAL PROCESSING TIME: 6.169 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (4 total):
+------------------------------
+1. When will my root canal claim of Rs 25,000 be settled?
+2. I have done an IVF for Rs 56,000. Is it covered?
+3. I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+4. Give me a list of documents to be uploaded for hospitalization for heart surgery.
+
+RESPONSES GENERATED:
+------------------------------
+Q1: When will my root canal claim of Rs 25,000 be settled?
+A1: The settlement of your root canal claim depends on when the insurance company received the last required document. Under the policy:  
+- **Standard processing**: Claim will be settled within **15 days** from receipt of the last document.  
+- **If investigation is needed**: Up to **45 days** (with interest at 2% above RBI rate if delayed further).  
+
+To proceed, confirm with the company whether all documents were submitted and if an investigation is pending. Co-payment (5% or 15%, based on the insured’s age at policy inception) will be deducted from the claim amount.
+--------------------------------------------------
+Q2: I have done an IVF for Rs 56,000. Is it covered?
+A2: The Arogya Sanjeevani Policy document does not explicitly mention coverage for IVF (In Vitro Fertilization) treatments. The listed covered treatments include hospitalization, specific surgeries (e.g., cataract, robotic procedures), and ICU expenses, but fertility-related procedures like IVF are absent from the coverage details. Since IVF is not specified as a covered treatment in the provided policy terms, it is likely excluded. For confirmation, review the policy’s Annexure-A (List-I of excluded expenses) or contact the insurer directly.
+--------------------------------------------------
+Q3: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+A3: 
+--------------------------------------------------
+Q4: Give me a list of documents to be uploaded for hospitalization for heart surgery.
+A4: Based on the provided context, the required documents for hospitalization (including heart surgery) are:  
+
+1. Duly completed claim form  
+2. Photo identity proof of the patient  
+3. Medical practitioner’s prescription for admission  
+4. Original itemized bills  
+5. Payment receipts  
+6. Discharge summary with medical history  
+7. Diagnostic/test reports (with doctor’s prescription)  
+8. OT notes or surgeon’s certificate (surgical details)  
+9. Implant sticker/invoice (if applicable)  
+10. Medico-legal report (MLR) or FIR (if applicable)  
+11. NEFT details + cancelled cheque  
+12. KYC (identity + address proof) for claims above ₹1 lakh  
+13. Legal heir/succession certificate (if applicable)  
+14. Any additional documents requested by the insurer/TPA  
+
+Note: All documents must be in the insured person’s name. Specific requirements may vary based on the insurance policy.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T00:03:12.745971",
+  "request_start_time": "2025-08-05T00:03:06.576699",
+  "total_processing_time_seconds": 6.168559789657593,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "When will my root canal claim of Rs 25,000 be settled?",
+    "I have done an IVF for Rs 56,000. Is it covered?",
+    "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+    "Give me a list of documents to be uploaded for hospitalization for heart surgery."
+  ],
+  "total_questions": 4,
+  "responses": [
+    {
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "answer": "The settlement of your root canal claim depends on when the insurance company received the last required document. Under the policy:  \n- **Standard processing**: Claim will be settled within **15 days** from receipt of the last document.  \n- **If investigation is needed**: Up to **45 days** (with interest at 2% above RBI rate if delayed further).  \n\nTo proceed, confirm with the company whether all documents were submitted and if an investigation is pending. Co-payment (5% or 15%, based on the insured’s age at policy inception) will be deducted from the claim amount."
+    },
+    {
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "answer": "The Arogya Sanjeevani Policy document does not explicitly mention coverage for IVF (In Vitro Fertilization) treatments. The listed covered treatments include hospitalization, specific surgeries (e.g., cataract, robotic procedures), and ICU expenses, but fertility-related procedures like IVF are absent from the coverage details. Since IVF is not specified as a covered treatment in the provided policy terms, it is likely excluded. For confirmation, review the policy’s Annexure-A (List-I of excluded expenses) or contact the insurer directly."
+    },
+    {
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "answer": ""
+    },
+    {
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "answer": "Based on the provided context, the required documents for hospitalization (including heart surgery) are:  \n\n1. Duly completed claim form  \n2. Photo identity proof of the patient  \n3. Medical practitioner’s prescription for admission  \n4. Original itemized bills  \n5. Payment receipts  \n6. Discharge summary with medical history  \n7. Diagnostic/test reports (with doctor’s prescription)  \n8. OT notes or surgeon’s certificate (surgical details)  \n9. Implant sticker/invoice (if applicable)  \n10. Medico-legal report (MLR) or FIR (if applicable)  \n11. NEFT details + cancelled cheque  \n12. KYC (identity + address proof) for claims above ₹1 lakh  \n13. Legal heir/succession certificate (if applicable)  \n14. Any additional documents requested by the insurer/TPA  \n\nNote: All documents must be in the insured person’s name. Specific requirements may vary based on the insurance policy."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 4,
+  "parallel_processing": true
+}
+
+================================================================================

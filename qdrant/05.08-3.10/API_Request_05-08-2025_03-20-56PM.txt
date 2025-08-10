@@ -1,0 +1,118 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:20:56
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:20:56.639478
+TOTAL PROCESSING TIME: 5.352 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/image.jpeg?sv=2023-01-03&spr=https&st=2025-08-04T19%3A29%3A01Z&se=2026-08-05T19%3A29%3A00Z&sr=b&sp=r&sig=YnJJThygjCT6%2FpNtY1aHJEZ%2F%2BqHoEB59TRGPSxJJBwo%3D
+Extracted Filename: image.jpeg
+Matched File: None
+Match Status: ✗ NOT MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. What is 100+22?
+2. What is 9+5?
+3. What is 65007+2?
+4. What is 1+1?
+5. What is 5+500?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is 100+22?
+A1: The result of adding 100 and 22 is 122.
+
+122
+--------------------------------------------------
+Q2: What is 9+5?
+A2: The result of adding 9 and 5 is 14.
+
+14
+--------------------------------------------------
+Q3: What is 65007+2?
+A3: The result of adding 2 to 65007 is 65009.
+
+65007 + 2 = 65009
+
+**Answer:** 65009
+--------------------------------------------------
+Q4: What is 1+1?
+A4: The result of adding 1 and 1 is 2.
+
+2
+--------------------------------------------------
+Q5: What is 5+500?
+A5: The sum of 5 and 500 is calculated by adding the two numbers together. 
+
+5 (ones place) + 500 (hundreds, tens, and ones places) results in 505. 
+
+Answer: 505
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:20:56.639478",
+  "request_start_time": "2025-08-05T15:20:51.286635",
+  "total_processing_time_seconds": 5.352489709854126,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.jpeg?sv=2023-01-03&spr=https&st=2025-08-04T19%3A29%3A01Z&se=2026-08-05T19%3A29%3A00Z&sr=b&sp=r&sig=YnJJThygjCT6%2FpNtY1aHJEZ%2F%2BqHoEB59TRGPSxJJBwo%3D",
+    "extracted_filename": "image.jpeg",
+    "matched_file": null,
+    "file_match_status": "not_matched"
+  },
+  "questions_received": [
+    "What is 100+22?",
+    "What is 9+5?",
+    "What is 65007+2?",
+    "What is 1+1?",
+    "What is 5+500?"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "What is 100+22?",
+      "answer": "The result of adding 100 and 22 is 122.\n\n122"
+    },
+    {
+      "question": "What is 9+5?",
+      "answer": "The result of adding 9 and 5 is 14.\n\n14"
+    },
+    {
+      "question": "What is 65007+2?",
+      "answer": "The result of adding 2 to 65007 is 65009.\n\n65007 + 2 = 65009\n\n**Answer:** 65009"
+    },
+    {
+      "question": "What is 1+1?",
+      "answer": "The result of adding 1 and 1 is 2.\n\n2"
+    },
+    {
+      "question": "What is 5+500?",
+      "answer": "The sum of 5 and 500 is calculated by adding the two numbers together. \n\n5 (ones place) + 500 (hundreds, tens, and ones places) results in 505. \n\nAnswer: 505"
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================

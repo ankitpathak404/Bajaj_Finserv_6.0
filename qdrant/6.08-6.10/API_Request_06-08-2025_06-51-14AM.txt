@@ -1,0 +1,318 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:51:14
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:51:14.191629
+TOTAL PROCESSING TIME: 6.991 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (1 total):
+------------------------------
+1. I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?
+A1: No, the remaining Rs 50,000 cannot be claimed under this policy as the claim is subject to the sum insured.
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?
+--------------------------------------------------
+Chunk 1 (Score: 0.7003):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 4.1.1. Other expenses 
+
+i.  Expenses incurred on treatment of cataract subject to the sub limits 
+ii.  Dental treatment, necessitated due to disease or injury  
+iii.  Plastic surgery necessitated due to disease or injury  
+iv.  All the day care treatments 
+v.  Expenses incurred on road Ambulance subject to a maximum of Rs 2,000 per hospitalization. 
+
+Note: 
+1. Expenses of Hospitalization for a minimum period of 24  consecutive hours only shall be admissible. However, the time limit 
+shall not apply in respect of Day Care Treatment. 
+2.  In  case  of  admission  to  a  Room  at  rates  exceeding  the  aforesaid  limits,  the  reimbursement/payment  of  Associated  Medical 
+Expenses incurred at the Hospital, shall be effected in the same proportion as the admissible rate per day bears to the actual rate per 
+day of Room Rent charges. Proportionate deduction shall not apply if admitted to ICU/ ICCU. 
+Associated Medical Expenses shall include all related expenses except the following expenses, 
+a. Cost of pharmacy and consumables;  
+b. Cost of implants and medical devices  
+c. Cost of diagnostics 
+3. Sub limits as mentioned above, will not apply in case of treatment undergone as a package for a listed procedure in a Preferred 
+Provider Network (PPN). 
+4. Listed procedures and Preferred Provider Network list are dynamic in nature, and will be updated in the Company’s website from 
+time to time 
+
+4.2. AYUSH Treatment 
+The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, 
+Unani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the 
+policy schedule in any AYUSH Hospital.
+----------------------------------------
+Chunk 2 (Score: 0.6756):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: a.  Legally wedded spouse 
+b.  Parents and parents-in-law. 
+c.  Dependent children (i.e., natural or legally adopted) between the age 3 months to 25 years. If 
+the child above 18 years of age is financially independent, he or she shall be ineligible for 
+coverage in the subsequent renewals. 
+
+Grace Period 
+
+Hospitalisation 
+Expenses 
+Pre Hospitalisation 
+Post Hospitalisation 
+
+Sublimit for 
+room/doctors fee  
+
+The grace period of thirty days (where premium is paid in quarterly/half yearly/annual instalments) is 
+available on the premium due date, to pay the premium. 
+Expenses of Hospitalization for a minimum period of 24 consecutive hours only shall be admissible 
+Time limit of 24 hrs shall not apply when the treatment is undergone in a Day Care Center 
+For 30 days prior to the date of hospitalization 
+For 60 days from the date of discharge from the hospital 
+1. Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital/ Nursing Home 
+up to 2% of the Sum Insured subject to maximum of Rs. 5,000/- per day 
+2. Intensive Care Unit (ICU) charges/ Intensive Cardiac Care Unit (ICCU) charges all-inclusive as 
+provided by the Hospital/ Nursing Home up to 5% of the Sum Insured subject to maximum of Rs. 
+10,000/- per day 
+
+Cataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year 
+
+AYUSH 
+
+Pre Existing Disease 
+
+Cumulative bonus  
+
+Co Pay 
+
+National Home 
+Care Treatment 
+Add-On
+----------------------------------------
+Chunk 3 (Score: 0.6495):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 9.1. Notification of Claim 
+Notice with full particulars shall be sent to the Company/ TPA (if applicable) as under: 
+i.  Within 24hours from the date of emergency hospitalization required or before the Insured Person’s discharge from Hospital, 
+
+whichever is earlier. 
+
+ii.  At least 48 hours prior to admission in Hospital in case of a planned Hospitalization. 
+
+9.2. Documents to be submitted 
+The reimbursement claim is to be supported with the following documents and submitted within the prescribed time limit. 
+i.  Duly completed claim form 
+ii.  Photo Identity proof of the patient 
+iii.  Medical practitioner’s prescription advising admission. 
+iv.  Original bills with itemized break-up  
+v.  Payment receipts 
+vi.  Discharge summary including complete medical history of the patient along with other details. 
+vii.  Investigation/ Diagnostic test reports etc. supported by the prescription from attending medical practitioner 
+viii. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases). 
+ix.  Sticker/Invoice of the Implants, wherever applicable. 
+x.  MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable. 
+xi.  NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque 
+xii.  KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh as per AML Guidelines 
+xiii. Legal heir/succession certificate, wherever applicable 
+xiv. Any other relevant document required by Company/TPA for assessment of the claim. 
+Note: 
+1.  The company shall only accept bills/invoices/medical treatment related documents only in the Insured Person's name for whom 
+
+2.
+----------------------------------------
+Chunk 4 (Score: 0.6486):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 3.56. Waiting Period means a period from the inception of this Policy during which specified diseases/treatments are not covered. 
+On completion of the period, diseases/treatments shall be covered provided the Policy has been continuously renewed without 
+any break.  
+
+4.  COVERAGE 
+The covers listed below are in-built Policy benefits and shall be available to all Insured Persons in accordance with the procedures 
+set out in this Policy. 
+
+4.1. Hospitalization 
+The Company shall indemnify Medical Expense incurred for Hospitalization of the Insured Person during the Policy Period, up to 
+the Sum Insured and Cumulative Bonus specified in the Policy Schedule, for, 
+i.  Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital / Nursing Home up to 2% of the sum insured 
+
+ii. 
+
+subject to maximum of Rs. 5,000/-per day 
+Intensive Care Unit (ICU) / Intensive Cardiac Care Unit (ICCU) expenses up to 5% of the sum insured subject to maximum of 
+Rs. 10,000/- per day 
+
+iii.  Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialist Fees whether paid directly to the treating doctor/ surgeon or 
+
+to the hospital 
+
+iv.  Anesthesia,  blood,  oxygen,  operation  theatre  charges,  surgical  appliances,  medicines  and  drugs,  costs  towards  diagnostics, 
+
+diagnostic imaging modalities and such similar other expenses. 
+
+4.1.1. Other expenses
+----------------------------------------
+Chunk 5 (Score: 0.6443):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 4.2. AYUSH Treatment 
+The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, 
+Unani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the 
+policy schedule in any AYUSH Hospital. 
+
+4.3. Cataract Treatment 
+The Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or INR 
+40,000 per eye, whichever is lower, per each eye in one Policy Period. 
+
+4.4. Pre Hospitalisation 
+The  Company  shall  indemnify  pre-hospitalization  medical  expenses  incurred,  related  to  an  admissible  hospitalization  requiring 
+Inpatient Care, for a fixed period of 30 days prior to the date of admissible Hospitalization covered under the Policy. 
+
+4.5. Post Hospitalisation 
+The Company shall indemnify post hospitalization medical expenses incurred, related to an admissible hospitalization requiring 
+inpatient care, for a fixed period of 60 days from the date of discharge from the hospital, following an admissible hospitalization 
+covered under the Policy. 
+
+4.6. Modern Treatment 
+The following procedures will be covered (wherever medically indicated) either as in patient or as part of day care treatment in a  
+hospital subject to the limit of 50% of the Sum Insured for the related modern procedure/ component/ medicine of each Modern  
+
+National Insurance Co. Ltd. 
+Regd. & Head Office: Premises No. 18-0374, 
+Plot no. CBD-81, New Town, Kolkata - 700156 
+
+Page 5 of 16
+----------------------------------------
+Chunk 6 (Score: 0.6418):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: 4.7. The expenses that are not covered in this policy are placed under List-l of Annexure-A. The list of expenses that are to be 
+subsumed  into  room  charges,  or  procedure  charges  or  costs  of  treatment  are  placed  under  List-II,  List-III  and  List-IV  of 
+Annexure-A respectively. 
+
+5.  CUMULATIVE BONUS (CB) 
+Cumulative Bonus will be increased by 5% in respect of each claim free Policy Period (where no claims are reported and admitted), 
+provided the policy is renewed with the company without a break subject to maximum of 50% of the sum insured under the current 
+Policy Period. 
+If a claim is made in any particular year, the cumulative bonus accrued shall be reduced at the same rate at which it has accrued. 
+However, sum insured will be maintained and will not be reduced in the Policy Period.  
+Notes: 
+i.  In case where the policy is on individual basis, the CB shall be added and available individually to the insured person if no claim 
+
+has been reported. CB shall reduce only in case of claim from the same Insured Person. 
+
+ii.  In case where the policy is on floater basis, the CB shall be added and available to the family on floater basis, provided no claim 
+
+has been reported from any member of the family. CB shall reduce in case of claim from any of the Insured Persons.
+----------------------------------------
+Chunk 7 (Score: 0.6361):
+File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Content: iii.  Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialist Fees whether paid directly to the treating doctor/ surgeon or 
+
+to the hospital 
+
+iv.  Anesthesia,  blood,  oxygen,  operation  theatre  charges,  surgical  appliances,  medicines  and  drugs,  costs  towards  diagnostics, 
+
+diagnostic imaging modalities and such similar other expenses. 
+
+4.1.1. Other expenses 
+
+i.  Expenses incurred on treatment of cataract subject to the sub limits 
+ii.  Dental treatment, necessitated due to disease or injury  
+iii.  Plastic surgery necessitated due to disease or injury  
+iv.  All the day care treatments 
+v.  Expenses incurred on road Ambulance subject to a maximum of Rs 2,000 per hospitalization.
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:51:14.191629",
+  "request_start_time": "2025-08-06T06:51:07.200455",
+  "total_processing_time_seconds": 6.990723133087158,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?"
+  ],
+  "total_questions": 1,
+  "responses": [
+    {
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "answer": "No, the remaining Rs 50,000 cannot be claimed under this policy as the claim is subject to the sum insured."
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.70025337,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "4.1.1. Other expenses \n\ni.  Expenses incurred on treatment of cataract subject to the sub limits \nii.  Dental treatment, necessitated due to disease or injury  \niii.  Plastic surgery necessitated due to disease or injury  \niv.  All the day care treatments \nv.  Expenses incurred on road Ambulance subject to a maximum of Rs 2,000 per hospitalization. \n\nNote: \n1. Expenses of Hospitalization for a minimum period of 24  consecutive hours only shall be admissible. However, the time limit \nshall not apply in respect of Day Care Treatment. \n2.  In  case  of  admission  to  a  Room  at  rates  exceeding  the  aforesaid  limits,  the  reimbursement/payment  of  Associated  Medical \nExpenses incurred at the Hospital, shall be effected in the same proportion as the admissible rate per day bears to the actual rate per \nday of Room Rent charges. Proportionate deduction shall not apply if admitted to ICU/ ICCU. \nAssociated Medical Expenses shall include all related expenses except the following expenses, \na. Cost of pharmacy and consumables;  \nb. Cost of implants and medical devices  \nc. Cost of diagnostics \n3. Sub limits as mentioned above, will not apply in case of treatment undergone as a package for a listed procedure in a Preferred \nProvider Network (PPN). \n4. Listed procedures and Preferred Provider Network list are dynamic in nature, and will be updated in the Company’s website from \ntime to time \n\n4.2. AYUSH Treatment \nThe Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, \nUnani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the \npolicy schedule in any AYUSH Hospital."
+      },
+      {
+        "score": 0.67564106,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "a.  Legally wedded spouse \nb.  Parents and parents-in-law. \nc.  Dependent children (i.e., natural or legally adopted) between the age 3 months to 25 years. If \nthe child above 18 years of age is financially independent, he or she shall be ineligible for \ncoverage in the subsequent renewals. \n\nGrace Period \n\nHospitalisation \nExpenses \nPre Hospitalisation \nPost Hospitalisation \n\nSublimit for \nroom/doctors fee  \n\nThe grace period of thirty days (where premium is paid in quarterly/half yearly/annual instalments) is \navailable on the premium due date, to pay the premium. \nExpenses of Hospitalization for a minimum period of 24 consecutive hours only shall be admissible \nTime limit of 24 hrs shall not apply when the treatment is undergone in a Day Care Center \nFor 30 days prior to the date of hospitalization \nFor 60 days from the date of discharge from the hospital \n1. Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital/ Nursing Home \nup to 2% of the Sum Insured subject to maximum of Rs. 5,000/- per day \n2. Intensive Care Unit (ICU) charges/ Intensive Cardiac Care Unit (ICCU) charges all-inclusive as \nprovided by the Hospital/ Nursing Home up to 5% of the Sum Insured subject to maximum of Rs. \n10,000/- per day \n\nCataract Treatment  Up to 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year \n\nAYUSH \n\nPre Existing Disease \n\nCumulative bonus  \n\nCo Pay \n\nNational Home \nCare Treatment \nAdd-On"
+      },
+      {
+        "score": 0.64948595,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "9.1. Notification of Claim \nNotice with full particulars shall be sent to the Company/ TPA (if applicable) as under: \ni.  Within 24hours from the date of emergency hospitalization required or before the Insured Person’s discharge from Hospital, \n\nwhichever is earlier. \n\nii.  At least 48 hours prior to admission in Hospital in case of a planned Hospitalization. \n\n9.2. Documents to be submitted \nThe reimbursement claim is to be supported with the following documents and submitted within the prescribed time limit. \ni.  Duly completed claim form \nii.  Photo Identity proof of the patient \niii.  Medical practitioner’s prescription advising admission. \niv.  Original bills with itemized break-up  \nv.  Payment receipts \nvi.  Discharge summary including complete medical history of the patient along with other details. \nvii.  Investigation/ Diagnostic test reports etc. supported by the prescription from attending medical practitioner \nviii. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases). \nix.  Sticker/Invoice of the Implants, wherever applicable. \nx.  MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable. \nxi.  NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque \nxii.  KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh as per AML Guidelines \nxiii. Legal heir/succession certificate, wherever applicable \nxiv. Any other relevant document required by Company/TPA for assessment of the claim. \nNote: \n1.  The company shall only accept bills/invoices/medical treatment related documents only in the Insured Person's name for whom \n\n2."
+      },
+      {
+        "score": 0.64857376,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "3.56. Waiting Period means a period from the inception of this Policy during which specified diseases/treatments are not covered. \nOn completion of the period, diseases/treatments shall be covered provided the Policy has been continuously renewed without \nany break.  \n\n4.  COVERAGE \nThe covers listed below are in-built Policy benefits and shall be available to all Insured Persons in accordance with the procedures \nset out in this Policy. \n\n4.1. Hospitalization \nThe Company shall indemnify Medical Expense incurred for Hospitalization of the Insured Person during the Policy Period, up to \nthe Sum Insured and Cumulative Bonus specified in the Policy Schedule, for, \ni.  Room Rent, Boarding, Nursing Expenses all inclusive as provided by the Hospital / Nursing Home up to 2% of the sum insured \n\nii. \n\nsubject to maximum of Rs. 5,000/-per day \nIntensive Care Unit (ICU) / Intensive Cardiac Care Unit (ICCU) expenses up to 5% of the sum insured subject to maximum of \nRs. 10,000/- per day \n\niii.  Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialist Fees whether paid directly to the treating doctor/ surgeon or \n\nto the hospital \n\niv.  Anesthesia,  blood,  oxygen,  operation  theatre  charges,  surgical  appliances,  medicines  and  drugs,  costs  towards  diagnostics, \n\ndiagnostic imaging modalities and such similar other expenses. \n\n4.1.1. Other expenses"
+      },
+      {
+        "score": 0.6443225,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "4.2. AYUSH Treatment \nThe Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, \nUnani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the \npolicy schedule in any AYUSH Hospital. \n\n4.3. Cataract Treatment \nThe Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or INR \n40,000 per eye, whichever is lower, per each eye in one Policy Period. \n\n4.4. Pre Hospitalisation \nThe  Company  shall  indemnify  pre-hospitalization  medical  expenses  incurred,  related  to  an  admissible  hospitalization  requiring \nInpatient Care, for a fixed period of 30 days prior to the date of admissible Hospitalization covered under the Policy. \n\n4.5. Post Hospitalisation \nThe Company shall indemnify post hospitalization medical expenses incurred, related to an admissible hospitalization requiring \ninpatient care, for a fixed period of 60 days from the date of discharge from the hospital, following an admissible hospitalization \ncovered under the Policy. \n\n4.6. Modern Treatment \nThe following procedures will be covered (wherever medically indicated) either as in patient or as part of day care treatment in a  \nhospital subject to the limit of 50% of the Sum Insured for the related modern procedure/ component/ medicine of each Modern  \n\nNational Insurance Co. Ltd. \nRegd. & Head Office: Premises No. 18-0374, \nPlot no. CBD-81, New Town, Kolkata - 700156 \n\nPage 5 of 16"
+      },
+      {
+        "score": 0.64176995,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "4.7. The expenses that are not covered in this policy are placed under List-l of Annexure-A. The list of expenses that are to be \nsubsumed  into  room  charges,  or  procedure  charges  or  costs  of  treatment  are  placed  under  List-II,  List-III  and  List-IV  of \nAnnexure-A respectively. \n\n5.  CUMULATIVE BONUS (CB) \nCumulative Bonus will be increased by 5% in respect of each claim free Policy Period (where no claims are reported and admitted), \nprovided the policy is renewed with the company without a break subject to maximum of 50% of the sum insured under the current \nPolicy Period. \nIf a claim is made in any particular year, the cumulative bonus accrued shall be reduced at the same rate at which it has accrued. \nHowever, sum insured will be maintained and will not be reduced in the Policy Period.  \nNotes: \ni.  In case where the policy is on individual basis, the CB shall be added and available individually to the insured person if no claim \n\nhas been reported. CB shall reduce only in case of claim from the same Insured Person. \n\nii.  In case where the policy is on floater basis, the CB shall be added and available to the family on floater basis, provided no claim \n\nhas been reported from any member of the family. CB shall reduce in case of claim from any of the Insured Persons."
+      },
+      {
+        "score": 0.63608736,
+        "file_name": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+        "content": "iii.  Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialist Fees whether paid directly to the treating doctor/ surgeon or \n\nto the hospital \n\niv.  Anesthesia,  blood,  oxygen,  operation  theatre  charges,  surgical  appliances,  medicines  and  drugs,  costs  towards  diagnostics, \n\ndiagnostic imaging modalities and such similar other expenses. \n\n4.1.1. Other expenses \n\ni.  Expenses incurred on treatment of cataract subject to the sub limits \nii.  Dental treatment, necessitated due to disease or injury  \niii.  Plastic surgery necessitated due to disease or injury  \niv.  All the day care treatments \nv.  Expenses incurred on road Ambulance subject to a maximum of Rs 2,000 per hospitalization."
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 1,
+  "parallel_processing": true
+}
+
+================================================================================

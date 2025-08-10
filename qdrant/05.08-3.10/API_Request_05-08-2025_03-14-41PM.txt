@@ -1,0 +1,96 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:14:41
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:14:41.633824
+TOTAL PROCESSING TIME: 5.794 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D
+Extracted Filename: Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf
+Matched File: Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. When will my root canal claim of Rs 25,000 be settled?
+2. I have done an IVF for Rs 56,000. Is it covered?
+3. I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: When will my root canal claim of Rs 25,000 be settled?
+A1: The claim settlement for your root canal treatment of Rs 25,000 will be processed as follows:
+
+- **Timeline**: The claim will be settled within 15 days if no investigation is required. If an investigation is needed, it may take up to 45 days.
+- **Co-payment**: A 5% co-pay applies, reducing the payable amount to Rs 23,750.
+- **Documents**: Ensure all necessary documents are submitted promptly to avoid delays.
+
+Your claim should be settled within 15 to 45 days, resulting in a payment of Rs 23,750 after co-pay deduction.
+--------------------------------------------------
+Q2: I have done an IVF for Rs 56,000. Is it covered?
+A2: The IVF treatment is not covered under the Arogya Sanjeevani Policy as it is not listed among the covered procedures or treatments. 
+
+Answer: Not covered.
+--------------------------------------------------
+Q3: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?
+A3: The insurance company will not settle the full Rs 100,000 for your cataract treatment. The policy covers up to 25% of the Sum Insured or Rs 40,000 per eye, whichever is lower. Therefore, the maximum settlement would be Rs 40,000 for one eye or Rs 80,000 for both eyes, depending on the number of eyes treated and the applicable Sum Insured. 
+
+Answer: No, the settlement will be limited to Rs 40,000 per eye, up to a maximum of Rs 80,000 for both eyes, based on the policy's terms.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:14:41.633824",
+  "request_start_time": "2025-08-05T15:14:35.839685",
+  "total_processing_time_seconds": 5.79355001449585,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "extracted_filename": "Arogya Sanjeevani Policy - CIN - U10200WB1906GOI001713 1.pdf",
+    "matched_file": "Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "When will my root canal claim of Rs 25,000 be settled?",
+    "I have done an IVF for Rs 56,000. Is it covered?",
+    "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "answer": "The claim settlement for your root canal treatment of Rs 25,000 will be processed as follows:\n\n- **Timeline**: The claim will be settled within 15 days if no investigation is required. If an investigation is needed, it may take up to 45 days.\n- **Co-payment**: A 5% co-pay applies, reducing the payable amount to Rs 23,750.\n- **Documents**: Ensure all necessary documents are submitted promptly to avoid delays.\n\nYour claim should be settled within 15 to 45 days, resulting in a payment of Rs 23,750 after co-pay deduction."
+    },
+    {
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "answer": "The IVF treatment is not covered under the Arogya Sanjeevani Policy as it is not listed among the covered procedures or treatments. \n\nAnswer: Not covered."
+    },
+    {
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "answer": "The insurance company will not settle the full Rs 100,000 for your cataract treatment. The policy covers up to 25% of the Sum Insured or Rs 40,000 per eye, whichever is lower. Therefore, the maximum settlement would be Rs 40,000 for one eye or Rs 80,000 for both eyes, depending on the number of eyes treated and the applicable Sum Insured. \n\nAnswer: No, the settlement will be limited to Rs 40,000 per eye, up to a maximum of Rs 80,000 for both eyes, based on the policy's terms."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

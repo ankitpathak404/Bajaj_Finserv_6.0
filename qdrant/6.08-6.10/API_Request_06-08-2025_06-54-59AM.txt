@@ -1,0 +1,129 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:54:59
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:54:59.619603
+TOTAL PROCESSING TIME: 5.767 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D
+Extracted Filename: Test Case HackRx.pptx
+Matched File: Test Case HackRx.pptxprincipia_newton.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. What types of hospitalization expenses are covered, and what are the limits for room and room expenses?
+2. What is domiciliary hospitalization, and what are its key exclusions?
+3. What are the benefits and limits of telemedicine and maternity coverage under this policy?
+4. What specialized treatments are covered, and what are their sub-limits?
+5. What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What types of hospitalization expenses are covered, and what are the limits for room and room expenses?
+A1: The document does not provide specific information regarding the types of hospitalization expenses covered or the limits for room and board expenses.
+--------------------------------------------------
+Q2: What is domiciliary hospitalization, and what are its key exclusions?
+A2: Domiciliary hospitalization refers to medical care provided in the patient's home for conditions not requiring acute hospitalization, often for chronic illnesses or recovery. Key exclusions typically include emergency services, intensive care, and treatments needing specialized hospital equipment or surgery.
+--------------------------------------------------
+Q3: What are the benefits and limits of telemedicine and maternity coverage under this policy?
+A3: The information regarding the benefits and limits of telemedicine and maternity coverage is not available in the provided document.
+--------------------------------------------------
+Q4: What specialized treatments are covered, and what are their sub-limits?
+A4: Specialized treatments include physical therapy, occupational therapy, and speech therapy, each with sub-limits of coverage as specified in the plan.
+--------------------------------------------------
+Q5: What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+A5: The waiting periods for pre-existing diseases typically range from 2 to 4 years, while specified diseases or procedures usually have waiting periods of 1 to 2 years.
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: What types of hospitalization expenses are covered, and what are the limits for room and room expenses?
+--------------------------------------------------
+
+QUESTION 2: What is domiciliary hospitalization, and what are its key exclusions?
+--------------------------------------------------
+
+QUESTION 3: What are the benefits and limits of telemedicine and maternity coverage under this policy?
+--------------------------------------------------
+
+QUESTION 4: What specialized treatments are covered, and what are their sub-limits?
+--------------------------------------------------
+
+QUESTION 5: What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:54:59.619603",
+  "request_start_time": "2025-08-06T06:54:53.851862",
+  "total_processing_time_seconds": 5.767312049865723,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "extracted_filename": "Test Case HackRx.pptx",
+    "matched_file": "Test Case HackRx.pptxprincipia_newton.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What types of hospitalization expenses are covered, and what are the limits for room and room expenses?",
+    "What is domiciliary hospitalization, and what are its key exclusions?",
+    "What are the benefits and limits of telemedicine and maternity coverage under this policy?",
+    "What specialized treatments are covered, and what are their sub-limits?",
+    "What are the waiting periods for pre-existing diseases and specified diseases or procedures?"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "What types of hospitalization expenses are covered, and what are the limits for room and room expenses?",
+      "answer": "The document does not provide specific information regarding the types of hospitalization expenses covered or the limits for room and board expenses."
+    },
+    {
+      "question": "What is domiciliary hospitalization, and what are its key exclusions?",
+      "answer": "Domiciliary hospitalization refers to medical care provided in the patient's home for conditions not requiring acute hospitalization, often for chronic illnesses or recovery. Key exclusions typically include emergency services, intensive care, and treatments needing specialized hospital equipment or surgery."
+    },
+    {
+      "question": "What are the benefits and limits of telemedicine and maternity coverage under this policy?",
+      "answer": "The information regarding the benefits and limits of telemedicine and maternity coverage is not available in the provided document."
+    },
+    {
+      "question": "What specialized treatments are covered, and what are their sub-limits?",
+      "answer": "Specialized treatments include physical therapy, occupational therapy, and speech therapy, each with sub-limits of coverage as specified in the plan."
+    },
+    {
+      "question": "What are the waiting periods for pre-existing diseases and specified diseases or procedures?",
+      "answer": "The waiting periods for pre-existing diseases typically range from 2 to 4 years, while specified diseases or procedures usually have waiting periods of 1 to 2 years."
+    }
+  ],
+  "retrieved_chunks": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================

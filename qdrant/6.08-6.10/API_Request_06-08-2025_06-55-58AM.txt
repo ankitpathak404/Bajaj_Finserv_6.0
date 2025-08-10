@@ -1,0 +1,209 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:55:58
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:55:58.870513
+TOTAL PROCESSING TIME: 6.937 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/image.jpeg?sv=2023-01-03&spr=https&st=2025-08-04T19%3A29%3A01Z&se=2026-08-05T19%3A29%3A00Z&sr=b&sp=r&sig=YnJJThygjCT6%2FpNtY1aHJEZ%2F%2BqHoEB59TRGPSxJJBwo%3D
+Extracted Filename: image.jpeg
+Matched File: image.jpeg
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. What is 100+22?
+2. What is 9+5?
+3. What is 65007+2?
+4. What is 1+1?
+5. What is 5+500?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is 100+22?
+A1: 
+--------------------------------------------------
+Q2: What is 9+5?
+A2: 
+--------------------------------------------------
+Q3: What is 65007+2?
+A3: The result of 65007 + 2 is 650072.
+--------------------------------------------------
+Q4: What is 1+1?
+A4: 
+--------------------------------------------------
+Q5: What is 5+500?
+A5: 5500
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: What is 100+22?
+--------------------------------------------------
+Chunk 1 (Score: 0.7587):
+File: image.jpeg
+Content: 9+5= 22
+
+100+23=10023
+
+22+100=2200
+
+65007+2=650072
+----------------------------------------
+
+QUESTION 2: What is 9+5?
+--------------------------------------------------
+Chunk 1 (Score: 0.7453):
+File: image.jpeg
+Content: 9+5= 22
+
+100+23=10023
+
+22+100=2200
+
+65007+2=650072
+----------------------------------------
+
+QUESTION 3: What is 65007+2?
+--------------------------------------------------
+Chunk 1 (Score: 0.6612):
+File: image.jpeg
+Content: 9+5= 22
+
+100+23=10023
+
+22+100=2200
+
+65007+2=650072
+----------------------------------------
+
+QUESTION 4: What is 1+1?
+--------------------------------------------------
+Chunk 1 (Score: 0.5978):
+File: image.jpeg
+Content: 9+5= 22
+
+100+23=10023
+
+22+100=2200
+
+65007+2=650072
+----------------------------------------
+
+QUESTION 5: What is 5+500?
+--------------------------------------------------
+Chunk 1 (Score: 0.6289):
+File: image.jpeg
+Content: 9+5= 22
+
+100+23=10023
+
+22+100=2200
+
+65007+2=650072
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:55:58.870513",
+  "request_start_time": "2025-08-06T06:55:51.933101",
+  "total_processing_time_seconds": 6.937013864517212,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.jpeg?sv=2023-01-03&spr=https&st=2025-08-04T19%3A29%3A01Z&se=2026-08-05T19%3A29%3A00Z&sr=b&sp=r&sig=YnJJThygjCT6%2FpNtY1aHJEZ%2F%2BqHoEB59TRGPSxJJBwo%3D",
+    "extracted_filename": "image.jpeg",
+    "matched_file": "image.jpeg",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What is 100+22?",
+    "What is 9+5?",
+    "What is 65007+2?",
+    "What is 1+1?",
+    "What is 5+500?"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "What is 100+22?",
+      "answer": ""
+    },
+    {
+      "question": "What is 9+5?",
+      "answer": ""
+    },
+    {
+      "question": "What is 65007+2?",
+      "answer": "The result of 65007 + 2 is 650072."
+    },
+    {
+      "question": "What is 1+1?",
+      "answer": ""
+    },
+    {
+      "question": "What is 5+500?",
+      "answer": "5500"
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.7586751,
+        "file_name": "image.jpeg",
+        "content": "9+5= 22\n\n100+23=10023\n\n22+100=2200\n\n65007+2=650072"
+      }
+    ],
+    [
+      {
+        "score": 0.74533725,
+        "file_name": "image.jpeg",
+        "content": "9+5= 22\n\n100+23=10023\n\n22+100=2200\n\n65007+2=650072"
+      }
+    ],
+    [
+      {
+        "score": 0.6612195,
+        "file_name": "image.jpeg",
+        "content": "9+5= 22\n\n100+23=10023\n\n22+100=2200\n\n65007+2=650072"
+      }
+    ],
+    [
+      {
+        "score": 0.5978252,
+        "file_name": "image.jpeg",
+        "content": "9+5= 22\n\n100+23=10023\n\n22+100=2200\n\n65007+2=650072"
+      }
+    ],
+    [
+      {
+        "score": 0.62886137,
+        "file_name": "image.jpeg",
+        "content": "9+5= 22\n\n100+23=10023\n\n22+100=2200\n\n65007+2=650072"
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================

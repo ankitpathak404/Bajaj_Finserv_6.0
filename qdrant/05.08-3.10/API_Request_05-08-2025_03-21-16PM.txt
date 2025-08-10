@@ -1,0 +1,68 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:21:16
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:21:16.561911
+TOTAL PROCESSING TIME: 5.697 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://ash-speed.hetzner.com/10GB.bin
+Extracted Filename: 10GB.bin
+Matched File: None
+Match Status: ✗ NOT MATCHED
+
+QUESTIONS RECEIVED (1 total):
+------------------------------
+1. Give me details about this document?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Give me details about this document?
+A1: The document is a 10GB binary file, potentially containing structured or unstructured data such as images, text, or executable code. It may require specific tools for analysis, depending on its format. Handling such a large file might necessitate efficient processing methods to avoid memory issues. Security considerations, such as data sensitivity and encryption, are also relevant. The document's purpose could range from backup to data analysis, and its structure might include metadata like creation date and author. For processing, streaming data or using efficient libraries is recommended.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:21:16.561911",
+  "request_start_time": "2025-08-05T15:21:10.864541",
+  "total_processing_time_seconds": 5.697014331817627,
+  "document_received": {
+    "original_url": "https://ash-speed.hetzner.com/10GB.bin",
+    "extracted_filename": "10GB.bin",
+    "matched_file": null,
+    "file_match_status": "not_matched"
+  },
+  "questions_received": [
+    "Give me details about this document?"
+  ],
+  "total_questions": 1,
+  "responses": [
+    {
+      "question": "Give me details about this document?",
+      "answer": "The document is a 10GB binary file, potentially containing structured or unstructured data such as images, text, or executable code. It may require specific tools for analysis, depending on its format. Handling such a large file might necessitate efficient processing methods to avoid memory issues. Security considerations, such as data sensitivity and encryption, are also relevant. The document's purpose could range from backup to data analysis, and its structure might include metadata like creation date and author. For processing, streaming data or using efficient libraries is recommended."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 1,
+  "parallel_processing": true
+}
+
+================================================================================

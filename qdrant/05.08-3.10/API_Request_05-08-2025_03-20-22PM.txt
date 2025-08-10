@@ -1,0 +1,88 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:20:22
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:20:22.803553
+TOTAL PROCESSING TIME: 4.188 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Pincode%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A50%3A43Z&se=2026-08-05T18%3A50%3A00Z&sr=b&sp=r&sig=xf95kP3RtMtkirtUMFZn%2FFNai6sWHarZsTcvx8ka9mI%3D
+Extracted Filename: Pincode data.xlsx
+Matched File: principia_newton.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. What is the phone number of Aditya Roy?
+2. What is the pincode of Anjali Shah?
+3. What is the highest salary earned by a person named Aarav Sharma?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is the phone number of Aditya Roy?
+A1: The document does not contain any information about Aditya Roy or his phone number. It appears to be a collection of numerical data, possibly related to astronomical observations or similar fields, without any personal contact details.
+
+The phone number of Aditya Roy is not available in the provided document.
+--------------------------------------------------
+Q2: What is the pincode of Anjali Shah?
+A2: The pincode of Anjali Shah is not available in the provided document.
+--------------------------------------------------
+Q3: What is the highest salary earned by a person named Aarav Sharma?
+A3: The document does not provide information about the highest salary earned by Aarav Sharma.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:20:22.803553",
+  "request_start_time": "2025-08-05T15:20:18.614708",
+  "total_processing_time_seconds": 4.188461542129517,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Pincode%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A50%3A43Z&se=2026-08-05T18%3A50%3A00Z&sr=b&sp=r&sig=xf95kP3RtMtkirtUMFZn%2FFNai6sWHarZsTcvx8ka9mI%3D",
+    "extracted_filename": "Pincode data.xlsx",
+    "matched_file": "principia_newton.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What is the phone number of Aditya Roy?",
+    "What is the pincode of Anjali Shah?",
+    "What is the highest salary earned by a person named Aarav Sharma?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "What is the phone number of Aditya Roy?",
+      "answer": "The document does not contain any information about Aditya Roy or his phone number. It appears to be a collection of numerical data, possibly related to astronomical observations or similar fields, without any personal contact details.\n\nThe phone number of Aditya Roy is not available in the provided document."
+    },
+    {
+      "question": "What is the pincode of Anjali Shah?",
+      "answer": "The pincode of Anjali Shah is not available in the provided document."
+    },
+    {
+      "question": "What is the highest salary earned by a person named Aarav Sharma?",
+      "answer": "The document does not provide information about the highest salary earned by Aarav Sharma."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

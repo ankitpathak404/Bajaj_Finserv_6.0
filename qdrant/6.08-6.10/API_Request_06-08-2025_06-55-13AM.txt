@@ -1,0 +1,1746 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:55:13
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:55:13.125504
+TOTAL PROCESSING TIME: 5.343 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Mediclaim%20Insurance%20Policy.docx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A42%3A14Z&se=2026-08-05T18%3A42%3A00Z&sr=b&sp=r&sig=yvnP%2FlYfyyqYmNJ1DX51zNVdUq1zH9aNw4LfPFVe67o%3D
+Extracted Filename: Mediclaim Insurance Policy.docx
+Matched File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?
+2. What is domiciliary hospitalization, and what are its key exclusions?
+3. What are the benefits and limits of Ambulance Services?
+4. What are the benefits and limits of telemedicine and maternity coverage under this policy?
+5. What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?
+A1: The policy covers hospitalization expenses including room rent, ICU/ICCU charges, medical practitioner fees, operation theatre costs, and medical supplies. Room rent limits are 1% of the sum insured (below Rs. 5 Lacs) or 1% of sum insured/standard AC room charges (Rs. 5 Lacs and above). ICU charges are 2% of sum insured per day (below Rs. 5 Lacs) or actuals (Rs. 5 Lacs and above).
+--------------------------------------------------
+Q2: What is domiciliary hospitalization, and what are its key exclusions?
+A2: The document does not define "domiciliary hospitalization" or list its exclusions.
+--------------------------------------------------
+Q3: What are the benefits and limits of Ambulance Services?
+A3: The benefits and limits for Ambulance Services are up to 0.5% of the Sum Insured (max Rs. 2500 per event) and 1% of the Sum Insured (max Rs. 5000 per policy period).
+--------------------------------------------------
+Q4: What are the benefits and limits of telemedicine and maternity coverage under this policy?
+A4: The policy does not provide coverage for telemedicine. For maternity coverage, the benefits are limited to 10% of the Sum Insured, with a maximum of Rs. 40,000 for normal delivery and Rs. 60,000 for caesarean section. Coverage for newborns beyond 90 days requires additional premium, and certain exclusions apply such as surrogate pregnancy and voluntary termination of pregnancy.
+--------------------------------------------------
+Q5: What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+A5: The waiting period for pre-existing diseases is 48 months (4 years). For specified diseases or procedures, the waiting period is 24 months (2 years) for those listed in Table A and 48 months (4 years) for those listed in Table B.
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?
+--------------------------------------------------
+Chunk 1 (Score: 0.7545):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Sum Insured 
+< Rs. 5 Lacs 
+Rs. 5 Lacs and Above  
+
+Limit (Rs.) per day 
+1% of Sum Insured  
+1%  of  Sum  Insured  or  Single  Occupancy  Standard  Air-
+Conditioned Room Charges whichever is higher 
+
+These  expenses will  include  nursing care,  RMO  charges,  patient’s  diet  charges,  IV  Fluids/Blood 
+transfusion/injection administration charges and similar expenses. 
+
+B.  Charges for accommodation in Intensive Care Unit (ICU)/ Intensive Cardiac Care Unit (ICCU) upto 
+
+the limits provided below: 
+Sum Insured 
+< Rs. 5 Lacs 
+Rs. 5 Lacs and Above 
+
+Limit (Rs.) per day 
+2% of Sum Insured  
+Actuals 
+
+C.  The fees charged by the Medical Practitioner, Surgeon, Specialists and anaesthetists treating the 
+
+Insured Person; 
+
+D.  Operation theatre charges,  
+E.  Anaesthesia, Blood, Oxygen, Surgical Appliances and/ or Medical Appliances, medicines and drugs, 
+Cost  of  Artificial  Limbs,  cost  of  prosthetic  devices  implanted  during  surgical  procedure  like 
+pacemaker,  orthopaedic  implants,  infra  cardiac  valve  replacements,  vascular  stents,  relevant 
+laboratory/ diagnostic tests, X-Ray, dialysis, chemotherapy, radiotherapy and such other similar 
+medical expenses related to the treatment. 
+
+1.1 Note:
+----------------------------------------
+Chunk 2 (Score: 0.7318):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 1.1 Note: 
+
+a.  PROPORTIONATE  PAYMENT  CLAUSE:  In  case  of  admission  to  a  room  at  rates  exceeding  the 
+aforesaid limits in Clause V.1.A, the reimbursement/payment of all associated medical expenses 
+incurred at the Hospital shall be effected in the same proportion as the admissible rate per day 
+bears to the actual rate per day of Room Rent. 
+Proportionate  Deductions  shall  not  be  applied  in  respect  of  those  hospitals  where  differential 
+billing is not followed or for those expenses where differential billing is not adopted based on the 
+room category. 
+
+b.  No payment shall be made under 1.C other than as part of the hospitalisation bill. However, the 
+bills raised by Surgeon, Anaesthetist directly and not forming part of the hospital bill shall be paid 
+provided a pre-numbered bill/receipt is produced in support thereof, when such payment is made 
+ONLY by cheque/ credit card/debit card or digital/online transfer. 
+
+1.2 Sub-limit: 
+
+a.  Cataract Surgery Limit: Expenses in respect of the Cataract surgeries will be restricted to 10% of 
+Sum Insured subject to maximum of Rs. 50,000/- per eye. This limit is applicable per hospitalisation 
+/ surgery. 
+
+b.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient 
+Hospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. 
+3,00,000 per policy year;
+----------------------------------------
+Chunk 3 (Score: 0.7183):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+30 days prior to hospitalisation; and  
+
+b.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+60 days after the discharge from the hospital,  
+Subject to a maximum of 10% of Sum Insured, provided that:  
+
+i.  We have accepted a claim for primary In-patient Hospitalization under Section V.1 or V.2 above; 
+ii. 
+The Pre-hospitalisation and Post-hospitalisation Medical Expenses are related to the same Illness 
+or Injury. 
+The  date  of  admission  to  the  Hospital  for  the  purpose  of  this  Benefit  shall  be  the  date  of  the 
+Insured Person’s first admission to the Hospital in relation to the same Any One Illness.  
+
+iii. 
+
+4. Ayurvedic/Homeopathic/Unani treatment –  
+We will pay the reasonable & customary Charges incurred as in-patient for an Insured Person in case of 
+Medically  Necessary  Treatment  taken  during  Hospitalisation  subject  to  the  limits  linked  to  the  Sum 
+Insured, as mentioned in the table below; 
+Sum Insured (Rs.) 
+Upto 3,00,000 
+>3,00,000 to 15,00,000 
+>15,00,000 
+
+Limit per Policy Period (Rs.)- Upto 
+10,000 
+15,000 
+25000 
+
+Subject to the condition that the hospitalisation expenses are admissible only when the  treatment has 
+been undergone in an AYUSH HOSPITAL as defined hereunder:
+----------------------------------------
+Chunk 4 (Score: 0.7155):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 19. INTENSIVE CARE  UNIT  means  an  identified section, ward  or  wing of  a  hospital  which  is  under  the 
+constant supervision of a dedicated Medical Practitioner(s), and which is specially equipped for the 
+continuous monitoring and treatment of patients who are in a critical condition, or require life support 
+facilities and where the level of care and supervision is considerably more sophisticated and intensive 
+than in the ordinary and other wards. 
+
+20. INTENSIVE CARE UNIT (ICU) CHARGES means the amount charged by a Hospital towards ICU expenses 
+which shall include the expenses for ICU bed, general medical support services provided to any ICU 
+patient including monitoring devices, critical care nursing and intensivist charges. 
+
+21. MATERNITY EXPENSES means; 
+
+a.  medical  treatment  expenses  traceable  to  childbirth  (including  complicated  deliveries  and 
+
+caesarean sections incurred during hospitalization); 
+
+b.  expenses towards lawful medical termination of pregnancy during the policy period. 
+
+22. MEDICAL ADVICE means any consultation or advice from a Medical Practitioner including the issue of 
+
+any prescription or repeat prescription. 
+
+23. MEDICAL  EXPENSES  means  those  expenses  that  an  Insured  Person  has  necessarily  and  actually 
+incurred  for  medical  treatment  on  account  of  illness  or  Accident  on  the  advice  of  a  Medical 
+Practitioner, as long as these are no more than would have been payable if the Insured Person had 
+not been insured and no more than other hospitals or doctors in the same locality would have charged 
+for the same medical treatment. 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+3
+----------------------------------------
+Chunk 5 (Score: 0.6923):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: b.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient 
+Hospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. 
+3,00,000 per policy year;  
+
+1.  Schizophrenia (ICD - F20; F21; F25)  
+2.  Bipolar Affective Disorders (ICD - F31; F34)  
+3.  Depression (ICD - F32; F33)  
+4.  Obsessive Compulsive Disorders (ICD - F42; F60.5)  
+5.  Psychosis (ICD - F 22; F23; F28; F29)  
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+2. Day Care Treatment Cover- 
+We will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy 
+Period following an Illness or Injury that occurs during the Policy Period provided that:   
+
+i. 
+
+ii. 
+
+iii.
+----------------------------------------
+Chunk 6 (Score: 0.6905):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 11.1 
+
+Special conditions applicable to Maternity Expenses and New Born Baby Cover 
+i. 
+
+These benefits are admissible only if the expenses are incurred in Hospital/Nursing Home as 
+in-patients in India. 
+Surrogate or vicarious pregnancy is not covered. 
+Expenses incurred in connection with voluntary medical termination of pregnancy during the 
+first twelve weeks from the date of conception are not covered. 
+Pre-natal and post-natal expenses are not covered unless admitted in Hospital/Nursing Home 
+and treatment is taken there. 
+Pre  Hospitalisation  and  Post-Hospitalisation  benefits  are  not  available  under  these  two 
+clauses. 
+Subject to the terms & conditions, the Policy covers New Born Baby beyond 90 days only on 
+payment of requisite premium. 
+
+ii. 
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+If this Option is in force in respect of the Insured Person, then the relevant part of Exclusion VI.B.14 will 
+be deemed inoperative for the purpose of this Option. 
+
+12. Daily Cash Allowance on Hospitalisation 
+We will pay Daily Cash Allowance to the Insured Person for every continuous and completed period of 24 
+hours of Hospitalisation, subject to the hospitalisation claim being admissible under the policy, as per the 
+table below: 
+
+Sum Insured 
+Upto Rs. 5 Lacs 
+Above  Rs.  5  Lacs  and  upto 
+Rs. 15 Lacs 
+Above  Rs. 15  Lacs  and  upto 
+Rs. 25 Lacs 
+
+Limit (Rs.) per day 
+Rs. 500 per day subject to a maximum of Rs. 5000 per policy period 
+Rs. 1000 per day subject to a maximum of Rs. 10000 per policy period
+----------------------------------------
+Chunk 7 (Score: 0.6892):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Hospitalisation was required; and 
+
+b.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. 
+
+34. POST-HOSPITALISATION MEDICAL EXPENSES 
+
+Relevant medical expenses incurred immediately 60 days after the Insured Person is discharged from 
+the hospital provided that; 
+a.  Such  Medical  expenses  are  incurred  for  the  same  condition  for  which  the  Insured  Person’s 
+
+Hospitalisation was required; and 
+
+b.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+4 
+
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+35. QUALIFIED NURSE means a person who holds a valid registration from the Nursing Council of India or 
+
+the Nursing Council of any State in India. 
+
+36. REASONABLE AND CUSTOMARY CHARGES mean the charges for services or supplies, which are the 
+standard  charges  for  the  specific  provider  and  consistent  with  the  prevailing  charges  in  the 
+geographical  area  for  identical  or  similar  services,  taking  into  account  the  nature  of  illness/injury 
+involved. 
+
+37. RENEWAL defines the terms on which the contract of insurance can be renewed on mutual consent 
+with a provision of grace period for treating the renewal continuous for the purpose of all waiting 
+periods. 
+
+38. ROOM RENT shall mean the amount charged by a hospital for the Occupancy of a bed on per day (24
+----------------------------------------
+
+QUESTION 2: What is domiciliary hospitalization, and what are its key exclusions?
+--------------------------------------------------
+Chunk 1 (Score: 0.6612):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Hospitalisation was required; and 
+
+b.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. 
+
+34. POST-HOSPITALISATION MEDICAL EXPENSES 
+
+Relevant medical expenses incurred immediately 60 days after the Insured Person is discharged from 
+the hospital provided that; 
+a.  Such  Medical  expenses  are  incurred  for  the  same  condition  for  which  the  Insured  Person’s 
+
+Hospitalisation was required; and 
+
+b.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+4 
+
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+35. QUALIFIED NURSE means a person who holds a valid registration from the Nursing Council of India or 
+
+the Nursing Council of any State in India. 
+
+36. REASONABLE AND CUSTOMARY CHARGES mean the charges for services or supplies, which are the 
+standard  charges  for  the  specific  provider  and  consistent  with  the  prevailing  charges  in  the 
+geographical  area  for  identical  or  similar  services,  taking  into  account  the  nature  of  illness/injury 
+involved. 
+
+37. RENEWAL defines the terms on which the contract of insurance can be renewed on mutual consent 
+with a provision of grace period for treating the renewal continuous for the purpose of all waiting 
+periods. 
+
+38. ROOM RENT shall mean the amount charged by a hospital for the Occupancy of a bed on per day (24
+----------------------------------------
+Chunk 2 (Score: 0.6452):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: excluded. 
+
+b.  Any  diagnostic  expenses  which  are  not  related  or  not  incidental  to  the  current  diagnosis  and 
+
+treatment are excluded. 
+
+2.  Rest Cure, rehabilitation and respite care (Code- Excl05): Expenses related to any admission primarily 
+
+for enforced bed rest and not for receiving treatment. This also includes: 
+
+a.  Custodial  care  either  at  home  or  in  a  nursing  facility  for  personal  care  such  as  help  with 
+activities of daily living such as bathing, dressing, moving around either by skilled nurses or 
+assistant or non-skilled persons.  
+
+b.  Any  services  for  people  who  are  terminally  ill  to  address  physical,  social,  emotional  and 
+
+spiritual needs. 
+
+3.  Obesity/ Weight Control (Code- Excl06): Expenses related to the surgical treatment of obesity that 
+
+does not fulfil all the below conditions: 
+
+A.  Surgery to be conducted is upon the advice of the Doctor 
+B.  The surgery/procedure conducted should be supported by clinical protocols 
+C.  The member has to be 18 years of age or older and 
+D.  Body Mass Index (BMI);  
+
+a.  greater than or equal to 40 or 
+b.  greater than or equal to 35 in conjunction with any of the following severe co-morbidities 
+
+following failure of less invasive methods of weight loss: 
+i. 
+ii. 
+iii. 
+iv. 
+
+Obesity-related cardiomyopathy 
+Coronary heart disease  
+Severe Sleep Apnoea 
+Uncontrolled Type2 Diabetes 
+
+4.  Change-of-Gender treatments (Code- Excl07): Expenses related to any treatment, including surgical
+----------------------------------------
+Chunk 3 (Score: 0.6433):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: -  Has qualified nursing staff under its employment round the clock. 
+-  Has at least 10 in-patient beds in towns having a population of less than 10 lacs and at least 15 
+
+in-patient beds in all other places; 
+
+-  Has qualified Medical Practitioner(s) in charge round the clock; 
+-  Has a fully equipped Operation Theatre of its own where surgical procedures are carried out; 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+2 
+
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+-  Maintains  daily  records  of  patients  and  makes  these  accessible  to  the  insurance  company’s 
+
+authorized personnel. 
+
+The term ' Hospital / Nursing Home ' shall not include an establishment which is a place of rest, a place 
+for the aged, a place for drug-addicts or place for alcoholics, a hotel or a similar place. 
+For Ayurvedic treatment, hospitalisation expenses are admissible only when the treatment has been 
+undergone in a hospital as defined in clause V.4 below.  
+
+15. HOSPITALISATION  Means  admission  in  a  Hospital/Nursing  Home  for  a  minimum  period  of  24  In-
+patient care consecutive hours except for the standard day care procedures/treatments as defined 
+above, where such admission could be for a period of less than 24 consecutive hours. 
+Note:  Procedures/treatments usually done in outpatient department are not payable under the policy 
+even if admitted/converted as an in-patient in the hospital for more than 24 hours.
+----------------------------------------
+Chunk 4 (Score: 0.6381):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: examinations, fillings (where appropriate), crowns, extractions and surgery. 
+
+11. DISCLOSURE TO INFORMATION NORM The policy shall be void and all premium paid thereon shall be 
+forfeited to the Company in the event of misrepresentation, mis-description or non-disclosure of any 
+material fact 
+
+12. EMERGENCY  CARE  Emergency  care  means  management  for  an  illness  or  injury  which  results  in 
+symptoms  which  occur  suddenly  and  unexpectedly,  and  requires  immediate  care  by  a  medical 
+practitioner to prevent death or serious long term impairment of the Insured person’s health 
+
+13. GRACE  PERIOD  means  the  specified  period  of  time  immediately  following  the  premium  due  date 
+during which a payment can be made to renew or continue a policy in force without loss of continuity 
+benefits such as waiting periods and coverage of pre-existing diseases.  Coverage is not available for 
+the period for which no premium is received. 
+
+14. HOSPITAL/NURSING  HOME  means  any  institution  established  for  in-patient  care  and  day  care 
+treatment  of  illness  and/or  injuries  and  which  has  been  registered  as  a  Hospital  with  the  local 
+authorities  under  the  Clinical  establishments  (Registration  and  Regulation)  Act,  2010  or  under  the 
+enactments  specified  under  the  Schedule  of  Section  56(1)  of  the  said  Act  OR  complies  with  all 
+minimum criteria as under
+----------------------------------------
+Chunk 5 (Score: 0.6258):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 5.  All Neurodegenerative disorders 
+
+3. First Thirty Days Waiting Period (Code- Excl03): 
+
+a.  Expenses  related  to  the  treatment  of  any  illness  within  30  days  from  the  first  policy 
+
+commencement date shall be excluded except claims arising due to an accident. 
+
+b.  This exclusion shall not, however, apply if the Insured Person has Continuous Coverage for more 
+
+than twelve months. 
+
+c.  The within referred waiting period is made applicable to the enhanced sum insured in the event 
+
+of granting higher sum insured subsequently.   
+
+The exclusions under VI.A.1-3 are subject to Portability Regulations. 
+
+B. STANDARD PERMANENT EXCLUSIONS 
+
+The  Company  shall  not  be  liable  to  make  any  payment  under  the  policy,  in  respect  of  any  expenses 
+incurred in connection with or in respect of: 
+1. 
+
+Investigation & Evaluation (Code- Excl04): 
+a.  Expenses  related  to  any  admission  primarily  for  diagnostics  and  evaluation  purposes  only  are 
+
+excluded. 
+
+b.  Any  diagnostic  expenses  which  are  not  related  or  not  incidental  to  the  current  diagnosis  and 
+
+treatment are excluded. 
+
+2.  Rest Cure, rehabilitation and respite care (Code- Excl05): Expenses related to any admission primarily 
+
+for enforced bed rest and not for receiving treatment. This also includes:
+----------------------------------------
+Chunk 6 (Score: 0.6257):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+30 days prior to hospitalisation; and  
+
+b.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+60 days after the discharge from the hospital,  
+Subject to a maximum of 10% of Sum Insured, provided that:  
+
+i.  We have accepted a claim for primary In-patient Hospitalization under Section V.1 or V.2 above; 
+ii. 
+The Pre-hospitalisation and Post-hospitalisation Medical Expenses are related to the same Illness 
+or Injury. 
+The  date  of  admission  to  the  Hospital  for  the  purpose  of  this  Benefit  shall  be  the  date  of  the 
+Insured Person’s first admission to the Hospital in relation to the same Any One Illness.  
+
+iii. 
+
+4. Ayurvedic/Homeopathic/Unani treatment –  
+We will pay the reasonable & customary Charges incurred as in-patient for an Insured Person in case of 
+Medically  Necessary  Treatment  taken  during  Hospitalisation  subject  to  the  limits  linked  to  the  Sum 
+Insured, as mentioned in the table below; 
+Sum Insured (Rs.) 
+Upto 3,00,000 
+>3,00,000 to 15,00,000 
+>15,00,000 
+
+Limit per Policy Period (Rs.)- Upto 
+10,000 
+15,000 
+25000 
+
+Subject to the condition that the hospitalisation expenses are admissible only when the  treatment has 
+been undergone in an AYUSH HOSPITAL as defined hereunder:
+----------------------------------------
+Chunk 7 (Score: 0.6220):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 1.1 Note: 
+
+a.  PROPORTIONATE  PAYMENT  CLAUSE:  In  case  of  admission  to  a  room  at  rates  exceeding  the 
+aforesaid limits in Clause V.1.A, the reimbursement/payment of all associated medical expenses 
+incurred at the Hospital shall be effected in the same proportion as the admissible rate per day 
+bears to the actual rate per day of Room Rent. 
+Proportionate  Deductions  shall  not  be  applied  in  respect  of  those  hospitals  where  differential 
+billing is not followed or for those expenses where differential billing is not adopted based on the 
+room category. 
+
+b.  No payment shall be made under 1.C other than as part of the hospitalisation bill. However, the 
+bills raised by Surgeon, Anaesthetist directly and not forming part of the hospital bill shall be paid 
+provided a pre-numbered bill/receipt is produced in support thereof, when such payment is made 
+ONLY by cheque/ credit card/debit card or digital/online transfer. 
+
+1.2 Sub-limit: 
+
+a.  Cataract Surgery Limit: Expenses in respect of the Cataract surgeries will be restricted to 10% of 
+Sum Insured subject to maximum of Rs. 50,000/- per eye. This limit is applicable per hospitalisation 
+/ surgery. 
+
+b.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient 
+Hospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. 
+3,00,000 per policy year;
+----------------------------------------
+
+QUESTION 3: What are the benefits and limits of Ambulance Services?
+--------------------------------------------------
+Chunk 1 (Score: 0.6391):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 6. Organ Donor Benefit- When Insured Person is the Donor 
+A lump sum payment of 10% of Sum Insured, to take care of medical and other incidental expenses is 
+payable  to  the  Insured  Person  donating  an  organ  provided  that  the  donation  conforms  to  the 
+Transplantation of Human Organs Act 1994 (amended) and any other extant Act, Central / State Rules / 
+regulations, as applicable, in respect of transplantation of human organs. 
+This benefit is subject to the Policy (Family Medicare Policy) having been continuously in force for at least 
+12 (twelve) months in respect of that Insured Person. 
+
+7.  Road Ambulance Cover 
+We will cover the costs incurred up to: 
+
+i. 
+ii. 
+
+0.5% of the Sum Insured subject to a maximum of Rs. 2500 per event and  
+1% of the Sum Insured subject to a maximum of Rs. 5000 per policy period  
+
+on transportation of the Insured Person by road Ambulance to a Hospital for treatment in an Emergency 
+following an Illness or Injury which occurs during the Policy Period. The necessity of use of an Ambulance 
+must be certified by the treating Medical Practitioner and becomes payable if a claim has been admitted 
+under Section V.1 or V.2 and the expenses are related to the same Illness or Injury. 
+We will also cover the costs incurred on transportation of the Insured Person by road Ambulance in the 
+following circumstances up to the limits specified above under this cover, if:     
+
+a. 
+
+b.
+----------------------------------------
+Chunk 2 (Score: 0.5756):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: examinations, fillings (where appropriate), crowns, extractions and surgery. 
+
+11. DISCLOSURE TO INFORMATION NORM The policy shall be void and all premium paid thereon shall be 
+forfeited to the Company in the event of misrepresentation, mis-description or non-disclosure of any 
+material fact 
+
+12. EMERGENCY  CARE  Emergency  care  means  management  for  an  illness  or  injury  which  results  in 
+symptoms  which  occur  suddenly  and  unexpectedly,  and  requires  immediate  care  by  a  medical 
+practitioner to prevent death or serious long term impairment of the Insured person’s health 
+
+13. GRACE  PERIOD  means  the  specified  period  of  time  immediately  following  the  premium  due  date 
+during which a payment can be made to renew or continue a policy in force without loss of continuity 
+benefits such as waiting periods and coverage of pre-existing diseases.  Coverage is not available for 
+the period for which no premium is received. 
+
+14. HOSPITAL/NURSING  HOME  means  any  institution  established  for  in-patient  care  and  day  care 
+treatment  of  illness  and/or  injuries  and  which  has  been  registered  as  a  Hospital  with  the  local 
+authorities  under  the  Clinical  establishments  (Registration  and  Regulation)  Act,  2010  or  under  the 
+enactments  specified  under  the  Schedule  of  Section  56(1)  of  the  said  Act  OR  complies  with  all 
+minimum criteria as under
+----------------------------------------
+Chunk 3 (Score: 0.5652):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+30 days prior to hospitalisation; and  
+
+b.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+60 days after the discharge from the hospital,  
+Subject to a maximum of 10% of Sum Insured, provided that:  
+
+i.  We have accepted a claim for primary In-patient Hospitalization under Section V.1 or V.2 above; 
+ii. 
+The Pre-hospitalisation and Post-hospitalisation Medical Expenses are related to the same Illness 
+or Injury. 
+The  date  of  admission  to  the  Hospital  for  the  purpose  of  this  Benefit  shall  be  the  date  of  the 
+Insured Person’s first admission to the Hospital in relation to the same Any One Illness.  
+
+iii. 
+
+4. Ayurvedic/Homeopathic/Unani treatment –  
+We will pay the reasonable & customary Charges incurred as in-patient for an Insured Person in case of 
+Medically  Necessary  Treatment  taken  during  Hospitalisation  subject  to  the  limits  linked  to  the  Sum 
+Insured, as mentioned in the table below; 
+Sum Insured (Rs.) 
+Upto 3,00,000 
+>3,00,000 to 15,00,000 
+>15,00,000 
+
+Limit per Policy Period (Rs.)- Upto 
+10,000 
+15,000 
+25000 
+
+Subject to the condition that the hospitalisation expenses are admissible only when the  treatment has 
+been undergone in an AYUSH HOSPITAL as defined hereunder:
+----------------------------------------
+Chunk 4 (Score: 0.5622):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Sum Insured 
+< Rs. 5 Lacs 
+Rs. 5 Lacs and Above  
+
+Limit (Rs.) per day 
+1% of Sum Insured  
+1%  of  Sum  Insured  or  Single  Occupancy  Standard  Air-
+Conditioned Room Charges whichever is higher 
+
+These  expenses will  include  nursing care,  RMO  charges,  patient’s  diet  charges,  IV  Fluids/Blood 
+transfusion/injection administration charges and similar expenses. 
+
+B.  Charges for accommodation in Intensive Care Unit (ICU)/ Intensive Cardiac Care Unit (ICCU) upto 
+
+the limits provided below: 
+Sum Insured 
+< Rs. 5 Lacs 
+Rs. 5 Lacs and Above 
+
+Limit (Rs.) per day 
+2% of Sum Insured  
+Actuals 
+
+C.  The fees charged by the Medical Practitioner, Surgeon, Specialists and anaesthetists treating the 
+
+Insured Person; 
+
+D.  Operation theatre charges,  
+E.  Anaesthesia, Blood, Oxygen, Surgical Appliances and/ or Medical Appliances, medicines and drugs, 
+Cost  of  Artificial  Limbs,  cost  of  prosthetic  devices  implanted  during  surgical  procedure  like 
+pacemaker,  orthopaedic  implants,  infra  cardiac  valve  replacements,  vascular  stents,  relevant 
+laboratory/ diagnostic tests, X-Ray, dialysis, chemotherapy, radiotherapy and such other similar 
+medical expenses related to the treatment. 
+
+1.1 Note:
+----------------------------------------
+Chunk 5 (Score: 0.5516):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: e.  Time Limits for Submission of Documents: 
+
+Type of claim  
+
+Reimbursement  of  hospitalisation  and  pre 
+hospitalisation expenses (limited to 30 days) 
+Reimbursement 
+post-hospitalisation 
+expenses (limited to 60 days) 
+Reimbursement of Cost of Health Check-up 
+
+of 
+
+Time limit for submission of documents 
+to company/TPA  
+Within  15  (fifteen)  days  of  date  of 
+discharge from hospital  
+Within 15 (fifteen) days from completion 
+of post-hospitalisation treatment  
+Within  15  (fifteen)  days  from  Health 
+Check-up 
+
+Note:  
+
+i.  Waiver  of  this  Condition  may  be  considered  in  extreme  cases  of  hardship  where  it  is 
+proved  to  the  satisfaction  of  the  Company  that  under  the  circumstances  in  which  the 
+Insured was placed it was not possible for him or any other person to give such notice or 
+file claim within the prescribed time-limit. 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v.
+----------------------------------------
+Chunk 6 (Score: 0.5463):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Payable in post-hospitalisation 
+
+Payable -Sugar free variants of admissible medicines are not 
+excluded 
+
+CREAMS POWDERS LOTIONS (Toiletries are 
+not payable, only prescribed medical 
+pharmaceuticals payable) 
+
+Payable when prescribed 
+
+ECG ELECTRODES 
+
+GLOVES 
+NEBULISATION KIT 
+ANY KIT WITH NO DETAILS MENTIONED 
+[DELIVERY KIT, ORTHOKIT, RECOVERY KIT, 
+ETC] 
+KIDNEY TRAY 
+MASK 
+OUNCE GLASS 
+OXYGEN MASK 
+PELVIC TRACTION BELT 
+PAN CAN 
+TROLLEY COVER 
+UROMETER, URINE JUG 
+AMBULANCE 
+VASOFIX SAFETY 
+
+Up to 5 electrodes are required for every case visiting OT or ICU. 
+For longer stay in ICU, may require a change and at least one set 
+every second day is payable. 
+Sterilized Gloves payable / unsterilized gloves not payable 
+Payable reasonably if used during hospitalisation 
+
+Not Payable 
+
+Not Payable 
+Not Payable 
+Not Payable 
+Not Payable 
+Payable in case of PIVD requiring traction 
+Not Payable 
+Not Payable 
+Not Payable 
+Payable 
+Payable - maximum of 3 in 48 hours and then 1 in 24 hours 
+
+List II – Items that are to be subsumed into Room Charges 
+
+Sr. No 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11
+----------------------------------------
+Chunk 7 (Score: 0.5439):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 2. Day Care Treatment Cover- 
+We will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy 
+Period following an Illness or Injury that occurs during the Policy Period provided that:   
+
+i. 
+
+ii. 
+
+iii. 
+
+The Medical Expenses are incurred in case of Day Care Treatment or Surgery undertaken for the 
+Illness/ condition covered under Base Cover that requires less than 24 hours Hospitalisation due 
+to advancement in technology, including for any procedure which requires a period of specialized 
+observation or care after completion of the procedure undertaken by an Insured Person as Day 
+Care Treatment. All Day Care Treatments as defined in the Section IV.A.8 of the policy above are 
+covered.  
+The Day Care Treatment is for Medically Necessary Treatment and follows the written Medical 
+Advice; 
+Procedures/treatments usually done on out-patient basis are not payable under the policy even if 
+converted  as  an  in-patient  in  the  hospital  for  more  than  24  hours  or  carried  out  in  Day  Care 
+Centres. Diagnostic Services are also not covered under this benefit. 
+
+3. Pre-Hospitalisation and Post-Hospitalisation Expenses –  
+We will cover, on a reimbursement basis, the Insured Person’s 
+
+a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+30 days prior to hospitalisation; and  
+
+b.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+60 days after the discharge from the hospital,  
+Subject to a maximum of 10% of Sum Insured, provided that:
+----------------------------------------
+
+QUESTION 4: What are the benefits and limits of telemedicine and maternity coverage under this policy?
+--------------------------------------------------
+Chunk 1 (Score: 0.6551):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Family Medicare Policy with this optional cover has been continuously in force for a period of 
+minimum 24 months. 
+Those Insured Persons who are already having two or more living children will not be eligible 
+for this benefit 
+Company’s maximum liability per delivery or termination shall be limited to 10% of the Sum 
+Insured as stated in the Schedule subject to a maximum of Rs. 40000 in case of normal delivery 
+and Rs. 60000 in case of caesarean section and in no case shall the Company’s liability under 
+this clause exceed 10% of the Sum Insured, in any one Policy Period. 
+
+ii. 
+
+iii. 
+
+b.  New Born Baby Cover: New born Baby shall be covered from day one upto the age of 90 days and 
+expenses incurred for treatment taken in Hospital as in-patient shall only be payable, provided 
+that: 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+i. 
+ii. 
+iii. 
+
+Claim under Maternity clause is admissible under the Policy 
+Company’s liability shall be limited to 10% of the Sum Insured as stated in the Schedule. 
+In  case  the  90-days  period  for  the  New  Born  Baby  is  spread  over  two  Policy  Periods,  the 
+aggregate liability of the Company, for all claims in respect of the New Born Baby, shall be 
+limited to 10% of the Sum Insured of the Policy under which Maternity claim was admitted. 
+
+11.1
+----------------------------------------
+Chunk 2 (Score: 0.6397):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: H 
+
+Stereotactic Radio Surgeries 
+
+I 
+
+Bronchial Thermoplasty 
+
+J 
+
+K 
+
+Vaporisation of the Prostate (Green laser 
+treatment or holmium laser treatment) 
+Intra Operative Neuro Monitoring (IONM) 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+Additional Limit 
+
+Upto 20% of Sum Insured subject to a maximum of Rs. 2 
+Lacs per policy period for claims involving Uterine Artery 
+Embolization & HIFU 
+Upto 10% of Sum Insured subject to a maximum of Rs. 1 
+Lac per policy period for claims involving Balloon 
+Sinuplasty 
+Upto 70% of Sum Insured per policy period for claims 
+involving Deep Brain Stimulation 
+Upto 20% of Sum Insured subject to a maximum of Rs. 2 
+Lacs per policy period for claims involving Oral 
+Chemotherapy 
+Upto 20% of Sum Insured subject to a maximum of Rs. 2 
+Lacs per policy period 
+Upto 10% of Sum Insured subject to a maximum of Rs. 1 
+Lac per policy period 
+•  Upto 75% of Sum Insured per policy period for claims 
+
+involving Robotic Surgeries for (i) the treatment of any 
+disease involving Central Nervous System irrespective 
+of aetiology; (ii) Malignancies 
+
+•  Upto 50% of Sum Insured per policy period for claims
+----------------------------------------
+Chunk 3 (Score: 0.6343):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 11.1 
+
+Special conditions applicable to Maternity Expenses and New Born Baby Cover 
+i. 
+
+These benefits are admissible only if the expenses are incurred in Hospital/Nursing Home as 
+in-patients in India. 
+Surrogate or vicarious pregnancy is not covered. 
+Expenses incurred in connection with voluntary medical termination of pregnancy during the 
+first twelve weeks from the date of conception are not covered. 
+Pre-natal and post-natal expenses are not covered unless admitted in Hospital/Nursing Home 
+and treatment is taken there. 
+Pre  Hospitalisation  and  Post-Hospitalisation  benefits  are  not  available  under  these  two 
+clauses. 
+Subject to the terms & conditions, the Policy covers New Born Baby beyond 90 days only on 
+payment of requisite premium. 
+
+ii. 
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+If this Option is in force in respect of the Insured Person, then the relevant part of Exclusion VI.B.14 will 
+be deemed inoperative for the purpose of this Option. 
+
+12. Daily Cash Allowance on Hospitalisation 
+We will pay Daily Cash Allowance to the Insured Person for every continuous and completed period of 24 
+hours of Hospitalisation, subject to the hospitalisation claim being admissible under the policy, as per the 
+table below: 
+
+Sum Insured 
+Upto Rs. 5 Lacs 
+Above  Rs.  5  Lacs  and  upto 
+Rs. 15 Lacs 
+Above  Rs. 15  Lacs  and  upto 
+Rs. 25 Lacs 
+
+Limit (Rs.) per day 
+Rs. 500 per day subject to a maximum of Rs. 5000 per policy period 
+Rs. 1000 per day subject to a maximum of Rs. 10000 per policy period
+----------------------------------------
+Chunk 4 (Score: 0.6187):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Limit (Rs.) per day 
+Rs. 500 per day subject to a maximum of Rs. 5000 per policy period 
+Rs. 1000 per day subject to a maximum of Rs. 10000 per policy period 
+
+Rs. 2000 per day subject to a maximum of Rs. 20000 per policy period 
+
+The aggregate of Daily Cash Allowance during the policy period shall not exceed ‘per policy period limits’ 
+as mentioned in the table above. 
+Daily Cash Allowance will not be payable for Day Care Procedure claims where the hospitalisation is less 
+than 24 hours. Deductible equivalent to Daily Cash Allowance for the first 24 hours Hospitalization will be 
+levied on each Hospitalisation during the Policy Period. 
+
+VI. STANDARD EXCLUSIONS & WAITING PERIODS 
+
+A. WAITING PERIODS 
+The Company shall not be liable to make any payment under the policy in connection with or in respect of 
+following expenses till the expiry of waiting period mentioned below: 
+
+1. Pre-Existing Disease (Code- Excl01): 
+
+a.  Expenses related to the treatment of a pre-existing disease (PED) and its direct complications shall 
+be excluded until the expiry of 48 months of continuous coverage after the date of inception of 
+the first policy with us.  
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+b. 
+
+c.
+----------------------------------------
+Chunk 5 (Score: 0.6152):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 9. Modern Treatment Methods & Advancement in Technologies: 
+In case of an admissible claims under Section V.1/ V.2 as applicable, Expenses incurred on the following 
+procedures  (wherever  medically  indicated)  either  as  in-patient  or  as  part  of  day  care  treatment  in  a 
+hospital, shall be covered. The claim shall be subject to additional sub-limits indicated against them in the 
+table below: 
+
+Treatment Methods & Advancement in 
+Technology 
+
+Sr. 
+No. 
+A  Uterine Artery Embolization & High Intensity 
+
+Focussed Ultrasound (HIFU) 
+
+B 
+
+Balloon Sinuplasty 
+
+C 
+
+Deep Brain Stimulation 
+
+D  Oral Chemotherapy 
+
+E 
+
+F 
+
+G 
+
+Immunotherapy- Monoclonal Antibody to be 
+given as injection 
+Intra vitreal Injections 
+
+Robotic Surgeries (including Robotic Assisted 
+Surgeries) 
+
+H 
+
+Stereotactic Radio Surgeries 
+
+I 
+
+Bronchial Thermoplasty 
+
+J 
+
+K 
+
+Vaporisation of the Prostate (Green laser 
+treatment or holmium laser treatment) 
+Intra Operative Neuro Monitoring (IONM) 
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+Additional Limit
+----------------------------------------
+Chunk 6 (Score: 0.6106):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 2. Day Care Treatment Cover- 
+We will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy 
+Period following an Illness or Injury that occurs during the Policy Period provided that:   
+
+i. 
+
+ii. 
+
+iii. 
+
+The Medical Expenses are incurred in case of Day Care Treatment or Surgery undertaken for the 
+Illness/ condition covered under Base Cover that requires less than 24 hours Hospitalisation due 
+to advancement in technology, including for any procedure which requires a period of specialized 
+observation or care after completion of the procedure undertaken by an Insured Person as Day 
+Care Treatment. All Day Care Treatments as defined in the Section IV.A.8 of the policy above are 
+covered.  
+The Day Care Treatment is for Medically Necessary Treatment and follows the written Medical 
+Advice; 
+Procedures/treatments usually done on out-patient basis are not payable under the policy even if 
+converted  as  an  in-patient  in  the  hospital  for  more  than  24  hours  or  carried  out  in  Day  Care 
+Centres. Diagnostic Services are also not covered under this benefit. 
+
+3. Pre-Hospitalisation and Post-Hospitalisation Expenses –  
+We will cover, on a reimbursement basis, the Insured Person’s 
+
+a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+30 days prior to hospitalisation; and  
+
+b.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+60 days after the discharge from the hospital,  
+Subject to a maximum of 10% of Sum Insured, provided that:
+----------------------------------------
+Chunk 7 (Score: 0.6045):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 1.1 Note: 
+
+a.  PROPORTIONATE  PAYMENT  CLAUSE:  In  case  of  admission  to  a  room  at  rates  exceeding  the 
+aforesaid limits in Clause V.1.A, the reimbursement/payment of all associated medical expenses 
+incurred at the Hospital shall be effected in the same proportion as the admissible rate per day 
+bears to the actual rate per day of Room Rent. 
+Proportionate  Deductions  shall  not  be  applied  in  respect  of  those  hospitals  where  differential 
+billing is not followed or for those expenses where differential billing is not adopted based on the 
+room category. 
+
+b.  No payment shall be made under 1.C other than as part of the hospitalisation bill. However, the 
+bills raised by Surgeon, Anaesthetist directly and not forming part of the hospital bill shall be paid 
+provided a pre-numbered bill/receipt is produced in support thereof, when such payment is made 
+ONLY by cheque/ credit card/debit card or digital/online transfer. 
+
+1.2 Sub-limit: 
+
+a.  Cataract Surgery Limit: Expenses in respect of the Cataract surgeries will be restricted to 10% of 
+Sum Insured subject to maximum of Rs. 50,000/- per eye. This limit is applicable per hospitalisation 
+/ surgery. 
+
+b.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient 
+Hospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. 
+3,00,000 per policy year;
+----------------------------------------
+
+QUESTION 5: What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+--------------------------------------------------
+Chunk 1 (Score: 0.7847):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: b. 
+
+c. 
+
+d.  The waiting period for listed conditions shall apply even if contracted after the policy or declared 
+
+e. 
+
+and accepted without a specific exclusion. 
+If the Insured Person is continuously covered without any break as defined under the applicable 
+norms on portability stipulated by IRDAI, then waiting period for the same would be reduced to 
+the extent of prior coverage. 
+
+f.  List of specific diseases/procedures: 
+
+Table A. Two years waiting period  
+
+1.  All internal and external benign tumours, 
+cysts, polyps of any kind, including benign 
+breast lumps 
+
+2.  Benign ENT disorders  
+
+3.  Benign prostatic hypertrophy 
+4.  Cataract  
+
+5.  Acid Peptic diseases 
+
+6.  Gout and Rheumatism 
+
+7.  Hernia of all types 
+8.  Hydrocele 
+9.  Non infective Arthritis 
+
+10. Piles, Fissures and Fistula-in-ano; 
+
+Pilonidal sinus 
+
+11. Prolapse intervertebral Disc and Spinal 
+
+Diseases unless arising from Accident 
+
+12. Benign Skin Disorders 
+13. Calculus diseases 
+14. Treatment for 
+
+Menorrhagia/Fibromyoma, Myoma 
+and Prolapse of uterus 
+
+15. Any treatment for varicose veins and 
+ulcers including surgical intervention 
+
+16. Polycystic ovarian disease 
+17. Internal Congenital Anomaly 
+
+Table B. Four years waiting period  
+
+1.  Joint Replacement due to Degenerative condition, unless necessitated due to an 
+
+accident.
+----------------------------------------
+Chunk 2 (Score: 0.7000):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+b. 
+
+c. 
+
+In  case  of  enhancement  of  sum  insured  the  exclusion  shall  apply  afresh  to  the  extent  of  sum 
+insured increase. 
+If the Insured Person is continuously covered without any break as defined under the portability 
+norms of the extant IRDAI (Health Insurance) Regulations, then waiting period for the same would 
+be reduced to the extent of prior coverage. 
+
+d.  Coverage under the policy after the expiry of 48 months for any pre-existing disease is subject to 
+
+the same being declared at the time of application and accepted by us. 
+
+2. Specific Disease/ Procedure Waiting Period (Code- Excl02): 
+
+a.  Expenses related to the treatment of the listed Conditions, surgeries/treatments as per Table A 
+and Table B below, shall be excluded until the expiry of 24 months and 48 months respectively of 
+continuous coverage after the date of inception of the first policy with us. This exclusion shall not 
+be applicable for claims arising due to an accident.  
+In  case  of  enhancement  of  sum  insured  the  exclusion  shall  apply  afresh  to  the  extent  of  sum 
+insured increase.  
+If any of the specified disease/procedure falls under the waiting period specified for pre-Existing 
+diseases, then the longer of the two waiting periods shall apply. 
+
+b. 
+
+c.
+----------------------------------------
+Chunk 3 (Score: 0.6936):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 5.  All Neurodegenerative disorders 
+
+3. First Thirty Days Waiting Period (Code- Excl03): 
+
+a.  Expenses  related  to  the  treatment  of  any  illness  within  30  days  from  the  first  policy 
+
+commencement date shall be excluded except claims arising due to an accident. 
+
+b.  This exclusion shall not, however, apply if the Insured Person has Continuous Coverage for more 
+
+than twelve months. 
+
+c.  The within referred waiting period is made applicable to the enhanced sum insured in the event 
+
+of granting higher sum insured subsequently.   
+
+The exclusions under VI.A.1-3 are subject to Portability Regulations. 
+
+B. STANDARD PERMANENT EXCLUSIONS 
+
+The  Company  shall  not  be  liable  to  make  any  payment  under  the  policy,  in  respect  of  any  expenses 
+incurred in connection with or in respect of: 
+1. 
+
+Investigation & Evaluation (Code- Excl04): 
+a.  Expenses  related  to  any  admission  primarily  for  diagnostics  and  evaluation  purposes  only  are 
+
+excluded. 
+
+b.  Any  diagnostic  expenses  which  are  not  related  or  not  incidental  to  the  current  diagnosis  and 
+
+treatment are excluded. 
+
+2.  Rest Cure, rehabilitation and respite care (Code- Excl05): Expenses related to any admission primarily 
+
+for enforced bed rest and not for receiving treatment. This also includes:
+----------------------------------------
+Chunk 4 (Score: 0.6777):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Menorrhagia/Fibromyoma, Myoma 
+and Prolapse of uterus 
+
+15. Any treatment for varicose veins and 
+ulcers including surgical intervention 
+
+16. Polycystic ovarian disease 
+17. Internal Congenital Anomaly 
+
+Table B. Four years waiting period  
+
+1.  Joint Replacement due to Degenerative condition, unless necessitated due to an 
+
+accident. 
+
+2.  Age-related Osteoarthritis & Osteoporosis 
+3.  Age-related Macular Degeneration (ARMD) 
+4.  Named Mental Illnesses: 
+
+a.  Schizophrenia (ICD - F20; F21; F25)  
+b.  Bipolar Affective Disorders (ICD - F31; F34)  
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+c.  Depression (ICD - F32; F33)  
+d.  Obsessive Compulsive Disorders (ICD - F42; F60.5)  
+e.  Psychosis (ICD - F 22; F23; F28; F29)  
+
+5.  All Neurodegenerative disorders 
+
+3. First Thirty Days Waiting Period (Code- Excl03): 
+
+a.  Expenses  related  to  the  treatment  of  any  illness  within  30  days  from  the  first  policy 
+
+commencement date shall be excluded except claims arising due to an accident.
+----------------------------------------
+Chunk 5 (Score: 0.6771):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: 28. NEW BORN BABY means baby born during the Policy Period and is aged upto 90 days. 
+29. NON-NETWORK HOSPITALS means any hospital, day care centre or other provider that is not part of 
+
+the network. 
+
+30. NOTIFICATION OF CLAIM  is the  process of notifying a claim to the  Insurer or TPA within specified 
+
+timelines through any of the recognised modes of communication. 
+
+31. PORTABILITY  means,  the  right  accorded  to  individual  health  insurance  policyholders  (including  all 
+members under family cover), to transfer the credit gained for pre-existing conditions and time bound 
+exclusions, from one Insurer to another Insurer. 
+
+32. PRE-EXISTING DISEASE means any condition, ailment, injury or disease:  
+
+a.  That is/are diagnosed by a physician within 48 months prior to the effective date of the policy 
+
+issued by the Insurer or its reinstatement or 
+
+b.  For which medical advice or treatment was recommended by, or received from, a physician within 
+48 months prior to the effective date of the policy issued by the Insurer or its reinstatement 
+
+33. PRE – HOSPITALISATION MEDICAL EXPENSES 
+
+Relevant medical expenses incurred immediately 30 days before the Insured  Person is hospitalised 
+provided that: 
+a.  Such  Medical  expenses  are  incurred  for  the  same  condition  for  which  the  Insured  Person’s 
+
+Hospitalisation was required; and 
+
+b.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. 
+
+34. POST-HOSPITALISATION MEDICAL EXPENSES
+----------------------------------------
+Chunk 6 (Score: 0.6628):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+30 days prior to hospitalisation; and  
+
+b.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto 
+
+60 days after the discharge from the hospital,  
+Subject to a maximum of 10% of Sum Insured, provided that:  
+
+i.  We have accepted a claim for primary In-patient Hospitalization under Section V.1 or V.2 above; 
+ii. 
+The Pre-hospitalisation and Post-hospitalisation Medical Expenses are related to the same Illness 
+or Injury. 
+The  date  of  admission  to  the  Hospital  for  the  purpose  of  this  Benefit  shall  be  the  date  of  the 
+Insured Person’s first admission to the Hospital in relation to the same Any One Illness.  
+
+iii. 
+
+4. Ayurvedic/Homeopathic/Unani treatment –  
+We will pay the reasonable & customary Charges incurred as in-patient for an Insured Person in case of 
+Medically  Necessary  Treatment  taken  during  Hospitalisation  subject  to  the  limits  linked  to  the  Sum 
+Insured, as mentioned in the table below; 
+Sum Insured (Rs.) 
+Upto 3,00,000 
+>3,00,000 to 15,00,000 
+>15,00,000 
+
+Limit per Policy Period (Rs.)- Upto 
+10,000 
+15,000 
+25000 
+
+Subject to the condition that the hospitalisation expenses are admissible only when the  treatment has 
+been undergone in an AYUSH HOSPITAL as defined hereunder:
+----------------------------------------
+Chunk 7 (Score: 0.6395):
+File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Content: Limit (Rs.) per day 
+Rs. 500 per day subject to a maximum of Rs. 5000 per policy period 
+Rs. 1000 per day subject to a maximum of Rs. 10000 per policy period 
+
+Rs. 2000 per day subject to a maximum of Rs. 20000 per policy period 
+
+The aggregate of Daily Cash Allowance during the policy period shall not exceed ‘per policy period limits’ 
+as mentioned in the table above. 
+Daily Cash Allowance will not be payable for Day Care Procedure claims where the hospitalisation is less 
+than 24 hours. Deductible equivalent to Daily Cash Allowance for the first 24 hours Hospitalization will be 
+levied on each Hospitalisation during the Policy Period. 
+
+VI. STANDARD EXCLUSIONS & WAITING PERIODS 
+
+A. WAITING PERIODS 
+The Company shall not be liable to make any payment under the policy in connection with or in respect of 
+following expenses till the expiry of waiting period mentioned below: 
+
+1. Pre-Existing Disease (Code- Excl01): 
+
+a.  Expenses related to the treatment of a pre-existing disease (PED) and its direct complications shall 
+be excluded until the expiry of 48 months of continuous coverage after the date of inception of 
+the first policy with us.  
+
+Family Medicare Policy Wordings 
+UIN: UIIHLIP22070V042122 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United India Insurance Company Limited 
+Corporate Identity Number: U93090TN1938GOI000108 
+Registered Office: 24 Whites Road, Chennai – 600014 
+IRDAI REG NO.545 
+
+b. 
+
+c.
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:55:13.125504",
+  "request_start_time": "2025-08-06T06:55:07.781703",
+  "total_processing_time_seconds": 5.343352794647217,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Mediclaim%20Insurance%20Policy.docx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A42%3A14Z&se=2026-08-05T18%3A42%3A00Z&sr=b&sp=r&sig=yvnP%2FlYfyyqYmNJ1DX51zNVdUq1zH9aNw4LfPFVe67o%3D",
+    "extracted_filename": "Mediclaim Insurance Policy.docx",
+    "matched_file": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?",
+    "What is domiciliary hospitalization, and what are its key exclusions?",
+    "What are the benefits and limits of Ambulance Services?",
+    "What are the benefits and limits of telemedicine and maternity coverage under this policy?",
+    "What are the waiting periods for pre-existing diseases and specified diseases or procedures?"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?",
+      "answer": "The policy covers hospitalization expenses including room rent, ICU/ICCU charges, medical practitioner fees, operation theatre costs, and medical supplies. Room rent limits are 1% of the sum insured (below Rs. 5 Lacs) or 1% of sum insured/standard AC room charges (Rs. 5 Lacs and above). ICU charges are 2% of sum insured per day (below Rs. 5 Lacs) or actuals (Rs. 5 Lacs and above)."
+    },
+    {
+      "question": "What is domiciliary hospitalization, and what are its key exclusions?",
+      "answer": "The document does not define \"domiciliary hospitalization\" or list its exclusions."
+    },
+    {
+      "question": "What are the benefits and limits of Ambulance Services?",
+      "answer": "The benefits and limits for Ambulance Services are up to 0.5% of the Sum Insured (max Rs. 2500 per event) and 1% of the Sum Insured (max Rs. 5000 per policy period)."
+    },
+    {
+      "question": "What are the benefits and limits of telemedicine and maternity coverage under this policy?",
+      "answer": "The policy does not provide coverage for telemedicine. For maternity coverage, the benefits are limited to 10% of the Sum Insured, with a maximum of Rs. 40,000 for normal delivery and Rs. 60,000 for caesarean section. Coverage for newborns beyond 90 days requires additional premium, and certain exclusions apply such as surrogate pregnancy and voluntary termination of pregnancy."
+    },
+    {
+      "question": "What are the waiting periods for pre-existing diseases and specified diseases or procedures?",
+      "answer": "The waiting period for pre-existing diseases is 48 months (4 years). For specified diseases or procedures, the waiting period is 24 months (2 years) for those listed in Table A and 48 months (4 years) for those listed in Table B."
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.75451,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Sum Insured \n< Rs. 5 Lacs \nRs. 5 Lacs and Above  \n\nLimit (Rs.) per day \n1% of Sum Insured  \n1%  of  Sum  Insured  or  Single  Occupancy  Standard  Air-\nConditioned Room Charges whichever is higher \n\nThese  expenses will  include  nursing care,  RMO  charges,  patient’s  diet  charges,  IV  Fluids/Blood \ntransfusion/injection administration charges and similar expenses. \n\nB.  Charges for accommodation in Intensive Care Unit (ICU)/ Intensive Cardiac Care Unit (ICCU) upto \n\nthe limits provided below: \nSum Insured \n< Rs. 5 Lacs \nRs. 5 Lacs and Above \n\nLimit (Rs.) per day \n2% of Sum Insured  \nActuals \n\nC.  The fees charged by the Medical Practitioner, Surgeon, Specialists and anaesthetists treating the \n\nInsured Person; \n\nD.  Operation theatre charges,  \nE.  Anaesthesia, Blood, Oxygen, Surgical Appliances and/ or Medical Appliances, medicines and drugs, \nCost  of  Artificial  Limbs,  cost  of  prosthetic  devices  implanted  during  surgical  procedure  like \npacemaker,  orthopaedic  implants,  infra  cardiac  valve  replacements,  vascular  stents,  relevant \nlaboratory/ diagnostic tests, X-Ray, dialysis, chemotherapy, radiotherapy and such other similar \nmedical expenses related to the treatment. \n\n1.1 Note:"
+      },
+      {
+        "score": 0.73177266,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "1.1 Note: \n\na.  PROPORTIONATE  PAYMENT  CLAUSE:  In  case  of  admission  to  a  room  at  rates  exceeding  the \naforesaid limits in Clause V.1.A, the reimbursement/payment of all associated medical expenses \nincurred at the Hospital shall be effected in the same proportion as the admissible rate per day \nbears to the actual rate per day of Room Rent. \nProportionate  Deductions  shall  not  be  applied  in  respect  of  those  hospitals  where  differential \nbilling is not followed or for those expenses where differential billing is not adopted based on the \nroom category. \n\nb.  No payment shall be made under 1.C other than as part of the hospitalisation bill. However, the \nbills raised by Surgeon, Anaesthetist directly and not forming part of the hospital bill shall be paid \nprovided a pre-numbered bill/receipt is produced in support thereof, when such payment is made \nONLY by cheque/ credit card/debit card or digital/online transfer. \n\n1.2 Sub-limit: \n\na.  Cataract Surgery Limit: Expenses in respect of the Cataract surgeries will be restricted to 10% of \nSum Insured subject to maximum of Rs. 50,000/- per eye. This limit is applicable per hospitalisation \n/ surgery. \n\nb.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient \nHospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. \n3,00,000 per policy year;"
+      },
+      {
+        "score": 0.7182966,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n30 days prior to hospitalisation; and  \n\nb.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n60 days after the discharge from the hospital,  \nSubject to a maximum of 10% of Sum Insured, provided that:  \n\ni.  We have accepted a claim for primary In-patient Hospitalization under Section V.1 or V.2 above; \nii. \nThe Pre-hospitalisation and Post-hospitalisation Medical Expenses are related to the same Illness \nor Injury. \nThe  date  of  admission  to  the  Hospital  for  the  purpose  of  this  Benefit  shall  be  the  date  of  the \nInsured Person’s first admission to the Hospital in relation to the same Any One Illness.  \n\niii. \n\n4. Ayurvedic/Homeopathic/Unani treatment –  \nWe will pay the reasonable & customary Charges incurred as in-patient for an Insured Person in case of \nMedically  Necessary  Treatment  taken  during  Hospitalisation  subject  to  the  limits  linked  to  the  Sum \nInsured, as mentioned in the table below; \nSum Insured (Rs.) \nUpto 3,00,000 \n>3,00,000 to 15,00,000 \n>15,00,000 \n\nLimit per Policy Period (Rs.)- Upto \n10,000 \n15,000 \n25000 \n\nSubject to the condition that the hospitalisation expenses are admissible only when the  treatment has \nbeen undergone in an AYUSH HOSPITAL as defined hereunder:"
+      },
+      {
+        "score": 0.7155219,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "19. INTENSIVE CARE  UNIT  means  an  identified section, ward  or  wing of  a  hospital  which  is  under  the \nconstant supervision of a dedicated Medical Practitioner(s), and which is specially equipped for the \ncontinuous monitoring and treatment of patients who are in a critical condition, or require life support \nfacilities and where the level of care and supervision is considerably more sophisticated and intensive \nthan in the ordinary and other wards. \n\n20. INTENSIVE CARE UNIT (ICU) CHARGES means the amount charged by a Hospital towards ICU expenses \nwhich shall include the expenses for ICU bed, general medical support services provided to any ICU \npatient including monitoring devices, critical care nursing and intensivist charges. \n\n21. MATERNITY EXPENSES means; \n\na.  medical  treatment  expenses  traceable  to  childbirth  (including  complicated  deliveries  and \n\ncaesarean sections incurred during hospitalization); \n\nb.  expenses towards lawful medical termination of pregnancy during the policy period. \n\n22. MEDICAL ADVICE means any consultation or advice from a Medical Practitioner including the issue of \n\nany prescription or repeat prescription. \n\n23. MEDICAL  EXPENSES  means  those  expenses  that  an  Insured  Person  has  necessarily  and  actually \nincurred  for  medical  treatment  on  account  of  illness  or  Accident  on  the  advice  of  a  Medical \nPractitioner, as long as these are no more than would have been payable if the Insured Person had \nnot been insured and no more than other hospitals or doctors in the same locality would have charged \nfor the same medical treatment. \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n3"
+      },
+      {
+        "score": 0.6922615,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "b.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient \nHospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. \n3,00,000 per policy year;  \n\n1.  Schizophrenia (ICD - F20; F21; F25)  \n2.  Bipolar Affective Disorders (ICD - F31; F34)  \n3.  Depression (ICD - F32; F33)  \n4.  Obsessive Compulsive Disorders (ICD - F42; F60.5)  \n5.  Psychosis (ICD - F 22; F23; F28; F29)  \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n7 \n\n \n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\n2. Day Care Treatment Cover- \nWe will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy \nPeriod following an Illness or Injury that occurs during the Policy Period provided that:   \n\ni. \n\nii. \n\niii."
+      },
+      {
+        "score": 0.6904638,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "11.1 \n\nSpecial conditions applicable to Maternity Expenses and New Born Baby Cover \ni. \n\nThese benefits are admissible only if the expenses are incurred in Hospital/Nursing Home as \nin-patients in India. \nSurrogate or vicarious pregnancy is not covered. \nExpenses incurred in connection with voluntary medical termination of pregnancy during the \nfirst twelve weeks from the date of conception are not covered. \nPre-natal and post-natal expenses are not covered unless admitted in Hospital/Nursing Home \nand treatment is taken there. \nPre  Hospitalisation  and  Post-Hospitalisation  benefits  are  not  available  under  these  two \nclauses. \nSubject to the terms & conditions, the Policy covers New Born Baby beyond 90 days only on \npayment of requisite premium. \n\nii. \niii. \n\niv. \n\nv. \n\nvi. \n\nIf this Option is in force in respect of the Insured Person, then the relevant part of Exclusion VI.B.14 will \nbe deemed inoperative for the purpose of this Option. \n\n12. Daily Cash Allowance on Hospitalisation \nWe will pay Daily Cash Allowance to the Insured Person for every continuous and completed period of 24 \nhours of Hospitalisation, subject to the hospitalisation claim being admissible under the policy, as per the \ntable below: \n\nSum Insured \nUpto Rs. 5 Lacs \nAbove  Rs.  5  Lacs  and  upto \nRs. 15 Lacs \nAbove  Rs. 15  Lacs  and  upto \nRs. 25 Lacs \n\nLimit (Rs.) per day \nRs. 500 per day subject to a maximum of Rs. 5000 per policy period \nRs. 1000 per day subject to a maximum of Rs. 10000 per policy period"
+      },
+      {
+        "score": 0.68921745,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Hospitalisation was required; and \n\nb.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. \n\n34. POST-HOSPITALISATION MEDICAL EXPENSES \n\nRelevant medical expenses incurred immediately 60 days after the Insured Person is discharged from \nthe hospital provided that; \na.  Such  Medical  expenses  are  incurred  for  the  same  condition  for  which  the  Insured  Person’s \n\nHospitalisation was required; and \n\nb.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n4 \n\n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\n35. QUALIFIED NURSE means a person who holds a valid registration from the Nursing Council of India or \n\nthe Nursing Council of any State in India. \n\n36. REASONABLE AND CUSTOMARY CHARGES mean the charges for services or supplies, which are the \nstandard  charges  for  the  specific  provider  and  consistent  with  the  prevailing  charges  in  the \ngeographical  area  for  identical  or  similar  services,  taking  into  account  the  nature  of  illness/injury \ninvolved. \n\n37. RENEWAL defines the terms on which the contract of insurance can be renewed on mutual consent \nwith a provision of grace period for treating the renewal continuous for the purpose of all waiting \nperiods. \n\n38. ROOM RENT shall mean the amount charged by a hospital for the Occupancy of a bed on per day (24"
+      }
+    ],
+    [
+      {
+        "score": 0.66122216,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Hospitalisation was required; and \n\nb.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. \n\n34. POST-HOSPITALISATION MEDICAL EXPENSES \n\nRelevant medical expenses incurred immediately 60 days after the Insured Person is discharged from \nthe hospital provided that; \na.  Such  Medical  expenses  are  incurred  for  the  same  condition  for  which  the  Insured  Person’s \n\nHospitalisation was required; and \n\nb.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n4 \n\n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\n35. QUALIFIED NURSE means a person who holds a valid registration from the Nursing Council of India or \n\nthe Nursing Council of any State in India. \n\n36. REASONABLE AND CUSTOMARY CHARGES mean the charges for services or supplies, which are the \nstandard  charges  for  the  specific  provider  and  consistent  with  the  prevailing  charges  in  the \ngeographical  area  for  identical  or  similar  services,  taking  into  account  the  nature  of  illness/injury \ninvolved. \n\n37. RENEWAL defines the terms on which the contract of insurance can be renewed on mutual consent \nwith a provision of grace period for treating the renewal continuous for the purpose of all waiting \nperiods. \n\n38. ROOM RENT shall mean the amount charged by a hospital for the Occupancy of a bed on per day (24"
+      },
+      {
+        "score": 0.6451631,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "excluded. \n\nb.  Any  diagnostic  expenses  which  are  not  related  or  not  incidental  to  the  current  diagnosis  and \n\ntreatment are excluded. \n\n2.  Rest Cure, rehabilitation and respite care (Code- Excl05): Expenses related to any admission primarily \n\nfor enforced bed rest and not for receiving treatment. This also includes: \n\na.  Custodial  care  either  at  home  or  in  a  nursing  facility  for  personal  care  such  as  help  with \nactivities of daily living such as bathing, dressing, moving around either by skilled nurses or \nassistant or non-skilled persons.  \n\nb.  Any  services  for  people  who  are  terminally  ill  to  address  physical,  social,  emotional  and \n\nspiritual needs. \n\n3.  Obesity/ Weight Control (Code- Excl06): Expenses related to the surgical treatment of obesity that \n\ndoes not fulfil all the below conditions: \n\nA.  Surgery to be conducted is upon the advice of the Doctor \nB.  The surgery/procedure conducted should be supported by clinical protocols \nC.  The member has to be 18 years of age or older and \nD.  Body Mass Index (BMI);  \n\na.  greater than or equal to 40 or \nb.  greater than or equal to 35 in conjunction with any of the following severe co-morbidities \n\nfollowing failure of less invasive methods of weight loss: \ni. \nii. \niii. \niv. \n\nObesity-related cardiomyopathy \nCoronary heart disease  \nSevere Sleep Apnoea \nUncontrolled Type2 Diabetes \n\n4.  Change-of-Gender treatments (Code- Excl07): Expenses related to any treatment, including surgical"
+      },
+      {
+        "score": 0.6432576,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "-  Has qualified nursing staff under its employment round the clock. \n-  Has at least 10 in-patient beds in towns having a population of less than 10 lacs and at least 15 \n\nin-patient beds in all other places; \n\n-  Has qualified Medical Practitioner(s) in charge round the clock; \n-  Has a fully equipped Operation Theatre of its own where surgical procedures are carried out; \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n2 \n\n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\n-  Maintains  daily  records  of  patients  and  makes  these  accessible  to  the  insurance  company’s \n\nauthorized personnel. \n\nThe term ' Hospital / Nursing Home ' shall not include an establishment which is a place of rest, a place \nfor the aged, a place for drug-addicts or place for alcoholics, a hotel or a similar place. \nFor Ayurvedic treatment, hospitalisation expenses are admissible only when the treatment has been \nundergone in a hospital as defined in clause V.4 below.  \n\n15. HOSPITALISATION  Means  admission  in  a  Hospital/Nursing  Home  for  a  minimum  period  of  24  In-\npatient care consecutive hours except for the standard day care procedures/treatments as defined \nabove, where such admission could be for a period of less than 24 consecutive hours. \nNote:  Procedures/treatments usually done in outpatient department are not payable under the policy \neven if admitted/converted as an in-patient in the hospital for more than 24 hours."
+      },
+      {
+        "score": 0.63812006,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "examinations, fillings (where appropriate), crowns, extractions and surgery. \n\n11. DISCLOSURE TO INFORMATION NORM The policy shall be void and all premium paid thereon shall be \nforfeited to the Company in the event of misrepresentation, mis-description or non-disclosure of any \nmaterial fact \n\n12. EMERGENCY  CARE  Emergency  care  means  management  for  an  illness  or  injury  which  results  in \nsymptoms  which  occur  suddenly  and  unexpectedly,  and  requires  immediate  care  by  a  medical \npractitioner to prevent death or serious long term impairment of the Insured person’s health \n\n13. GRACE  PERIOD  means  the  specified  period  of  time  immediately  following  the  premium  due  date \nduring which a payment can be made to renew or continue a policy in force without loss of continuity \nbenefits such as waiting periods and coverage of pre-existing diseases.  Coverage is not available for \nthe period for which no premium is received. \n\n14. HOSPITAL/NURSING  HOME  means  any  institution  established  for  in-patient  care  and  day  care \ntreatment  of  illness  and/or  injuries  and  which  has  been  registered  as  a  Hospital  with  the  local \nauthorities  under  the  Clinical  establishments  (Registration  and  Regulation)  Act,  2010  or  under  the \nenactments  specified  under  the  Schedule  of  Section  56(1)  of  the  said  Act  OR  complies  with  all \nminimum criteria as under"
+      },
+      {
+        "score": 0.6257744,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "5.  All Neurodegenerative disorders \n\n3. First Thirty Days Waiting Period (Code- Excl03): \n\na.  Expenses  related  to  the  treatment  of  any  illness  within  30  days  from  the  first  policy \n\ncommencement date shall be excluded except claims arising due to an accident. \n\nb.  This exclusion shall not, however, apply if the Insured Person has Continuous Coverage for more \n\nthan twelve months. \n\nc.  The within referred waiting period is made applicable to the enhanced sum insured in the event \n\nof granting higher sum insured subsequently.   \n\nThe exclusions under VI.A.1-3 are subject to Portability Regulations. \n\nB. STANDARD PERMANENT EXCLUSIONS \n\nThe  Company  shall  not  be  liable  to  make  any  payment  under  the  policy,  in  respect  of  any  expenses \nincurred in connection with or in respect of: \n1. \n\nInvestigation & Evaluation (Code- Excl04): \na.  Expenses  related  to  any  admission  primarily  for  diagnostics  and  evaluation  purposes  only  are \n\nexcluded. \n\nb.  Any  diagnostic  expenses  which  are  not  related  or  not  incidental  to  the  current  diagnosis  and \n\ntreatment are excluded. \n\n2.  Rest Cure, rehabilitation and respite care (Code- Excl05): Expenses related to any admission primarily \n\nfor enforced bed rest and not for receiving treatment. This also includes:"
+      },
+      {
+        "score": 0.62569726,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n30 days prior to hospitalisation; and  \n\nb.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n60 days after the discharge from the hospital,  \nSubject to a maximum of 10% of Sum Insured, provided that:  \n\ni.  We have accepted a claim for primary In-patient Hospitalization under Section V.1 or V.2 above; \nii. \nThe Pre-hospitalisation and Post-hospitalisation Medical Expenses are related to the same Illness \nor Injury. \nThe  date  of  admission  to  the  Hospital  for  the  purpose  of  this  Benefit  shall  be  the  date  of  the \nInsured Person’s first admission to the Hospital in relation to the same Any One Illness.  \n\niii. \n\n4. Ayurvedic/Homeopathic/Unani treatment –  \nWe will pay the reasonable & customary Charges incurred as in-patient for an Insured Person in case of \nMedically  Necessary  Treatment  taken  during  Hospitalisation  subject  to  the  limits  linked  to  the  Sum \nInsured, as mentioned in the table below; \nSum Insured (Rs.) \nUpto 3,00,000 \n>3,00,000 to 15,00,000 \n>15,00,000 \n\nLimit per Policy Period (Rs.)- Upto \n10,000 \n15,000 \n25000 \n\nSubject to the condition that the hospitalisation expenses are admissible only when the  treatment has \nbeen undergone in an AYUSH HOSPITAL as defined hereunder:"
+      },
+      {
+        "score": 0.6220473,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "1.1 Note: \n\na.  PROPORTIONATE  PAYMENT  CLAUSE:  In  case  of  admission  to  a  room  at  rates  exceeding  the \naforesaid limits in Clause V.1.A, the reimbursement/payment of all associated medical expenses \nincurred at the Hospital shall be effected in the same proportion as the admissible rate per day \nbears to the actual rate per day of Room Rent. \nProportionate  Deductions  shall  not  be  applied  in  respect  of  those  hospitals  where  differential \nbilling is not followed or for those expenses where differential billing is not adopted based on the \nroom category. \n\nb.  No payment shall be made under 1.C other than as part of the hospitalisation bill. However, the \nbills raised by Surgeon, Anaesthetist directly and not forming part of the hospital bill shall be paid \nprovided a pre-numbered bill/receipt is produced in support thereof, when such payment is made \nONLY by cheque/ credit card/debit card or digital/online transfer. \n\n1.2 Sub-limit: \n\na.  Cataract Surgery Limit: Expenses in respect of the Cataract surgeries will be restricted to 10% of \nSum Insured subject to maximum of Rs. 50,000/- per eye. This limit is applicable per hospitalisation \n/ surgery. \n\nb.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient \nHospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. \n3,00,000 per policy year;"
+      }
+    ],
+    [
+      {
+        "score": 0.63913435,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "6. Organ Donor Benefit- When Insured Person is the Donor \nA lump sum payment of 10% of Sum Insured, to take care of medical and other incidental expenses is \npayable  to  the  Insured  Person  donating  an  organ  provided  that  the  donation  conforms  to  the \nTransplantation of Human Organs Act 1994 (amended) and any other extant Act, Central / State Rules / \nregulations, as applicable, in respect of transplantation of human organs. \nThis benefit is subject to the Policy (Family Medicare Policy) having been continuously in force for at least \n12 (twelve) months in respect of that Insured Person. \n\n7.  Road Ambulance Cover \nWe will cover the costs incurred up to: \n\ni. \nii. \n\n0.5% of the Sum Insured subject to a maximum of Rs. 2500 per event and  \n1% of the Sum Insured subject to a maximum of Rs. 5000 per policy period  \n\non transportation of the Insured Person by road Ambulance to a Hospital for treatment in an Emergency \nfollowing an Illness or Injury which occurs during the Policy Period. The necessity of use of an Ambulance \nmust be certified by the treating Medical Practitioner and becomes payable if a claim has been admitted \nunder Section V.1 or V.2 and the expenses are related to the same Illness or Injury. \nWe will also cover the costs incurred on transportation of the Insured Person by road Ambulance in the \nfollowing circumstances up to the limits specified above under this cover, if:     \n\na. \n\nb."
+      },
+      {
+        "score": 0.5755748,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "examinations, fillings (where appropriate), crowns, extractions and surgery. \n\n11. DISCLOSURE TO INFORMATION NORM The policy shall be void and all premium paid thereon shall be \nforfeited to the Company in the event of misrepresentation, mis-description or non-disclosure of any \nmaterial fact \n\n12. EMERGENCY  CARE  Emergency  care  means  management  for  an  illness  or  injury  which  results  in \nsymptoms  which  occur  suddenly  and  unexpectedly,  and  requires  immediate  care  by  a  medical \npractitioner to prevent death or serious long term impairment of the Insured person’s health \n\n13. GRACE  PERIOD  means  the  specified  period  of  time  immediately  following  the  premium  due  date \nduring which a payment can be made to renew or continue a policy in force without loss of continuity \nbenefits such as waiting periods and coverage of pre-existing diseases.  Coverage is not available for \nthe period for which no premium is received. \n\n14. HOSPITAL/NURSING  HOME  means  any  institution  established  for  in-patient  care  and  day  care \ntreatment  of  illness  and/or  injuries  and  which  has  been  registered  as  a  Hospital  with  the  local \nauthorities  under  the  Clinical  establishments  (Registration  and  Regulation)  Act,  2010  or  under  the \nenactments  specified  under  the  Schedule  of  Section  56(1)  of  the  said  Act  OR  complies  with  all \nminimum criteria as under"
+      },
+      {
+        "score": 0.56518304,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n30 days prior to hospitalisation; and  \n\nb.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n60 days after the discharge from the hospital,  \nSubject to a maximum of 10% of Sum Insured, provided that:  \n\ni.  We have accepted a claim for primary In-patient Hospitalization under Section V.1 or V.2 above; \nii. \nThe Pre-hospitalisation and Post-hospitalisation Medical Expenses are related to the same Illness \nor Injury. \nThe  date  of  admission  to  the  Hospital  for  the  purpose  of  this  Benefit  shall  be  the  date  of  the \nInsured Person’s first admission to the Hospital in relation to the same Any One Illness.  \n\niii. \n\n4. Ayurvedic/Homeopathic/Unani treatment –  \nWe will pay the reasonable & customary Charges incurred as in-patient for an Insured Person in case of \nMedically  Necessary  Treatment  taken  during  Hospitalisation  subject  to  the  limits  linked  to  the  Sum \nInsured, as mentioned in the table below; \nSum Insured (Rs.) \nUpto 3,00,000 \n>3,00,000 to 15,00,000 \n>15,00,000 \n\nLimit per Policy Period (Rs.)- Upto \n10,000 \n15,000 \n25000 \n\nSubject to the condition that the hospitalisation expenses are admissible only when the  treatment has \nbeen undergone in an AYUSH HOSPITAL as defined hereunder:"
+      },
+      {
+        "score": 0.562219,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Sum Insured \n< Rs. 5 Lacs \nRs. 5 Lacs and Above  \n\nLimit (Rs.) per day \n1% of Sum Insured  \n1%  of  Sum  Insured  or  Single  Occupancy  Standard  Air-\nConditioned Room Charges whichever is higher \n\nThese  expenses will  include  nursing care,  RMO  charges,  patient’s  diet  charges,  IV  Fluids/Blood \ntransfusion/injection administration charges and similar expenses. \n\nB.  Charges for accommodation in Intensive Care Unit (ICU)/ Intensive Cardiac Care Unit (ICCU) upto \n\nthe limits provided below: \nSum Insured \n< Rs. 5 Lacs \nRs. 5 Lacs and Above \n\nLimit (Rs.) per day \n2% of Sum Insured  \nActuals \n\nC.  The fees charged by the Medical Practitioner, Surgeon, Specialists and anaesthetists treating the \n\nInsured Person; \n\nD.  Operation theatre charges,  \nE.  Anaesthesia, Blood, Oxygen, Surgical Appliances and/ or Medical Appliances, medicines and drugs, \nCost  of  Artificial  Limbs,  cost  of  prosthetic  devices  implanted  during  surgical  procedure  like \npacemaker,  orthopaedic  implants,  infra  cardiac  valve  replacements,  vascular  stents,  relevant \nlaboratory/ diagnostic tests, X-Ray, dialysis, chemotherapy, radiotherapy and such other similar \nmedical expenses related to the treatment. \n\n1.1 Note:"
+      },
+      {
+        "score": 0.5516446,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "e.  Time Limits for Submission of Documents: \n\nType of claim  \n\nReimbursement  of  hospitalisation  and  pre \nhospitalisation expenses (limited to 30 days) \nReimbursement \npost-hospitalisation \nexpenses (limited to 60 days) \nReimbursement of Cost of Health Check-up \n\nof \n\nTime limit for submission of documents \nto company/TPA  \nWithin  15  (fifteen)  days  of  date  of \ndischarge from hospital  \nWithin 15 (fifteen) days from completion \nof post-hospitalisation treatment  \nWithin  15  (fifteen)  days  from  Health \nCheck-up \n\nNote:  \n\ni.  Waiver  of  this  Condition  may  be  considered  in  extreme  cases  of  hardship  where  it  is \nproved  to  the  satisfaction  of  the  Company  that  under  the  circumstances  in  which  the \nInsured was placed it was not possible for him or any other person to give such notice or \nfile claim within the prescribed time-limit. \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n21 \n\n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\nii. \n\niii. \n\niv. \n\nv."
+      },
+      {
+        "score": 0.5462979,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Payable in post-hospitalisation \n\nPayable -Sugar free variants of admissible medicines are not \nexcluded \n\nCREAMS POWDERS LOTIONS (Toiletries are \nnot payable, only prescribed medical \npharmaceuticals payable) \n\nPayable when prescribed \n\nECG ELECTRODES \n\nGLOVES \nNEBULISATION KIT \nANY KIT WITH NO DETAILS MENTIONED \n[DELIVERY KIT, ORTHOKIT, RECOVERY KIT, \nETC] \nKIDNEY TRAY \nMASK \nOUNCE GLASS \nOXYGEN MASK \nPELVIC TRACTION BELT \nPAN CAN \nTROLLEY COVER \nUROMETER, URINE JUG \nAMBULANCE \nVASOFIX SAFETY \n\nUp to 5 electrodes are required for every case visiting OT or ICU. \nFor longer stay in ICU, may require a change and at least one set \nevery second day is payable. \nSterilized Gloves payable / unsterilized gloves not payable \nPayable reasonably if used during hospitalisation \n\nNot Payable \n\nNot Payable \nNot Payable \nNot Payable \nNot Payable \nPayable in case of PIVD requiring traction \nNot Payable \nNot Payable \nNot Payable \nPayable \nPayable - maximum of 3 in 48 hours and then 1 in 24 hours \n\nList II – Items that are to be subsumed into Room Charges \n\nSr. No \n1 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \n11"
+      },
+      {
+        "score": 0.5439179,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "2. Day Care Treatment Cover- \nWe will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy \nPeriod following an Illness or Injury that occurs during the Policy Period provided that:   \n\ni. \n\nii. \n\niii. \n\nThe Medical Expenses are incurred in case of Day Care Treatment or Surgery undertaken for the \nIllness/ condition covered under Base Cover that requires less than 24 hours Hospitalisation due \nto advancement in technology, including for any procedure which requires a period of specialized \nobservation or care after completion of the procedure undertaken by an Insured Person as Day \nCare Treatment. All Day Care Treatments as defined in the Section IV.A.8 of the policy above are \ncovered.  \nThe Day Care Treatment is for Medically Necessary Treatment and follows the written Medical \nAdvice; \nProcedures/treatments usually done on out-patient basis are not payable under the policy even if \nconverted  as  an  in-patient  in  the  hospital  for  more  than  24  hours  or  carried  out  in  Day  Care \nCentres. Diagnostic Services are also not covered under this benefit. \n\n3. Pre-Hospitalisation and Post-Hospitalisation Expenses –  \nWe will cover, on a reimbursement basis, the Insured Person’s \n\na.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n30 days prior to hospitalisation; and  \n\nb.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n60 days after the discharge from the hospital,  \nSubject to a maximum of 10% of Sum Insured, provided that:"
+      }
+    ],
+    [
+      {
+        "score": 0.65508085,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Family Medicare Policy with this optional cover has been continuously in force for a period of \nminimum 24 months. \nThose Insured Persons who are already having two or more living children will not be eligible \nfor this benefit \nCompany’s maximum liability per delivery or termination shall be limited to 10% of the Sum \nInsured as stated in the Schedule subject to a maximum of Rs. 40000 in case of normal delivery \nand Rs. 60000 in case of caesarean section and in no case shall the Company’s liability under \nthis clause exceed 10% of the Sum Insured, in any one Policy Period. \n\nii. \n\niii. \n\nb.  New Born Baby Cover: New born Baby shall be covered from day one upto the age of 90 days and \nexpenses incurred for treatment taken in Hospital as in-patient shall only be payable, provided \nthat: \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n11 \n\n \n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\ni. \nii. \niii. \n\nClaim under Maternity clause is admissible under the Policy \nCompany’s liability shall be limited to 10% of the Sum Insured as stated in the Schedule. \nIn  case  the  90-days  period  for  the  New  Born  Baby  is  spread  over  two  Policy  Periods,  the \naggregate liability of the Company, for all claims in respect of the New Born Baby, shall be \nlimited to 10% of the Sum Insured of the Policy under which Maternity claim was admitted. \n\n11.1"
+      },
+      {
+        "score": 0.63968635,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "H \n\nStereotactic Radio Surgeries \n\nI \n\nBronchial Thermoplasty \n\nJ \n\nK \n\nVaporisation of the Prostate (Green laser \ntreatment or holmium laser treatment) \nIntra Operative Neuro Monitoring (IONM) \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\nAdditional Limit \n\nUpto 20% of Sum Insured subject to a maximum of Rs. 2 \nLacs per policy period for claims involving Uterine Artery \nEmbolization & HIFU \nUpto 10% of Sum Insured subject to a maximum of Rs. 1 \nLac per policy period for claims involving Balloon \nSinuplasty \nUpto 70% of Sum Insured per policy period for claims \ninvolving Deep Brain Stimulation \nUpto 20% of Sum Insured subject to a maximum of Rs. 2 \nLacs per policy period for claims involving Oral \nChemotherapy \nUpto 20% of Sum Insured subject to a maximum of Rs. 2 \nLacs per policy period \nUpto 10% of Sum Insured subject to a maximum of Rs. 1 \nLac per policy period \n•  Upto 75% of Sum Insured per policy period for claims \n\ninvolving Robotic Surgeries for (i) the treatment of any \ndisease involving Central Nervous System irrespective \nof aetiology; (ii) Malignancies \n\n•  Upto 50% of Sum Insured per policy period for claims"
+      },
+      {
+        "score": 0.6343018,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "11.1 \n\nSpecial conditions applicable to Maternity Expenses and New Born Baby Cover \ni. \n\nThese benefits are admissible only if the expenses are incurred in Hospital/Nursing Home as \nin-patients in India. \nSurrogate or vicarious pregnancy is not covered. \nExpenses incurred in connection with voluntary medical termination of pregnancy during the \nfirst twelve weeks from the date of conception are not covered. \nPre-natal and post-natal expenses are not covered unless admitted in Hospital/Nursing Home \nand treatment is taken there. \nPre  Hospitalisation  and  Post-Hospitalisation  benefits  are  not  available  under  these  two \nclauses. \nSubject to the terms & conditions, the Policy covers New Born Baby beyond 90 days only on \npayment of requisite premium. \n\nii. \niii. \n\niv. \n\nv. \n\nvi. \n\nIf this Option is in force in respect of the Insured Person, then the relevant part of Exclusion VI.B.14 will \nbe deemed inoperative for the purpose of this Option. \n\n12. Daily Cash Allowance on Hospitalisation \nWe will pay Daily Cash Allowance to the Insured Person for every continuous and completed period of 24 \nhours of Hospitalisation, subject to the hospitalisation claim being admissible under the policy, as per the \ntable below: \n\nSum Insured \nUpto Rs. 5 Lacs \nAbove  Rs.  5  Lacs  and  upto \nRs. 15 Lacs \nAbove  Rs. 15  Lacs  and  upto \nRs. 25 Lacs \n\nLimit (Rs.) per day \nRs. 500 per day subject to a maximum of Rs. 5000 per policy period \nRs. 1000 per day subject to a maximum of Rs. 10000 per policy period"
+      },
+      {
+        "score": 0.6187365,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Limit (Rs.) per day \nRs. 500 per day subject to a maximum of Rs. 5000 per policy period \nRs. 1000 per day subject to a maximum of Rs. 10000 per policy period \n\nRs. 2000 per day subject to a maximum of Rs. 20000 per policy period \n\nThe aggregate of Daily Cash Allowance during the policy period shall not exceed ‘per policy period limits’ \nas mentioned in the table above. \nDaily Cash Allowance will not be payable for Day Care Procedure claims where the hospitalisation is less \nthan 24 hours. Deductible equivalent to Daily Cash Allowance for the first 24 hours Hospitalization will be \nlevied on each Hospitalisation during the Policy Period. \n\nVI. STANDARD EXCLUSIONS & WAITING PERIODS \n\nA. WAITING PERIODS \nThe Company shall not be liable to make any payment under the policy in connection with or in respect of \nfollowing expenses till the expiry of waiting period mentioned below: \n\n1. Pre-Existing Disease (Code- Excl01): \n\na.  Expenses related to the treatment of a pre-existing disease (PED) and its direct complications shall \nbe excluded until the expiry of 48 months of continuous coverage after the date of inception of \nthe first policy with us.  \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n12 \n\n \n \n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\nb. \n\nc."
+      },
+      {
+        "score": 0.6152333,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "9. Modern Treatment Methods & Advancement in Technologies: \nIn case of an admissible claims under Section V.1/ V.2 as applicable, Expenses incurred on the following \nprocedures  (wherever  medically  indicated)  either  as  in-patient  or  as  part  of  day  care  treatment  in  a \nhospital, shall be covered. The claim shall be subject to additional sub-limits indicated against them in the \ntable below: \n\nTreatment Methods & Advancement in \nTechnology \n\nSr. \nNo. \nA  Uterine Artery Embolization & High Intensity \n\nFocussed Ultrasound (HIFU) \n\nB \n\nBalloon Sinuplasty \n\nC \n\nDeep Brain Stimulation \n\nD  Oral Chemotherapy \n\nE \n\nF \n\nG \n\nImmunotherapy- Monoclonal Antibody to be \ngiven as injection \nIntra vitreal Injections \n\nRobotic Surgeries (including Robotic Assisted \nSurgeries) \n\nH \n\nStereotactic Radio Surgeries \n\nI \n\nBronchial Thermoplasty \n\nJ \n\nK \n\nVaporisation of the Prostate (Green laser \ntreatment or holmium laser treatment) \nIntra Operative Neuro Monitoring (IONM) \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\nAdditional Limit"
+      },
+      {
+        "score": 0.61064416,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "2. Day Care Treatment Cover- \nWe will cover the Medical Expenses incurred on the Insured Person’s Day Care Treatment during the Policy \nPeriod following an Illness or Injury that occurs during the Policy Period provided that:   \n\ni. \n\nii. \n\niii. \n\nThe Medical Expenses are incurred in case of Day Care Treatment or Surgery undertaken for the \nIllness/ condition covered under Base Cover that requires less than 24 hours Hospitalisation due \nto advancement in technology, including for any procedure which requires a period of specialized \nobservation or care after completion of the procedure undertaken by an Insured Person as Day \nCare Treatment. All Day Care Treatments as defined in the Section IV.A.8 of the policy above are \ncovered.  \nThe Day Care Treatment is for Medically Necessary Treatment and follows the written Medical \nAdvice; \nProcedures/treatments usually done on out-patient basis are not payable under the policy even if \nconverted  as  an  in-patient  in  the  hospital  for  more  than  24  hours  or  carried  out  in  Day  Care \nCentres. Diagnostic Services are also not covered under this benefit. \n\n3. Pre-Hospitalisation and Post-Hospitalisation Expenses –  \nWe will cover, on a reimbursement basis, the Insured Person’s \n\na.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n30 days prior to hospitalisation; and  \n\nb.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n60 days after the discharge from the hospital,  \nSubject to a maximum of 10% of Sum Insured, provided that:"
+      },
+      {
+        "score": 0.60453224,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "1.1 Note: \n\na.  PROPORTIONATE  PAYMENT  CLAUSE:  In  case  of  admission  to  a  room  at  rates  exceeding  the \naforesaid limits in Clause V.1.A, the reimbursement/payment of all associated medical expenses \nincurred at the Hospital shall be effected in the same proportion as the admissible rate per day \nbears to the actual rate per day of Room Rent. \nProportionate  Deductions  shall  not  be  applied  in  respect  of  those  hospitals  where  differential \nbilling is not followed or for those expenses where differential billing is not adopted based on the \nroom category. \n\nb.  No payment shall be made under 1.C other than as part of the hospitalisation bill. However, the \nbills raised by Surgeon, Anaesthetist directly and not forming part of the hospital bill shall be paid \nprovided a pre-numbered bill/receipt is produced in support thereof, when such payment is made \nONLY by cheque/ credit card/debit card or digital/online transfer. \n\n1.2 Sub-limit: \n\na.  Cataract Surgery Limit: Expenses in respect of the Cataract surgeries will be restricted to 10% of \nSum Insured subject to maximum of Rs. 50,000/- per eye. This limit is applicable per hospitalisation \n/ surgery. \n\nb.  Mental  Illness  Cover  Limit:  In  case  of  following  mental  illnesses  the  actual  In-patient \nHospitalization expenses will be covered upto 25% of Sum Insured subject to a maximum of Rs. \n3,00,000 per policy year;"
+      }
+    ],
+    [
+      {
+        "score": 0.78469384,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "b. \n\nc. \n\nd.  The waiting period for listed conditions shall apply even if contracted after the policy or declared \n\ne. \n\nand accepted without a specific exclusion. \nIf the Insured Person is continuously covered without any break as defined under the applicable \nnorms on portability stipulated by IRDAI, then waiting period for the same would be reduced to \nthe extent of prior coverage. \n\nf.  List of specific diseases/procedures: \n\nTable A. Two years waiting period  \n\n1.  All internal and external benign tumours, \ncysts, polyps of any kind, including benign \nbreast lumps \n\n2.  Benign ENT disorders  \n\n3.  Benign prostatic hypertrophy \n4.  Cataract  \n\n5.  Acid Peptic diseases \n\n6.  Gout and Rheumatism \n\n7.  Hernia of all types \n8.  Hydrocele \n9.  Non infective Arthritis \n\n10. Piles, Fissures and Fistula-in-ano; \n\nPilonidal sinus \n\n11. Prolapse intervertebral Disc and Spinal \n\nDiseases unless arising from Accident \n\n12. Benign Skin Disorders \n13. Calculus diseases \n14. Treatment for \n\nMenorrhagia/Fibromyoma, Myoma \nand Prolapse of uterus \n\n15. Any treatment for varicose veins and \nulcers including surgical intervention \n\n16. Polycystic ovarian disease \n17. Internal Congenital Anomaly \n\nTable B. Four years waiting period  \n\n1.  Joint Replacement due to Degenerative condition, unless necessitated due to an \n\naccident."
+      },
+      {
+        "score": 0.70002264,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Family Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n12 \n\n \n \n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\nb. \n\nc. \n\nIn  case  of  enhancement  of  sum  insured  the  exclusion  shall  apply  afresh  to  the  extent  of  sum \ninsured increase. \nIf the Insured Person is continuously covered without any break as defined under the portability \nnorms of the extant IRDAI (Health Insurance) Regulations, then waiting period for the same would \nbe reduced to the extent of prior coverage. \n\nd.  Coverage under the policy after the expiry of 48 months for any pre-existing disease is subject to \n\nthe same being declared at the time of application and accepted by us. \n\n2. Specific Disease/ Procedure Waiting Period (Code- Excl02): \n\na.  Expenses related to the treatment of the listed Conditions, surgeries/treatments as per Table A \nand Table B below, shall be excluded until the expiry of 24 months and 48 months respectively of \ncontinuous coverage after the date of inception of the first policy with us. This exclusion shall not \nbe applicable for claims arising due to an accident.  \nIn  case  of  enhancement  of  sum  insured  the  exclusion  shall  apply  afresh  to  the  extent  of  sum \ninsured increase.  \nIf any of the specified disease/procedure falls under the waiting period specified for pre-Existing \ndiseases, then the longer of the two waiting periods shall apply. \n\nb. \n\nc."
+      },
+      {
+        "score": 0.69359314,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "5.  All Neurodegenerative disorders \n\n3. First Thirty Days Waiting Period (Code- Excl03): \n\na.  Expenses  related  to  the  treatment  of  any  illness  within  30  days  from  the  first  policy \n\ncommencement date shall be excluded except claims arising due to an accident. \n\nb.  This exclusion shall not, however, apply if the Insured Person has Continuous Coverage for more \n\nthan twelve months. \n\nc.  The within referred waiting period is made applicable to the enhanced sum insured in the event \n\nof granting higher sum insured subsequently.   \n\nThe exclusions under VI.A.1-3 are subject to Portability Regulations. \n\nB. STANDARD PERMANENT EXCLUSIONS \n\nThe  Company  shall  not  be  liable  to  make  any  payment  under  the  policy,  in  respect  of  any  expenses \nincurred in connection with or in respect of: \n1. \n\nInvestigation & Evaluation (Code- Excl04): \na.  Expenses  related  to  any  admission  primarily  for  diagnostics  and  evaluation  purposes  only  are \n\nexcluded. \n\nb.  Any  diagnostic  expenses  which  are  not  related  or  not  incidental  to  the  current  diagnosis  and \n\ntreatment are excluded. \n\n2.  Rest Cure, rehabilitation and respite care (Code- Excl05): Expenses related to any admission primarily \n\nfor enforced bed rest and not for receiving treatment. This also includes:"
+      },
+      {
+        "score": 0.6776556,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Menorrhagia/Fibromyoma, Myoma \nand Prolapse of uterus \n\n15. Any treatment for varicose veins and \nulcers including surgical intervention \n\n16. Polycystic ovarian disease \n17. Internal Congenital Anomaly \n\nTable B. Four years waiting period  \n\n1.  Joint Replacement due to Degenerative condition, unless necessitated due to an \n\naccident. \n\n2.  Age-related Osteoarthritis & Osteoporosis \n3.  Age-related Macular Degeneration (ARMD) \n4.  Named Mental Illnesses: \n\na.  Schizophrenia (ICD - F20; F21; F25)  \nb.  Bipolar Affective Disorders (ICD - F31; F34)  \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n13 \n\n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\nc.  Depression (ICD - F32; F33)  \nd.  Obsessive Compulsive Disorders (ICD - F42; F60.5)  \ne.  Psychosis (ICD - F 22; F23; F28; F29)  \n\n5.  All Neurodegenerative disorders \n\n3. First Thirty Days Waiting Period (Code- Excl03): \n\na.  Expenses  related  to  the  treatment  of  any  illness  within  30  days  from  the  first  policy \n\ncommencement date shall be excluded except claims arising due to an accident."
+      },
+      {
+        "score": 0.67714846,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "28. NEW BORN BABY means baby born during the Policy Period and is aged upto 90 days. \n29. NON-NETWORK HOSPITALS means any hospital, day care centre or other provider that is not part of \n\nthe network. \n\n30. NOTIFICATION OF CLAIM  is the  process of notifying a claim to the  Insurer or TPA within specified \n\ntimelines through any of the recognised modes of communication. \n\n31. PORTABILITY  means,  the  right  accorded  to  individual  health  insurance  policyholders  (including  all \nmembers under family cover), to transfer the credit gained for pre-existing conditions and time bound \nexclusions, from one Insurer to another Insurer. \n\n32. PRE-EXISTING DISEASE means any condition, ailment, injury or disease:  \n\na.  That is/are diagnosed by a physician within 48 months prior to the effective date of the policy \n\nissued by the Insurer or its reinstatement or \n\nb.  For which medical advice or treatment was recommended by, or received from, a physician within \n48 months prior to the effective date of the policy issued by the Insurer or its reinstatement \n\n33. PRE – HOSPITALISATION MEDICAL EXPENSES \n\nRelevant medical expenses incurred immediately 30 days before the Insured  Person is hospitalised \nprovided that: \na.  Such  Medical  expenses  are  incurred  for  the  same  condition  for  which  the  Insured  Person’s \n\nHospitalisation was required; and \n\nb.  The In-patient Hospitalisation claim for such Hospitalisation is admissible by us. \n\n34. POST-HOSPITALISATION MEDICAL EXPENSES"
+      },
+      {
+        "score": 0.6627664,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "a.  Pre-hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n30 days prior to hospitalisation; and  \n\nb.  Post- hospitalisation Medical Expenses incurred due to an Illness or Injury during the period upto \n\n60 days after the discharge from the hospital,  \nSubject to a maximum of 10% of Sum Insured, provided that:  \n\ni.  We have accepted a claim for primary In-patient Hospitalization under Section V.1 or V.2 above; \nii. \nThe Pre-hospitalisation and Post-hospitalisation Medical Expenses are related to the same Illness \nor Injury. \nThe  date  of  admission  to  the  Hospital  for  the  purpose  of  this  Benefit  shall  be  the  date  of  the \nInsured Person’s first admission to the Hospital in relation to the same Any One Illness.  \n\niii. \n\n4. Ayurvedic/Homeopathic/Unani treatment –  \nWe will pay the reasonable & customary Charges incurred as in-patient for an Insured Person in case of \nMedically  Necessary  Treatment  taken  during  Hospitalisation  subject  to  the  limits  linked  to  the  Sum \nInsured, as mentioned in the table below; \nSum Insured (Rs.) \nUpto 3,00,000 \n>3,00,000 to 15,00,000 \n>15,00,000 \n\nLimit per Policy Period (Rs.)- Upto \n10,000 \n15,000 \n25000 \n\nSubject to the condition that the hospitalisation expenses are admissible only when the  treatment has \nbeen undergone in an AYUSH HOSPITAL as defined hereunder:"
+      },
+      {
+        "score": 0.639485,
+        "file_name": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+        "content": "Limit (Rs.) per day \nRs. 500 per day subject to a maximum of Rs. 5000 per policy period \nRs. 1000 per day subject to a maximum of Rs. 10000 per policy period \n\nRs. 2000 per day subject to a maximum of Rs. 20000 per policy period \n\nThe aggregate of Daily Cash Allowance during the policy period shall not exceed ‘per policy period limits’ \nas mentioned in the table above. \nDaily Cash Allowance will not be payable for Day Care Procedure claims where the hospitalisation is less \nthan 24 hours. Deductible equivalent to Daily Cash Allowance for the first 24 hours Hospitalization will be \nlevied on each Hospitalisation during the Policy Period. \n\nVI. STANDARD EXCLUSIONS & WAITING PERIODS \n\nA. WAITING PERIODS \nThe Company shall not be liable to make any payment under the policy in connection with or in respect of \nfollowing expenses till the expiry of waiting period mentioned below: \n\n1. Pre-Existing Disease (Code- Excl01): \n\na.  Expenses related to the treatment of a pre-existing disease (PED) and its direct complications shall \nbe excluded until the expiry of 48 months of continuous coverage after the date of inception of \nthe first policy with us.  \n\nFamily Medicare Policy Wordings \nUIN: UIIHLIP22070V042122 \n\n12 \n\n \n \n \n \n \n \n \n \n\fUnited India Insurance Company Limited \nCorporate Identity Number: U93090TN1938GOI000108 \nRegistered Office: 24 Whites Road, Chennai – 600014 \nIRDAI REG NO.545 \n\nb. \n\nc."
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================

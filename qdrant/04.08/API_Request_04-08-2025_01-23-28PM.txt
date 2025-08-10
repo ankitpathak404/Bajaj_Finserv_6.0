@@ -1,0 +1,86 @@
+================================================================================
+API REQUEST LOG - 2025-08-04 13:23:28
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-04T13:23:28.172408
+TOTAL PROCESSING TIME: 2.976 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf?sv=2023-01-03&st=2025-07-22T10%3A17%3A39Z&se=2025-08-23T10%3A17%3A00Z&sr=b&sp=r&sig=dA7BEMIZg3WcePcckBOb4QjfxK%2B4rIfxBs2%2F%2BNwoPjQ%3D
+Extracted Filename: Family Medicare Policy (UIN- UIIHLIP22070V042122) 1.pdf
+Matched File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. Is Non-infective Arthritis covered?
+2. I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?
+3. Is abortion covered?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Is Non-infective Arthritis covered?
+A1: Yes, Non-infective Arthritis is covered, but it is subject to a two-year waiting period as per Table A.
+--------------------------------------------------
+Q2: I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?
+A2: You can raise a claim for Hydrocele. However, please note that the policy wordings don't specifically mention Hydrocele as a condition that would attract underwriting loading. The list of acceptable conditions with applicable underwriting loading is provided in section 10 of the policy wordings. If Hydrocele is not listed, it's likely that it won't be considered a pre-existing condition that would impact your premium.
+--------------------------------------------------
+Q3: Is abortion covered?
+A3: No, abortion is not covered under this policy, except for lawful medical termination of pregnancy during the first twelve weeks from the date of conception.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-04T13:23:28.172408",
+  "request_start_time": "2025-08-04T13:23:25.195782",
+  "total_processing_time_seconds": 2.97624135017395,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf?sv=2023-01-03&st=2025-07-22T10%3A17%3A39Z&se=2025-08-23T10%3A17%3A00Z&sr=b&sp=r&sig=dA7BEMIZg3WcePcckBOb4QjfxK%2B4rIfxBs2%2F%2BNwoPjQ%3D",
+    "extracted_filename": "Family Medicare Policy (UIN- UIIHLIP22070V042122) 1.pdf",
+    "matched_file": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "Is Non-infective Arthritis covered?",
+    "I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?",
+    "Is abortion covered?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "Is Non-infective Arthritis covered?",
+      "answer": "Yes, Non-infective Arthritis is covered, but it is subject to a two-year waiting period as per Table A."
+    },
+    {
+      "question": "I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?",
+      "answer": "You can raise a claim for Hydrocele. However, please note that the policy wordings don't specifically mention Hydrocele as a condition that would attract underwriting loading. The list of acceptable conditions with applicable underwriting loading is provided in section 10 of the policy wordings. If Hydrocele is not listed, it's likely that it won't be considered a pre-existing condition that would impact your premium."
+    },
+    {
+      "question": "Is abortion covered?",
+      "answer": "No, abortion is not covered under this policy, except for lawful medical termination of pregnancy during the first twelve weeks from the date of conception."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

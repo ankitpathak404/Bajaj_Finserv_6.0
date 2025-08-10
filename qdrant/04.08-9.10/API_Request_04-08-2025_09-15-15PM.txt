@@ -1,0 +1,163 @@
+================================================================================
+API REQUEST LOG - 2025-08-04 21:15:15
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-04T21:15:15.743169
+TOTAL PROCESSING TIME: 5.968 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D
+Extracted Filename: indian_constitution.pdf
+Matched File: indian_constitution.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (10 total):
+------------------------------
+1. If my car is stolen, what case will it be in law?
+2. If I am arrested without a warrant, is that legal?
+3. If someone denies me a job because of my caste, is that allowed?
+4. If the government takes my land for a project, can I stop it?
+5. If my child is forced to work in a factory, is that legal?
+6. If I am stopped from speaking at a protest, is that against my rights?
+7. If a religious place stops me from entering because I'm a woman, is that constitutional?
+8. If I change my religion, can the government stop me?
+9. If the police torture someone in custody, what right is being violated?
+10. If I'm denied admission to a public university because I'm from a backward community, can I do something?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: If my car is stolen, what case will it be in law?
+A1: If your car is stolen, the case will likely fall under the jurisdiction of the local police and courts. In India, the police will investigate and file a First Information Report (FIR) under Section 379 of the Indian Penal Code (IPC), which deals with theft. The case will then be heard in a court of law, and the court will decide on the appropriate course of action, which may include recovering the stolen vehicle, prosecuting the thief, or awarding compensation to the owner.
+--------------------------------------------------
+Q2: If I am arrested without a warrant, is that legal?
+A2: According to Article 22 of the Constitution of India, no person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest. However, there are exceptions for preventive detention under certain laws. If you are arrested without a warrant, it's likely not in accordance with Article 22, but the specific circumstances would need to be examined.
+--------------------------------------------------
+Q3: If someone denies me a job because of my caste, is that allowed?
+A3: Denying someone a job because of their caste is not allowed under the Indian Constitution. Article 16 of the Constitution specifically prohibits discrimination against any citizen on grounds of caste, religion, race, sex, descent, place of birth, or residence.
+--------------------------------------------------
+Q4: If the government takes my land for a project, can I stop it?
+A4: According to the Constitution of India, the government can take your land for a project if it's for a public purpose and in accordance with the law. However, you may have some rights and protections, such as the right to compensation, depending on the specific circumstances and the laws in place.
+
+In general, the government can acquire land for projects like roads, bridges, canals, and other infrastructure development, but they must follow the procedures outlined in the law and provide fair compensation to the landowners.
+
+If you're concerned about the acquisition of your land, you may want to consult with a lawyer or local authorities to understand your specific rights and options.
+--------------------------------------------------
+Q5: If my child is forced to work in a factory, is that legal?
+A5: Forcing a child to work in a factory is a clear violation of Article 24 of the Indian Constitution, which prohibits the employment of children in factories, mines, or any other hazardous employment. This is a fundamental right protected by the Constitution, and any contravention of this provision is an offense punishable by law.
+--------------------------------------------------
+Q6: If I am stopped from speaking at a protest, is that against my rights?
+A6: The document you provided is a part of the Constitution of India, specifically Article 21A, which guarantees the right to free and compulsory education, and Articles 22, 96, 181, 182, and 183, which deal with the rights and duties of the Speaker and Deputy Speaker of the House of the People and the Legislative Assembly.
+
+Regarding your question, "If I am stopped from speaking at a protest, is that against my rights?" - The Constitution of India does not explicitly mention the right to protest or freedom of speech in public gatherings. However, it does guarantee the right to freedom of speech and expression under Article 19(1)(a), which states that "all citizens shall have the right to freedom of speech and expression."
+
+If you are stopped from speaking at a protest, it may be a restriction on your right to freedom of speech and expression. However, the government or authorities may impose reasonable restrictions on this right under Article 19(2), which lists certain grounds for such restrictions, including public order, decency, or morality.
+
+It's essential to note that the specific circumstances and context of the protest and the restriction on your speech would be crucial in determining whether your rights have been violated. If you believe your rights have been infringed upon, you may want to seek legal advice or consult with a human rights organization.
+--------------------------------------------------
+Q7: If a religious place stops me from entering because I'm a woman, is that constitutional?
+A7: The Indian Constitution guarantees equality before the law and prohibits discrimination on grounds of sex, among others. Article 15(1) states that the State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth, or any of them.
+
+If a religious place stops you from entering because you're a woman, it may be considered a form of sex-based discrimination, which is prohibited under the Constitution. However, the Constitution also allows for certain exceptions, such as making special provisions for women and children (Article 15(3)).
+
+In this case, if the restriction is not based on a legitimate reason or if it's not a special provision for women, it could be considered a violation of your right to equality. You may want to consider seeking advice from a legal expert or filing a complaint with the relevant authorities.
+--------------------------------------------------
+Q8: If I change my religion, can the government stop me?
+A8: The Indian Constitution guarantees freedom of religion under Article 25. This means that individuals have the right to change their religion without any government interference or restriction. The government can only intervene if the change of religion affects public order, morality, or health.
+--------------------------------------------------
+Q9: If the police torture someone in custody, what right is being violated?
+A9: If the police torture someone in custody, the right being violated is likely the right against torture and cruel, inhuman, or degrading treatment, which is not explicitly mentioned in the provided document. However, the right to be free from torture and cruel, inhuman, or degrading treatment is a fundamental right protected by international law and many national constitutions.
+--------------------------------------------------
+Q10: If I'm denied admission to a public university because I'm from a backward community, can I do something?
+A10: You can consider filing a complaint with the National Commission for Backward Classes (NCBC) or the State Commission for Backward Classes, if available. They can help you understand your rights and the procedures for addressing such issues. You may also want to consult with a lawyer or a human rights organization for guidance on your specific situation.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-04T21:15:15.743169",
+  "request_start_time": "2025-08-04T21:15:09.774658",
+  "total_processing_time_seconds": 5.9680023193359375,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+    "extracted_filename": "indian_constitution.pdf",
+    "matched_file": "indian_constitution.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "If my car is stolen, what case will it be in law?",
+    "If I am arrested without a warrant, is that legal?",
+    "If someone denies me a job because of my caste, is that allowed?",
+    "If the government takes my land for a project, can I stop it?",
+    "If my child is forced to work in a factory, is that legal?",
+    "If I am stopped from speaking at a protest, is that against my rights?",
+    "If a religious place stops me from entering because I'm a woman, is that constitutional?",
+    "If I change my religion, can the government stop me?",
+    "If the police torture someone in custody, what right is being violated?",
+    "If I'm denied admission to a public university because I'm from a backward community, can I do something?"
+  ],
+  "total_questions": 10,
+  "responses": [
+    {
+      "question": "If my car is stolen, what case will it be in law?",
+      "answer": "If your car is stolen, the case will likely fall under the jurisdiction of the local police and courts. In India, the police will investigate and file a First Information Report (FIR) under Section 379 of the Indian Penal Code (IPC), which deals with theft. The case will then be heard in a court of law, and the court will decide on the appropriate course of action, which may include recovering the stolen vehicle, prosecuting the thief, or awarding compensation to the owner."
+    },
+    {
+      "question": "If I am arrested without a warrant, is that legal?",
+      "answer": "According to Article 22 of the Constitution of India, no person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest. However, there are exceptions for preventive detention under certain laws. If you are arrested without a warrant, it's likely not in accordance with Article 22, but the specific circumstances would need to be examined."
+    },
+    {
+      "question": "If someone denies me a job because of my caste, is that allowed?",
+      "answer": "Denying someone a job because of their caste is not allowed under the Indian Constitution. Article 16 of the Constitution specifically prohibits discrimination against any citizen on grounds of caste, religion, race, sex, descent, place of birth, or residence."
+    },
+    {
+      "question": "If the government takes my land for a project, can I stop it?",
+      "answer": "According to the Constitution of India, the government can take your land for a project if it's for a public purpose and in accordance with the law. However, you may have some rights and protections, such as the right to compensation, depending on the specific circumstances and the laws in place.\n\nIn general, the government can acquire land for projects like roads, bridges, canals, and other infrastructure development, but they must follow the procedures outlined in the law and provide fair compensation to the landowners.\n\nIf you're concerned about the acquisition of your land, you may want to consult with a lawyer or local authorities to understand your specific rights and options."
+    },
+    {
+      "question": "If my child is forced to work in a factory, is that legal?",
+      "answer": "Forcing a child to work in a factory is a clear violation of Article 24 of the Indian Constitution, which prohibits the employment of children in factories, mines, or any other hazardous employment. This is a fundamental right protected by the Constitution, and any contravention of this provision is an offense punishable by law."
+    },
+    {
+      "question": "If I am stopped from speaking at a protest, is that against my rights?",
+      "answer": "The document you provided is a part of the Constitution of India, specifically Article 21A, which guarantees the right to free and compulsory education, and Articles 22, 96, 181, 182, and 183, which deal with the rights and duties of the Speaker and Deputy Speaker of the House of the People and the Legislative Assembly.\n\nRegarding your question, \"If I am stopped from speaking at a protest, is that against my rights?\" - The Constitution of India does not explicitly mention the right to protest or freedom of speech in public gatherings. However, it does guarantee the right to freedom of speech and expression under Article 19(1)(a), which states that \"all citizens shall have the right to freedom of speech and expression.\"\n\nIf you are stopped from speaking at a protest, it may be a restriction on your right to freedom of speech and expression. However, the government or authorities may impose reasonable restrictions on this right under Article 19(2), which lists certain grounds for such restrictions, including public order, decency, or morality.\n\nIt's essential to note that the specific circumstances and context of the protest and the restriction on your speech would be crucial in determining whether your rights have been violated. If you believe your rights have been infringed upon, you may want to seek legal advice or consult with a human rights organization."
+    },
+    {
+      "question": "If a religious place stops me from entering because I'm a woman, is that constitutional?",
+      "answer": "The Indian Constitution guarantees equality before the law and prohibits discrimination on grounds of sex, among others. Article 15(1) states that the State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth, or any of them.\n\nIf a religious place stops you from entering because you're a woman, it may be considered a form of sex-based discrimination, which is prohibited under the Constitution. However, the Constitution also allows for certain exceptions, such as making special provisions for women and children (Article 15(3)).\n\nIn this case, if the restriction is not based on a legitimate reason or if it's not a special provision for women, it could be considered a violation of your right to equality. You may want to consider seeking advice from a legal expert or filing a complaint with the relevant authorities."
+    },
+    {
+      "question": "If I change my religion, can the government stop me?",
+      "answer": "The Indian Constitution guarantees freedom of religion under Article 25. This means that individuals have the right to change their religion without any government interference or restriction. The government can only intervene if the change of religion affects public order, morality, or health."
+    },
+    {
+      "question": "If the police torture someone in custody, what right is being violated?",
+      "answer": "If the police torture someone in custody, the right being violated is likely the right against torture and cruel, inhuman, or degrading treatment, which is not explicitly mentioned in the provided document. However, the right to be free from torture and cruel, inhuman, or degrading treatment is a fundamental right protected by international law and many national constitutions."
+    },
+    {
+      "question": "If I'm denied admission to a public university because I'm from a backward community, can I do something?",
+      "answer": "You can consider filing a complaint with the National Commission for Backward Classes (NCBC) or the State Commission for Backward Classes, if available. They can help you understand your rights and the procedures for addressing such issues. You may also want to consult with a lawyer or a human rights organization for guidance on your specific situation."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 10,
+  "parallel_processing": true
+}
+
+================================================================================

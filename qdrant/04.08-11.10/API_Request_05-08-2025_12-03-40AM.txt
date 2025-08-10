@@ -1,0 +1,86 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 00:03:40
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T00:03:40.121079
+TOTAL PROCESSING TIME: 3.839 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf?sv=2023-01-03&st=2025-07-22T10%3A17%3A39Z&se=2025-08-23T10%3A17%3A00Z&sr=b&sp=r&sig=dA7BEMIZg3WcePcckBOb4QjfxK%2B4rIfxBs2%2F%2BNwoPjQ%3D
+Extracted Filename: Family Medicare Policy (UIN- UIIHLIP22070V042122) 1.pdf
+Matched File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. Is Non-infective Arthritis covered?
+2. I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?
+3. Is abortion covered?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Is Non-infective Arthritis covered?
+A1: Non-infective Arthritis is covered under the policy but with a **2-year waiting period**. It is listed in "Table A" of the document under conditions requiring this waiting period.
+--------------------------------------------------
+Q2: I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?
+A2: The provided document does not specify coverage for Hydrocele or its underwriting criteria. Policy renewals are allowed without denial based on past claims, but coverage for specific medical conditions depends on the policy's terms and underwriting guidelines. Since Hydrocele is not listed in the pre-existing conditions or exclusions mentioned, you should contact United India Insurance directly to confirm eligibility for this claim.
+--------------------------------------------------
+Q3: Is abortion covered?
+A3: Abortion (voluntary medical termination of pregnancy) during the first twelve weeks from the date of conception is explicitly **not covered** under the policy. Coverage for other maternity-related expenses is subject to specific conditions outlined in the document.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T00:03:40.121079",
+  "request_start_time": "2025-08-05T00:03:36.281718",
+  "total_processing_time_seconds": 3.8389835357666016,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf?sv=2023-01-03&st=2025-07-22T10%3A17%3A39Z&se=2025-08-23T10%3A17%3A00Z&sr=b&sp=r&sig=dA7BEMIZg3WcePcckBOb4QjfxK%2B4rIfxBs2%2F%2BNwoPjQ%3D",
+    "extracted_filename": "Family Medicare Policy (UIN- UIIHLIP22070V042122) 1.pdf",
+    "matched_file": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "Is Non-infective Arthritis covered?",
+    "I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?",
+    "Is abortion covered?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "Is Non-infective Arthritis covered?",
+      "answer": "Non-infective Arthritis is covered under the policy but with a **2-year waiting period**. It is listed in \"Table A\" of the document under conditions requiring this waiting period."
+    },
+    {
+      "question": "I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?",
+      "answer": "The provided document does not specify coverage for Hydrocele or its underwriting criteria. Policy renewals are allowed without denial based on past claims, but coverage for specific medical conditions depends on the policy's terms and underwriting guidelines. Since Hydrocele is not listed in the pre-existing conditions or exclusions mentioned, you should contact United India Insurance directly to confirm eligibility for this claim."
+    },
+    {
+      "question": "Is abortion covered?",
+      "answer": "Abortion (voluntary medical termination of pregnancy) during the first twelve weeks from the date of conception is explicitly **not covered** under the policy. Coverage for other maternity-related expenses is subject to specific conditions outlined in the document."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

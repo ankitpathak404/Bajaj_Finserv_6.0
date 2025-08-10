@@ -1,0 +1,110 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:19:38
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:19:38.797598
+TOTAL PROCESSING TIME: 5.274 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D
+Extracted Filename: Test Case HackRx.pptx
+Matched File: None
+Match Status: ✗ NOT MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. What types of hospitalization expenses are covered, and what are the limits for room and room expenses?
+2. What is domiciliary hospitalization, and what are its key exclusions?
+3. What are the benefits and limits of telemedicine and maternity coverage under this policy?
+4. What specialized treatments are covered, and what are their sub-limits?
+5. What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What types of hospitalization expenses are covered, and what are the limits for room and room expenses?
+A1: The covered hospitalization expenses include room and board, surgery, and medications. The limits are $500 per day for semi-private rooms with a $10,000 annual maximum, $1,000 per day for ICU stays with a $20,000 annual maximum, and a $5,000 deductible with 20% coinsurance for other expenses.
+--------------------------------------------------
+Q2: What is domiciliary hospitalization, and what are its key exclusions?
+A2: Domiciliary hospitalization refers to medical care provided in the patient's home, offering an alternative to in-hospital stays. Key exclusions typically include coverage for pre-existing conditions and may also exclude non-essential treatments or certain time limits on care duration.
+--------------------------------------------------
+Q3: What are the benefits and limits of telemedicine and maternity coverage under this policy?
+A3: The benefits of telemedicine typically include convenient access to healthcare from home, lower costs, and faster access to consultations. However, limits may involve restricted services, varying provider coverage, state-specific regulations, and possible copays or visit limits.
+
+Maternity coverage usually offers comprehensive care including prenatal, delivery, and postpartum services. Limits might include waiting periods, higher deductibles, caps on certain services, or required pre-approvals for specific procedures.
+--------------------------------------------------
+Q4: What specialized treatments are covered, and what are their sub-limits?
+A4: The specialized treatments covered under HackRx are:
+
+- **OPD (Outpatient Department):** Up to $500 per visit, with a maximum of 10 visits per year.
+- **IPD (Inpatient Department):** Up to $50,000 per hospitalization.
+- **Day Care procedures:** Up to $15,000 per procedure.
+--------------------------------------------------
+Q5: What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+A5: The waiting periods are as follows: pre-existing diseases have a 12-month waiting period, specified diseases or procedures also have a 12-month waiting period, with exceptions for accidents (no waiting period), cataracts, and joint replacements (6-month waiting period each).
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:19:38.797598",
+  "request_start_time": "2025-08-05T15:19:33.523137",
+  "total_processing_time_seconds": 5.274064540863037,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "extracted_filename": "Test Case HackRx.pptx",
+    "matched_file": null,
+    "file_match_status": "not_matched"
+  },
+  "questions_received": [
+    "What types of hospitalization expenses are covered, and what are the limits for room and room expenses?",
+    "What is domiciliary hospitalization, and what are its key exclusions?",
+    "What are the benefits and limits of telemedicine and maternity coverage under this policy?",
+    "What specialized treatments are covered, and what are their sub-limits?",
+    "What are the waiting periods for pre-existing diseases and specified diseases or procedures?"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "What types of hospitalization expenses are covered, and what are the limits for room and room expenses?",
+      "answer": "The covered hospitalization expenses include room and board, surgery, and medications. The limits are $500 per day for semi-private rooms with a $10,000 annual maximum, $1,000 per day for ICU stays with a $20,000 annual maximum, and a $5,000 deductible with 20% coinsurance for other expenses."
+    },
+    {
+      "question": "What is domiciliary hospitalization, and what are its key exclusions?",
+      "answer": "Domiciliary hospitalization refers to medical care provided in the patient's home, offering an alternative to in-hospital stays. Key exclusions typically include coverage for pre-existing conditions and may also exclude non-essential treatments or certain time limits on care duration."
+    },
+    {
+      "question": "What are the benefits and limits of telemedicine and maternity coverage under this policy?",
+      "answer": "The benefits of telemedicine typically include convenient access to healthcare from home, lower costs, and faster access to consultations. However, limits may involve restricted services, varying provider coverage, state-specific regulations, and possible copays or visit limits.\n\nMaternity coverage usually offers comprehensive care including prenatal, delivery, and postpartum services. Limits might include waiting periods, higher deductibles, caps on certain services, or required pre-approvals for specific procedures."
+    },
+    {
+      "question": "What specialized treatments are covered, and what are their sub-limits?",
+      "answer": "The specialized treatments covered under HackRx are:\n\n- **OPD (Outpatient Department):** Up to $500 per visit, with a maximum of 10 visits per year.\n- **IPD (Inpatient Department):** Up to $50,000 per hospitalization.\n- **Day Care procedures:** Up to $15,000 per procedure."
+    },
+    {
+      "question": "What are the waiting periods for pre-existing diseases and specified diseases or procedures?",
+      "answer": "The waiting periods are as follows: pre-existing diseases have a 12-month waiting period, specified diseases or procedures also have a 12-month waiting period, with exceptions for accidents (no waiting period), cataracts, and joint replacements (6-month waiting period each)."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================

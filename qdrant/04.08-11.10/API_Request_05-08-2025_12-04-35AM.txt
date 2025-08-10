@@ -1,0 +1,202 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 00:04:35
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T00:04:35.439194
+TOTAL PROCESSING TIME: 8.037 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/principia_newton.pdf?sv=2023-01-03&st=2025-07-28T07%3A20%3A32Z&se=2026-07-29T07%3A20%3A00Z&sr=b&sp=r&sig=V5I1QYyigoxeUMbnUKsdEaST99F5%2FDfo7wpKg9XXF5w%3D
+Extracted Filename: principia_newton.pdf
+Matched File: principia_newton.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (12 total):
+------------------------------
+1. How does Newton define 'quantity of motion' and how is it distinct from 'force'?
+2. According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?
+3. How does Newton derive Kepler's Second Law (equal areas in equal times) from his laws of motion and gravitation?
+4. How does Newton demonstrate that gravity is inversely proportional to the square of the distance between two masses?
+5. What is Newton's argument for why gravitational force must act on all masses universally?
+6. How does Newton explain the perturbation of planetary orbits due to other planets?
+7. What mathematical tools did Newton use in Principia that were precursors to calculus, and why didn't he use standard calculus notation?
+8. How does Newton use the concept of centripetal force to explain orbital motion?
+9. How does Newton handle motion in resisting media, such as air or fluids?
+10. In what way does Newton's notion of absolute space and time differ from relative motion, and how does it support his laws?
+11. Who was the grandfather of Isaac Newton?
+12. Do we know any other descent of Isaac Newton apart from his grandfather?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: How does Newton define 'quantity of motion' and how is it distinct from 'force'?
+A1: Newton defines "quantity of motion" (now called momentum) as the product of a body's mass and its velocity. It measures the "motion" of an object, combining both its material quantity and speed. For example, doubling the mass or velocity doubles the motion, and doubling both makes it four times greater.
+
+"Force," in contrast, is what *alters* this motion. Newton distinguishes types of force (e.g., centripetal, motive, accelerative) as causes of acceleration or change in velocity. While motion quantifies the state of movement itself, force quantifies the *cause* that changes that state. Force is proportional to the rate of change of motion (as in his second law: force = mass × acceleration). 
+
+In short:  
+- **Quantity of motion** = mass × velocity (a measure of movement).  
+- **Force** = the agent that changes this motion (e.g., pushing, pulling).
+--------------------------------------------------
+Q2: According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?
+A2: Newton’s three laws of motion are foundational to celestial mechanics:  
+1. **First Law (Inertia)**: A body remains at rest or in uniform motion unless acted upon by a force. In celestial mechanics, this explains why planets move in predictable paths unless influenced by gravitational forces.  
+2. **Second Law (F=ma)**: Force equals mass times acceleration. This governs how gravitational forces between celestial bodies (e.g., the Sun and planets) create accelerations that shape orbits.  
+3. **Third Law (Action-Reaction)**: Every action has an equal and opposite reaction. This ensures mutual gravitational attraction between bodies (e.g., Earth and Moon), maintaining stable orbital systems.  
+
+These laws, combined with Newton’s law of universal gravitation, explain Kepler’s laws of planetary motion, tidal forces, and the dynamics of comets and satellites.
+--------------------------------------------------
+Q3: How does Newton derive Kepler's Second Law (equal areas in equal times) from his laws of motion and gravitation?
+A3: Newton derived Kepler's Second Law by showing that a central gravitational force (directed toward the Sun) conserves angular momentum. Using his laws of motion, he demonstrated that such a force produces no torque, so angular momentum remains constant. This implies the rate at which a planet sweeps out area (dA/dt) is constant, leading to equal areas in equal times. Proposition I in *Principia* formalizes this through geometric reasoning, proving that any body under a central force must obey this area-time proportionality.
+--------------------------------------------------
+Q4: How does Newton demonstrate that gravity is inversely proportional to the square of the distance between two masses?
+A4: Newton demonstrated the inverse-square law of gravity by analyzing the gravitational interactions between two spheres. He showed that if each particle of a planet exerts a force inversely proportional to the square of the distance from another particle, the total gravitational force between two spherically symmetric masses behaves as though all their mass were concentrated at their centers. This result relies on his **shell theorem** (Propositions LXX and LXXI in *Principia*), which proves that a uniform spherical shell exerts no net force on an internal object and acts as a point mass for external objects. By combining these principles, Newton concluded that the total gravitational force between two masses follows the inverse-square law relative to the distance between their centers.
+--------------------------------------------------
+Q5: What is Newton's argument for why gravitational force must act on all masses universally?
+A5: Newton argues that gravitational force must act universally because observed phenomena—terrestrial gravity, lunar motion, planetary orbits, and comet trajectories—all align with a mutual, mass-proportional attraction. He reasons that since celestial and earthly bodies interact gravitationally in consistent, quantifiable ways (e.g., the moon pulls Earth’s seas as Earth pulls the moon), this principle must apply to *all* matter. He dismisses objections about unobserved small-scale gravity (e.g., between everyday objects) by noting their forces are too weak relative to Earth’s, but mathematically demonstrates that the law holds universally through inverse-square scaling and compositional aggregation (e.g., planetary gravity arises from summed contributions of its parts).
+--------------------------------------------------
+Q6: How does Newton explain the perturbation of planetary orbits due to other planets?
+A6: Newton explains planetary orbital perturbations as resulting from mutual gravitational interactions. When a planet (e.g., P) is influenced by another body (e.g., S), the gravitational force acts in two components:  
+1. **In-plane perturbation** (longitude): A force component (LM) within the orbital plane alters the planet's motion along its orbit.  
+2. **Out-of-plane perturbation** (latitude): A perpendicular force component (NM) pulls the planet slightly out of its orbital plane.  
+
+These perturbations depend on the relative positions and distances of the bodies, with stronger effects when gravitational forces deviate from the inverse-square law (e.g., due to non-uniform mass distributions). Newton confirmed this through Kepler’s laws and observed orbital data, showing that deviations align with gravitational interactions between planets.
+--------------------------------------------------
+Q7: What mathematical tools did Newton use in Principia that were precursors to calculus, and why didn't he use standard calculus notation?
+A7: Newton employed geometric methods and his own conceptual framework of "fluxions" (rates of change) and "fluents" (accumulated quantities) in the *Principia*, which prefigured calculus. These tools allowed him to analyze motion and forces without relying on formal calculus notation. 
+
+He avoided standard calculus notation (like Leibniz’s *dx/dy*) because:  
+1. **Timing**: Calculus was still in its infancy; Leibniz’s notation emerged later, and Newton’s own fluxionary symbols were not yet standardized or widely shared.  
+2. **Accessibility**: The *Principia* used classical geometric proofs to align with the mathematical expectations of his era, ensuring broader acceptance among scholars unfamiliar with new analytical methods.  
+3. **Controversy**: Newton was cautious about promoting his fluxionary calculus publicly, partly due to disputes over priority with Leibniz, and partly to avoid undermining the rigor of his physical theories with unproven mathematical tools.  
+
+His approach prioritized clarity and tradition, even as it laid the groundwork for calculus.
+--------------------------------------------------
+Q8: How does Newton use the concept of centripetal force to explain orbital motion?
+A8: Newton explains orbital motion by equating the centripetal force required to keep an object in a curved path (like a planet around the Sun) to the gravitational force. He shows that if a force acts toward a central point (e.g., the Sun) and varies with distance (e.g., inverse-square law), it can sustain stable orbits. For example, in a circular orbit, the centripetal force balances the gravitational pull, while in elliptical orbits, the force’s variation with distance ensures the object continuously "falls" toward the center but never escapes. This ties Kepler’s laws of planetary motion to the mathematical reality of centripetal force, proving gravity as the mechanism.
+--------------------------------------------------
+Q9: How does Newton handle motion in resisting media, such as air or fluids?
+A9: Newton analyzed motion in resisting media by distinguishing two components of fluid resistance:  
+1. **Density-based resistance**, proportional to the **square of velocity** (dominant at high speeds).  
+2. **Tenacity-based resistance**, a **constant force** independent of velocity (arising from fluid cohesion).  
+
+He derived mathematical relationships for these in *Propositions VIII and IX*, showing how they combine to affect motion. For example, in a resisting medium, the distance traveled differs from non-resisting cases via hyperbolic areas (Corollaries 2–4). Shapes also matter: streamlined bodies face less resistance than blunt ones, especially in elastic fluids.  
+
+The analysis assumes non-elastic fluids and deep immersion, avoiding complexities like surface waves or fluid elasticity.
+--------------------------------------------------
+Q10: In what way does Newton's notion of absolute space and time differ from relative motion, and how does it support his laws?
+A10: Newton’s absolute space and time are fixed, unchanging frameworks independent of observers or objects. Absolute time flows uniformly, while absolute space is immovable and unchanging. Relative motion, however, depends on the observer’s frame (e.g., a ship’s motion). 
+
+This distinction supports Newton’s laws by providing a consistent foundation. For example:  
+- **First Law (Inertia):** Requires absolute space to define true rest or uniform motion.  
+- **Second Law (F=ma):** Acceleration must be measured against absolute space to ensure force calculations are objective.  
+- **Third Law (Action-Reaction):** Forces act in absolute space, ensuring mutual interactions are consistent.  
+
+Newton’s scholium emphasizes that absolute motion (e.g., circular motion) produces measurable effects like centrifugal force, distinguishing it from relative motion. This framework ensures his laws apply universally, independent of observers’ relative positions or motions.
+--------------------------------------------------
+Q11: Who was the grandfather of Isaac Newton?
+A11: Robert Newton was the grandfather of Isaac Newton.
+--------------------------------------------------
+Q12: Do we know any other descent of Isaac Newton apart from his grandfather?
+A12: The document states that Sir Isaac Newton's descent can only be traced with certainty to his grandfather, Robert Newton. Beyond that, two family traditions suggest possible Scottish or Lancashire origins, but no confirmed relatives are named. After Newton’s death, his estate was divided among his four nephews and four nieces (half-blood, through his mother’s side), and the family estates passed to John Newton, the heir-at-law, whose great-grandfather was Newton’s uncle. No further direct descendants of Newton himself are mentioned.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T00:04:35.439194",
+  "request_start_time": "2025-08-05T00:04:27.401716",
+  "total_processing_time_seconds": 8.037012338638306,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/principia_newton.pdf?sv=2023-01-03&st=2025-07-28T07%3A20%3A32Z&se=2026-07-29T07%3A20%3A00Z&sr=b&sp=r&sig=V5I1QYyigoxeUMbnUKsdEaST99F5%2FDfo7wpKg9XXF5w%3D",
+    "extracted_filename": "principia_newton.pdf",
+    "matched_file": "principia_newton.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "How does Newton define 'quantity of motion' and how is it distinct from 'force'?",
+    "According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?",
+    "How does Newton derive Kepler's Second Law (equal areas in equal times) from his laws of motion and gravitation?",
+    "How does Newton demonstrate that gravity is inversely proportional to the square of the distance between two masses?",
+    "What is Newton's argument for why gravitational force must act on all masses universally?",
+    "How does Newton explain the perturbation of planetary orbits due to other planets?",
+    "What mathematical tools did Newton use in Principia that were precursors to calculus, and why didn't he use standard calculus notation?",
+    "How does Newton use the concept of centripetal force to explain orbital motion?",
+    "How does Newton handle motion in resisting media, such as air or fluids?",
+    "In what way does Newton's notion of absolute space and time differ from relative motion, and how does it support his laws?",
+    "Who was the grandfather of Isaac Newton?",
+    "Do we know any other descent of Isaac Newton apart from his grandfather?"
+  ],
+  "total_questions": 12,
+  "responses": [
+    {
+      "question": "How does Newton define 'quantity of motion' and how is it distinct from 'force'?",
+      "answer": "Newton defines \"quantity of motion\" (now called momentum) as the product of a body's mass and its velocity. It measures the \"motion\" of an object, combining both its material quantity and speed. For example, doubling the mass or velocity doubles the motion, and doubling both makes it four times greater.\n\n\"Force,\" in contrast, is what *alters* this motion. Newton distinguishes types of force (e.g., centripetal, motive, accelerative) as causes of acceleration or change in velocity. While motion quantifies the state of movement itself, force quantifies the *cause* that changes that state. Force is proportional to the rate of change of motion (as in his second law: force = mass × acceleration). \n\nIn short:  \n- **Quantity of motion** = mass × velocity (a measure of movement).  \n- **Force** = the agent that changes this motion (e.g., pushing, pulling)."
+    },
+    {
+      "question": "According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?",
+      "answer": "Newton’s three laws of motion are foundational to celestial mechanics:  \n1. **First Law (Inertia)**: A body remains at rest or in uniform motion unless acted upon by a force. In celestial mechanics, this explains why planets move in predictable paths unless influenced by gravitational forces.  \n2. **Second Law (F=ma)**: Force equals mass times acceleration. This governs how gravitational forces between celestial bodies (e.g., the Sun and planets) create accelerations that shape orbits.  \n3. **Third Law (Action-Reaction)**: Every action has an equal and opposite reaction. This ensures mutual gravitational attraction between bodies (e.g., Earth and Moon), maintaining stable orbital systems.  \n\nThese laws, combined with Newton’s law of universal gravitation, explain Kepler’s laws of planetary motion, tidal forces, and the dynamics of comets and satellites."
+    },
+    {
+      "question": "How does Newton derive Kepler's Second Law (equal areas in equal times) from his laws of motion and gravitation?",
+      "answer": "Newton derived Kepler's Second Law by showing that a central gravitational force (directed toward the Sun) conserves angular momentum. Using his laws of motion, he demonstrated that such a force produces no torque, so angular momentum remains constant. This implies the rate at which a planet sweeps out area (dA/dt) is constant, leading to equal areas in equal times. Proposition I in *Principia* formalizes this through geometric reasoning, proving that any body under a central force must obey this area-time proportionality."
+    },
+    {
+      "question": "How does Newton demonstrate that gravity is inversely proportional to the square of the distance between two masses?",
+      "answer": "Newton demonstrated the inverse-square law of gravity by analyzing the gravitational interactions between two spheres. He showed that if each particle of a planet exerts a force inversely proportional to the square of the distance from another particle, the total gravitational force between two spherically symmetric masses behaves as though all their mass were concentrated at their centers. This result relies on his **shell theorem** (Propositions LXX and LXXI in *Principia*), which proves that a uniform spherical shell exerts no net force on an internal object and acts as a point mass for external objects. By combining these principles, Newton concluded that the total gravitational force between two masses follows the inverse-square law relative to the distance between their centers."
+    },
+    {
+      "question": "What is Newton's argument for why gravitational force must act on all masses universally?",
+      "answer": "Newton argues that gravitational force must act universally because observed phenomena—terrestrial gravity, lunar motion, planetary orbits, and comet trajectories—all align with a mutual, mass-proportional attraction. He reasons that since celestial and earthly bodies interact gravitationally in consistent, quantifiable ways (e.g., the moon pulls Earth’s seas as Earth pulls the moon), this principle must apply to *all* matter. He dismisses objections about unobserved small-scale gravity (e.g., between everyday objects) by noting their forces are too weak relative to Earth’s, but mathematically demonstrates that the law holds universally through inverse-square scaling and compositional aggregation (e.g., planetary gravity arises from summed contributions of its parts)."
+    },
+    {
+      "question": "How does Newton explain the perturbation of planetary orbits due to other planets?",
+      "answer": "Newton explains planetary orbital perturbations as resulting from mutual gravitational interactions. When a planet (e.g., P) is influenced by another body (e.g., S), the gravitational force acts in two components:  \n1. **In-plane perturbation** (longitude): A force component (LM) within the orbital plane alters the planet's motion along its orbit.  \n2. **Out-of-plane perturbation** (latitude): A perpendicular force component (NM) pulls the planet slightly out of its orbital plane.  \n\nThese perturbations depend on the relative positions and distances of the bodies, with stronger effects when gravitational forces deviate from the inverse-square law (e.g., due to non-uniform mass distributions). Newton confirmed this through Kepler’s laws and observed orbital data, showing that deviations align with gravitational interactions between planets."
+    },
+    {
+      "question": "What mathematical tools did Newton use in Principia that were precursors to calculus, and why didn't he use standard calculus notation?",
+      "answer": "Newton employed geometric methods and his own conceptual framework of \"fluxions\" (rates of change) and \"fluents\" (accumulated quantities) in the *Principia*, which prefigured calculus. These tools allowed him to analyze motion and forces without relying on formal calculus notation. \n\nHe avoided standard calculus notation (like Leibniz’s *dx/dy*) because:  \n1. **Timing**: Calculus was still in its infancy; Leibniz’s notation emerged later, and Newton’s own fluxionary symbols were not yet standardized or widely shared.  \n2. **Accessibility**: The *Principia* used classical geometric proofs to align with the mathematical expectations of his era, ensuring broader acceptance among scholars unfamiliar with new analytical methods.  \n3. **Controversy**: Newton was cautious about promoting his fluxionary calculus publicly, partly due to disputes over priority with Leibniz, and partly to avoid undermining the rigor of his physical theories with unproven mathematical tools.  \n\nHis approach prioritized clarity and tradition, even as it laid the groundwork for calculus."
+    },
+    {
+      "question": "How does Newton use the concept of centripetal force to explain orbital motion?",
+      "answer": "Newton explains orbital motion by equating the centripetal force required to keep an object in a curved path (like a planet around the Sun) to the gravitational force. He shows that if a force acts toward a central point (e.g., the Sun) and varies with distance (e.g., inverse-square law), it can sustain stable orbits. For example, in a circular orbit, the centripetal force balances the gravitational pull, while in elliptical orbits, the force’s variation with distance ensures the object continuously \"falls\" toward the center but never escapes. This ties Kepler’s laws of planetary motion to the mathematical reality of centripetal force, proving gravity as the mechanism."
+    },
+    {
+      "question": "How does Newton handle motion in resisting media, such as air or fluids?",
+      "answer": "Newton analyzed motion in resisting media by distinguishing two components of fluid resistance:  \n1. **Density-based resistance**, proportional to the **square of velocity** (dominant at high speeds).  \n2. **Tenacity-based resistance**, a **constant force** independent of velocity (arising from fluid cohesion).  \n\nHe derived mathematical relationships for these in *Propositions VIII and IX*, showing how they combine to affect motion. For example, in a resisting medium, the distance traveled differs from non-resisting cases via hyperbolic areas (Corollaries 2–4). Shapes also matter: streamlined bodies face less resistance than blunt ones, especially in elastic fluids.  \n\nThe analysis assumes non-elastic fluids and deep immersion, avoiding complexities like surface waves or fluid elasticity."
+    },
+    {
+      "question": "In what way does Newton's notion of absolute space and time differ from relative motion, and how does it support his laws?",
+      "answer": "Newton’s absolute space and time are fixed, unchanging frameworks independent of observers or objects. Absolute time flows uniformly, while absolute space is immovable and unchanging. Relative motion, however, depends on the observer’s frame (e.g., a ship’s motion). \n\nThis distinction supports Newton’s laws by providing a consistent foundation. For example:  \n- **First Law (Inertia):** Requires absolute space to define true rest or uniform motion.  \n- **Second Law (F=ma):** Acceleration must be measured against absolute space to ensure force calculations are objective.  \n- **Third Law (Action-Reaction):** Forces act in absolute space, ensuring mutual interactions are consistent.  \n\nNewton’s scholium emphasizes that absolute motion (e.g., circular motion) produces measurable effects like centrifugal force, distinguishing it from relative motion. This framework ensures his laws apply universally, independent of observers’ relative positions or motions."
+    },
+    {
+      "question": "Who was the grandfather of Isaac Newton?",
+      "answer": "Robert Newton was the grandfather of Isaac Newton."
+    },
+    {
+      "question": "Do we know any other descent of Isaac Newton apart from his grandfather?",
+      "answer": "The document states that Sir Isaac Newton's descent can only be traced with certainty to his grandfather, Robert Newton. Beyond that, two family traditions suggest possible Scottish or Lancashire origins, but no confirmed relatives are named. After Newton’s death, his estate was divided among his four nephews and four nieces (half-blood, through his mother’s side), and the family estates passed to John Newton, the heir-at-law, whose great-grandfather was Newton’s uncle. No further direct descendants of Newton himself are mentioned."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 12,
+  "parallel_processing": true
+}
+
+================================================================================

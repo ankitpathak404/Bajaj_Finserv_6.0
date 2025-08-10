@@ -1,0 +1,17 @@
+Question: ട്രംപ് ഏത് ദിവസമാണ് 100% ശുൽകം പ്രഖ്യാപിച്ചത്?
+Answer: Trump announced the 100% tariff on August 6, 2025.
+
+Question: ഏത് ഉത്പന്നങ്ങൾക്ക് ഈ 100% ഇറക്കുമതി ശുൽകം ബാധകമാണ്?
+Answer: The 100 % import tariff applies to foreign‑made computer chips and semiconductors.
+
+Question: ഏത് സാഹചര്യത്തിൽ ഒരു കമ്പനിയ്ക്ക് ഈ 100% ശുൽകത്തിൽ നിന്നും നിന്നും ഒഴികെയാക്കും?
+Answer: A company that commits to manufacturing the chips or semiconductors in the United States will be exempt from the 100 % tariff.
+
+Question: What was Apple’s investment commitment and what was its objective?
+Answer: Apple pledged a $600 billion investment, aimed at boosting domestic manufacturing of computers and semiconductors in the United States and reducing reliance on foreign imports.
+
+Question: What impact will this new policy have on consumers and the global market?
+Answer: The policy will raise the price of computers, smartphones and other electronic products for U.S. consumers because the 100 % tariff on imported chips and semiconductors will be passed on as higher costs. It will also tighten the supply of foreign‑made components, potentially leading to shortages or longer lead‑times for products that still rely on imported parts.  
+
+Globally, the tariff will push manufacturers to relocate production to the United States to avoid the duty, accelerating a reshoring of chip and semiconductor manufacturing. This will disrupt existing supply‑chain relationships, reduce the share of foreign‑made components in the market, and could trigger retaliatory trade measures from other countries. The overall effect will be higher costs for consumers worldwide and a shift in the global market toward more domestic (U.S.) production, with reduced reliance on foreign suppliers and increased trade tension.
+

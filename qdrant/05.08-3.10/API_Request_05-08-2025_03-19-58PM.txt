@@ -1,0 +1,124 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:19:58
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:19:58.035846
+TOTAL PROCESSING TIME: 6.589 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Mediclaim%20Insurance%20Policy.docx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A42%3A14Z&se=2026-08-05T18%3A42%3A00Z&sr=b&sp=r&sig=yvnP%2FlYfyyqYmNJ1DX51zNVdUq1zH9aNw4LfPFVe67o%3D
+Extracted Filename: Mediclaim Insurance Policy.docx
+Matched File: Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?
+2. What is domiciliary hospitalization, and what are its key exclusions?
+3. What are the benefits and limits of Ambulance Services?
+4. What are the benefits and limits of telemedicine and maternity coverage under this policy?
+5. What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?
+A1: The Family Medicare Policy covers various hospitalization expenses with specific limits for room and ICU charges. 
+
+**Types of Covered Expenses:**
+- **Room Charges:** 1% of the Sum Insured per day or standard single occupancy air-conditioned room charges, whichever is higher.
+- **ICU/ICCU Charges:** 2% of the Sum Insured per day for sums below 5 Lacs; actual charges for sums 5 Lacs and above.
+- **Other Medical Expenses:** Includes surgeon fees, operation theatre charges, medicines, and prosthetics, covered as per the policy terms.
+
+**Limits:**
+- **Room Charges:** 
+  - Sum Insured <5 Lacs: 1% of Sum Insured per day.
+  - Sum Insured ≥5 Lacs: 1% or actual standard room charge, whichever is higher.
+- **ICU Charges:**
+  - Sum Insured <5 Lacs: 2% of Sum Insured per day.
+  - Sum Insured ≥5 Lacs: Actual charges.
+
+Additional sub-limits apply for specific treatments like cataract surgery and mental illness. Pre and post-hospitalization expenses are covered up to 10% of the Sum Insured. Ayurvedic treatments in AYUSH hospitals are covered with specific limits. Maternity expenses are included as part of hospitalization.
+--------------------------------------------------
+Q2: What is domiciliary hospitalization, and what are its key exclusions?
+A2: Domiciliary hospitalization refers to medical care provided in the patient's home. The key exclusions include custodial care for personal activities, rest cure, rehabilitation, respite care, and admissions primarily for diagnostic purposes without active treatment.
+--------------------------------------------------
+Q3: What are the benefits and limits of Ambulance Services?
+A3: The Ambulance Services benefit covers road ambulance transportation costs in emergencies, with a certification requirement from a medical practitioner. The limits are up to 0.5% of the Sum Insured (max ₹2500 per event) and 1% of the Sum Insured (max ₹5000 per policy period).
+--------------------------------------------------
+Q4: What are the benefits and limits of telemedicine and maternity coverage under this policy?
+A4: Maternity coverage under the policy includes benefits for hospitalization expenses with a maximum limit of 10% of the Sum Insured, up to Rs. 40,000 for normal delivery and Rs. 60,000 for caesarean section. Newborn babies are covered from day one up to 90 days for in-patient treatment. However, pre-natal and post-natal expenses are not covered unless hospitalized, and surrogate or vicarious pregnancy is excluded. Telemedicine is not mentioned in the policy, indicating it is not covered.
+--------------------------------------------------
+Q5: What are the waiting periods for pre-existing diseases and specified diseases or procedures?
+A5: The waiting periods are as follows:
+
+- **Pre-existing Diseases**: 48 months (4 years)
+- **Specific Diseases/Procedures in Table A**: 24 months (2 years)
+- **Specific Diseases/Procedures in Table B**: 48 months (4 years)
+- **First Thirty Days Waiting Period**: 30 days for illnesses, except those due to accidents.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:19:58.035846",
+  "request_start_time": "2025-08-05T15:19:51.446195",
+  "total_processing_time_seconds": 6.589291334152222,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Mediclaim%20Insurance%20Policy.docx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A42%3A14Z&se=2026-08-05T18%3A42%3A00Z&sr=b&sp=r&sig=yvnP%2FlYfyyqYmNJ1DX51zNVdUq1zH9aNw4LfPFVe67o%3D",
+    "extracted_filename": "Mediclaim Insurance Policy.docx",
+    "matched_file": "Family%20Medicare%20Policy%20(UIN-%20UIIHLIP22070V042122)%201.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?",
+    "What is domiciliary hospitalization, and what are its key exclusions?",
+    "What are the benefits and limits of Ambulance Services?",
+    "What are the benefits and limits of telemedicine and maternity coverage under this policy?",
+    "What are the waiting periods for pre-existing diseases and specified diseases or procedures?"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "What types of hospitalization expenses are covered, and what are the limits for room and ICU expenses?",
+      "answer": "The Family Medicare Policy covers various hospitalization expenses with specific limits for room and ICU charges. \n\n**Types of Covered Expenses:**\n- **Room Charges:** 1% of the Sum Insured per day or standard single occupancy air-conditioned room charges, whichever is higher.\n- **ICU/ICCU Charges:** 2% of the Sum Insured per day for sums below 5 Lacs; actual charges for sums 5 Lacs and above.\n- **Other Medical Expenses:** Includes surgeon fees, operation theatre charges, medicines, and prosthetics, covered as per the policy terms.\n\n**Limits:**\n- **Room Charges:** \n  - Sum Insured <5 Lacs: 1% of Sum Insured per day.\n  - Sum Insured ≥5 Lacs: 1% or actual standard room charge, whichever is higher.\n- **ICU Charges:**\n  - Sum Insured <5 Lacs: 2% of Sum Insured per day.\n  - Sum Insured ≥5 Lacs: Actual charges.\n\nAdditional sub-limits apply for specific treatments like cataract surgery and mental illness. Pre and post-hospitalization expenses are covered up to 10% of the Sum Insured. Ayurvedic treatments in AYUSH hospitals are covered with specific limits. Maternity expenses are included as part of hospitalization."
+    },
+    {
+      "question": "What is domiciliary hospitalization, and what are its key exclusions?",
+      "answer": "Domiciliary hospitalization refers to medical care provided in the patient's home. The key exclusions include custodial care for personal activities, rest cure, rehabilitation, respite care, and admissions primarily for diagnostic purposes without active treatment."
+    },
+    {
+      "question": "What are the benefits and limits of Ambulance Services?",
+      "answer": "The Ambulance Services benefit covers road ambulance transportation costs in emergencies, with a certification requirement from a medical practitioner. The limits are up to 0.5% of the Sum Insured (max ₹2500 per event) and 1% of the Sum Insured (max ₹5000 per policy period)."
+    },
+    {
+      "question": "What are the benefits and limits of telemedicine and maternity coverage under this policy?",
+      "answer": "Maternity coverage under the policy includes benefits for hospitalization expenses with a maximum limit of 10% of the Sum Insured, up to Rs. 40,000 for normal delivery and Rs. 60,000 for caesarean section. Newborn babies are covered from day one up to 90 days for in-patient treatment. However, pre-natal and post-natal expenses are not covered unless hospitalized, and surrogate or vicarious pregnancy is excluded. Telemedicine is not mentioned in the policy, indicating it is not covered."
+    },
+    {
+      "question": "What are the waiting periods for pre-existing diseases and specified diseases or procedures?",
+      "answer": "The waiting periods are as follows:\n\n- **Pre-existing Diseases**: 48 months (4 years)\n- **Specific Diseases/Procedures in Table A**: 24 months (2 years)\n- **Specific Diseases/Procedures in Table B**: 48 months (4 years)\n- **First Thirty Days Waiting Period**: 30 days for illnesses, except those due to accidents."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================

@@ -1,0 +1,624 @@
+================================================================================
+API REQUEST LOG - 2025-08-06 06:55:24
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-06T06:55:24.754460
+TOTAL PROCESSING TIME: 4.385 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Salary%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A46%3A54Z&se=2026-08-05T18%3A46%3A00Z&sr=b&sp=r&sig=sSoLGNgznoeLpZv%2FEe%2FEI1erhD0OQVoNJFDPtqfSdJQ%3D
+Extracted Filename: Salary data.xlsx
+Matched File: Salary data.xlsx
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. Who is the highest paid individual in pincode 400001? What is his/her phone number?
+2. Tell me the name of any 1 person from pincode 110001.
+3. How many Aarav Sharma exists in the document?
+4. Give me the contact number of Pooja Nair.
+5. What is the salary of Tara Bose?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Who is the highest paid individual in pincode 400001? What is his/her phone number?
+A1: The highest paid individual in pincode 400001 is Vivek Oberoi with a phone number of 1100998877.
+--------------------------------------------------
+Q2: Tell me the name of any 1 person from pincode 110001.
+A2: Aarav Sharma
+--------------------------------------------------
+Q3: How many Aarav Sharma exists in the document?
+A3: There are 4 Aarav Sharmas in the document.
+--------------------------------------------------
+Q4: Give me the contact number of Pooja Nair.
+A4: The contact number of Pooja Nair is **1234567890**.
+--------------------------------------------------
+Q5: What is the salary of Tara Bose?
+A5: The salary of Tara Bose is 71000.
+--------------------------------------------------
+
+RETRIEVED CHUNKS BY QUESTION:
+============================================================
+
+QUESTION 1: Who is the highest paid individual in pincode 400001? What is his/her phone number?
+--------------------------------------------------
+Chunk 1 (Score: 0.6924):
+File: Salary data.xlsx
+Content: Sheet: Sheet1
+            Name  Mobile Number  Pincode  Salary
+    Aarav Sharma     9876543210   110001   75000
+    Aarav Sharma     8765432109   110001   75000
+     Priya Patel     7890123456   400001   82000
+    Vikram Singh     8901234567   560001   65000
+    Vikram Singh     9012345678   560001   65000
+    Ananya Gupta     6789012345   700001   95000
+     Rohan Desai     5678901234   110001   72000
+      Neha Verma     4567890123   600001   88000
+      Neha Verma     3456789012   600001   88000
+     Arjun Reddy     2345678901   500001   77000
+      Pooja Nair     1234567890   400001   69000
+  Karan Malhotra     9876543211   411001  105000
+  Karan Malhotra     8765432110   411001  105000
+    Sneha Kapoor     7654321098   700001   78000
+      Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+----------------------------------------
+Chunk 2 (Score: 0.6306):
+File: Salary data.xlsx
+Content: Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+    Aarav Sharma     8877665541   400001   80000
+    Aarav Sharma     7766554430   400001   80000
+----------------------------------------
+Chunk 3 (Score: 0.6114):
+File: Salary data.xlsx
+Content: Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+    Suresh Raina     5544332210   400001   91000
+     Anita Bhatt     4433221099   600001   70000
+      Rakesh Jha     3322110098   110001   94000
+      Rakesh Jha     2211009987   110001   94000
+ Sunita Kulkarni     1100998876   700001   78000
+    Prateek Jain     9988776653   400001   85000
+     Divya Sethi     8877665542   560001   72000
+     Rohit Mehra     7766554431   110001   89000
+     Rohit Mehra     6655443320   110001   89000
+    Swati Saxena     5544332209   600001   76000
+    Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+----------------------------------------
+Chunk 4 (Score: 0.6003):
+File: Salary data.xlsx
+Content: Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+ Siddharth Menon     1098765432   110001   99000
+ Siddharth Menon     9988776655   110001   99000
+       Tara Bose     8877665544   700001   71000
+Amitabh Bachchan     7766554433   400001   12000
+Amitabh Bachchan     6655443322   400001  120000
+    Deepika Rana     5544332211   560001   79000
+    Rahul Khanna     4433221100   110001   87000
+    Shalini Iyer     3322110099   600001   74000
+    Shalini Iyer     2211009988   600001   74000
+    Vivek Oberoi     1100998877   400001   96000
+   Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+----------------------------------------
+
+QUESTION 2: Tell me the name of any 1 person from pincode 110001.
+--------------------------------------------------
+Chunk 1 (Score: 0.6164):
+File: Salary data.xlsx
+Content: Sheet: Sheet1
+            Name  Mobile Number  Pincode  Salary
+    Aarav Sharma     9876543210   110001   75000
+    Aarav Sharma     8765432109   110001   75000
+     Priya Patel     7890123456   400001   82000
+    Vikram Singh     8901234567   560001   65000
+    Vikram Singh     9012345678   560001   65000
+    Ananya Gupta     6789012345   700001   95000
+     Rohan Desai     5678901234   110001   72000
+      Neha Verma     4567890123   600001   88000
+      Neha Verma     3456789012   600001   88000
+     Arjun Reddy     2345678901   500001   77000
+      Pooja Nair     1234567890   400001   69000
+  Karan Malhotra     9876543211   411001  105000
+  Karan Malhotra     8765432110   411001  105000
+    Sneha Kapoor     7654321098   700001   78000
+      Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+----------------------------------------
+Chunk 2 (Score: 0.5934):
+File: Salary data.xlsx
+Content: Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+ Siddharth Menon     1098765432   110001   99000
+ Siddharth Menon     9988776655   110001   99000
+       Tara Bose     8877665544   700001   71000
+Amitabh Bachchan     7766554433   400001   12000
+Amitabh Bachchan     6655443322   400001  120000
+    Deepika Rana     5544332211   560001   79000
+    Rahul Khanna     4433221100   110001   87000
+    Shalini Iyer     3322110099   600001   74000
+    Shalini Iyer     2211009988   600001   74000
+    Vivek Oberoi     1100998877   400001   96000
+   Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+----------------------------------------
+Chunk 3 (Score: 0.5920):
+File: Salary data.xlsx
+Content: Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+    Suresh Raina     5544332210   400001   91000
+     Anita Bhatt     4433221099   600001   70000
+      Rakesh Jha     3322110098   110001   94000
+      Rakesh Jha     2211009987   110001   94000
+ Sunita Kulkarni     1100998876   700001   78000
+    Prateek Jain     9988776653   400001   85000
+     Divya Sethi     8877665542   560001   72000
+     Rohit Mehra     7766554431   110001   89000
+     Rohit Mehra     6655443320   110001   89000
+    Swati Saxena     5544332209   600001   76000
+    Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+----------------------------------------
+Chunk 4 (Score: 0.5766):
+File: Salary data.xlsx
+Content: Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+    Aarav Sharma     8877665541   400001   80000
+    Aarav Sharma     7766554430   400001   80000
+----------------------------------------
+
+QUESTION 3: How many Aarav Sharma exists in the document?
+--------------------------------------------------
+Chunk 1 (Score: 0.6158):
+File: Salary data.xlsx
+Content: Sheet: Sheet1
+            Name  Mobile Number  Pincode  Salary
+    Aarav Sharma     9876543210   110001   75000
+    Aarav Sharma     8765432109   110001   75000
+     Priya Patel     7890123456   400001   82000
+    Vikram Singh     8901234567   560001   65000
+    Vikram Singh     9012345678   560001   65000
+    Ananya Gupta     6789012345   700001   95000
+     Rohan Desai     5678901234   110001   72000
+      Neha Verma     4567890123   600001   88000
+      Neha Verma     3456789012   600001   88000
+     Arjun Reddy     2345678901   500001   77000
+      Pooja Nair     1234567890   400001   69000
+  Karan Malhotra     9876543211   411001  105000
+  Karan Malhotra     8765432110   411001  105000
+    Sneha Kapoor     7654321098   700001   78000
+      Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+----------------------------------------
+Chunk 2 (Score: 0.6131):
+File: Salary data.xlsx
+Content: Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+    Aarav Sharma     8877665541   400001   80000
+    Aarav Sharma     7766554430   400001   80000
+----------------------------------------
+Chunk 3 (Score: 0.5584):
+File: Salary data.xlsx
+Content: Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+    Suresh Raina     5544332210   400001   91000
+     Anita Bhatt     4433221099   600001   70000
+      Rakesh Jha     3322110098   110001   94000
+      Rakesh Jha     2211009987   110001   94000
+ Sunita Kulkarni     1100998876   700001   78000
+    Prateek Jain     9988776653   400001   85000
+     Divya Sethi     8877665542   560001   72000
+     Rohit Mehra     7766554431   110001   89000
+     Rohit Mehra     6655443320   110001   89000
+    Swati Saxena     5544332209   600001   76000
+    Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+----------------------------------------
+Chunk 4 (Score: 0.5485):
+File: Salary data.xlsx
+Content: Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+ Siddharth Menon     1098765432   110001   99000
+ Siddharth Menon     9988776655   110001   99000
+       Tara Bose     8877665544   700001   71000
+Amitabh Bachchan     7766554433   400001   12000
+Amitabh Bachchan     6655443322   400001  120000
+    Deepika Rana     5544332211   560001   79000
+    Rahul Khanna     4433221100   110001   87000
+    Shalini Iyer     3322110099   600001   74000
+    Shalini Iyer     2211009988   600001   74000
+    Vivek Oberoi     1100998877   400001   96000
+   Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+----------------------------------------
+
+QUESTION 4: Give me the contact number of Pooja Nair.
+--------------------------------------------------
+Chunk 1 (Score: 0.5782):
+File: Salary data.xlsx
+Content: Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+    Suresh Raina     5544332210   400001   91000
+     Anita Bhatt     4433221099   600001   70000
+      Rakesh Jha     3322110098   110001   94000
+      Rakesh Jha     2211009987   110001   94000
+ Sunita Kulkarni     1100998876   700001   78000
+    Prateek Jain     9988776653   400001   85000
+     Divya Sethi     8877665542   560001   72000
+     Rohit Mehra     7766554431   110001   89000
+     Rohit Mehra     6655443320   110001   89000
+    Swati Saxena     5544332209   600001   76000
+    Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+----------------------------------------
+Chunk 2 (Score: 0.5578):
+File: Salary data.xlsx
+Content: Sheet: Sheet1
+            Name  Mobile Number  Pincode  Salary
+    Aarav Sharma     9876543210   110001   75000
+    Aarav Sharma     8765432109   110001   75000
+     Priya Patel     7890123456   400001   82000
+    Vikram Singh     8901234567   560001   65000
+    Vikram Singh     9012345678   560001   65000
+    Ananya Gupta     6789012345   700001   95000
+     Rohan Desai     5678901234   110001   72000
+      Neha Verma     4567890123   600001   88000
+      Neha Verma     3456789012   600001   88000
+     Arjun Reddy     2345678901   500001   77000
+      Pooja Nair     1234567890   400001   69000
+  Karan Malhotra     9876543211   411001  105000
+  Karan Malhotra     8765432110   411001  105000
+    Sneha Kapoor     7654321098   700001   78000
+      Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+----------------------------------------
+Chunk 3 (Score: 0.5472):
+File: Salary data.xlsx
+Content: Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+ Siddharth Menon     1098765432   110001   99000
+ Siddharth Menon     9988776655   110001   99000
+       Tara Bose     8877665544   700001   71000
+Amitabh Bachchan     7766554433   400001   12000
+Amitabh Bachchan     6655443322   400001  120000
+    Deepika Rana     5544332211   560001   79000
+    Rahul Khanna     4433221100   110001   87000
+    Shalini Iyer     3322110099   600001   74000
+    Shalini Iyer     2211009988   600001   74000
+    Vivek Oberoi     1100998877   400001   96000
+   Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+----------------------------------------
+Chunk 4 (Score: 0.5464):
+File: Salary data.xlsx
+Content: Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+    Aarav Sharma     8877665541   400001   80000
+    Aarav Sharma     7766554430   400001   80000
+----------------------------------------
+
+QUESTION 5: What is the salary of Tara Bose?
+--------------------------------------------------
+Chunk 1 (Score: 0.5576):
+File: Salary data.xlsx
+Content: Sheet: Sheet1
+            Name  Mobile Number  Pincode  Salary
+    Aarav Sharma     9876543210   110001   75000
+    Aarav Sharma     8765432109   110001   75000
+     Priya Patel     7890123456   400001   82000
+    Vikram Singh     8901234567   560001   65000
+    Vikram Singh     9012345678   560001   65000
+    Ananya Gupta     6789012345   700001   95000
+     Rohan Desai     5678901234   110001   72000
+      Neha Verma     4567890123   600001   88000
+      Neha Verma     3456789012   600001   88000
+     Arjun Reddy     2345678901   500001   77000
+      Pooja Nair     1234567890   400001   69000
+  Karan Malhotra     9876543211   411001  105000
+  Karan Malhotra     8765432110   411001  105000
+    Sneha Kapoor     7654321098   700001   78000
+      Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+----------------------------------------
+Chunk 2 (Score: 0.5239):
+File: Salary data.xlsx
+Content: Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+    Suresh Raina     5544332210   400001   91000
+     Anita Bhatt     4433221099   600001   70000
+      Rakesh Jha     3322110098   110001   94000
+      Rakesh Jha     2211009987   110001   94000
+ Sunita Kulkarni     1100998876   700001   78000
+    Prateek Jain     9988776653   400001   85000
+     Divya Sethi     8877665542   560001   72000
+     Rohit Mehra     7766554431   110001   89000
+     Rohit Mehra     6655443320   110001   89000
+    Swati Saxena     5544332209   600001   76000
+    Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+----------------------------------------
+Chunk 3 (Score: 0.5019):
+File: Salary data.xlsx
+Content: Aditya Roy     6543210987   110001   92000
+     Meera Joshi     5432109876   560001   67000
+     Meera Joshi     4321098765   560001   67000
+      Ravi Kumar     3210987654   400001   85000
+     Anjali Shah     2109876543   600001   73000
+ Siddharth Menon     1098765432   110001   99000
+ Siddharth Menon     9988776655   110001   99000
+       Tara Bose     8877665544   700001   71000
+Amitabh Bachchan     7766554433   400001   12000
+Amitabh Bachchan     6655443322   400001  120000
+    Deepika Rana     5544332211   560001   79000
+    Rahul Khanna     4433221100   110001   87000
+    Shalini Iyer     3322110099   600001   74000
+    Shalini Iyer     2211009988   600001   74000
+    Vivek Oberoi     1100998877   400001   96000
+   Nisha Agarwal     9988776654   700001   68000
+   Manish Pandey     8877665543   110001   83000
+Kavita Choudhary     7766554432   560001   76000
+Kavita Choudhary     6655443321   560001   76000
+----------------------------------------
+Chunk 4 (Score: 0.4346):
+File: Salary data.xlsx
+Content: Nikhil Arora     4433221098   400001   93000
+     Pallavi Das     3322110097   700001   71000
+     Pallavi Das     2211009986   700001   71000
+    Vijay Thakur     1100998875   560001   98000
+    Shruti Hegde     9988776652   110001   75000
+    Aarav Sharma     8877665541   400001   80000
+    Aarav Sharma     7766554430   400001   80000
+----------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-06T06:55:24.754460",
+  "request_start_time": "2025-08-06T06:55:20.369056",
+  "total_processing_time_seconds": 4.384939432144165,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Salary%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A46%3A54Z&se=2026-08-05T18%3A46%3A00Z&sr=b&sp=r&sig=sSoLGNgznoeLpZv%2FEe%2FEI1erhD0OQVoNJFDPtqfSdJQ%3D",
+    "extracted_filename": "Salary data.xlsx",
+    "matched_file": "Salary data.xlsx",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "Who is the highest paid individual in pincode 400001? What is his/her phone number?",
+    "Tell me the name of any 1 person from pincode 110001.",
+    "How many Aarav Sharma exists in the document?",
+    "Give me the contact number of Pooja Nair.",
+    "What is the salary of Tara Bose?"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "Who is the highest paid individual in pincode 400001? What is his/her phone number?",
+      "answer": "The highest paid individual in pincode 400001 is Vivek Oberoi with a phone number of 1100998877."
+    },
+    {
+      "question": "Tell me the name of any 1 person from pincode 110001.",
+      "answer": "Aarav Sharma"
+    },
+    {
+      "question": "How many Aarav Sharma exists in the document?",
+      "answer": "There are 4 Aarav Sharmas in the document."
+    },
+    {
+      "question": "Give me the contact number of Pooja Nair.",
+      "answer": "The contact number of Pooja Nair is **1234567890**."
+    },
+    {
+      "question": "What is the salary of Tara Bose?",
+      "answer": "The salary of Tara Bose is 71000."
+    }
+  ],
+  "retrieved_chunks": [
+    [
+      {
+        "score": 0.6923779,
+        "file_name": "Salary data.xlsx",
+        "content": "Sheet: Sheet1\n            Name  Mobile Number  Pincode  Salary\n    Aarav Sharma     9876543210   110001   75000\n    Aarav Sharma     8765432109   110001   75000\n     Priya Patel     7890123456   400001   82000\n    Vikram Singh     8901234567   560001   65000\n    Vikram Singh     9012345678   560001   65000\n    Ananya Gupta     6789012345   700001   95000\n     Rohan Desai     5678901234   110001   72000\n      Neha Verma     4567890123   600001   88000\n      Neha Verma     3456789012   600001   88000\n     Arjun Reddy     2345678901   500001   77000\n      Pooja Nair     1234567890   400001   69000\n  Karan Malhotra     9876543211   411001  105000\n  Karan Malhotra     8765432110   411001  105000\n    Sneha Kapoor     7654321098   700001   78000\n      Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000"
+      },
+      {
+        "score": 0.63063395,
+        "file_name": "Salary data.xlsx",
+        "content": "Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000\n    Aarav Sharma     8877665541   400001   80000\n    Aarav Sharma     7766554430   400001   80000"
+      },
+      {
+        "score": 0.6114312,
+        "file_name": "Salary data.xlsx",
+        "content": "Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000\n    Suresh Raina     5544332210   400001   91000\n     Anita Bhatt     4433221099   600001   70000\n      Rakesh Jha     3322110098   110001   94000\n      Rakesh Jha     2211009987   110001   94000\n Sunita Kulkarni     1100998876   700001   78000\n    Prateek Jain     9988776653   400001   85000\n     Divya Sethi     8877665542   560001   72000\n     Rohit Mehra     7766554431   110001   89000\n     Rohit Mehra     6655443320   110001   89000\n    Swati Saxena     5544332209   600001   76000\n    Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000"
+      },
+      {
+        "score": 0.60027325,
+        "file_name": "Salary data.xlsx",
+        "content": "Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000\n Siddharth Menon     1098765432   110001   99000\n Siddharth Menon     9988776655   110001   99000\n       Tara Bose     8877665544   700001   71000\nAmitabh Bachchan     7766554433   400001   12000\nAmitabh Bachchan     6655443322   400001  120000\n    Deepika Rana     5544332211   560001   79000\n    Rahul Khanna     4433221100   110001   87000\n    Shalini Iyer     3322110099   600001   74000\n    Shalini Iyer     2211009988   600001   74000\n    Vivek Oberoi     1100998877   400001   96000\n   Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000"
+      }
+    ],
+    [
+      {
+        "score": 0.6164223,
+        "file_name": "Salary data.xlsx",
+        "content": "Sheet: Sheet1\n            Name  Mobile Number  Pincode  Salary\n    Aarav Sharma     9876543210   110001   75000\n    Aarav Sharma     8765432109   110001   75000\n     Priya Patel     7890123456   400001   82000\n    Vikram Singh     8901234567   560001   65000\n    Vikram Singh     9012345678   560001   65000\n    Ananya Gupta     6789012345   700001   95000\n     Rohan Desai     5678901234   110001   72000\n      Neha Verma     4567890123   600001   88000\n      Neha Verma     3456789012   600001   88000\n     Arjun Reddy     2345678901   500001   77000\n      Pooja Nair     1234567890   400001   69000\n  Karan Malhotra     9876543211   411001  105000\n  Karan Malhotra     8765432110   411001  105000\n    Sneha Kapoor     7654321098   700001   78000\n      Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000"
+      },
+      {
+        "score": 0.59344274,
+        "file_name": "Salary data.xlsx",
+        "content": "Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000\n Siddharth Menon     1098765432   110001   99000\n Siddharth Menon     9988776655   110001   99000\n       Tara Bose     8877665544   700001   71000\nAmitabh Bachchan     7766554433   400001   12000\nAmitabh Bachchan     6655443322   400001  120000\n    Deepika Rana     5544332211   560001   79000\n    Rahul Khanna     4433221100   110001   87000\n    Shalini Iyer     3322110099   600001   74000\n    Shalini Iyer     2211009988   600001   74000\n    Vivek Oberoi     1100998877   400001   96000\n   Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000"
+      },
+      {
+        "score": 0.5920441,
+        "file_name": "Salary data.xlsx",
+        "content": "Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000\n    Suresh Raina     5544332210   400001   91000\n     Anita Bhatt     4433221099   600001   70000\n      Rakesh Jha     3322110098   110001   94000\n      Rakesh Jha     2211009987   110001   94000\n Sunita Kulkarni     1100998876   700001   78000\n    Prateek Jain     9988776653   400001   85000\n     Divya Sethi     8877665542   560001   72000\n     Rohit Mehra     7766554431   110001   89000\n     Rohit Mehra     6655443320   110001   89000\n    Swati Saxena     5544332209   600001   76000\n    Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000"
+      },
+      {
+        "score": 0.5765693,
+        "file_name": "Salary data.xlsx",
+        "content": "Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000\n    Aarav Sharma     8877665541   400001   80000\n    Aarav Sharma     7766554430   400001   80000"
+      }
+    ],
+    [
+      {
+        "score": 0.61579764,
+        "file_name": "Salary data.xlsx",
+        "content": "Sheet: Sheet1\n            Name  Mobile Number  Pincode  Salary\n    Aarav Sharma     9876543210   110001   75000\n    Aarav Sharma     8765432109   110001   75000\n     Priya Patel     7890123456   400001   82000\n    Vikram Singh     8901234567   560001   65000\n    Vikram Singh     9012345678   560001   65000\n    Ananya Gupta     6789012345   700001   95000\n     Rohan Desai     5678901234   110001   72000\n      Neha Verma     4567890123   600001   88000\n      Neha Verma     3456789012   600001   88000\n     Arjun Reddy     2345678901   500001   77000\n      Pooja Nair     1234567890   400001   69000\n  Karan Malhotra     9876543211   411001  105000\n  Karan Malhotra     8765432110   411001  105000\n    Sneha Kapoor     7654321098   700001   78000\n      Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000"
+      },
+      {
+        "score": 0.61313343,
+        "file_name": "Salary data.xlsx",
+        "content": "Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000\n    Aarav Sharma     8877665541   400001   80000\n    Aarav Sharma     7766554430   400001   80000"
+      },
+      {
+        "score": 0.55841994,
+        "file_name": "Salary data.xlsx",
+        "content": "Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000\n    Suresh Raina     5544332210   400001   91000\n     Anita Bhatt     4433221099   600001   70000\n      Rakesh Jha     3322110098   110001   94000\n      Rakesh Jha     2211009987   110001   94000\n Sunita Kulkarni     1100998876   700001   78000\n    Prateek Jain     9988776653   400001   85000\n     Divya Sethi     8877665542   560001   72000\n     Rohit Mehra     7766554431   110001   89000\n     Rohit Mehra     6655443320   110001   89000\n    Swati Saxena     5544332209   600001   76000\n    Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000"
+      },
+      {
+        "score": 0.5485024,
+        "file_name": "Salary data.xlsx",
+        "content": "Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000\n Siddharth Menon     1098765432   110001   99000\n Siddharth Menon     9988776655   110001   99000\n       Tara Bose     8877665544   700001   71000\nAmitabh Bachchan     7766554433   400001   12000\nAmitabh Bachchan     6655443322   400001  120000\n    Deepika Rana     5544332211   560001   79000\n    Rahul Khanna     4433221100   110001   87000\n    Shalini Iyer     3322110099   600001   74000\n    Shalini Iyer     2211009988   600001   74000\n    Vivek Oberoi     1100998877   400001   96000\n   Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000"
+      }
+    ],
+    [
+      {
+        "score": 0.5782442,
+        "file_name": "Salary data.xlsx",
+        "content": "Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000\n    Suresh Raina     5544332210   400001   91000\n     Anita Bhatt     4433221099   600001   70000\n      Rakesh Jha     3322110098   110001   94000\n      Rakesh Jha     2211009987   110001   94000\n Sunita Kulkarni     1100998876   700001   78000\n    Prateek Jain     9988776653   400001   85000\n     Divya Sethi     8877665542   560001   72000\n     Rohit Mehra     7766554431   110001   89000\n     Rohit Mehra     6655443320   110001   89000\n    Swati Saxena     5544332209   600001   76000\n    Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000"
+      },
+      {
+        "score": 0.5578083,
+        "file_name": "Salary data.xlsx",
+        "content": "Sheet: Sheet1\n            Name  Mobile Number  Pincode  Salary\n    Aarav Sharma     9876543210   110001   75000\n    Aarav Sharma     8765432109   110001   75000\n     Priya Patel     7890123456   400001   82000\n    Vikram Singh     8901234567   560001   65000\n    Vikram Singh     9012345678   560001   65000\n    Ananya Gupta     6789012345   700001   95000\n     Rohan Desai     5678901234   110001   72000\n      Neha Verma     4567890123   600001   88000\n      Neha Verma     3456789012   600001   88000\n     Arjun Reddy     2345678901   500001   77000\n      Pooja Nair     1234567890   400001   69000\n  Karan Malhotra     9876543211   411001  105000\n  Karan Malhotra     8765432110   411001  105000\n    Sneha Kapoor     7654321098   700001   78000\n      Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000"
+      },
+      {
+        "score": 0.5471898,
+        "file_name": "Salary data.xlsx",
+        "content": "Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000\n Siddharth Menon     1098765432   110001   99000\n Siddharth Menon     9988776655   110001   99000\n       Tara Bose     8877665544   700001   71000\nAmitabh Bachchan     7766554433   400001   12000\nAmitabh Bachchan     6655443322   400001  120000\n    Deepika Rana     5544332211   560001   79000\n    Rahul Khanna     4433221100   110001   87000\n    Shalini Iyer     3322110099   600001   74000\n    Shalini Iyer     2211009988   600001   74000\n    Vivek Oberoi     1100998877   400001   96000\n   Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000"
+      },
+      {
+        "score": 0.54638845,
+        "file_name": "Salary data.xlsx",
+        "content": "Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000\n    Aarav Sharma     8877665541   400001   80000\n    Aarav Sharma     7766554430   400001   80000"
+      }
+    ],
+    [
+      {
+        "score": 0.5576445,
+        "file_name": "Salary data.xlsx",
+        "content": "Sheet: Sheet1\n            Name  Mobile Number  Pincode  Salary\n    Aarav Sharma     9876543210   110001   75000\n    Aarav Sharma     8765432109   110001   75000\n     Priya Patel     7890123456   400001   82000\n    Vikram Singh     8901234567   560001   65000\n    Vikram Singh     9012345678   560001   65000\n    Ananya Gupta     6789012345   700001   95000\n     Rohan Desai     5678901234   110001   72000\n      Neha Verma     4567890123   600001   88000\n      Neha Verma     3456789012   600001   88000\n     Arjun Reddy     2345678901   500001   77000\n      Pooja Nair     1234567890   400001   69000\n  Karan Malhotra     9876543211   411001  105000\n  Karan Malhotra     8765432110   411001  105000\n    Sneha Kapoor     7654321098   700001   78000\n      Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000"
+      },
+      {
+        "score": 0.5238614,
+        "file_name": "Salary data.xlsx",
+        "content": "Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000\n    Suresh Raina     5544332210   400001   91000\n     Anita Bhatt     4433221099   600001   70000\n      Rakesh Jha     3322110098   110001   94000\n      Rakesh Jha     2211009987   110001   94000\n Sunita Kulkarni     1100998876   700001   78000\n    Prateek Jain     9988776653   400001   85000\n     Divya Sethi     8877665542   560001   72000\n     Rohit Mehra     7766554431   110001   89000\n     Rohit Mehra     6655443320   110001   89000\n    Swati Saxena     5544332209   600001   76000\n    Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000"
+      },
+      {
+        "score": 0.50187427,
+        "file_name": "Salary data.xlsx",
+        "content": "Aditya Roy     6543210987   110001   92000\n     Meera Joshi     5432109876   560001   67000\n     Meera Joshi     4321098765   560001   67000\n      Ravi Kumar     3210987654   400001   85000\n     Anjali Shah     2109876543   600001   73000\n Siddharth Menon     1098765432   110001   99000\n Siddharth Menon     9988776655   110001   99000\n       Tara Bose     8877665544   700001   71000\nAmitabh Bachchan     7766554433   400001   12000\nAmitabh Bachchan     6655443322   400001  120000\n    Deepika Rana     5544332211   560001   79000\n    Rahul Khanna     4433221100   110001   87000\n    Shalini Iyer     3322110099   600001   74000\n    Shalini Iyer     2211009988   600001   74000\n    Vivek Oberoi     1100998877   400001   96000\n   Nisha Agarwal     9988776654   700001   68000\n   Manish Pandey     8877665543   110001   83000\nKavita Choudhary     7766554432   560001   76000\nKavita Choudhary     6655443321   560001   76000"
+      },
+      {
+        "score": 0.43461388,
+        "file_name": "Salary data.xlsx",
+        "content": "Nikhil Arora     4433221098   400001   93000\n     Pallavi Das     3322110097   700001   71000\n     Pallavi Das     2211009986   700001   71000\n    Vijay Thakur     1100998875   560001   98000\n    Shruti Hegde     9988776652   110001   75000\n    Aarav Sharma     8877665541   400001   80000\n    Aarav Sharma     7766554430   400001   80000"
+      }
+    ]
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================

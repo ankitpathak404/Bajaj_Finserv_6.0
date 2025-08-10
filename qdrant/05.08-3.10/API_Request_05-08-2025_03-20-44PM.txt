@@ -1,0 +1,90 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:20:44
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:20:44.948727
+TOTAL PROCESSING TIME: 5.780 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/image.png?sv=2023-01-03&spr=https&st=2025-08-04T19%3A21%3A45Z&se=2026-08-05T19%3A21%3A00Z&sr=b&sp=r&sig=lAn5WYGN%2BUAH7mBtlwGG4REw5EwYfsBtPrPuB0b18M4%3D
+Extracted Filename: image.png
+Matched File: principia_newton.pdf
+Match Status: ✓ MATCHED
+
+QUESTIONS RECEIVED (3 total):
+------------------------------
+1. What is the daily limit for room, boarding, and nursing expenses for a sum insured of 4 lakhs?
+2. What is the maximum daily ICU expense coverage for a sum insured of 8 lakhs?
+3. If the sum insured is 12 lakhs, how are the room, boarding, and nursing expenses covered?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: What is the daily limit for room, boarding, and nursing expenses for a sum insured of 4 lakhs?
+A1: The daily limit for room, boarding, and nursing expenses for a sum insured of 4 lakhs is 4,000 rupees per day. 
+
+4,000 rupees
+--------------------------------------------------
+Q2: What is the maximum daily ICU expense coverage for a sum insured of 8 lakhs?
+A2: The maximum daily ICU expense coverage for a sum insured of 8 lakhs is 8,000 rupees per day, calculated as 1% of the total sum insured. 
+
+Answer: 8,000 rupees per day.
+--------------------------------------------------
+Q3: If the sum insured is 12 lakhs, how are the room, boarding, and nursing expenses covered?
+A3: The document does not provide information on how room, boarding, and nursing expenses are covered for a sum insured of 12 lakhs.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:20:44.948727",
+  "request_start_time": "2025-08-05T15:20:39.168088",
+  "total_processing_time_seconds": 5.780139684677124,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.png?sv=2023-01-03&spr=https&st=2025-08-04T19%3A21%3A45Z&se=2026-08-05T19%3A21%3A00Z&sr=b&sp=r&sig=lAn5WYGN%2BUAH7mBtlwGG4REw5EwYfsBtPrPuB0b18M4%3D",
+    "extracted_filename": "image.png",
+    "matched_file": "principia_newton.pdf",
+    "file_match_status": "matched"
+  },
+  "questions_received": [
+    "What is the daily limit for room, boarding, and nursing expenses for a sum insured of 4 lakhs?",
+    "What is the maximum daily ICU expense coverage for a sum insured of 8 lakhs?",
+    "If the sum insured is 12 lakhs, how are the room, boarding, and nursing expenses covered?"
+  ],
+  "total_questions": 3,
+  "responses": [
+    {
+      "question": "What is the daily limit for room, boarding, and nursing expenses for a sum insured of 4 lakhs?",
+      "answer": "The daily limit for room, boarding, and nursing expenses for a sum insured of 4 lakhs is 4,000 rupees per day. \n\n4,000 rupees"
+    },
+    {
+      "question": "What is the maximum daily ICU expense coverage for a sum insured of 8 lakhs?",
+      "answer": "The maximum daily ICU expense coverage for a sum insured of 8 lakhs is 8,000 rupees per day, calculated as 1% of the total sum insured. \n\nAnswer: 8,000 rupees per day."
+    },
+    {
+      "question": "If the sum insured is 12 lakhs, how are the room, boarding, and nursing expenses covered?",
+      "answer": "The document does not provide information on how room, boarding, and nursing expenses are covered for a sum insured of 12 lakhs."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 3,
+  "parallel_processing": true
+}
+
+================================================================================

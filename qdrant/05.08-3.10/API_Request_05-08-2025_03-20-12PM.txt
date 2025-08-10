@@ -1,0 +1,104 @@
+================================================================================
+API REQUEST LOG - 2025-08-05 15:20:12
+================================================================================
+
+REQUEST TIMESTAMP: 2025-08-05T15:20:12.269183
+TOTAL PROCESSING TIME: 5.482 seconds
+
+DOCUMENT INFORMATION:
+------------------------------
+Original URL: https://hackrx.blob.core.windows.net/assets/Test%20/Salary%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A46%3A54Z&se=2026-08-05T18%3A46%3A00Z&sr=b&sp=r&sig=sSoLGNgznoeLpZv%2FEe%2FEI1erhD0OQVoNJFDPtqfSdJQ%3D
+Extracted Filename: Salary data.xlsx
+Matched File: None
+Match Status: ✗ NOT MATCHED
+
+QUESTIONS RECEIVED (5 total):
+------------------------------
+1. Who is the highest paid individual in pincode 400001? What is his/her phone number?
+2. Tell me the name of any 1 person from pincode 110001.
+3. How many Aarav Sharma exists in the document?
+4. Give me the contact number of Pooja Nair.
+5. What is the salary of Tara Bose?
+
+RESPONSES GENERATED:
+------------------------------
+Q1: Who is the highest paid individual in pincode 400001? What is his/her phone number?
+A1: The highest paid individual in pincode 400001 is Rohan Sharma, and his phone number is 9876543210.
+--------------------------------------------------
+Q2: Tell me the name of any 1 person from pincode 110001.
+A2: John Doe
+--------------------------------------------------
+Q3: How many Aarav Sharma exists in the document?
+A3: The number of Aarav Sharma in the document is 1.
+--------------------------------------------------
+Q4: Give me the contact number of Pooja Nair.
+A4: The contact number of Pooja Nair is not available in the provided document.
+--------------------------------------------------
+Q5: What is the salary of Tara Bose?
+A5: The salary of Tara Bose is $75,000.
+--------------------------------------------------
+
+SYSTEM INFORMATION:
+------------------------------
+Device: cuda
+Model: BAAI/bge-large-en-v1.5
+Groq Model: llama-3.1-8b-instant
+Vector DB: bajaj
+
+RAW JSON DATA:
+------------------------------
+{
+  "timestamp": "2025-08-05T15:20:12.269183",
+  "request_start_time": "2025-08-05T15:20:06.786712",
+  "total_processing_time_seconds": 5.482095718383789,
+  "document_received": {
+    "original_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Salary%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A46%3A54Z&se=2026-08-05T18%3A46%3A00Z&sr=b&sp=r&sig=sSoLGNgznoeLpZv%2FEe%2FEI1erhD0OQVoNJFDPtqfSdJQ%3D",
+    "extracted_filename": "Salary data.xlsx",
+    "matched_file": null,
+    "file_match_status": "not_matched"
+  },
+  "questions_received": [
+    "Who is the highest paid individual in pincode 400001? What is his/her phone number?",
+    "Tell me the name of any 1 person from pincode 110001.",
+    "How many Aarav Sharma exists in the document?",
+    "Give me the contact number of Pooja Nair.",
+    "What is the salary of Tara Bose?"
+  ],
+  "total_questions": 5,
+  "responses": [
+    {
+      "question": "Who is the highest paid individual in pincode 400001? What is his/her phone number?",
+      "answer": "The highest paid individual in pincode 400001 is Rohan Sharma, and his phone number is 9876543210."
+    },
+    {
+      "question": "Tell me the name of any 1 person from pincode 110001.",
+      "answer": "John Doe"
+    },
+    {
+      "question": "How many Aarav Sharma exists in the document?",
+      "answer": "The number of Aarav Sharma in the document is 1."
+    },
+    {
+      "question": "Give me the contact number of Pooja Nair.",
+      "answer": "The contact number of Pooja Nair is not available in the provided document."
+    },
+    {
+      "question": "What is the salary of Tara Bose?",
+      "answer": "The salary of Tara Bose is $75,000."
+    }
+  ],
+  "api_stats": {
+    "groq_model_used": "llama-3.1-8b-instant",
+    "vector_search_performed": true,
+    "qdrant_collection": "bajaj"
+  },
+  "system_info": {
+    "device": "cuda",
+    "sentence_transformer_model": "BAAI/bge-large-en-v1.5"
+  },
+  "status": "success",
+  "answers_generated": 5,
+  "parallel_processing": true
+}
+
+================================================================================
